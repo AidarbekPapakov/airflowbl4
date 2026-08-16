@@ -1,0 +1,1114 @@
+# Phase 0 data backfill (batch 12)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: ★ M9 Bayonet, ★ Nomad Knife, ★ Shadow Daggers, ★ Skeleton Knife, ★ Stiletto Knife, ★ Bowie Knife, ★ Huntsman Knife
+skins:
+- market_hash_name: ★ M9 Bayonet | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ M9 Bayonet | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ M9 Bayonet | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ M9 Bayonet | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ M9 Bayonet | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ M9 Bayonet | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ M9 Bayonet | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ M9 Bayonet | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Factory New)
+  paint_index: 568
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 568
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Factory New)
+  paint_index: 569
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 569
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Factory New)
+  paint_index: 570
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 570
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Factory New)
+  paint_index: 571
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 571
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Factory New)
+  paint_index: 572
+- market_hash_name: ★ M9 Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 572
+- market_hash_name: ★ M9 Bayonet | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ M9 Bayonet | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ M9 Bayonet | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ M9 Bayonet | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ M9 Bayonet | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ M9 Bayonet | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ M9 Bayonet | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ M9 Bayonet | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ M9 Bayonet | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ M9 Bayonet | Damascus Steel (Factory New)
+  paint_index: 411
+- market_hash_name: ★ M9 Bayonet | Damascus Steel (Minimal Wear)
+  paint_index: 411
+- market_hash_name: ★ M9 Bayonet | Damascus Steel (Field-Tested)
+  paint_index: 411
+- market_hash_name: ★ M9 Bayonet | Damascus Steel (Well-Worn)
+  paint_index: 411
+- market_hash_name: ★ M9 Bayonet | Damascus Steel (Battle-Scarred)
+  paint_index: 411
+- market_hash_name: ★ M9 Bayonet | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ M9 Bayonet | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ M9 Bayonet | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ M9 Bayonet | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ M9 Bayonet | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ M9 Bayonet | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ M9 Bayonet | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ M9 Bayonet | Autotronic (Factory New)
+  paint_index: 577
+- market_hash_name: ★ M9 Bayonet | Autotronic (Minimal Wear)
+  paint_index: 577
+- market_hash_name: ★ M9 Bayonet | Autotronic (Field-Tested)
+  paint_index: 577
+- market_hash_name: ★ M9 Bayonet | Autotronic (Well-Worn)
+  paint_index: 577
+- market_hash_name: ★ M9 Bayonet | Autotronic (Battle-Scarred)
+  paint_index: 577
+- market_hash_name: ★ Nomad Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Nomad Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Nomad Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Nomad Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Nomad Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Nomad Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Nomad Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Nomad Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Nomad Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Nomad Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Nomad Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Nomad Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Nomad Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Nomad Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Nomad Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Nomad Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Nomad Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Nomad Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Nomad Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Nomad Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Nomad Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Nomad Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Nomad Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Nomad Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Nomad Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Nomad Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Nomad Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Nomad Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Nomad Knife | Damascus Steel (Factory New)
+  paint_index: 410
+- market_hash_name: ★ Nomad Knife | Damascus Steel (Minimal Wear)
+  paint_index: 410
+- market_hash_name: ★ Nomad Knife | Damascus Steel (Field-Tested)
+  paint_index: 410
+- market_hash_name: ★ Nomad Knife | Damascus Steel (Well-Worn)
+  paint_index: 410
+- market_hash_name: ★ Nomad Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 410
+- market_hash_name: ★ Nomad Knife | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: ★ Nomad Knife | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: ★ Nomad Knife | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: ★ Nomad Knife | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: ★ Nomad Knife | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: ★ Nomad Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Nomad Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Nomad Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Nomad Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Nomad Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Nomad Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Nomad Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Nomad Knife | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: ★ Nomad Knife | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: ★ Nomad Knife | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: ★ Nomad Knife | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: ★ Nomad Knife | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: ★ Nomad Knife | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: ★ Nomad Knife | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: ★ Nomad Knife | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: ★ Nomad Knife | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: ★ Nomad Knife | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: ★ Nomad Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Nomad Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Nomad Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Nomad Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Nomad Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Nomad Knife | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: ★ Nomad Knife | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: ★ Nomad Knife | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: ★ Nomad Knife | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: ★ Nomad Knife | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: ★ Nomad Knife | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: ★ Nomad Knife | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: ★ Nomad Knife | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: ★ Nomad Knife | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: ★ Nomad Knife | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: ★ Nomad Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Nomad Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Nomad Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Nomad Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Nomad Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Nomad Knife | Urban Masked (Factory New)
+  paint_index: 143
+- market_hash_name: ★ Nomad Knife | Urban Masked (Minimal Wear)
+  paint_index: 143
+- market_hash_name: ★ Nomad Knife | Urban Masked (Field-Tested)
+  paint_index: 143
+- market_hash_name: ★ Nomad Knife | Urban Masked (Well-Worn)
+  paint_index: 143
+- market_hash_name: ★ Nomad Knife | Urban Masked (Battle-Scarred)
+  paint_index: 143
+- market_hash_name: ★ Shadow Daggers | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Shadow Daggers | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Shadow Daggers | Doppler (Factory New)
+  paint_index: 617
+- market_hash_name: ★ Shadow Daggers | Doppler (Minimal Wear)
+  paint_index: 617
+- market_hash_name: ★ Shadow Daggers | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Shadow Daggers | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Shadow Daggers | Doppler (Factory New)
+  paint_index: 618
+- market_hash_name: ★ Shadow Daggers | Doppler (Minimal Wear)
+  paint_index: 618
+- market_hash_name: ★ Shadow Daggers | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Shadow Daggers | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Shadow Daggers | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Shadow Daggers | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Factory New)
+  paint_index: 568
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Minimal Wear)
+  paint_index: 568
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Factory New)
+  paint_index: 569
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Minimal Wear)
+  paint_index: 569
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Factory New)
+  paint_index: 570
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Minimal Wear)
+  paint_index: 570
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Factory New)
+  paint_index: 571
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Minimal Wear)
+  paint_index: 571
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Factory New)
+  paint_index: 572
+- market_hash_name: ★ Shadow Daggers | Gamma Doppler (Minimal Wear)
+  paint_index: 572
+- market_hash_name: ★ Shadow Daggers | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Shadow Daggers | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Shadow Daggers | Freehand (Factory New)
+  paint_index: 581
+- market_hash_name: ★ Shadow Daggers | Freehand (Minimal Wear)
+  paint_index: 581
+- market_hash_name: ★ Shadow Daggers | Freehand (Field-Tested)
+  paint_index: 581
+- market_hash_name: ★ Shadow Daggers | Freehand (Well-Worn)
+  paint_index: 581
+- market_hash_name: ★ Shadow Daggers | Freehand (Battle-Scarred)
+  paint_index: 581
+- market_hash_name: ★ Shadow Daggers | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Shadow Daggers | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Shadow Daggers | Doppler (Factory New)
+  paint_index: 619
+- market_hash_name: ★ Shadow Daggers | Doppler (Minimal Wear)
+  paint_index: 619
+- market_hash_name: ★ Shadow Daggers | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Shadow Daggers | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Shadow Daggers | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Shadow Daggers | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Shadow Daggers | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Shadow Daggers | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Shadow Daggers | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Shadow Daggers | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Shadow Daggers | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Shadow Daggers | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Shadow Daggers | Damascus Steel (Factory New)
+  paint_index: 411
+- market_hash_name: ★ Shadow Daggers | Damascus Steel (Minimal Wear)
+  paint_index: 411
+- market_hash_name: ★ Shadow Daggers | Damascus Steel (Field-Tested)
+  paint_index: 411
+- market_hash_name: ★ Shadow Daggers | Damascus Steel (Well-Worn)
+  paint_index: 411
+- market_hash_name: ★ Shadow Daggers | Damascus Steel (Battle-Scarred)
+  paint_index: 411
+- market_hash_name: ★ Shadow Daggers | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: ★ Shadow Daggers | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: ★ Shadow Daggers | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: ★ Shadow Daggers | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: ★ Shadow Daggers | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: ★ Shadow Daggers | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Shadow Daggers | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Shadow Daggers | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Shadow Daggers | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Shadow Daggers | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Shadow Daggers | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Shadow Daggers | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Shadow Daggers | Lore (Factory New)
+  paint_index: 1108
+- market_hash_name: ★ Shadow Daggers | Lore (Minimal Wear)
+  paint_index: 1108
+- market_hash_name: ★ Shadow Daggers | Lore (Field-Tested)
+  paint_index: 1108
+- market_hash_name: ★ Shadow Daggers | Lore (Well-Worn)
+  paint_index: 1108
+- market_hash_name: ★ Shadow Daggers | Lore (Battle-Scarred)
+  paint_index: 1108
+- market_hash_name: ★ Shadow Daggers | Autotronic (Factory New)
+  paint_index: 1118
+- market_hash_name: ★ Shadow Daggers | Autotronic (Minimal Wear)
+  paint_index: 1118
+- market_hash_name: ★ Shadow Daggers | Autotronic (Field-Tested)
+  paint_index: 1118
+- market_hash_name: ★ Shadow Daggers | Autotronic (Well-Worn)
+  paint_index: 1118
+- market_hash_name: ★ Shadow Daggers | Autotronic (Battle-Scarred)
+  paint_index: 1118
+- market_hash_name: ★ Shadow Daggers | Black Laminate (Factory New)
+  paint_index: 1113
+- market_hash_name: ★ Shadow Daggers | Black Laminate (Minimal Wear)
+  paint_index: 1113
+- market_hash_name: ★ Shadow Daggers | Black Laminate (Field-Tested)
+  paint_index: 1113
+- market_hash_name: ★ Shadow Daggers | Black Laminate (Well-Worn)
+  paint_index: 1113
+- market_hash_name: ★ Shadow Daggers | Black Laminate (Battle-Scarred)
+  paint_index: 1113
+- market_hash_name: ★ Shadow Daggers | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: ★ Shadow Daggers | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: ★ Shadow Daggers | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: ★ Shadow Daggers | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: ★ Shadow Daggers | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: ★ Shadow Daggers | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: ★ Shadow Daggers | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: ★ Shadow Daggers | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: ★ Shadow Daggers | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: ★ Shadow Daggers | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: ★ Shadow Daggers | Bright Water (Factory New)
+  paint_index: 579
+- market_hash_name: ★ Shadow Daggers | Bright Water (Minimal Wear)
+  paint_index: 579
+- market_hash_name: ★ Shadow Daggers | Bright Water (Field-Tested)
+  paint_index: 579
+- market_hash_name: ★ Shadow Daggers | Bright Water (Well-Worn)
+  paint_index: 579
+- market_hash_name: ★ Shadow Daggers | Bright Water (Battle-Scarred)
+  paint_index: 579
+- market_hash_name: ★ Shadow Daggers | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Shadow Daggers | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Shadow Daggers | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Shadow Daggers | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Shadow Daggers | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Shadow Daggers | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: ★ Shadow Daggers | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: ★ Shadow Daggers | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: ★ Shadow Daggers | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: ★ Shadow Daggers | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: ★ Shadow Daggers | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: ★ Shadow Daggers | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: ★ Shadow Daggers | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: ★ Shadow Daggers | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: ★ Shadow Daggers | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: ★ Shadow Daggers | Urban Masked (Factory New)
+  paint_index: 143
+- market_hash_name: ★ Shadow Daggers | Urban Masked (Minimal Wear)
+  paint_index: 143
+- market_hash_name: ★ Shadow Daggers | Urban Masked (Field-Tested)
+  paint_index: 143
+- market_hash_name: ★ Shadow Daggers | Urban Masked (Well-Worn)
+  paint_index: 143
+- market_hash_name: ★ Shadow Daggers | Urban Masked (Battle-Scarred)
+  paint_index: 143
+- market_hash_name: ★ Skeleton Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Skeleton Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Skeleton Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Skeleton Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Skeleton Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Skeleton Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Skeleton Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Skeleton Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Skeleton Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Skeleton Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Skeleton Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Skeleton Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Skeleton Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Skeleton Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Skeleton Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Skeleton Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Skeleton Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Skeleton Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Skeleton Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Skeleton Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Skeleton Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Skeleton Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Skeleton Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Skeleton Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Skeleton Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Skeleton Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Skeleton Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Skeleton Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Skeleton Knife | Damascus Steel (Factory New)
+  paint_index: 410
+- market_hash_name: ★ Skeleton Knife | Damascus Steel (Minimal Wear)
+  paint_index: 410
+- market_hash_name: ★ Skeleton Knife | Damascus Steel (Field-Tested)
+  paint_index: 410
+- market_hash_name: ★ Skeleton Knife | Damascus Steel (Well-Worn)
+  paint_index: 410
+- market_hash_name: ★ Skeleton Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 410
+- market_hash_name: ★ Skeleton Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Skeleton Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Skeleton Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Skeleton Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Skeleton Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Skeleton Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Skeleton Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Skeleton Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Skeleton Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Skeleton Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Skeleton Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Skeleton Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Skeleton Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Skeleton Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Skeleton Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Skeleton Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Skeleton Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Stiletto Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Stiletto Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Stiletto Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Stiletto Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Stiletto Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Stiletto Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Stiletto Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Stiletto Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Stiletto Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Stiletto Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Stiletto Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Stiletto Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Stiletto Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Stiletto Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Stiletto Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Stiletto Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Stiletto Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Stiletto Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Stiletto Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Stiletto Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Stiletto Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Stiletto Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Stiletto Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Stiletto Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Stiletto Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Stiletto Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Stiletto Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Stiletto Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Stiletto Knife | Damascus Steel (Factory New)
+  paint_index: 857
+- market_hash_name: ★ Stiletto Knife | Damascus Steel (Minimal Wear)
+  paint_index: 857
+- market_hash_name: ★ Stiletto Knife | Damascus Steel (Field-Tested)
+  paint_index: 857
+- market_hash_name: ★ Stiletto Knife | Damascus Steel (Well-Worn)
+  paint_index: 857
+- market_hash_name: ★ Stiletto Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 857
+- market_hash_name: ★ Stiletto Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Stiletto Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Stiletto Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Stiletto Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Stiletto Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Stiletto Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Stiletto Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Stiletto Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Stiletto Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Stiletto Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Stiletto Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Stiletto Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Stiletto Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Stiletto Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Stiletto Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Stiletto Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Stiletto Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Bowie Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Bowie Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Bowie Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Bowie Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Bowie Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Bowie Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Bowie Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Bowie Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Bowie Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Bowie Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Bowie Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Bowie Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Factory New)
+  paint_index: 568
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 568
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Factory New)
+  paint_index: 569
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 569
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Factory New)
+  paint_index: 570
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 570
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Factory New)
+  paint_index: 571
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 571
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Factory New)
+  paint_index: 572
+- market_hash_name: ★ Bowie Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 572
+- market_hash_name: ★ Bowie Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Bowie Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Bowie Knife | Freehand (Factory New)
+  paint_index: 581
+- market_hash_name: ★ Bowie Knife | Freehand (Minimal Wear)
+  paint_index: 581
+- market_hash_name: ★ Bowie Knife | Freehand (Field-Tested)
+  paint_index: 581
+- market_hash_name: ★ Bowie Knife | Freehand (Well-Worn)
+  paint_index: 581
+- market_hash_name: ★ Bowie Knife | Freehand (Battle-Scarred)
+  paint_index: 581
+- market_hash_name: ★ Bowie Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Bowie Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Bowie Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Bowie Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Bowie Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Bowie Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Bowie Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Bowie Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Bowie Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Bowie Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Bowie Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Bowie Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Bowie Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Bowie Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Bowie Knife | Damascus Steel (Factory New)
+  paint_index: 411
+- market_hash_name: ★ Bowie Knife | Damascus Steel (Minimal Wear)
+  paint_index: 411
+- market_hash_name: ★ Bowie Knife | Damascus Steel (Field-Tested)
+  paint_index: 411
+- market_hash_name: ★ Bowie Knife | Damascus Steel (Well-Worn)
+  paint_index: 411
+- market_hash_name: ★ Bowie Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 411
+- market_hash_name: ★ Bowie Knife | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: ★ Bowie Knife | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: ★ Bowie Knife | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: ★ Bowie Knife | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: ★ Bowie Knife | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: ★ Bowie Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Bowie Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Bowie Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Bowie Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Bowie Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Bowie Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Bowie Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Bowie Knife | Lore (Factory New)
+  paint_index: 1104
+- market_hash_name: ★ Bowie Knife | Lore (Minimal Wear)
+  paint_index: 1104
+- market_hash_name: ★ Bowie Knife | Lore (Field-Tested)
+  paint_index: 1104
+- market_hash_name: ★ Bowie Knife | Lore (Well-Worn)
+  paint_index: 1104
+- market_hash_name: ★ Bowie Knife | Lore (Battle-Scarred)
+  paint_index: 1104
+- market_hash_name: ★ Bowie Knife | Autotronic (Factory New)
+  paint_index: 1114
+- market_hash_name: ★ Bowie Knife | Autotronic (Minimal Wear)
+  paint_index: 1114
+- market_hash_name: ★ Bowie Knife | Autotronic (Field-Tested)
+  paint_index: 1114
+- market_hash_name: ★ Bowie Knife | Autotronic (Well-Worn)
+  paint_index: 1114
+- market_hash_name: ★ Bowie Knife | Autotronic (Battle-Scarred)
+  paint_index: 1114
+- market_hash_name: ★ Bowie Knife | Black Laminate (Factory New)
+  paint_index: 1109
+- market_hash_name: ★ Bowie Knife | Black Laminate (Minimal Wear)
+  paint_index: 1109
+- market_hash_name: ★ Bowie Knife | Black Laminate (Field-Tested)
+  paint_index: 1109
+- market_hash_name: ★ Bowie Knife | Black Laminate (Well-Worn)
+  paint_index: 1109
+- market_hash_name: ★ Bowie Knife | Black Laminate (Battle-Scarred)
+  paint_index: 1109
+- market_hash_name: ★ Bowie Knife | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: ★ Bowie Knife | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: ★ Bowie Knife | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: ★ Bowie Knife | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: ★ Bowie Knife | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: ★ Bowie Knife | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: ★ Bowie Knife | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: ★ Bowie Knife | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: ★ Bowie Knife | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: ★ Bowie Knife | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: ★ Bowie Knife | Bright Water (Factory New)
+  paint_index: 579
+- market_hash_name: ★ Bowie Knife | Bright Water (Minimal Wear)
+  paint_index: 579
+- market_hash_name: ★ Bowie Knife | Bright Water (Field-Tested)
+  paint_index: 579
+- market_hash_name: ★ Bowie Knife | Bright Water (Well-Worn)
+  paint_index: 579
+- market_hash_name: ★ Bowie Knife | Bright Water (Battle-Scarred)
+  paint_index: 579
+- market_hash_name: ★ Bowie Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Bowie Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Bowie Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Bowie Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Bowie Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Bowie Knife | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: ★ Bowie Knife | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: ★ Bowie Knife | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: ★ Bowie Knife | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: ★ Bowie Knife | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: ★ Bowie Knife | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: ★ Bowie Knife | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: ★ Bowie Knife | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: ★ Bowie Knife | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: ★ Bowie Knife | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: ★ Bowie Knife | Urban Masked (Factory New)
+  paint_index: 143
+- market_hash_name: ★ Bowie Knife | Urban Masked (Minimal Wear)
+  paint_index: 143
+- market_hash_name: ★ Bowie Knife | Urban Masked (Field-Tested)
+  paint_index: 143
+- market_hash_name: ★ Bowie Knife | Urban Masked (Well-Worn)
+  paint_index: 143
+- market_hash_name: ★ Bowie Knife | Urban Masked (Battle-Scarred)
+  paint_index: 143
+- market_hash_name: ★ Huntsman Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Huntsman Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Huntsman Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Huntsman Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Huntsman Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Huntsman Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Huntsman Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Huntsman Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Huntsman Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Huntsman Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Huntsman Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Huntsman Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Factory New)
+  paint_index: 568
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 568
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Factory New)
+  paint_index: 569
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 569
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Factory New)
+  paint_index: 570
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 570
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Factory New)
+  paint_index: 571
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 571
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Factory New)
+  paint_index: 572
+- market_hash_name: ★ Huntsman Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 572
+- market_hash_name: ★ Huntsman Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Huntsman Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Huntsman Knife | Freehand (Factory New)
+  paint_index: 581
+- market_hash_name: ★ Huntsman Knife | Freehand (Minimal Wear)
+  paint_index: 581
+- market_hash_name: ★ Huntsman Knife | Freehand (Field-Tested)
+  paint_index: 581
+- market_hash_name: ★ Huntsman Knife | Freehand (Well-Worn)
+  paint_index: 581
+- market_hash_name: ★ Huntsman Knife | Freehand (Battle-Scarred)
+  paint_index: 581
+- market_hash_name: ★ Huntsman Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Huntsman Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Huntsman Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Huntsman Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Huntsman Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Huntsman Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Huntsman Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Huntsman Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Huntsman Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Huntsman Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Huntsman Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Huntsman Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Huntsman Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Huntsman Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Huntsman Knife | Damascus Steel (Factory New)
+  paint_index: 411
+- market_hash_name: ★ Huntsman Knife | Damascus Steel (Minimal Wear)
+  paint_index: 411
+- market_hash_name: ★ Huntsman Knife | Damascus Steel (Field-Tested)
+  paint_index: 411
+- market_hash_name: ★ Huntsman Knife | Damascus Steel (Well-Worn)
+  paint_index: 411
+- market_hash_name: ★ Huntsman Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 411
+- market_hash_name: ★ Huntsman Knife | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: ★ Huntsman Knife | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: ★ Huntsman Knife | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: ★ Huntsman Knife | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: ★ Huntsman Knife | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: ★ Huntsman Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Huntsman Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Huntsman Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Huntsman Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Huntsman Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Huntsman Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Huntsman Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Huntsman Knife | Lore (Factory New)
+  paint_index: 1107
+- market_hash_name: ★ Huntsman Knife | Lore (Minimal Wear)
+  paint_index: 1107
+- market_hash_name: ★ Huntsman Knife | Lore (Field-Tested)
+  paint_index: 1107
+- market_hash_name: ★ Huntsman Knife | Lore (Well-Worn)
+  paint_index: 1107
+- market_hash_name: ★ Huntsman Knife | Lore (Battle-Scarred)
+  paint_index: 1107
+- market_hash_name: ★ Huntsman Knife | Autotronic (Factory New)
+  paint_index: 1117
+- market_hash_name: ★ Huntsman Knife | Autotronic (Minimal Wear)
+  paint_index: 1117
+- market_hash_name: ★ Huntsman Knife | Autotronic (Field-Tested)
+  paint_index: 1117
+- market_hash_name: ★ Huntsman Knife | Autotronic (Well-Worn)
+  paint_index: 1117
+- market_hash_name: ★ Huntsman Knife | Autotronic (Battle-Scarred)
+  paint_index: 1117
+- market_hash_name: ★ Huntsman Knife | Black Laminate (Factory New)
+  paint_index: 1112
+- market_hash_name: ★ Huntsman Knife | Black Laminate (Minimal Wear)
+  paint_index: 1112
+- market_hash_name: ★ Huntsman Knife | Black Laminate (Field-Tested)
+  paint_index: 1112
+- market_hash_name: ★ Huntsman Knife | Black Laminate (Well-Worn)
+  paint_index: 1112
+- market_hash_name: ★ Huntsman Knife | Black Laminate (Battle-Scarred)
+  paint_index: 1112
+- market_hash_name: ★ Huntsman Knife | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: ★ Huntsman Knife | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: ★ Huntsman Knife | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: ★ Huntsman Knife | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: ★ Huntsman Knife | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: ★ Huntsman Knife | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: ★ Huntsman Knife | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: ★ Huntsman Knife | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: ★ Huntsman Knife | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: ★ Huntsman Knife | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: ★ Huntsman Knife | Bright Water (Factory New)
+  paint_index: 579
+- market_hash_name: ★ Huntsman Knife | Bright Water (Minimal Wear)
+  paint_index: 579
+- market_hash_name: ★ Huntsman Knife | Bright Water (Field-Tested)
+  paint_index: 579
+- market_hash_name: ★ Huntsman Knife | Bright Water (Well-Worn)
+  paint_index: 579
+- market_hash_name: ★ Huntsman Knife | Bright Water (Battle-Scarred)
+  paint_index: 579
+- market_hash_name: ★ Huntsman Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Huntsman Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Huntsman Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Huntsman Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Huntsman Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Huntsman Knife | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: ★ Huntsman Knife | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: ★ Huntsman Knife | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: ★ Huntsman Knife | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: ★ Huntsman Knife | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: ★ Huntsman Knife | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: ★ Huntsman Knife | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: ★ Huntsman Knife | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: ★ Huntsman Knife | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: ★ Huntsman Knife | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: ★ Huntsman Knife | Urban Masked (Factory New)
+  paint_index: 143
+- market_hash_name: ★ Huntsman Knife | Urban Masked (Minimal Wear)
+  paint_index: 143
+- market_hash_name: ★ Huntsman Knife | Urban Masked (Field-Tested)
+  paint_index: 143
+- market_hash_name: ★ Huntsman Knife | Urban Masked (Well-Worn)
+  paint_index: 143
+- market_hash_name: ★ Huntsman Knife | Urban Masked (Battle-Scarred)
+  paint_index: 143

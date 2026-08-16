@@ -1,0 +1,1120 @@
+# Phase 0 data backfill (batch 9)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: PP-Bizon, MAC-10, MP5-SD
+skins:
+- market_hash_name: PP-Bizon | Breaker Box (Minimal Wear)
+  paint_index: 1083
+- market_hash_name: PP-Bizon | Breaker Box (Field-Tested)
+  paint_index: 1083
+- market_hash_name: PP-Bizon | Breaker Box (Well-Worn)
+  paint_index: 1083
+- market_hash_name: PP-Bizon | Carbon Fiber (Factory New)
+  paint_index: 70
+- market_hash_name: PP-Bizon | Carbon Fiber (Minimal Wear)
+  paint_index: 70
+- market_hash_name: PP-Bizon | Cobalt Halftone (Factory New)
+  paint_index: 267
+- market_hash_name: PP-Bizon | Cobalt Halftone (Minimal Wear)
+  paint_index: 267
+- market_hash_name: PP-Bizon | Cobalt Halftone (Field-Tested)
+  paint_index: 267
+- market_hash_name: PP-Bizon | Cobalt Halftone (Well-Worn)
+  paint_index: 267
+- market_hash_name: PP-Bizon | Brass (Factory New)
+  paint_index: 159
+- market_hash_name: PP-Bizon | Brass (Minimal Wear)
+  paint_index: 159
+- market_hash_name: PP-Bizon | Brass (Field-Tested)
+  paint_index: 159
+- market_hash_name: PP-Bizon | Brass (Well-Worn)
+  paint_index: 159
+- market_hash_name: PP-Bizon | Brass (Battle-Scarred)
+  paint_index: 159
+- market_hash_name: PP-Bizon | Rust Coat (Factory New)
+  paint_index: 203
+- market_hash_name: PP-Bizon | Rust Coat (Minimal Wear)
+  paint_index: 203
+- market_hash_name: PP-Bizon | Rust Coat (Field-Tested)
+  paint_index: 203
+- market_hash_name: PP-Bizon | Rust Coat (Well-Worn)
+  paint_index: 203
+- market_hash_name: PP-Bizon | Rust Coat (Battle-Scarred)
+  paint_index: 203
+- market_hash_name: PP-Bizon | RMX (Factory New)
+  paint_index: 1418
+- market_hash_name: PP-Bizon | RMX (Minimal Wear)
+  paint_index: 1418
+- market_hash_name: PP-Bizon | RMX (Field-Tested)
+  paint_index: 1418
+- market_hash_name: PP-Bizon | RMX (Well-Worn)
+  paint_index: 1418
+- market_hash_name: PP-Bizon | RMX (Battle-Scarred)
+  paint_index: 1418
+- market_hash_name: PP-Bizon | Osiris (Factory New)
+  paint_index: 349
+- market_hash_name: PP-Bizon | Osiris (Minimal Wear)
+  paint_index: 349
+- market_hash_name: PP-Bizon | Osiris (Field-Tested)
+  paint_index: 349
+- market_hash_name: PP-Bizon | Osiris (Well-Worn)
+  paint_index: 349
+- market_hash_name: PP-Bizon | Osiris (Battle-Scarred)
+  paint_index: 349
+- market_hash_name: PP-Bizon | High Roller (Factory New)
+  paint_index: 676
+- market_hash_name: PP-Bizon | High Roller (Minimal Wear)
+  paint_index: 676
+- market_hash_name: PP-Bizon | High Roller (Field-Tested)
+  paint_index: 676
+- market_hash_name: PP-Bizon | High Roller (Well-Worn)
+  paint_index: 676
+- market_hash_name: PP-Bizon | High Roller (Battle-Scarred)
+  paint_index: 676
+- market_hash_name: PP-Bizon | Antique (Factory New)
+  paint_index: 306
+- market_hash_name: PP-Bizon | Antique (Minimal Wear)
+  paint_index: 306
+- market_hash_name: PP-Bizon | Antique (Field-Tested)
+  paint_index: 306
+- market_hash_name: PP-Bizon | Antique (Well-Worn)
+  paint_index: 306
+- market_hash_name: PP-Bizon | Antique (Battle-Scarred)
+  paint_index: 306
+- market_hash_name: PP-Bizon | Photic Zone (Factory New)
+  paint_index: 526
+- market_hash_name: PP-Bizon | Photic Zone (Minimal Wear)
+  paint_index: 526
+- market_hash_name: PP-Bizon | Photic Zone (Field-Tested)
+  paint_index: 526
+- market_hash_name: PP-Bizon | Photic Zone (Well-Worn)
+  paint_index: 526
+- market_hash_name: PP-Bizon | Photic Zone (Battle-Scarred)
+  paint_index: 526
+- market_hash_name: PP-Bizon | Judgement of Anubis (Factory New)
+  paint_index: 542
+- market_hash_name: PP-Bizon | Judgement of Anubis (Minimal Wear)
+  paint_index: 542
+- market_hash_name: PP-Bizon | Judgement of Anubis (Field-Tested)
+  paint_index: 542
+- market_hash_name: PP-Bizon | Judgement of Anubis (Well-Worn)
+  paint_index: 542
+- market_hash_name: PP-Bizon | Judgement of Anubis (Battle-Scarred)
+  paint_index: 542
+- market_hash_name: PP-Bizon | Fuel Rod (Factory New)
+  paint_index: 508
+- market_hash_name: PP-Bizon | Fuel Rod (Minimal Wear)
+  paint_index: 508
+- market_hash_name: PP-Bizon | Fuel Rod (Field-Tested)
+  paint_index: 508
+- market_hash_name: PP-Bizon | Fuel Rod (Well-Worn)
+  paint_index: 508
+- market_hash_name: PP-Bizon | Fuel Rod (Battle-Scarred)
+  paint_index: 508
+- market_hash_name: PP-Bizon | Night Riot (Factory New)
+  paint_index: 692
+- market_hash_name: PP-Bizon | Night Riot (Minimal Wear)
+  paint_index: 692
+- market_hash_name: PP-Bizon | Night Riot (Field-Tested)
+  paint_index: 692
+- market_hash_name: PP-Bizon | Night Riot (Well-Worn)
+  paint_index: 692
+- market_hash_name: PP-Bizon | Night Riot (Battle-Scarred)
+  paint_index: 692
+- market_hash_name: PP-Bizon | Embargo (Factory New)
+  paint_index: 884
+- market_hash_name: PP-Bizon | Embargo (Minimal Wear)
+  paint_index: 884
+- market_hash_name: PP-Bizon | Embargo (Field-Tested)
+  paint_index: 884
+- market_hash_name: PP-Bizon | Embargo (Well-Worn)
+  paint_index: 884
+- market_hash_name: PP-Bizon | Embargo (Battle-Scarred)
+  paint_index: 884
+- market_hash_name: PP-Bizon | Space Cat (Factory New)
+  paint_index: 1125
+- market_hash_name: PP-Bizon | Space Cat (Minimal Wear)
+  paint_index: 1125
+- market_hash_name: PP-Bizon | Space Cat (Field-Tested)
+  paint_index: 1125
+- market_hash_name: PP-Bizon | Space Cat (Well-Worn)
+  paint_index: 1125
+- market_hash_name: PP-Bizon | Space Cat (Battle-Scarred)
+  paint_index: 1125
+- market_hash_name: PP-Bizon | Lumen (Factory New)
+  paint_index: 1099
+- market_hash_name: PP-Bizon | Lumen (Minimal Wear)
+  paint_index: 1099
+- market_hash_name: PP-Bizon | Lumen (Field-Tested)
+  paint_index: 1099
+- market_hash_name: PP-Bizon | Lumen (Well-Worn)
+  paint_index: 1099
+- market_hash_name: PP-Bizon | Lumen (Battle-Scarred)
+  paint_index: 1099
+- market_hash_name: PP-Bizon | Runic (Factory New)
+  paint_index: 973
+- market_hash_name: PP-Bizon | Runic (Minimal Wear)
+  paint_index: 973
+- market_hash_name: PP-Bizon | Runic (Field-Tested)
+  paint_index: 973
+- market_hash_name: PP-Bizon | Runic (Well-Worn)
+  paint_index: 973
+- market_hash_name: PP-Bizon | Runic (Battle-Scarred)
+  paint_index: 973
+- market_hash_name: PP-Bizon | Harvester (Factory New)
+  paint_index: 594
+- market_hash_name: PP-Bizon | Harvester (Minimal Wear)
+  paint_index: 594
+- market_hash_name: PP-Bizon | Harvester (Field-Tested)
+  paint_index: 594
+- market_hash_name: PP-Bizon | Harvester (Well-Worn)
+  paint_index: 594
+- market_hash_name: PP-Bizon | Harvester (Battle-Scarred)
+  paint_index: 594
+- market_hash_name: PP-Bizon | Bamboo Print (Factory New)
+  paint_index: 457
+- market_hash_name: PP-Bizon | Bamboo Print (Minimal Wear)
+  paint_index: 457
+- market_hash_name: PP-Bizon | Bamboo Print (Field-Tested)
+  paint_index: 457
+- market_hash_name: PP-Bizon | Bamboo Print (Well-Worn)
+  paint_index: 457
+- market_hash_name: PP-Bizon | Bamboo Print (Battle-Scarred)
+  paint_index: 457
+- market_hash_name: PP-Bizon | Jungle Slipstream (Factory New)
+  paint_index: 641
+- market_hash_name: PP-Bizon | Jungle Slipstream (Minimal Wear)
+  paint_index: 641
+- market_hash_name: PP-Bizon | Jungle Slipstream (Field-Tested)
+  paint_index: 641
+- market_hash_name: PP-Bizon | Jungle Slipstream (Well-Worn)
+  paint_index: 641
+- market_hash_name: PP-Bizon | Jungle Slipstream (Battle-Scarred)
+  paint_index: 641
+- market_hash_name: PP-Bizon | Facility Sketch (Factory New)
+  paint_index: 775
+- market_hash_name: PP-Bizon | Facility Sketch (Minimal Wear)
+  paint_index: 775
+- market_hash_name: PP-Bizon | Facility Sketch (Field-Tested)
+  paint_index: 775
+- market_hash_name: PP-Bizon | Facility Sketch (Well-Worn)
+  paint_index: 775
+- market_hash_name: PP-Bizon | Facility Sketch (Battle-Scarred)
+  paint_index: 775
+- market_hash_name: PP-Bizon | Modern Hunter (Factory New)
+  paint_index: 164
+- market_hash_name: PP-Bizon | Modern Hunter (Minimal Wear)
+  paint_index: 164
+- market_hash_name: PP-Bizon | Modern Hunter (Field-Tested)
+  paint_index: 164
+- market_hash_name: PP-Bizon | Modern Hunter (Well-Worn)
+  paint_index: 164
+- market_hash_name: PP-Bizon | Modern Hunter (Battle-Scarred)
+  paint_index: 164
+- market_hash_name: PP-Bizon | Anolis (Factory New)
+  paint_index: 829
+- market_hash_name: PP-Bizon | Anolis (Minimal Wear)
+  paint_index: 829
+- market_hash_name: PP-Bizon | Anolis (Field-Tested)
+  paint_index: 829
+- market_hash_name: PP-Bizon | Anolis (Well-Worn)
+  paint_index: 829
+- market_hash_name: PP-Bizon | Anolis (Battle-Scarred)
+  paint_index: 829
+- market_hash_name: PP-Bizon | Death Rattle (Minimal Wear)
+  paint_index: 293
+- market_hash_name: PP-Bizon | Death Rattle (Field-Tested)
+  paint_index: 293
+- market_hash_name: PP-Bizon | Death Rattle (Well-Worn)
+  paint_index: 293
+- market_hash_name: PP-Bizon | Death Rattle (Battle-Scarred)
+  paint_index: 293
+- market_hash_name: PP-Bizon | Blue Streak (Factory New)
+  paint_index: 13
+- market_hash_name: PP-Bizon | Blue Streak (Minimal Wear)
+  paint_index: 13
+- market_hash_name: PP-Bizon | Blue Streak (Field-Tested)
+  paint_index: 13
+- market_hash_name: PP-Bizon | Blue Streak (Well-Worn)
+  paint_index: 13
+- market_hash_name: PP-Bizon | Blue Streak (Battle-Scarred)
+  paint_index: 13
+- market_hash_name: PP-Bizon | Night Ops (Factory New)
+  paint_index: 236
+- market_hash_name: PP-Bizon | Night Ops (Minimal Wear)
+  paint_index: 236
+- market_hash_name: PP-Bizon | Night Ops (Field-Tested)
+  paint_index: 236
+- market_hash_name: PP-Bizon | Night Ops (Well-Worn)
+  paint_index: 236
+- market_hash_name: PP-Bizon | Night Ops (Battle-Scarred)
+  paint_index: 236
+- market_hash_name: PP-Bizon | Water Sigil (Factory New)
+  paint_index: 224
+- market_hash_name: PP-Bizon | Water Sigil (Minimal Wear)
+  paint_index: 224
+- market_hash_name: PP-Bizon | Water Sigil (Field-Tested)
+  paint_index: 224
+- market_hash_name: PP-Bizon | Water Sigil (Well-Worn)
+  paint_index: 224
+- market_hash_name: PP-Bizon | Water Sigil (Battle-Scarred)
+  paint_index: 224
+- market_hash_name: PP-Bizon | Wood Block Camo (Factory New)
+  paint_index: 1325
+- market_hash_name: PP-Bizon | Wood Block Camo (Minimal Wear)
+  paint_index: 1325
+- market_hash_name: PP-Bizon | Wood Block Camo (Field-Tested)
+  paint_index: 1325
+- market_hash_name: PP-Bizon | Wood Block Camo (Well-Worn)
+  paint_index: 1325
+- market_hash_name: PP-Bizon | Wood Block Camo (Battle-Scarred)
+  paint_index: 1325
+- market_hash_name: PP-Bizon | Bizoom (Factory New)
+  paint_index: 1374
+- market_hash_name: PP-Bizon | Bizoom (Minimal Wear)
+  paint_index: 1374
+- market_hash_name: PP-Bizon | Bizoom (Field-Tested)
+  paint_index: 1374
+- market_hash_name: PP-Bizon | Bizoom (Well-Worn)
+  paint_index: 1374
+- market_hash_name: PP-Bizon | Bizoom (Battle-Scarred)
+  paint_index: 1374
+- market_hash_name: PP-Bizon | Thermal Currents (Factory New)
+  paint_index: 1392
+- market_hash_name: PP-Bizon | Thermal Currents (Minimal Wear)
+  paint_index: 1392
+- market_hash_name: PP-Bizon | Thermal Currents (Field-Tested)
+  paint_index: 1392
+- market_hash_name: PP-Bizon | Thermal Currents (Well-Worn)
+  paint_index: 1392
+- market_hash_name: PP-Bizon | Thermal Currents (Battle-Scarred)
+  paint_index: 1392
+- market_hash_name: PP-Bizon | Seabird (Factory New)
+  paint_index: 873
+- market_hash_name: PP-Bizon | Seabird (Minimal Wear)
+  paint_index: 873
+- market_hash_name: PP-Bizon | Seabird (Field-Tested)
+  paint_index: 873
+- market_hash_name: PP-Bizon | Seabird (Well-Worn)
+  paint_index: 873
+- market_hash_name: PP-Bizon | Seabird (Battle-Scarred)
+  paint_index: 873
+- market_hash_name: PP-Bizon | Chemical Green (Factory New)
+  paint_index: 376
+- market_hash_name: PP-Bizon | Chemical Green (Minimal Wear)
+  paint_index: 376
+- market_hash_name: PP-Bizon | Chemical Green (Field-Tested)
+  paint_index: 376
+- market_hash_name: PP-Bizon | Chemical Green (Well-Worn)
+  paint_index: 376
+- market_hash_name: PP-Bizon | Chemical Green (Battle-Scarred)
+  paint_index: 376
+- market_hash_name: PP-Bizon | Candy Apple (Factory New)
+  paint_index: 3
+- market_hash_name: PP-Bizon | Candy Apple (Minimal Wear)
+  paint_index: 3
+- market_hash_name: PP-Bizon | Candy Apple (Field-Tested)
+  paint_index: 3
+- market_hash_name: PP-Bizon | Forest Leaves (Factory New)
+  paint_index: 25
+- market_hash_name: PP-Bizon | Forest Leaves (Minimal Wear)
+  paint_index: 25
+- market_hash_name: PP-Bizon | Forest Leaves (Field-Tested)
+  paint_index: 25
+- market_hash_name: PP-Bizon | Forest Leaves (Well-Worn)
+  paint_index: 25
+- market_hash_name: PP-Bizon | Forest Leaves (Battle-Scarred)
+  paint_index: 25
+- market_hash_name: PP-Bizon | Irradiated Alert (Factory New)
+  paint_index: 171
+- market_hash_name: PP-Bizon | Irradiated Alert (Minimal Wear)
+  paint_index: 171
+- market_hash_name: PP-Bizon | Irradiated Alert (Field-Tested)
+  paint_index: 171
+- market_hash_name: PP-Bizon | Irradiated Alert (Well-Worn)
+  paint_index: 171
+- market_hash_name: PP-Bizon | Irradiated Alert (Battle-Scarred)
+  paint_index: 171
+- market_hash_name: PP-Bizon | Sand Dashed (Factory New)
+  paint_index: 148
+- market_hash_name: PP-Bizon | Sand Dashed (Minimal Wear)
+  paint_index: 148
+- market_hash_name: PP-Bizon | Sand Dashed (Field-Tested)
+  paint_index: 148
+- market_hash_name: PP-Bizon | Sand Dashed (Well-Worn)
+  paint_index: 148
+- market_hash_name: PP-Bizon | Sand Dashed (Battle-Scarred)
+  paint_index: 148
+- market_hash_name: PP-Bizon | Urban Dashed (Factory New)
+  paint_index: 149
+- market_hash_name: PP-Bizon | Urban Dashed (Minimal Wear)
+  paint_index: 149
+- market_hash_name: PP-Bizon | Urban Dashed (Field-Tested)
+  paint_index: 149
+- market_hash_name: PP-Bizon | Urban Dashed (Well-Worn)
+  paint_index: 149
+- market_hash_name: PP-Bizon | Urban Dashed (Battle-Scarred)
+  paint_index: 149
+- market_hash_name: PP-Bizon | Cold Cell (Factory New)
+  paint_index: 770
+- market_hash_name: PP-Bizon | Cold Cell (Minimal Wear)
+  paint_index: 770
+- market_hash_name: PP-Bizon | Cold Cell (Field-Tested)
+  paint_index: 770
+- market_hash_name: PP-Bizon | Cold Cell (Well-Worn)
+  paint_index: 770
+- market_hash_name: MAC-10 | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: MAC-10 | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: MAC-10 | Amber Fade (Factory New)
+  paint_index: 246
+- market_hash_name: MAC-10 | Amber Fade (Minimal Wear)
+  paint_index: 246
+- market_hash_name: MAC-10 | Amber Fade (Field-Tested)
+  paint_index: 246
+- market_hash_name: MAC-10 | Amber Fade (Well-Worn)
+  paint_index: 246
+- market_hash_name: MAC-10 | Last Dive (Factory New)
+  paint_index: 651
+- market_hash_name: MAC-10 | Last Dive (Minimal Wear)
+  paint_index: 651
+- market_hash_name: MAC-10 | Last Dive (Field-Tested)
+  paint_index: 651
+- market_hash_name: MAC-10 | Last Dive (Well-Worn)
+  paint_index: 651
+- market_hash_name: MAC-10 | Last Dive (Battle-Scarred)
+  paint_index: 651
+- market_hash_name: MAC-10 | Gold Brick (Factory New)
+  paint_index: 1025
+- market_hash_name: MAC-10 | Gold Brick (Minimal Wear)
+  paint_index: 1025
+- market_hash_name: MAC-10 | Gold Brick (Field-Tested)
+  paint_index: 1025
+- market_hash_name: MAC-10 | Gold Brick (Well-Worn)
+  paint_index: 1025
+- market_hash_name: MAC-10 | Gold Brick (Battle-Scarred)
+  paint_index: 1025
+- market_hash_name: MAC-10 | Copper Borre (Factory New)
+  paint_index: 761
+- market_hash_name: MAC-10 | Copper Borre (Minimal Wear)
+  paint_index: 761
+- market_hash_name: MAC-10 | Copper Borre (Field-Tested)
+  paint_index: 761
+- market_hash_name: MAC-10 | Copper Borre (Well-Worn)
+  paint_index: 761
+- market_hash_name: MAC-10 | Copper Borre (Battle-Scarred)
+  paint_index: 761
+- market_hash_name: MAC-10 | Aloha (Factory New)
+  paint_index: 665
+- market_hash_name: MAC-10 | Aloha (Minimal Wear)
+  paint_index: 665
+- market_hash_name: MAC-10 | Aloha (Field-Tested)
+  paint_index: 665
+- market_hash_name: MAC-10 | Aloha (Well-Worn)
+  paint_index: 665
+- market_hash_name: MAC-10 | Aloha (Battle-Scarred)
+  paint_index: 665
+- market_hash_name: MAC-10 | Lapis Gator (Factory New)
+  paint_index: 534
+- market_hash_name: MAC-10 | Lapis Gator (Minimal Wear)
+  paint_index: 534
+- market_hash_name: MAC-10 | Lapis Gator (Field-Tested)
+  paint_index: 534
+- market_hash_name: MAC-10 | Lapis Gator (Well-Worn)
+  paint_index: 534
+- market_hash_name: MAC-10 | Lapis Gator (Battle-Scarred)
+  paint_index: 534
+- market_hash_name: MAC-10 | Malachite (Factory New)
+  paint_index: 402
+- market_hash_name: MAC-10 | Malachite (Minimal Wear)
+  paint_index: 402
+- market_hash_name: MAC-10 | Malachite (Field-Tested)
+  paint_index: 402
+- market_hash_name: MAC-10 | Malachite (Well-Worn)
+  paint_index: 402
+- market_hash_name: MAC-10 | Malachite (Battle-Scarred)
+  paint_index: 402
+- market_hash_name: MAC-10 | Oceanic (Factory New)
+  paint_index: 682
+- market_hash_name: MAC-10 | Oceanic (Minimal Wear)
+  paint_index: 682
+- market_hash_name: MAC-10 | Oceanic (Field-Tested)
+  paint_index: 682
+- market_hash_name: MAC-10 | Oceanic (Well-Worn)
+  paint_index: 682
+- market_hash_name: MAC-10 | Oceanic (Battle-Scarred)
+  paint_index: 682
+- market_hash_name: MAC-10 | Nuclear Garden (Factory New)
+  paint_index: 372
+- market_hash_name: MAC-10 | Nuclear Garden (Minimal Wear)
+  paint_index: 372
+- market_hash_name: MAC-10 | Nuclear Garden (Field-Tested)
+  paint_index: 372
+- market_hash_name: MAC-10 | Nuclear Garden (Well-Worn)
+  paint_index: 372
+- market_hash_name: MAC-10 | Nuclear Garden (Battle-Scarred)
+  paint_index: 372
+- market_hash_name: MAC-10 | Red Filigree (Factory New)
+  paint_index: 742
+- market_hash_name: MAC-10 | Red Filigree (Minimal Wear)
+  paint_index: 742
+- market_hash_name: MAC-10 | Red Filigree (Field-Tested)
+  paint_index: 742
+- market_hash_name: MAC-10 | Red Filigree (Well-Worn)
+  paint_index: 742
+- market_hash_name: MAC-10 | Red Filigree (Battle-Scarred)
+  paint_index: 742
+- market_hash_name: MAC-10 | Silver (Factory New)
+  paint_index: 32
+- market_hash_name: MAC-10 | Silver (Minimal Wear)
+  paint_index: 32
+- market_hash_name: MAC-10 | Graven (Factory New)
+  paint_index: 188
+- market_hash_name: MAC-10 | Graven (Minimal Wear)
+  paint_index: 188
+- market_hash_name: MAC-10 | Graven (Field-Tested)
+  paint_index: 188
+- market_hash_name: MAC-10 | Graven (Well-Worn)
+  paint_index: 188
+- market_hash_name: MAC-10 | Graven (Battle-Scarred)
+  paint_index: 188
+- market_hash_name: MAC-10 | Carnivore (Factory New)
+  paint_index: 589
+- market_hash_name: MAC-10 | Carnivore (Minimal Wear)
+  paint_index: 589
+- market_hash_name: MAC-10 | Carnivore (Field-Tested)
+  paint_index: 589
+- market_hash_name: MAC-10 | Carnivore (Well-Worn)
+  paint_index: 589
+- market_hash_name: MAC-10 | Carnivore (Battle-Scarred)
+  paint_index: 589
+- market_hash_name: MAC-10 | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: MAC-10 | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: MAC-10 | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: MAC-10 | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: MAC-10 | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: MAC-10 | Tatter (Factory New)
+  paint_index: 337
+- market_hash_name: MAC-10 | Tatter (Minimal Wear)
+  paint_index: 337
+- market_hash_name: MAC-10 | Tatter (Field-Tested)
+  paint_index: 337
+- market_hash_name: MAC-10 | Tatter (Well-Worn)
+  paint_index: 337
+- market_hash_name: MAC-10 | Tatter (Battle-Scarred)
+  paint_index: 337
+- market_hash_name: MAC-10 | Commuter (Factory New)
+  paint_index: 343
+- market_hash_name: MAC-10 | Commuter (Minimal Wear)
+  paint_index: 343
+- market_hash_name: MAC-10 | Commuter (Field-Tested)
+  paint_index: 343
+- market_hash_name: MAC-10 | Commuter (Well-Worn)
+  paint_index: 343
+- market_hash_name: MAC-10 | Commuter (Battle-Scarred)
+  paint_index: 343
+- market_hash_name: MAC-10 | Rangeen (Factory New)
+  paint_index: 498
+- market_hash_name: MAC-10 | Rangeen (Minimal Wear)
+  paint_index: 498
+- market_hash_name: MAC-10 | Rangeen (Field-Tested)
+  paint_index: 498
+- market_hash_name: MAC-10 | Rangeen (Well-Worn)
+  paint_index: 498
+- market_hash_name: MAC-10 | Rangeen (Battle-Scarred)
+  paint_index: 498
+- market_hash_name: MAC-10 | Curse (Factory New)
+  paint_index: 310
+- market_hash_name: MAC-10 | Curse (Minimal Wear)
+  paint_index: 310
+- market_hash_name: MAC-10 | Curse (Field-Tested)
+  paint_index: 310
+- market_hash_name: MAC-10 | Curse (Well-Worn)
+  paint_index: 310
+- market_hash_name: MAC-10 | Curse (Battle-Scarred)
+  paint_index: 310
+- market_hash_name: MAC-10 | Allure (Factory New)
+  paint_index: 965
+- market_hash_name: MAC-10 | Allure (Minimal Wear)
+  paint_index: 965
+- market_hash_name: MAC-10 | Allure (Field-Tested)
+  paint_index: 965
+- market_hash_name: MAC-10 | Allure (Well-Worn)
+  paint_index: 965
+- market_hash_name: MAC-10 | Allure (Battle-Scarred)
+  paint_index: 965
+- market_hash_name: MAC-10 | Monkeyflage (Factory New)
+  paint_index: 1150
+- market_hash_name: MAC-10 | Monkeyflage (Minimal Wear)
+  paint_index: 1150
+- market_hash_name: MAC-10 | Monkeyflage (Field-Tested)
+  paint_index: 1150
+- market_hash_name: MAC-10 | Monkeyflage (Well-Worn)
+  paint_index: 1150
+- market_hash_name: MAC-10 | Monkeyflage (Battle-Scarred)
+  paint_index: 1150
+- market_hash_name: MAC-10 | Disco Tech (Factory New)
+  paint_index: 947
+- market_hash_name: MAC-10 | Disco Tech (Minimal Wear)
+  paint_index: 947
+- market_hash_name: MAC-10 | Disco Tech (Field-Tested)
+  paint_index: 947
+- market_hash_name: MAC-10 | Disco Tech (Well-Worn)
+  paint_index: 947
+- market_hash_name: MAC-10 | Disco Tech (Battle-Scarred)
+  paint_index: 947
+- market_hash_name: MAC-10 | Neon Rider (Factory New)
+  paint_index: 433
+- market_hash_name: MAC-10 | Neon Rider (Minimal Wear)
+  paint_index: 433
+- market_hash_name: MAC-10 | Neon Rider (Field-Tested)
+  paint_index: 433
+- market_hash_name: MAC-10 | Neon Rider (Well-Worn)
+  paint_index: 433
+- market_hash_name: MAC-10 | Ensnared (Factory New)
+  paint_index: 1131
+- market_hash_name: MAC-10 | Ensnared (Minimal Wear)
+  paint_index: 1131
+- market_hash_name: MAC-10 | Ensnared (Field-Tested)
+  paint_index: 1131
+- market_hash_name: MAC-10 | Ensnared (Well-Worn)
+  paint_index: 1131
+- market_hash_name: MAC-10 | Ensnared (Battle-Scarred)
+  paint_index: 1131
+- market_hash_name: MAC-10 | Button Masher (Factory New)
+  paint_index: 1045
+- market_hash_name: MAC-10 | Button Masher (Minimal Wear)
+  paint_index: 1045
+- market_hash_name: MAC-10 | Button Masher (Field-Tested)
+  paint_index: 1045
+- market_hash_name: MAC-10 | Button Masher (Well-Worn)
+  paint_index: 1045
+- market_hash_name: MAC-10 | Button Masher (Battle-Scarred)
+  paint_index: 1045
+- market_hash_name: MAC-10 | Propaganda (Factory New)
+  paint_index: 1067
+- market_hash_name: MAC-10 | Propaganda (Minimal Wear)
+  paint_index: 1067
+- market_hash_name: MAC-10 | Propaganda (Field-Tested)
+  paint_index: 1067
+- market_hash_name: MAC-10 | Propaganda (Well-Worn)
+  paint_index: 1067
+- market_hash_name: MAC-10 | Propaganda (Battle-Scarred)
+  paint_index: 1067
+- market_hash_name: MAC-10 | Heat (Factory New)
+  paint_index: 284
+- market_hash_name: MAC-10 | Heat (Minimal Wear)
+  paint_index: 284
+- market_hash_name: MAC-10 | Heat (Field-Tested)
+  paint_index: 284
+- market_hash_name: MAC-10 | Heat (Well-Worn)
+  paint_index: 284
+- market_hash_name: MAC-10 | Heat (Battle-Scarred)
+  paint_index: 284
+- market_hash_name: MAC-10 | Sakkaku (Field-Tested)
+  paint_index: 1229
+- market_hash_name: MAC-10 | Sakkaku (Well-Worn)
+  paint_index: 1229
+- market_hash_name: MAC-10 | Sakkaku (Battle-Scarred)
+  paint_index: 1229
+- market_hash_name: MAC-10 | Echoing Sands (Factory New)
+  paint_index: 1244
+- market_hash_name: MAC-10 | Echoing Sands (Minimal Wear)
+  paint_index: 1244
+- market_hash_name: MAC-10 | Echoing Sands (Field-Tested)
+  paint_index: 1244
+- market_hash_name: MAC-10 | Echoing Sands (Well-Worn)
+  paint_index: 1244
+- market_hash_name: MAC-10 | Echoing Sands (Battle-Scarred)
+  paint_index: 1244
+- market_hash_name: MAC-10 | Toybox (Factory New)
+  paint_index: 1098
+- market_hash_name: MAC-10 | Toybox (Minimal Wear)
+  paint_index: 1098
+- market_hash_name: MAC-10 | Toybox (Field-Tested)
+  paint_index: 1098
+- market_hash_name: MAC-10 | Toybox (Well-Worn)
+  paint_index: 1098
+- market_hash_name: MAC-10 | Toybox (Battle-Scarred)
+  paint_index: 1098
+- market_hash_name: MAC-10 | Pipsqueak (Factory New)
+  paint_index: 140
+- market_hash_name: MAC-10 | Pipsqueak (Minimal Wear)
+  paint_index: 140
+- market_hash_name: MAC-10 | Pipsqueak (Field-Tested)
+  paint_index: 140
+- market_hash_name: MAC-10 | Pipsqueak (Well-Worn)
+  paint_index: 140
+- market_hash_name: MAC-10 | Pipsqueak (Battle-Scarred)
+  paint_index: 140
+- market_hash_name: MAC-10 | Calf Skin (Factory New)
+  paint_index: 748
+- market_hash_name: MAC-10 | Calf Skin (Minimal Wear)
+  paint_index: 748
+- market_hash_name: MAC-10 | Calf Skin (Field-Tested)
+  paint_index: 748
+- market_hash_name: MAC-10 | Calf Skin (Well-Worn)
+  paint_index: 748
+- market_hash_name: MAC-10 | Calf Skin (Battle-Scarred)
+  paint_index: 748
+- market_hash_name: MAC-10 | Classic Crate (Factory New)
+  paint_index: 908
+- market_hash_name: MAC-10 | Classic Crate (Minimal Wear)
+  paint_index: 908
+- market_hash_name: MAC-10 | Classic Crate (Field-Tested)
+  paint_index: 908
+- market_hash_name: MAC-10 | Classic Crate (Well-Worn)
+  paint_index: 908
+- market_hash_name: MAC-10 | Classic Crate (Battle-Scarred)
+  paint_index: 908
+- market_hash_name: MAC-10 | Pipe Down (Factory New)
+  paint_index: 812
+- market_hash_name: MAC-10 | Pipe Down (Minimal Wear)
+  paint_index: 812
+- market_hash_name: MAC-10 | Pipe Down (Field-Tested)
+  paint_index: 812
+- market_hash_name: MAC-10 | Pipe Down (Well-Worn)
+  paint_index: 812
+- market_hash_name: MAC-10 | Pipe Down (Battle-Scarred)
+  paint_index: 812
+- market_hash_name: MAC-10 | Whitefish (Factory New)
+  paint_index: 840
+- market_hash_name: MAC-10 | Whitefish (Minimal Wear)
+  paint_index: 840
+- market_hash_name: MAC-10 | Whitefish (Field-Tested)
+  paint_index: 840
+- market_hash_name: MAC-10 | Whitefish (Well-Worn)
+  paint_index: 840
+- market_hash_name: MAC-10 | Whitefish (Battle-Scarred)
+  paint_index: 840
+- market_hash_name: MAC-10 | Hot Snakes (Factory New)
+  paint_index: 1009
+- market_hash_name: MAC-10 | Hot Snakes (Minimal Wear)
+  paint_index: 1009
+- market_hash_name: MAC-10 | Hot Snakes (Field-Tested)
+  paint_index: 1009
+- market_hash_name: MAC-10 | Hot Snakes (Well-Worn)
+  paint_index: 1009
+- market_hash_name: MAC-10 | Hot Snakes (Battle-Scarred)
+  paint_index: 1009
+- market_hash_name: MAC-10 | Stalker (Factory New)
+  paint_index: 898
+- market_hash_name: MAC-10 | Stalker (Minimal Wear)
+  paint_index: 898
+- market_hash_name: MAC-10 | Stalker (Field-Tested)
+  paint_index: 898
+- market_hash_name: MAC-10 | Stalker (Well-Worn)
+  paint_index: 898
+- market_hash_name: MAC-10 | Stalker (Battle-Scarred)
+  paint_index: 898
+- market_hash_name: MAC-10 | Urban DDPAT (Factory New)
+  paint_index: 17
+- market_hash_name: MAC-10 | Urban DDPAT (Minimal Wear)
+  paint_index: 17
+- market_hash_name: MAC-10 | Urban DDPAT (Field-Tested)
+  paint_index: 17
+- market_hash_name: MAC-10 | Urban DDPAT (Well-Worn)
+  paint_index: 17
+- market_hash_name: MAC-10 | Urban DDPAT (Battle-Scarred)
+  paint_index: 17
+- market_hash_name: MAC-10 | Strats (Factory New)
+  paint_index: 1075
+- market_hash_name: MAC-10 | Strats (Minimal Wear)
+  paint_index: 1075
+- market_hash_name: MAC-10 | Strats (Field-Tested)
+  paint_index: 1075
+- market_hash_name: MAC-10 | Strats (Well-Worn)
+  paint_index: 1075
+- market_hash_name: MAC-10 | Strats (Battle-Scarred)
+  paint_index: 1075
+- market_hash_name: MAC-10 | Snow Splash (Factory New)
+  paint_index: 1367
+- market_hash_name: MAC-10 | Snow Splash (Minimal Wear)
+  paint_index: 1367
+- market_hash_name: MAC-10 | Snow Splash (Field-Tested)
+  paint_index: 1367
+- market_hash_name: MAC-10 | Snow Splash (Well-Worn)
+  paint_index: 1367
+- market_hash_name: MAC-10 | Snow Splash (Battle-Scarred)
+  paint_index: 1367
+- market_hash_name: MAC-10 | Acid Hex (Factory New)
+  paint_index: 1295
+- market_hash_name: MAC-10 | Acid Hex (Minimal Wear)
+  paint_index: 1295
+- market_hash_name: MAC-10 | Acid Hex (Field-Tested)
+  paint_index: 1295
+- market_hash_name: MAC-10 | Acid Hex (Well-Worn)
+  paint_index: 1295
+- market_hash_name: MAC-10 | Acid Hex (Battle-Scarred)
+  paint_index: 1295
+- market_hash_name: MAC-10 | Poplar Thicket (Factory New)
+  paint_index: 1285
+- market_hash_name: MAC-10 | Poplar Thicket (Minimal Wear)
+  paint_index: 1285
+- market_hash_name: MAC-10 | Poplar Thicket (Field-Tested)
+  paint_index: 1285
+- market_hash_name: MAC-10 | Poplar Thicket (Well-Worn)
+  paint_index: 1285
+- market_hash_name: MAC-10 | Poplar Thicket (Battle-Scarred)
+  paint_index: 1285
+- market_hash_name: MAC-10 | Light Box (Factory New)
+  paint_index: 1164
+- market_hash_name: MAC-10 | Light Box (Minimal Wear)
+  paint_index: 1164
+- market_hash_name: MAC-10 | Light Box (Field-Tested)
+  paint_index: 1164
+- market_hash_name: MAC-10 | Light Box (Well-Worn)
+  paint_index: 1164
+- market_hash_name: MAC-10 | Light Box (Battle-Scarred)
+  paint_index: 1164
+- market_hash_name: MAC-10 | Cat Fight (Factory New)
+  paint_index: 1349
+- market_hash_name: MAC-10 | Cat Fight (Minimal Wear)
+  paint_index: 1349
+- market_hash_name: MAC-10 | Cat Fight (Field-Tested)
+  paint_index: 1349
+- market_hash_name: MAC-10 | Cat Fight (Well-Worn)
+  paint_index: 1349
+- market_hash_name: MAC-10 | Cat Fight (Battle-Scarred)
+  paint_index: 1349
+- market_hash_name: MAC-10 | Saibā Oni (Factory New)
+  paint_index: 126
+- market_hash_name: MAC-10 | Saibā Oni (Minimal Wear)
+  paint_index: 126
+- market_hash_name: MAC-10 | Saibā Oni (Field-Tested)
+  paint_index: 126
+- market_hash_name: MAC-10 | Saibā Oni (Well-Worn)
+  paint_index: 126
+- market_hash_name: MAC-10 | Saibā Oni (Battle-Scarred)
+  paint_index: 126
+- market_hash_name: MAC-10 | Derailment (Factory New)
+  paint_index: 1204
+- market_hash_name: MAC-10 | Derailment (Minimal Wear)
+  paint_index: 1204
+- market_hash_name: MAC-10 | Derailment (Field-Tested)
+  paint_index: 1204
+- market_hash_name: MAC-10 | Derailment (Well-Worn)
+  paint_index: 1204
+- market_hash_name: MAC-10 | Derailment (Battle-Scarred)
+  paint_index: 1204
+- market_hash_name: MAC-10 | Bronzer (Factory New)
+  paint_index: 1334
+- market_hash_name: MAC-10 | Bronzer (Minimal Wear)
+  paint_index: 1334
+- market_hash_name: MAC-10 | Bronzer (Field-Tested)
+  paint_index: 1334
+- market_hash_name: MAC-10 | Bronzer (Well-Worn)
+  paint_index: 1334
+- market_hash_name: MAC-10 | Bronzer (Battle-Scarred)
+  paint_index: 1334
+- market_hash_name: MAC-10 | Indigo (Factory New)
+  paint_index: 333
+- market_hash_name: MAC-10 | Indigo (Minimal Wear)
+  paint_index: 333
+- market_hash_name: MAC-10 | Indigo (Field-Tested)
+  paint_index: 333
+- market_hash_name: MAC-10 | Indigo (Well-Worn)
+  paint_index: 333
+- market_hash_name: MAC-10 | Indigo (Battle-Scarred)
+  paint_index: 333
+- market_hash_name: MAC-10 | Ultraviolet (Factory New)
+  paint_index: 98
+- market_hash_name: MAC-10 | Ultraviolet (Minimal Wear)
+  paint_index: 98
+- market_hash_name: MAC-10 | Ultraviolet (Field-Tested)
+  paint_index: 98
+- market_hash_name: MAC-10 | Ultraviolet (Well-Worn)
+  paint_index: 98
+- market_hash_name: MAC-10 | Ultraviolet (Battle-Scarred)
+  paint_index: 98
+- market_hash_name: MAC-10 | Candy Apple (Factory New)
+  paint_index: 3
+- market_hash_name: MAC-10 | Candy Apple (Minimal Wear)
+  paint_index: 3
+- market_hash_name: MAC-10 | Candy Apple (Field-Tested)
+  paint_index: 3
+- market_hash_name: MAC-10 | Tornado (Factory New)
+  paint_index: 101
+- market_hash_name: MAC-10 | Tornado (Minimal Wear)
+  paint_index: 101
+- market_hash_name: MAC-10 | Tornado (Field-Tested)
+  paint_index: 101
+- market_hash_name: MAC-10 | Tornado (Well-Worn)
+  paint_index: 101
+- market_hash_name: MAC-10 | Tornado (Battle-Scarred)
+  paint_index: 101
+- market_hash_name: MAC-10 | Storm Camo (Factory New)
+  paint_index: 1269
+- market_hash_name: MAC-10 | Storm Camo (Minimal Wear)
+  paint_index: 1269
+- market_hash_name: MAC-10 | Storm Camo (Field-Tested)
+  paint_index: 1269
+- market_hash_name: MAC-10 | Storm Camo (Well-Worn)
+  paint_index: 1269
+- market_hash_name: MAC-10 | Storm Camo (Battle-Scarred)
+  paint_index: 1269
+- market_hash_name: MAC-10 | Sienna Damask (Factory New)
+  paint_index: 826
+- market_hash_name: MAC-10 | Sienna Damask (Minimal Wear)
+  paint_index: 826
+- market_hash_name: MAC-10 | Sienna Damask (Field-Tested)
+  paint_index: 826
+- market_hash_name: MAC-10 | Sienna Damask (Well-Worn)
+  paint_index: 826
+- market_hash_name: MAC-10 | Sienna Damask (Battle-Scarred)
+  paint_index: 826
+- market_hash_name: MAC-10 | Palm (Factory New)
+  paint_index: 157
+- market_hash_name: MAC-10 | Palm (Minimal Wear)
+  paint_index: 157
+- market_hash_name: MAC-10 | Palm (Field-Tested)
+  paint_index: 157
+- market_hash_name: MAC-10 | Palm (Well-Worn)
+  paint_index: 157
+- market_hash_name: MAC-10 | Palm (Battle-Scarred)
+  paint_index: 157
+- market_hash_name: MAC-10 | Surfwood (Factory New)
+  paint_index: 871
+- market_hash_name: MAC-10 | Surfwood (Minimal Wear)
+  paint_index: 871
+- market_hash_name: MAC-10 | Surfwood (Field-Tested)
+  paint_index: 871
+- market_hash_name: MAC-10 | Surfwood (Well-Worn)
+  paint_index: 871
+- market_hash_name: MAC-10 | Surfwood (Battle-Scarred)
+  paint_index: 871
+- market_hash_name: MP5-SD | Co-Processor (Factory New)
+  paint_index: 781
+- market_hash_name: MP5-SD | Co-Processor (Minimal Wear)
+  paint_index: 781
+- market_hash_name: MP5-SD | Co-Processor (Field-Tested)
+  paint_index: 781
+- market_hash_name: MP5-SD | Co-Processor (Well-Worn)
+  paint_index: 781
+- market_hash_name: MP5-SD | Co-Processor (Battle-Scarred)
+  paint_index: 781
+- market_hash_name: MP5-SD | Desert Strike (Factory New)
+  paint_index: 949
+- market_hash_name: MP5-SD | Desert Strike (Minimal Wear)
+  paint_index: 949
+- market_hash_name: MP5-SD | Desert Strike (Field-Tested)
+  paint_index: 949
+- market_hash_name: MP5-SD | Desert Strike (Well-Worn)
+  paint_index: 949
+- market_hash_name: MP5-SD | Desert Strike (Battle-Scarred)
+  paint_index: 949
+- market_hash_name: MP5-SD | Liquidation (Factory New)
+  paint_index: 1231
+- market_hash_name: MP5-SD | Liquidation (Minimal Wear)
+  paint_index: 1231
+- market_hash_name: MP5-SD | Liquidation (Field-Tested)
+  paint_index: 1231
+- market_hash_name: MP5-SD | Liquidation (Well-Worn)
+  paint_index: 1231
+- market_hash_name: MP5-SD | Liquidation (Battle-Scarred)
+  paint_index: 1231
+- market_hash_name: MP5-SD | Condition Zero (Factory New)
+  paint_index: 986
+- market_hash_name: MP5-SD | Condition Zero (Minimal Wear)
+  paint_index: 986
+- market_hash_name: MP5-SD | Condition Zero (Field-Tested)
+  paint_index: 986
+- market_hash_name: MP5-SD | Condition Zero (Well-Worn)
+  paint_index: 986
+- market_hash_name: MP5-SD | Condition Zero (Battle-Scarred)
+  paint_index: 986
+- market_hash_name: MP5-SD | Acid Wash (Factory New)
+  paint_index: 888
+- market_hash_name: MP5-SD | Acid Wash (Minimal Wear)
+  paint_index: 888
+- market_hash_name: MP5-SD | Acid Wash (Field-Tested)
+  paint_index: 888
+- market_hash_name: MP5-SD | Acid Wash (Well-Worn)
+  paint_index: 888
+- market_hash_name: MP5-SD | Acid Wash (Battle-Scarred)
+  paint_index: 888
+- market_hash_name: MP5-SD | Agent (Factory New)
+  paint_index: 915
+- market_hash_name: MP5-SD | Agent (Minimal Wear)
+  paint_index: 915
+- market_hash_name: MP5-SD | Agent (Field-Tested)
+  paint_index: 915
+- market_hash_name: MP5-SD | Agent (Well-Worn)
+  paint_index: 915
+- market_hash_name: MP5-SD | Agent (Battle-Scarred)
+  paint_index: 915
+- market_hash_name: MP5-SD | Phosphor (Factory New)
+  paint_index: 810
+- market_hash_name: MP5-SD | Phosphor (Minimal Wear)
+  paint_index: 810
+- market_hash_name: MP5-SD | Phosphor (Field-Tested)
+  paint_index: 810
+- market_hash_name: MP5-SD | Phosphor (Well-Worn)
+  paint_index: 810
+- market_hash_name: MP5-SD | Phosphor (Battle-Scarred)
+  paint_index: 810
+- market_hash_name: MP5-SD | Necro Jr. (Factory New)
+  paint_index: 1137
+- market_hash_name: MP5-SD | Necro Jr. (Minimal Wear)
+  paint_index: 1137
+- market_hash_name: MP5-SD | Necro Jr. (Field-Tested)
+  paint_index: 1137
+- market_hash_name: MP5-SD | Necro Jr. (Well-Worn)
+  paint_index: 1137
+- market_hash_name: MP5-SD | Necro Jr. (Battle-Scarred)
+  paint_index: 1137
+- market_hash_name: MP5-SD | Oxide Oasis (Factory New)
+  paint_index: 923
+- market_hash_name: MP5-SD | Oxide Oasis (Minimal Wear)
+  paint_index: 923
+- market_hash_name: MP5-SD | Oxide Oasis (Field-Tested)
+  paint_index: 923
+- market_hash_name: MP5-SD | Oxide Oasis (Well-Worn)
+  paint_index: 923
+- market_hash_name: MP5-SD | Oxide Oasis (Battle-Scarred)
+  paint_index: 923
+- market_hash_name: MP5-SD | Gauss (Factory New)
+  paint_index: 846
+- market_hash_name: MP5-SD | Gauss (Minimal Wear)
+  paint_index: 846
+- market_hash_name: MP5-SD | Gauss (Field-Tested)
+  paint_index: 846
+- market_hash_name: MP5-SD | Gauss (Well-Worn)
+  paint_index: 846
+- market_hash_name: MP5-SD | Gauss (Battle-Scarred)
+  paint_index: 846
+- market_hash_name: MP5-SD | Kitbash (Factory New)
+  paint_index: 974
+- market_hash_name: MP5-SD | Kitbash (Minimal Wear)
+  paint_index: 974
+- market_hash_name: MP5-SD | Kitbash (Field-Tested)
+  paint_index: 974
+- market_hash_name: MP5-SD | Kitbash (Well-Worn)
+  paint_index: 974
+- market_hash_name: MP5-SD | Kitbash (Battle-Scarred)
+  paint_index: 974
+- market_hash_name: MP5-SD | Savannah Halftone (Field-Tested)
+  paint_index: 768
+- market_hash_name: MP5-SD | Savannah Halftone (Well-Worn)
+  paint_index: 768
+- market_hash_name: MP5-SD | Savannah Halftone (Battle-Scarred)
+  paint_index: 768
+- market_hash_name: MP5-SD | Bamboo Garden (Factory New)
+  paint_index: 872
+- market_hash_name: MP5-SD | Bamboo Garden (Minimal Wear)
+  paint_index: 872
+- market_hash_name: MP5-SD | Bamboo Garden (Field-Tested)
+  paint_index: 872
+- market_hash_name: MP5-SD | Bamboo Garden (Well-Worn)
+  paint_index: 872
+- market_hash_name: MP5-SD | Bamboo Garden (Battle-Scarred)
+  paint_index: 872
+- market_hash_name: MP5-SD | Lab Rats (Factory New)
+  paint_index: 800
+- market_hash_name: MP5-SD | Lab Rats (Minimal Wear)
+  paint_index: 800
+- market_hash_name: MP5-SD | Lab Rats (Field-Tested)
+  paint_index: 800
+- market_hash_name: MP5-SD | Autumn Twilly (Factory New)
+  paint_index: 1061
+- market_hash_name: MP5-SD | Autumn Twilly (Minimal Wear)
+  paint_index: 1061
+- market_hash_name: MP5-SD | Autumn Twilly (Field-Tested)
+  paint_index: 1061
+- market_hash_name: MP5-SD | Autumn Twilly (Well-Worn)
+  paint_index: 1061
+- market_hash_name: MP5-SD | Autumn Twilly (Battle-Scarred)
+  paint_index: 1061
+- market_hash_name: MP5-SD | Gold Leaf (Factory New)
+  paint_index: 1294
+- market_hash_name: MP5-SD | Gold Leaf (Minimal Wear)
+  paint_index: 1294
+- market_hash_name: MP5-SD | Gold Leaf (Field-Tested)
+  paint_index: 1294
+- market_hash_name: MP5-SD | Gold Leaf (Well-Worn)
+  paint_index: 1294
+- market_hash_name: MP5-SD | Gold Leaf (Battle-Scarred)
+  paint_index: 1294
+- market_hash_name: MP5-SD | Snow Splash (Factory New)
+  paint_index: 1366
+- market_hash_name: MP5-SD | Snow Splash (Minimal Wear)
+  paint_index: 1366
+- market_hash_name: MP5-SD | Snow Splash (Field-Tested)
+  paint_index: 1366
+- market_hash_name: MP5-SD | Snow Splash (Well-Worn)
+  paint_index: 1366
+- market_hash_name: MP5-SD | Snow Splash (Battle-Scarred)
+  paint_index: 1366
+- market_hash_name: MP5-SD | Statics (Factory New)
+  paint_index: 1180
+- market_hash_name: MP5-SD | Statics (Minimal Wear)
+  paint_index: 1180
+- market_hash_name: MP5-SD | Statics (Field-Tested)
+  paint_index: 1180
+- market_hash_name: MP5-SD | Statics (Well-Worn)
+  paint_index: 1180
+- market_hash_name: MP5-SD | Statics (Battle-Scarred)
+  paint_index: 1180
+- market_hash_name: MP5-SD | Focus (Factory New)
+  paint_index: 1344
+- market_hash_name: MP5-SD | Focus (Minimal Wear)
+  paint_index: 1344
+- market_hash_name: MP5-SD | Focus (Field-Tested)
+  paint_index: 1344
+- market_hash_name: MP5-SD | Focus (Well-Worn)
+  paint_index: 1344
+- market_hash_name: MP5-SD | Focus (Battle-Scarred)
+  paint_index: 1344
+- market_hash_name: MP5-SD | Nitro (Factory New)
+  paint_index: 798
+- market_hash_name: MP5-SD | Nitro (Minimal Wear)
+  paint_index: 798
+- market_hash_name: MP5-SD | Nitro (Field-Tested)
+  paint_index: 798
+- market_hash_name: MP5-SD | Nitro (Well-Worn)
+  paint_index: 798
+- market_hash_name: MP5-SD | Nitro (Battle-Scarred)
+  paint_index: 798
+- market_hash_name: MP5-SD | Picnic (Factory New)
+  paint_index: 1385
+- market_hash_name: MP5-SD | Picnic (Minimal Wear)
+  paint_index: 1385
+- market_hash_name: MP5-SD | Picnic (Field-Tested)
+  paint_index: 1385
+- market_hash_name: MP5-SD | Picnic (Well-Worn)
+  paint_index: 1385
+- market_hash_name: MP5-SD | Picnic (Battle-Scarred)
+  paint_index: 1385
+- market_hash_name: MP5-SD | Lime Hex (Factory New)
+  paint_index: 1274
+- market_hash_name: MP5-SD | Lime Hex (Minimal Wear)
+  paint_index: 1274
+- market_hash_name: MP5-SD | Lime Hex (Field-Tested)
+  paint_index: 1274
+- market_hash_name: MP5-SD | Lime Hex (Well-Worn)
+  paint_index: 1274
+- market_hash_name: MP5-SD | Lime Hex (Battle-Scarred)
+  paint_index: 1274
+- market_hash_name: MP5-SD | Neon Squeezer (Field-Tested)
+  paint_index: 161
+- market_hash_name: MP5-SD | Neon Squeezer (Well-Worn)
+  paint_index: 161
+- market_hash_name: MP5-SD | Neon Squeezer (Battle-Scarred)
+  paint_index: 161
+- market_hash_name: MP5-SD | Dirt Drop (Factory New)
+  paint_index: 753
+- market_hash_name: MP5-SD | Dirt Drop (Minimal Wear)
+  paint_index: 753
+- market_hash_name: MP5-SD | Dirt Drop (Field-Tested)
+  paint_index: 753
+- market_hash_name: MP5-SD | Dirt Drop (Well-Worn)
+  paint_index: 753
+- market_hash_name: MP5-SD | Dirt Drop (Battle-Scarred)
+  paint_index: 753

@@ -1,0 +1,1036 @@
+# Phase 0 data backfill (batch 8)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: R8 Revolver, Tec-9, USP-S
+skins:
+- market_hash_name: R8 Revolver | Amber Fade (Factory New)
+  paint_index: 523
+- market_hash_name: R8 Revolver | Amber Fade (Minimal Wear)
+  paint_index: 523
+- market_hash_name: R8 Revolver | Amber Fade (Field-Tested)
+  paint_index: 523
+- market_hash_name: R8 Revolver | Amber Fade (Well-Worn)
+  paint_index: 523
+- market_hash_name: R8 Revolver | Fade (Factory New)
+  paint_index: 522
+- market_hash_name: R8 Revolver | Fade (Minimal Wear)
+  paint_index: 522
+- market_hash_name: R8 Revolver | Fade (Field-Tested)
+  paint_index: 522
+- market_hash_name: R8 Revolver | Fade (Well-Worn)
+  paint_index: 522
+- market_hash_name: R8 Revolver | Blaze (Factory New)
+  paint_index: 37
+- market_hash_name: R8 Revolver | Blaze (Minimal Wear)
+  paint_index: 37
+- market_hash_name: R8 Revolver | Phoenix Marker (Factory New)
+  paint_index: 1011
+- market_hash_name: R8 Revolver | Phoenix Marker (Minimal Wear)
+  paint_index: 1011
+- market_hash_name: R8 Revolver | Phoenix Marker (Field-Tested)
+  paint_index: 1011
+- market_hash_name: R8 Revolver | Phoenix Marker (Well-Worn)
+  paint_index: 1011
+- market_hash_name: R8 Revolver | Phoenix Marker (Battle-Scarred)
+  paint_index: 1011
+- market_hash_name: R8 Revolver | Leafhopper (Factory New)
+  paint_index: 1293
+- market_hash_name: R8 Revolver | Leafhopper (Minimal Wear)
+  paint_index: 1293
+- market_hash_name: R8 Revolver | Leafhopper (Field-Tested)
+  paint_index: 1293
+- market_hash_name: R8 Revolver | Leafhopper (Well-Worn)
+  paint_index: 1293
+- market_hash_name: R8 Revolver | Leafhopper (Battle-Scarred)
+  paint_index: 1293
+- market_hash_name: R8 Revolver | Reboot (Factory New)
+  paint_index: 595
+- market_hash_name: R8 Revolver | Reboot (Minimal Wear)
+  paint_index: 595
+- market_hash_name: R8 Revolver | Reboot (Field-Tested)
+  paint_index: 595
+- market_hash_name: R8 Revolver | Reboot (Well-Worn)
+  paint_index: 595
+- market_hash_name: R8 Revolver | Reboot (Battle-Scarred)
+  paint_index: 595
+- market_hash_name: R8 Revolver | Survivalist (Factory New)
+  paint_index: 721
+- market_hash_name: R8 Revolver | Survivalist (Minimal Wear)
+  paint_index: 721
+- market_hash_name: R8 Revolver | Survivalist (Field-Tested)
+  paint_index: 721
+- market_hash_name: R8 Revolver | Survivalist (Well-Worn)
+  paint_index: 721
+- market_hash_name: R8 Revolver | Survivalist (Battle-Scarred)
+  paint_index: 721
+- market_hash_name: R8 Revolver | Skull Crusher (Field-Tested)
+  paint_index: 843
+- market_hash_name: R8 Revolver | Skull Crusher (Well-Worn)
+  paint_index: 843
+- market_hash_name: R8 Revolver | Skull Crusher (Battle-Scarred)
+  paint_index: 843
+- market_hash_name: R8 Revolver | Banana Cannon (Factory New)
+  paint_index: 1232
+- market_hash_name: R8 Revolver | Banana Cannon (Minimal Wear)
+  paint_index: 1232
+- market_hash_name: R8 Revolver | Banana Cannon (Field-Tested)
+  paint_index: 1232
+- market_hash_name: R8 Revolver | Banana Cannon (Well-Worn)
+  paint_index: 1232
+- market_hash_name: R8 Revolver | Banana Cannon (Battle-Scarred)
+  paint_index: 1232
+- market_hash_name: R8 Revolver | Bone Forged (Factory New)
+  paint_index: 952
+- market_hash_name: R8 Revolver | Bone Forged (Minimal Wear)
+  paint_index: 952
+- market_hash_name: R8 Revolver | Bone Forged (Field-Tested)
+  paint_index: 952
+- market_hash_name: R8 Revolver | Bone Forged (Well-Worn)
+  paint_index: 952
+- market_hash_name: R8 Revolver | Bone Forged (Battle-Scarred)
+  paint_index: 952
+- market_hash_name: R8 Revolver | Llama Cannon (Factory New)
+  paint_index: 683
+- market_hash_name: R8 Revolver | Llama Cannon (Minimal Wear)
+  paint_index: 683
+- market_hash_name: R8 Revolver | Llama Cannon (Field-Tested)
+  paint_index: 683
+- market_hash_name: R8 Revolver | Llama Cannon (Well-Worn)
+  paint_index: 683
+- market_hash_name: R8 Revolver | Llama Cannon (Battle-Scarred)
+  paint_index: 683
+- market_hash_name: R8 Revolver | Memento (Factory New)
+  paint_index: 892
+- market_hash_name: R8 Revolver | Memento (Minimal Wear)
+  paint_index: 892
+- market_hash_name: R8 Revolver | Memento (Field-Tested)
+  paint_index: 892
+- market_hash_name: R8 Revolver | Memento (Well-Worn)
+  paint_index: 892
+- market_hash_name: R8 Revolver | Memento (Battle-Scarred)
+  paint_index: 892
+- market_hash_name: R8 Revolver | Junk Yard (Factory New)
+  paint_index: 1047
+- market_hash_name: R8 Revolver | Junk Yard (Minimal Wear)
+  paint_index: 1047
+- market_hash_name: R8 Revolver | Junk Yard (Field-Tested)
+  paint_index: 1047
+- market_hash_name: R8 Revolver | Junk Yard (Well-Worn)
+  paint_index: 1047
+- market_hash_name: R8 Revolver | Junk Yard (Battle-Scarred)
+  paint_index: 1047
+- market_hash_name: R8 Revolver | Inlay (Factory New)
+  paint_index: 1237
+- market_hash_name: R8 Revolver | Inlay (Minimal Wear)
+  paint_index: 1237
+- market_hash_name: R8 Revolver | Inlay (Field-Tested)
+  paint_index: 1237
+- market_hash_name: R8 Revolver | Inlay (Well-Worn)
+  paint_index: 1237
+- market_hash_name: R8 Revolver | Inlay (Battle-Scarred)
+  paint_index: 1237
+- market_hash_name: R8 Revolver | Crazy 8 (Factory New)
+  paint_index: 1145
+- market_hash_name: R8 Revolver | Crazy 8 (Minimal Wear)
+  paint_index: 1145
+- market_hash_name: R8 Revolver | Crazy 8 (Field-Tested)
+  paint_index: 1145
+- market_hash_name: R8 Revolver | Crazy 8 (Well-Worn)
+  paint_index: 1145
+- market_hash_name: R8 Revolver | Crazy 8 (Battle-Scarred)
+  paint_index: 1145
+- market_hash_name: R8 Revolver | Grip (Factory New)
+  paint_index: 701
+- market_hash_name: R8 Revolver | Grip (Minimal Wear)
+  paint_index: 701
+- market_hash_name: R8 Revolver | Grip (Field-Tested)
+  paint_index: 701
+- market_hash_name: R8 Revolver | Grip (Well-Worn)
+  paint_index: 701
+- market_hash_name: R8 Revolver | Grip (Battle-Scarred)
+  paint_index: 701
+- market_hash_name: R8 Revolver | Desert Brush (Factory New)
+  paint_index: 924
+- market_hash_name: R8 Revolver | Desert Brush (Minimal Wear)
+  paint_index: 924
+- market_hash_name: R8 Revolver | Desert Brush (Field-Tested)
+  paint_index: 924
+- market_hash_name: R8 Revolver | Desert Brush (Well-Worn)
+  paint_index: 924
+- market_hash_name: R8 Revolver | Desert Brush (Battle-Scarred)
+  paint_index: 924
+- market_hash_name: R8 Revolver | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: R8 Revolver | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: R8 Revolver | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: R8 Revolver | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: R8 Revolver | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: R8 Revolver | Tango (Factory New)
+  paint_index: 123
+- market_hash_name: R8 Revolver | Tango (Minimal Wear)
+  paint_index: 123
+- market_hash_name: R8 Revolver | Tango (Field-Tested)
+  paint_index: 123
+- market_hash_name: R8 Revolver | Tango (Well-Worn)
+  paint_index: 123
+- market_hash_name: R8 Revolver | Tango (Battle-Scarred)
+  paint_index: 123
+- market_hash_name: R8 Revolver | Night (Factory New)
+  paint_index: 40
+- market_hash_name: R8 Revolver | Night (Minimal Wear)
+  paint_index: 40
+- market_hash_name: R8 Revolver | Night (Field-Tested)
+  paint_index: 40
+- market_hash_name: R8 Revolver | Night (Well-Worn)
+  paint_index: 40
+- market_hash_name: R8 Revolver | Night (Battle-Scarred)
+  paint_index: 40
+- market_hash_name: R8 Revolver | Nitro (Factory New)
+  paint_index: 798
+- market_hash_name: R8 Revolver | Nitro (Minimal Wear)
+  paint_index: 798
+- market_hash_name: R8 Revolver | Nitro (Field-Tested)
+  paint_index: 798
+- market_hash_name: R8 Revolver | Nitro (Well-Worn)
+  paint_index: 798
+- market_hash_name: R8 Revolver | Nitro (Battle-Scarred)
+  paint_index: 798
+- market_hash_name: R8 Revolver | Mauve Aside (Factory New)
+  paint_index: 1389
+- market_hash_name: R8 Revolver | Mauve Aside (Minimal Wear)
+  paint_index: 1389
+- market_hash_name: R8 Revolver | Mauve Aside (Field-Tested)
+  paint_index: 1389
+- market_hash_name: R8 Revolver | Mauve Aside (Well-Worn)
+  paint_index: 1389
+- market_hash_name: R8 Revolver | Mauve Aside (Battle-Scarred)
+  paint_index: 1389
+- market_hash_name: R8 Revolver | Cobalt Grip (Factory New)
+  paint_index: 1276
+- market_hash_name: R8 Revolver | Cobalt Grip (Minimal Wear)
+  paint_index: 1276
+- market_hash_name: R8 Revolver | Cobalt Grip (Field-Tested)
+  paint_index: 1276
+- market_hash_name: R8 Revolver | Cobalt Grip (Well-Worn)
+  paint_index: 1276
+- market_hash_name: R8 Revolver | Cobalt Grip (Battle-Scarred)
+  paint_index: 1276
+- market_hash_name: R8 Revolver | Dark Chamber (Factory New)
+  paint_index: 1363
+- market_hash_name: R8 Revolver | Dark Chamber (Minimal Wear)
+  paint_index: 1363
+- market_hash_name: R8 Revolver | Dark Chamber (Field-Tested)
+  paint_index: 1363
+- market_hash_name: R8 Revolver | Dark Chamber (Well-Worn)
+  paint_index: 1363
+- market_hash_name: R8 Revolver | Dark Chamber (Battle-Scarred)
+  paint_index: 1363
+- market_hash_name: R8 Revolver | Canal Spray (Factory New)
+  paint_index: 866
+- market_hash_name: R8 Revolver | Canal Spray (Minimal Wear)
+  paint_index: 866
+- market_hash_name: R8 Revolver | Canal Spray (Field-Tested)
+  paint_index: 866
+- market_hash_name: R8 Revolver | Canal Spray (Well-Worn)
+  paint_index: 866
+- market_hash_name: R8 Revolver | Canal Spray (Battle-Scarred)
+  paint_index: 866
+- market_hash_name: R8 Revolver | Bone Mask (Factory New)
+  paint_index: 27
+- market_hash_name: R8 Revolver | Bone Mask (Minimal Wear)
+  paint_index: 27
+- market_hash_name: R8 Revolver | Bone Mask (Field-Tested)
+  paint_index: 27
+- market_hash_name: R8 Revolver | Bone Mask (Well-Worn)
+  paint_index: 27
+- market_hash_name: R8 Revolver | Bone Mask (Battle-Scarred)
+  paint_index: 27
+- market_hash_name: Tec-9 | Red Quartz (Factory New)
+  paint_index: 248
+- market_hash_name: Tec-9 | Red Quartz (Minimal Wear)
+  paint_index: 248
+- market_hash_name: Tec-9 | Red Quartz (Field-Tested)
+  paint_index: 248
+- market_hash_name: Tec-9 | Red Quartz (Well-Worn)
+  paint_index: 248
+- market_hash_name: Tec-9 | Titanium Bit (Factory New)
+  paint_index: 272
+- market_hash_name: Tec-9 | Titanium Bit (Minimal Wear)
+  paint_index: 272
+- market_hash_name: Tec-9 | Titanium Bit (Field-Tested)
+  paint_index: 272
+- market_hash_name: Tec-9 | Ossified (Factory New)
+  paint_index: 36
+- market_hash_name: Tec-9 | Ossified (Minimal Wear)
+  paint_index: 36
+- market_hash_name: Tec-9 | Re-Entry (Factory New)
+  paint_index: 555
+- market_hash_name: Tec-9 | Re-Entry (Minimal Wear)
+  paint_index: 555
+- market_hash_name: Tec-9 | Re-Entry (Field-Tested)
+  paint_index: 555
+- market_hash_name: Tec-9 | Re-Entry (Well-Worn)
+  paint_index: 555
+- market_hash_name: Tec-9 | Ice Cap (Factory New)
+  paint_index: 599
+- market_hash_name: Tec-9 | Ice Cap (Minimal Wear)
+  paint_index: 599
+- market_hash_name: Tec-9 | Ice Cap (Field-Tested)
+  paint_index: 599
+- market_hash_name: Tec-9 | Ice Cap (Well-Worn)
+  paint_index: 599
+- market_hash_name: Tec-9 | Ice Cap (Battle-Scarred)
+  paint_index: 599
+- market_hash_name: Tec-9 | Blue Titanium (Factory New)
+  paint_index: 216
+- market_hash_name: Tec-9 | Brass (Factory New)
+  paint_index: 159
+- market_hash_name: Tec-9 | Brass (Minimal Wear)
+  paint_index: 159
+- market_hash_name: Tec-9 | Brass (Field-Tested)
+  paint_index: 159
+- market_hash_name: Tec-9 | Brass (Well-Worn)
+  paint_index: 159
+- market_hash_name: Tec-9 | Brass (Battle-Scarred)
+  paint_index: 159
+- market_hash_name: Tec-9 | Cut Out (Factory New)
+  paint_index: 671
+- market_hash_name: Tec-9 | Cut Out (Minimal Wear)
+  paint_index: 671
+- market_hash_name: Tec-9 | Cut Out (Field-Tested)
+  paint_index: 671
+- market_hash_name: Tec-9 | Cut Out (Well-Worn)
+  paint_index: 671
+- market_hash_name: Tec-9 | Cut Out (Battle-Scarred)
+  paint_index: 671
+- market_hash_name: Tec-9 | Isaac (Factory New)
+  paint_index: 303
+- market_hash_name: Tec-9 | Isaac (Minimal Wear)
+  paint_index: 303
+- market_hash_name: Tec-9 | Isaac (Field-Tested)
+  paint_index: 303
+- market_hash_name: Tec-9 | Isaac (Well-Worn)
+  paint_index: 303
+- market_hash_name: Tec-9 | Isaac (Battle-Scarred)
+  paint_index: 303
+- market_hash_name: Tec-9 | Avalanche (Factory New)
+  paint_index: 520
+- market_hash_name: Tec-9 | Avalanche (Minimal Wear)
+  paint_index: 520
+- market_hash_name: Tec-9 | Avalanche (Field-Tested)
+  paint_index: 520
+- market_hash_name: Tec-9 | Avalanche (Well-Worn)
+  paint_index: 520
+- market_hash_name: Tec-9 | Avalanche (Battle-Scarred)
+  paint_index: 520
+- market_hash_name: Tec-9 | Bamboozle (Factory New)
+  paint_index: 839
+- market_hash_name: Tec-9 | Bamboozle (Minimal Wear)
+  paint_index: 839
+- market_hash_name: Tec-9 | Bamboozle (Field-Tested)
+  paint_index: 839
+- market_hash_name: Tec-9 | Bamboozle (Well-Worn)
+  paint_index: 839
+- market_hash_name: Tec-9 | Bamboozle (Battle-Scarred)
+  paint_index: 839
+- market_hash_name: Tec-9 | Cracked Opal (Factory New)
+  paint_index: 684
+- market_hash_name: Tec-9 | Cracked Opal (Minimal Wear)
+  paint_index: 684
+- market_hash_name: Tec-9 | Cracked Opal (Field-Tested)
+  paint_index: 684
+- market_hash_name: Tec-9 | Cracked Opal (Well-Worn)
+  paint_index: 684
+- market_hash_name: Tec-9 | Cracked Opal (Battle-Scarred)
+  paint_index: 684
+- market_hash_name: Tec-9 | Flash Out (Factory New)
+  paint_index: 905
+- market_hash_name: Tec-9 | Flash Out (Minimal Wear)
+  paint_index: 905
+- market_hash_name: Tec-9 | Flash Out (Field-Tested)
+  paint_index: 905
+- market_hash_name: Tec-9 | Flash Out (Well-Worn)
+  paint_index: 905
+- market_hash_name: Tec-9 | Flash Out (Battle-Scarred)
+  paint_index: 905
+- market_hash_name: Tec-9 | Rebel (Factory New)
+  paint_index: 1235
+- market_hash_name: Tec-9 | Rebel (Minimal Wear)
+  paint_index: 1235
+- market_hash_name: Tec-9 | Rebel (Field-Tested)
+  paint_index: 1235
+- market_hash_name: Tec-9 | Rebel (Well-Worn)
+  paint_index: 1235
+- market_hash_name: Tec-9 | Rebel (Battle-Scarred)
+  paint_index: 1235
+- market_hash_name: Tec-9 | Mummy's Rot (Factory New)
+  paint_index: 1252
+- market_hash_name: Tec-9 | Mummy's Rot (Minimal Wear)
+  paint_index: 1252
+- market_hash_name: Tec-9 | Mummy's Rot (Field-Tested)
+  paint_index: 1252
+- market_hash_name: Tec-9 | Mummy's Rot (Well-Worn)
+  paint_index: 1252
+- market_hash_name: Tec-9 | Mummy's Rot (Battle-Scarred)
+  paint_index: 1252
+- market_hash_name: Tec-9 | Sandstorm (Minimal Wear)
+  paint_index: 289
+- market_hash_name: Tec-9 | Sandstorm (Field-Tested)
+  paint_index: 289
+- market_hash_name: Tec-9 | Sandstorm (Well-Worn)
+  paint_index: 289
+- market_hash_name: Tec-9 | Sandstorm (Battle-Scarred)
+  paint_index: 289
+- market_hash_name: Tec-9 | Snek-9 (Factory New)
+  paint_index: 722
+- market_hash_name: Tec-9 | Snek-9 (Minimal Wear)
+  paint_index: 722
+- market_hash_name: Tec-9 | Snek-9 (Field-Tested)
+  paint_index: 722
+- market_hash_name: Tec-9 | Snek-9 (Well-Worn)
+  paint_index: 722
+- market_hash_name: Tec-9 | Snek-9 (Battle-Scarred)
+  paint_index: 722
+- market_hash_name: Tec-9 | Decimator (Factory New)
+  paint_index: 889
+- market_hash_name: Tec-9 | Decimator (Minimal Wear)
+  paint_index: 889
+- market_hash_name: Tec-9 | Decimator (Field-Tested)
+  paint_index: 889
+- market_hash_name: Tec-9 | Decimator (Well-Worn)
+  paint_index: 889
+- market_hash_name: Tec-9 | Decimator (Battle-Scarred)
+  paint_index: 889
+- market_hash_name: Tec-9 | Remote Control (Factory New)
+  paint_index: 791
+- market_hash_name: Tec-9 | Remote Control (Minimal Wear)
+  paint_index: 791
+- market_hash_name: Tec-9 | Remote Control (Field-Tested)
+  paint_index: 791
+- market_hash_name: Tec-9 | Remote Control (Well-Worn)
+  paint_index: 791
+- market_hash_name: Tec-9 | Remote Control (Battle-Scarred)
+  paint_index: 791
+- market_hash_name: Tec-9 | Fubar (Minimal Wear)
+  paint_index: 816
+- market_hash_name: Tec-9 | Fubar (Field-Tested)
+  paint_index: 816
+- market_hash_name: Tec-9 | Fubar (Well-Worn)
+  paint_index: 816
+- market_hash_name: Tec-9 | Fubar (Battle-Scarred)
+  paint_index: 816
+- market_hash_name: Tec-9 | Brother (Factory New)
+  paint_index: 964
+- market_hash_name: Tec-9 | Brother (Minimal Wear)
+  paint_index: 964
+- market_hash_name: Tec-9 | Brother (Field-Tested)
+  paint_index: 964
+- market_hash_name: Tec-9 | Brother (Well-Worn)
+  paint_index: 964
+- market_hash_name: Tec-9 | Brother (Battle-Scarred)
+  paint_index: 964
+- market_hash_name: Tec-9 | Jambiya (Factory New)
+  paint_index: 539
+- market_hash_name: Tec-9 | Jambiya (Minimal Wear)
+  paint_index: 539
+- market_hash_name: Tec-9 | Jambiya (Field-Tested)
+  paint_index: 539
+- market_hash_name: Tec-9 | Jambiya (Well-Worn)
+  paint_index: 539
+- market_hash_name: Tec-9 | Jambiya (Battle-Scarred)
+  paint_index: 539
+- market_hash_name: Tec-9 | Fuel Injector (Factory New)
+  paint_index: 614
+- market_hash_name: Tec-9 | Fuel Injector (Minimal Wear)
+  paint_index: 614
+- market_hash_name: Tec-9 | Fuel Injector (Field-Tested)
+  paint_index: 614
+- market_hash_name: Tec-9 | Fuel Injector (Well-Worn)
+  paint_index: 614
+- market_hash_name: Tec-9 | Fuel Injector (Battle-Scarred)
+  paint_index: 614
+- market_hash_name: Tec-9 | Blast From the Past (Factory New)
+  paint_index: 1024
+- market_hash_name: Tec-9 | Blast From the Past (Minimal Wear)
+  paint_index: 1024
+- market_hash_name: Tec-9 | Blast From the Past (Field-Tested)
+  paint_index: 1024
+- market_hash_name: Tec-9 | Blast From the Past (Well-Worn)
+  paint_index: 1024
+- market_hash_name: Tec-9 | Blast From the Past (Battle-Scarred)
+  paint_index: 1024
+- market_hash_name: Tec-9 | Bamboo Forest (Factory New)
+  paint_index: 459
+- market_hash_name: Tec-9 | Bamboo Forest (Minimal Wear)
+  paint_index: 459
+- market_hash_name: Tec-9 | Bamboo Forest (Field-Tested)
+  paint_index: 459
+- market_hash_name: Tec-9 | Bamboo Forest (Well-Worn)
+  paint_index: 459
+- market_hash_name: Tec-9 | Bamboo Forest (Battle-Scarred)
+  paint_index: 459
+- market_hash_name: Tec-9 | Urban DDPAT (Factory New)
+  paint_index: 17
+- market_hash_name: Tec-9 | Urban DDPAT (Minimal Wear)
+  paint_index: 17
+- market_hash_name: Tec-9 | Urban DDPAT (Field-Tested)
+  paint_index: 17
+- market_hash_name: Tec-9 | Urban DDPAT (Well-Worn)
+  paint_index: 17
+- market_hash_name: Tec-9 | Urban DDPAT (Battle-Scarred)
+  paint_index: 17
+- market_hash_name: Tec-9 | Terrace (Factory New)
+  paint_index: 463
+- market_hash_name: Tec-9 | Terrace (Minimal Wear)
+  paint_index: 463
+- market_hash_name: Tec-9 | Terrace (Field-Tested)
+  paint_index: 463
+- market_hash_name: Tec-9 | Terrace (Well-Worn)
+  paint_index: 463
+- market_hash_name: Tec-9 | Terrace (Battle-Scarred)
+  paint_index: 463
+- market_hash_name: Tec-9 | Hades (Factory New)
+  paint_index: 439
+- market_hash_name: Tec-9 | Hades (Minimal Wear)
+  paint_index: 439
+- market_hash_name: Tec-9 | Hades (Field-Tested)
+  paint_index: 439
+- market_hash_name: Tec-9 | Hades (Well-Worn)
+  paint_index: 439
+- market_hash_name: Tec-9 | Hades (Battle-Scarred)
+  paint_index: 439
+- market_hash_name: Tec-9 | Safety Net (Factory New)
+  paint_index: 795
+- market_hash_name: Tec-9 | Safety Net (Minimal Wear)
+  paint_index: 795
+- market_hash_name: Tec-9 | Safety Net (Field-Tested)
+  paint_index: 795
+- market_hash_name: Tec-9 | Safety Net (Well-Worn)
+  paint_index: 795
+- market_hash_name: Tec-9 | Safety Net (Battle-Scarred)
+  paint_index: 795
+- market_hash_name: Tec-9 | Orange Murano (Factory New)
+  paint_index: 738
+- market_hash_name: Tec-9 | Orange Murano (Minimal Wear)
+  paint_index: 738
+- market_hash_name: Tec-9 | Orange Murano (Field-Tested)
+  paint_index: 738
+- market_hash_name: Tec-9 | Orange Murano (Well-Worn)
+  paint_index: 738
+- market_hash_name: Tec-9 | Orange Murano (Battle-Scarred)
+  paint_index: 738
+- market_hash_name: Tec-9 | Toxic (Factory New)
+  paint_index: 374
+- market_hash_name: Tec-9 | Toxic (Minimal Wear)
+  paint_index: 374
+- market_hash_name: Tec-9 | Toxic (Field-Tested)
+  paint_index: 374
+- market_hash_name: Tec-9 | Toxic (Well-Worn)
+  paint_index: 374
+- market_hash_name: Tec-9 | Toxic (Battle-Scarred)
+  paint_index: 374
+- market_hash_name: Tec-9 | Phoenix Chalk (Factory New)
+  paint_index: 1010
+- market_hash_name: Tec-9 | Phoenix Chalk (Minimal Wear)
+  paint_index: 1010
+- market_hash_name: Tec-9 | Phoenix Chalk (Field-Tested)
+  paint_index: 1010
+- market_hash_name: Tec-9 | Phoenix Chalk (Well-Worn)
+  paint_index: 1010
+- market_hash_name: Tec-9 | Phoenix Chalk (Battle-Scarred)
+  paint_index: 1010
+- market_hash_name: Tec-9 | VariCamo (Factory New)
+  paint_index: 235
+- market_hash_name: Tec-9 | VariCamo (Minimal Wear)
+  paint_index: 235
+- market_hash_name: Tec-9 | VariCamo (Field-Tested)
+  paint_index: 235
+- market_hash_name: Tec-9 | VariCamo (Well-Worn)
+  paint_index: 235
+- market_hash_name: Tec-9 | VariCamo (Battle-Scarred)
+  paint_index: 235
+- market_hash_name: Tec-9 | Banana Leaf (Factory New)
+  paint_index: 1384
+- market_hash_name: Tec-9 | Banana Leaf (Minimal Wear)
+  paint_index: 1384
+- market_hash_name: Tec-9 | Banana Leaf (Field-Tested)
+  paint_index: 1384
+- market_hash_name: Tec-9 | Banana Leaf (Well-Worn)
+  paint_index: 1384
+- market_hash_name: Tec-9 | Banana Leaf (Battle-Scarred)
+  paint_index: 1384
+- market_hash_name: Tec-9 | Raw Ceramic (Factory New)
+  paint_index: 1299
+- market_hash_name: Tec-9 | Raw Ceramic (Minimal Wear)
+  paint_index: 1299
+- market_hash_name: Tec-9 | Raw Ceramic (Field-Tested)
+  paint_index: 1299
+- market_hash_name: Tec-9 | Raw Ceramic (Well-Worn)
+  paint_index: 1299
+- market_hash_name: Tec-9 | Raw Ceramic (Battle-Scarred)
+  paint_index: 1299
+- market_hash_name: Tec-9 | Groundwater (Factory New)
+  paint_index: 2
+- market_hash_name: Tec-9 | Groundwater (Minimal Wear)
+  paint_index: 2
+- market_hash_name: Tec-9 | Groundwater (Field-Tested)
+  paint_index: 2
+- market_hash_name: Tec-9 | Groundwater (Well-Worn)
+  paint_index: 2
+- market_hash_name: Tec-9 | Groundwater (Battle-Scarred)
+  paint_index: 2
+- market_hash_name: Tec-9 | Blue Blast (Factory New)
+  paint_index: 1279
+- market_hash_name: Tec-9 | Blue Blast (Minimal Wear)
+  paint_index: 1279
+- market_hash_name: Tec-9 | Blue Blast (Field-Tested)
+  paint_index: 1279
+- market_hash_name: Tec-9 | Blue Blast (Well-Worn)
+  paint_index: 1279
+- market_hash_name: Tec-9 | Blue Blast (Battle-Scarred)
+  paint_index: 1279
+- market_hash_name: Tec-9 | Tornado (Factory New)
+  paint_index: 206
+- market_hash_name: Tec-9 | Tornado (Minimal Wear)
+  paint_index: 206
+- market_hash_name: Tec-9 | Tornado (Field-Tested)
+  paint_index: 206
+- market_hash_name: Tec-9 | Tornado (Well-Worn)
+  paint_index: 206
+- market_hash_name: Tec-9 | Tornado (Battle-Scarred)
+  paint_index: 206
+- market_hash_name: Tec-9 | Whiteout (Factory New)
+  paint_index: 1214
+- market_hash_name: Tec-9 | Whiteout (Minimal Wear)
+  paint_index: 1214
+- market_hash_name: Tec-9 | Whiteout (Field-Tested)
+  paint_index: 1214
+- market_hash_name: Tec-9 | Whiteout (Well-Worn)
+  paint_index: 1214
+- market_hash_name: Tec-9 | Whiteout (Battle-Scarred)
+  paint_index: 1214
+- market_hash_name: Tec-9 | Tiger Stencil (Factory New)
+  paint_index: 766
+- market_hash_name: Tec-9 | Tiger Stencil (Minimal Wear)
+  paint_index: 766
+- market_hash_name: Tec-9 | Tiger Stencil (Field-Tested)
+  paint_index: 766
+- market_hash_name: Tec-9 | Tiger Stencil (Well-Worn)
+  paint_index: 766
+- market_hash_name: Tec-9 | Tiger Stencil (Battle-Scarred)
+  paint_index: 766
+- market_hash_name: Tec-9 | Garter-9 (Factory New)
+  paint_index: 1286
+- market_hash_name: Tec-9 | Garter-9 (Minimal Wear)
+  paint_index: 1286
+- market_hash_name: Tec-9 | Garter-9 (Field-Tested)
+  paint_index: 1286
+- market_hash_name: Tec-9 | Garter-9 (Well-Worn)
+  paint_index: 1286
+- market_hash_name: Tec-9 | Garter-9 (Battle-Scarred)
+  paint_index: 1286
+- market_hash_name: Tec-9 | Citric Acid (Factory New)
+  paint_index: 1322
+- market_hash_name: Tec-9 | Citric Acid (Minimal Wear)
+  paint_index: 1322
+- market_hash_name: Tec-9 | Citric Acid (Field-Tested)
+  paint_index: 1322
+- market_hash_name: Tec-9 | Citric Acid (Well-Worn)
+  paint_index: 1322
+- market_hash_name: Tec-9 | Citric Acid (Battle-Scarred)
+  paint_index: 1322
+- market_hash_name: Tec-9 | Rust Leaf (Factory New)
+  paint_index: 733
+- market_hash_name: Tec-9 | Rust Leaf (Minimal Wear)
+  paint_index: 733
+- market_hash_name: Tec-9 | Rust Leaf (Field-Tested)
+  paint_index: 733
+- market_hash_name: Tec-9 | Rust Leaf (Well-Worn)
+  paint_index: 733
+- market_hash_name: Tec-9 | Rust Leaf (Battle-Scarred)
+  paint_index: 733
+- market_hash_name: Tec-9 | Army Mesh (Factory New)
+  paint_index: 242
+- market_hash_name: Tec-9 | Army Mesh (Minimal Wear)
+  paint_index: 242
+- market_hash_name: Tec-9 | Army Mesh (Field-Tested)
+  paint_index: 242
+- market_hash_name: Tec-9 | Army Mesh (Well-Worn)
+  paint_index: 242
+- market_hash_name: Tec-9 | Army Mesh (Battle-Scarred)
+  paint_index: 242
+- market_hash_name: Tec-9 | Nuclear Threat (Factory New)
+  paint_index: 179
+- market_hash_name: Tec-9 | Nuclear Threat (Minimal Wear)
+  paint_index: 179
+- market_hash_name: Tec-9 | Nuclear Threat (Field-Tested)
+  paint_index: 179
+- market_hash_name: Tec-9 | Nuclear Threat (Well-Worn)
+  paint_index: 179
+- market_hash_name: Tec-9 | Nuclear Threat (Battle-Scarred)
+  paint_index: 179
+- market_hash_name: Tec-9 | Slag (Factory New)
+  paint_index: 1159
+- market_hash_name: Tec-9 | Slag (Minimal Wear)
+  paint_index: 1159
+- market_hash_name: Tec-9 | Slag (Field-Tested)
+  paint_index: 1159
+- market_hash_name: Tec-9 | Slag (Well-Worn)
+  paint_index: 1159
+- market_hash_name: Tec-9 | Slag (Battle-Scarred)
+  paint_index: 1159
+- market_hash_name: USP-S | Purple DDPAT (Factory New)
+  paint_index: 818
+- market_hash_name: USP-S | Purple DDPAT (Minimal Wear)
+  paint_index: 818
+- market_hash_name: USP-S | Purple DDPAT (Field-Tested)
+  paint_index: 818
+- market_hash_name: USP-S | Purple DDPAT (Well-Worn)
+  paint_index: 818
+- market_hash_name: USP-S | Purple DDPAT (Battle-Scarred)
+  paint_index: 818
+- market_hash_name: USP-S | Serum (Factory New)
+  paint_index: 221
+- market_hash_name: USP-S | Serum (Minimal Wear)
+  paint_index: 221
+- market_hash_name: USP-S | Serum (Field-Tested)
+  paint_index: 221
+- market_hash_name: USP-S | Target Acquired (Factory New)
+  paint_index: 1027
+- market_hash_name: USP-S | Target Acquired (Minimal Wear)
+  paint_index: 1027
+- market_hash_name: USP-S | Target Acquired (Field-Tested)
+  paint_index: 1027
+- market_hash_name: USP-S | Target Acquired (Well-Worn)
+  paint_index: 1027
+- market_hash_name: USP-S | Target Acquired (Battle-Scarred)
+  paint_index: 1027
+- market_hash_name: USP-S | Orange Anolis (Factory New)
+  paint_index: 922
+- market_hash_name: USP-S | Orange Anolis (Minimal Wear)
+  paint_index: 922
+- market_hash_name: USP-S | Orange Anolis (Field-Tested)
+  paint_index: 922
+- market_hash_name: USP-S | Dark Water (Minimal Wear)
+  paint_index: 60
+- market_hash_name: USP-S | Dark Water (Field-Tested)
+  paint_index: 60
+- market_hash_name: USP-S | Stainless (Factory New)
+  paint_index: 277
+- market_hash_name: USP-S | Stainless (Minimal Wear)
+  paint_index: 277
+- market_hash_name: USP-S | Stainless (Field-Tested)
+  paint_index: 277
+- market_hash_name: USP-S | Stainless (Well-Worn)
+  paint_index: 277
+- market_hash_name: USP-S | Stainless (Battle-Scarred)
+  paint_index: 277
+- market_hash_name: USP-S | Caiman (Factory New)
+  paint_index: 339
+- market_hash_name: USP-S | Caiman (Minimal Wear)
+  paint_index: 339
+- market_hash_name: USP-S | Caiman (Field-Tested)
+  paint_index: 339
+- market_hash_name: USP-S | Caiman (Well-Worn)
+  paint_index: 339
+- market_hash_name: USP-S | Business Class (Factory New)
+  paint_index: 364
+- market_hash_name: USP-S | Business Class (Minimal Wear)
+  paint_index: 364
+- market_hash_name: USP-S | Business Class (Field-Tested)
+  paint_index: 364
+- market_hash_name: USP-S | Business Class (Well-Worn)
+  paint_index: 364
+- market_hash_name: USP-S | Business Class (Battle-Scarred)
+  paint_index: 364
+- market_hash_name: USP-S | Black Lotus (Factory New)
+  paint_index: 1102
+- market_hash_name: USP-S | Black Lotus (Minimal Wear)
+  paint_index: 1102
+- market_hash_name: USP-S | Black Lotus (Field-Tested)
+  paint_index: 1102
+- market_hash_name: USP-S | Black Lotus (Well-Worn)
+  paint_index: 1102
+- market_hash_name: USP-S | Black Lotus (Battle-Scarred)
+  paint_index: 1102
+- market_hash_name: USP-S | Cortex (Factory New)
+  paint_index: 705
+- market_hash_name: USP-S | Cortex (Minimal Wear)
+  paint_index: 705
+- market_hash_name: USP-S | Cortex (Field-Tested)
+  paint_index: 705
+- market_hash_name: USP-S | Cortex (Well-Worn)
+  paint_index: 705
+- market_hash_name: USP-S | Cortex (Battle-Scarred)
+  paint_index: 705
+- market_hash_name: USP-S | Cyrex (Factory New)
+  paint_index: 637
+- market_hash_name: USP-S | Cyrex (Minimal Wear)
+  paint_index: 637
+- market_hash_name: USP-S | Cyrex (Field-Tested)
+  paint_index: 637
+- market_hash_name: USP-S | Cyrex (Well-Worn)
+  paint_index: 637
+- market_hash_name: USP-S | Cyrex (Battle-Scarred)
+  paint_index: 637
+- market_hash_name: USP-S | Guardian (Factory New)
+  paint_index: 290
+- market_hash_name: USP-S | Guardian (Minimal Wear)
+  paint_index: 290
+- market_hash_name: USP-S | Guardian (Field-Tested)
+  paint_index: 290
+- market_hash_name: USP-S | Flashback (Factory New)
+  paint_index: 817
+- market_hash_name: USP-S | Flashback (Minimal Wear)
+  paint_index: 817
+- market_hash_name: USP-S | Flashback (Field-Tested)
+  paint_index: 817
+- market_hash_name: USP-S | Flashback (Well-Worn)
+  paint_index: 817
+- market_hash_name: USP-S | Flashback (Battle-Scarred)
+  paint_index: 817
+- market_hash_name: USP-S | Monster Mashup (Factory New)
+  paint_index: 991
+- market_hash_name: USP-S | Monster Mashup (Minimal Wear)
+  paint_index: 991
+- market_hash_name: USP-S | Monster Mashup (Field-Tested)
+  paint_index: 991
+- market_hash_name: USP-S | Monster Mashup (Well-Worn)
+  paint_index: 991
+- market_hash_name: USP-S | Monster Mashup (Battle-Scarred)
+  paint_index: 991
+- market_hash_name: USP-S | Torque (Factory New)
+  paint_index: 489
+- market_hash_name: USP-S | Torque (Minimal Wear)
+  paint_index: 489
+- market_hash_name: USP-S | Torque (Field-Tested)
+  paint_index: 489
+- market_hash_name: USP-S | Torque (Well-Worn)
+  paint_index: 489
+- market_hash_name: USP-S | Torque (Battle-Scarred)
+  paint_index: 489
+- market_hash_name: USP-S | Road Rash (Factory New)
+  paint_index: 318
+- market_hash_name: USP-S | Road Rash (Minimal Wear)
+  paint_index: 318
+- market_hash_name: USP-S | Road Rash (Field-Tested)
+  paint_index: 318
+- market_hash_name: USP-S | Road Rash (Well-Worn)
+  paint_index: 318
+- market_hash_name: USP-S | Road Rash (Battle-Scarred)
+  paint_index: 318
+- market_hash_name: USP-S | Ticket to Hell (Factory New)
+  paint_index: 1136
+- market_hash_name: USP-S | Ticket to Hell (Minimal Wear)
+  paint_index: 1136
+- market_hash_name: USP-S | Ticket to Hell (Field-Tested)
+  paint_index: 1136
+- market_hash_name: USP-S | Ticket to Hell (Well-Worn)
+  paint_index: 1136
+- market_hash_name: USP-S | Ticket to Hell (Battle-Scarred)
+  paint_index: 1136
+- market_hash_name: USP-S | Blueprint (Factory New)
+  paint_index: 657
+- market_hash_name: USP-S | Blueprint (Minimal Wear)
+  paint_index: 657
+- market_hash_name: USP-S | Blueprint (Field-Tested)
+  paint_index: 657
+- market_hash_name: USP-S | Blueprint (Well-Worn)
+  paint_index: 657
+- market_hash_name: USP-S | Blueprint (Battle-Scarred)
+  paint_index: 657
+- market_hash_name: USP-S | Lead Conduit (Factory New)
+  paint_index: 540
+- market_hash_name: USP-S | Lead Conduit (Minimal Wear)
+  paint_index: 540
+- market_hash_name: USP-S | Lead Conduit (Field-Tested)
+  paint_index: 540
+- market_hash_name: USP-S | Lead Conduit (Well-Worn)
+  paint_index: 540
+- market_hash_name: USP-S | Lead Conduit (Battle-Scarred)
+  paint_index: 540
+- market_hash_name: USP-S | The Traitor (Factory New)
+  paint_index: 1040
+- market_hash_name: USP-S | The Traitor (Minimal Wear)
+  paint_index: 1040
+- market_hash_name: USP-S | The Traitor (Field-Tested)
+  paint_index: 1040
+- market_hash_name: USP-S | The Traitor (Well-Worn)
+  paint_index: 1040
+- market_hash_name: USP-S | The Traitor (Battle-Scarred)
+  paint_index: 1040
+- market_hash_name: USP-S | Desert Tactical (Factory New)
+  paint_index: 1253
+- market_hash_name: USP-S | Desert Tactical (Minimal Wear)
+  paint_index: 1253
+- market_hash_name: USP-S | Desert Tactical (Field-Tested)
+  paint_index: 1253
+- market_hash_name: USP-S | Desert Tactical (Well-Worn)
+  paint_index: 1253
+- market_hash_name: USP-S | Desert Tactical (Battle-Scarred)
+  paint_index: 1253
+- market_hash_name: USP-S | Alpine Camo (Factory New)
+  paint_index: 830
+- market_hash_name: USP-S | Alpine Camo (Minimal Wear)
+  paint_index: 830
+- market_hash_name: USP-S | Alpine Camo (Field-Tested)
+  paint_index: 830
+- market_hash_name: USP-S | Alpine Camo (Well-Worn)
+  paint_index: 830
+- market_hash_name: USP-S | Alpine Camo (Battle-Scarred)
+  paint_index: 830
+- market_hash_name: USP-S | Bleeding Edge (Factory New)
+  paint_index: 1323
+- market_hash_name: USP-S | Bleeding Edge (Minimal Wear)
+  paint_index: 1323
+- market_hash_name: USP-S | Bleeding Edge (Field-Tested)
+  paint_index: 1323
+- market_hash_name: USP-S | Bleeding Edge (Well-Worn)
+  paint_index: 1323
+- market_hash_name: USP-S | Bleeding Edge (Battle-Scarred)
+  paint_index: 1323
+- market_hash_name: USP-S | Royal Blue (Factory New)
+  paint_index: 332
+- market_hash_name: USP-S | Royal Blue (Minimal Wear)
+  paint_index: 332
+- market_hash_name: USP-S | Royal Blue (Field-Tested)
+  paint_index: 332
+- market_hash_name: USP-S | Royal Blue (Well-Worn)
+  paint_index: 332
+- market_hash_name: USP-S | Royal Blue (Battle-Scarred)
+  paint_index: 332
+- market_hash_name: USP-S | Blood Tiger (Factory New)
+  paint_index: 217
+- market_hash_name: USP-S | Blood Tiger (Minimal Wear)
+  paint_index: 217
+- market_hash_name: USP-S | Blood Tiger (Field-Tested)
+  paint_index: 217
+- market_hash_name: USP-S | Overgrowth (Factory New)
+  paint_index: 183
+- market_hash_name: USP-S | Overgrowth (Minimal Wear)
+  paint_index: 183
+- market_hash_name: USP-S | Overgrowth (Field-Tested)
+  paint_index: 183
+- market_hash_name: USP-S | Overgrowth (Well-Worn)
+  paint_index: 183
+- market_hash_name: USP-S | Overgrowth (Battle-Scarred)
+  paint_index: 183
+- market_hash_name: USP-S | Night Ops (Factory New)
+  paint_index: 236
+- market_hash_name: USP-S | Night Ops (Minimal Wear)
+  paint_index: 236
+- market_hash_name: USP-S | Night Ops (Field-Tested)
+  paint_index: 236
+- market_hash_name: USP-S | Night Ops (Well-Worn)
+  paint_index: 236
+- market_hash_name: USP-S | Night Ops (Battle-Scarred)
+  paint_index: 236
+- market_hash_name: USP-S | Para Green (Factory New)
+  paint_index: 454
+- market_hash_name: USP-S | Para Green (Minimal Wear)
+  paint_index: 454
+- market_hash_name: USP-S | Para Green (Field-Tested)
+  paint_index: 454
+- market_hash_name: USP-S | Para Green (Well-Worn)
+  paint_index: 454
+- market_hash_name: USP-S | Para Green (Battle-Scarred)
+  paint_index: 454
+- market_hash_name: USP-S | Royal Guard (Factory New)
+  paint_index: 1217
+- market_hash_name: USP-S | Royal Guard (Minimal Wear)
+  paint_index: 1217
+- market_hash_name: USP-S | Royal Guard (Field-Tested)
+  paint_index: 1217
+- market_hash_name: USP-S | Royal Guard (Well-Worn)
+  paint_index: 1217
+- market_hash_name: USP-S | Royal Guard (Battle-Scarred)
+  paint_index: 1217
+- market_hash_name: USP-S | Sleeping Potion (Factory New)
+  paint_index: 1377
+- market_hash_name: USP-S | Sleeping Potion (Minimal Wear)
+  paint_index: 1377
+- market_hash_name: USP-S | Sleeping Potion (Field-Tested)
+  paint_index: 1377
+- market_hash_name: USP-S | Sleeping Potion (Well-Worn)
+  paint_index: 1377
+- market_hash_name: USP-S | Sleeping Potion (Battle-Scarred)
+  paint_index: 1377
+- market_hash_name: USP-S | Tropical Breeze (Factory New)
+  paint_index: 1284
+- market_hash_name: USP-S | Tropical Breeze (Minimal Wear)
+  paint_index: 1284
+- market_hash_name: USP-S | Tropical Breeze (Field-Tested)
+  paint_index: 1284
+- market_hash_name: USP-S | Tropical Breeze (Well-Worn)
+  paint_index: 1284
+- market_hash_name: USP-S | Tropical Breeze (Battle-Scarred)
+  paint_index: 1284
+- market_hash_name: USP-S | Ancient Visions (Factory New)
+  paint_index: 1031
+- market_hash_name: USP-S | Ancient Visions (Minimal Wear)
+  paint_index: 1031
+- market_hash_name: USP-S | Ancient Visions (Field-Tested)
+  paint_index: 1031
+- market_hash_name: USP-S | Ancient Visions (Well-Worn)
+  paint_index: 1031
+- market_hash_name: USP-S | Pathfinder (Factory New)
+  paint_index: 443
+- market_hash_name: USP-S | Pathfinder (Minimal Wear)
+  paint_index: 443
+- market_hash_name: USP-S | Pathfinder (Field-Tested)
+  paint_index: 443
+- market_hash_name: USP-S | Forest Leaves (Factory New)
+  paint_index: 25
+- market_hash_name: USP-S | Forest Leaves (Minimal Wear)
+  paint_index: 25
+- market_hash_name: USP-S | Forest Leaves (Field-Tested)
+  paint_index: 25
+- market_hash_name: USP-S | Forest Leaves (Well-Worn)
+  paint_index: 25
+- market_hash_name: USP-S | Forest Leaves (Battle-Scarred)
+  paint_index: 25
+- market_hash_name: USP-S | Check Engine (Factory New)
+  paint_index: 796
+- market_hash_name: USP-S | Check Engine (Minimal Wear)
+  paint_index: 796
+- market_hash_name: USP-S | Check Engine (Field-Tested)
+  paint_index: 796
+- market_hash_name: USP-S | Check Engine (Well-Worn)
+  paint_index: 796
+- market_hash_name: USP-S | Check Engine (Battle-Scarred)
+  paint_index: 796
+- market_hash_name: USP-S | 27 (Factory New)
+  paint_index: 115
+- market_hash_name: USP-S | 27 (Minimal Wear)
+  paint_index: 115
+- market_hash_name: USP-S | 27 (Field-Tested)
+  paint_index: 115
+- market_hash_name: USP-S | 27 (Well-Worn)
+  paint_index: 115
+- market_hash_name: USP-S | 27 (Battle-Scarred)
+  paint_index: 115
+- market_hash_name: USP-S | PC-GRN (Factory New)
+  paint_index: 1186
+- market_hash_name: USP-S | PC-GRN (Minimal Wear)
+  paint_index: 1186
+- market_hash_name: USP-S | PC-GRN (Field-Tested)
+  paint_index: 1186
+- market_hash_name: USP-S | PC-GRN (Well-Worn)
+  paint_index: 1186
+- market_hash_name: USP-S | PC-GRN (Battle-Scarred)
+  paint_index: 1186
+- market_hash_name: USP-S | Silent Shot (Factory New)
+  paint_index: 1431
+- market_hash_name: USP-S | Silent Shot (Minimal Wear)
+  paint_index: 1431
+- market_hash_name: USP-S | Silent Shot (Field-Tested)
+  paint_index: 1431
+- market_hash_name: USP-S | Silent Shot (Well-Worn)
+  paint_index: 1431
+- market_hash_name: USP-S | Silent Shot (Battle-Scarred)
+  paint_index: 1431

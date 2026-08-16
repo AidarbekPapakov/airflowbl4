@@ -1,0 +1,1309 @@
+# starter_skins.yaml — Phase 0 data backfill
+# Generated from csgoskins.gg popularity rankings + CSFloat API index lookup.
+# StatTrak™ variants omitted; add "StatTrak™ " prefix to any entry to include them.
+# Wear variants that don't exist for a skin return empty results and are skipped.
+skins:
+
+# ── Rifles ────────────────────────────────────────────────────────────
+
+  # AK-47 | Vulcan
+  - market_hash_name: "AK-47 | Vulcan (Factory New)"
+    paint_index: 302
+  - market_hash_name: "AK-47 | Vulcan (Minimal Wear)"
+    paint_index: 302
+  - market_hash_name: "AK-47 | Vulcan (Field-Tested)"
+    paint_index: 302
+  - market_hash_name: "AK-47 | Vulcan (Well-Worn)"
+    paint_index: 302
+  - market_hash_name: "AK-47 | Vulcan (Battle-Scarred)"
+    paint_index: 302
+
+  # AK-47 | Asiimov
+  - market_hash_name: "AK-47 | Asiimov (Factory New)"
+    paint_index: 801
+  - market_hash_name: "AK-47 | Asiimov (Minimal Wear)"
+    paint_index: 801
+  - market_hash_name: "AK-47 | Asiimov (Field-Tested)"
+    paint_index: 801
+  - market_hash_name: "AK-47 | Asiimov (Well-Worn)"
+    paint_index: 801
+  - market_hash_name: "AK-47 | Asiimov (Battle-Scarred)"
+    paint_index: 801
+
+  # AK-47 | Bloodsport
+  - market_hash_name: "AK-47 | Bloodsport (Factory New)"
+    paint_index: 639
+  - market_hash_name: "AK-47 | Bloodsport (Minimal Wear)"
+    paint_index: 639
+  - market_hash_name: "AK-47 | Bloodsport (Field-Tested)"
+    paint_index: 639
+  - market_hash_name: "AK-47 | Bloodsport (Well-Worn)"
+    paint_index: 639
+  - market_hash_name: "AK-47 | Bloodsport (Battle-Scarred)"
+    paint_index: 639
+
+  # AK-47 | Case Hardened
+  - market_hash_name: "AK-47 | Case Hardened (Factory New)"
+    paint_index: 44
+  - market_hash_name: "AK-47 | Case Hardened (Minimal Wear)"
+    paint_index: 44
+  - market_hash_name: "AK-47 | Case Hardened (Field-Tested)"
+    paint_index: 44
+  - market_hash_name: "AK-47 | Case Hardened (Well-Worn)"
+    paint_index: 44
+  - market_hash_name: "AK-47 | Case Hardened (Battle-Scarred)"
+    paint_index: 44
+
+  # AK-47 | Redline
+  - market_hash_name: "AK-47 | Redline (Factory New)"
+    paint_index: 282
+  - market_hash_name: "AK-47 | Redline (Minimal Wear)"
+    paint_index: 282
+  - market_hash_name: "AK-47 | Redline (Field-Tested)"
+    paint_index: 282
+  - market_hash_name: "AK-47 | Redline (Well-Worn)"
+    paint_index: 282
+  - market_hash_name: "AK-47 | Redline (Battle-Scarred)"
+    paint_index: 282
+
+  # AK-47 | Fire Serpent
+  - market_hash_name: "AK-47 | Fire Serpent (Factory New)"
+    paint_index: 180
+  - market_hash_name: "AK-47 | Fire Serpent (Minimal Wear)"
+    paint_index: 180
+  - market_hash_name: "AK-47 | Fire Serpent (Field-Tested)"
+    paint_index: 180
+  - market_hash_name: "AK-47 | Fire Serpent (Well-Worn)"
+    paint_index: 180
+  - market_hash_name: "AK-47 | Fire Serpent (Battle-Scarred)"
+    paint_index: 180
+
+  # AK-47 | Neon Rider
+  - market_hash_name: "AK-47 | Neon Rider (Factory New)"
+    paint_index: 707
+  - market_hash_name: "AK-47 | Neon Rider (Minimal Wear)"
+    paint_index: 707
+  - market_hash_name: "AK-47 | Neon Rider (Field-Tested)"
+    paint_index: 707
+  - market_hash_name: "AK-47 | Neon Rider (Well-Worn)"
+    paint_index: 707
+  - market_hash_name: "AK-47 | Neon Rider (Battle-Scarred)"
+    paint_index: 707
+
+  # AK-47 | Slate
+  - market_hash_name: "AK-47 | Slate (Factory New)"
+    paint_index: 1035
+  - market_hash_name: "AK-47 | Slate (Minimal Wear)"
+    paint_index: 1035
+  - market_hash_name: "AK-47 | Slate (Field-Tested)"
+    paint_index: 1035
+  - market_hash_name: "AK-47 | Slate (Well-Worn)"
+    paint_index: 1035
+  - market_hash_name: "AK-47 | Slate (Battle-Scarred)"
+    paint_index: 1035
+
+  # AK-47 | Gold Arabesque
+  - market_hash_name: "AK-47 | Gold Arabesque (Factory New)"
+    paint_index: 921
+  - market_hash_name: "AK-47 | Gold Arabesque (Minimal Wear)"
+    paint_index: 921
+  - market_hash_name: "AK-47 | Gold Arabesque (Field-Tested)"
+    paint_index: 921
+  - market_hash_name: "AK-47 | Gold Arabesque (Well-Worn)"
+    paint_index: 921
+  - market_hash_name: "AK-47 | Gold Arabesque (Battle-Scarred)"
+    paint_index: 921
+
+  # AK-47 | The Oligarch
+  - market_hash_name: "AK-47 | The Oligarch (Factory New)"
+    paint_index: 1352
+  - market_hash_name: "AK-47 | The Oligarch (Minimal Wear)"
+    paint_index: 1352
+  - market_hash_name: "AK-47 | The Oligarch (Field-Tested)"
+    paint_index: 1352
+  - market_hash_name: "AK-47 | The Oligarch (Well-Worn)"
+    paint_index: 1352
+  - market_hash_name: "AK-47 | The Oligarch (Battle-Scarred)"
+    paint_index: 1352
+
+  # AWP | Dragon Lore
+  - market_hash_name: "AWP | Dragon Lore (Factory New)"
+    paint_index: 344
+  - market_hash_name: "AWP | Dragon Lore (Minimal Wear)"
+    paint_index: 344
+  - market_hash_name: "AWP | Dragon Lore (Field-Tested)"
+    paint_index: 344
+  - market_hash_name: "AWP | Dragon Lore (Well-Worn)"
+    paint_index: 344
+  - market_hash_name: "AWP | Dragon Lore (Battle-Scarred)"
+    paint_index: 344
+
+  # AWP | Printstream
+  - market_hash_name: "AWP | Printstream (Factory New)"
+    paint_index: 1206
+  - market_hash_name: "AWP | Printstream (Minimal Wear)"
+    paint_index: 1206
+  - market_hash_name: "AWP | Printstream (Field-Tested)"
+    paint_index: 1206
+  - market_hash_name: "AWP | Printstream (Well-Worn)"
+    paint_index: 1206
+  - market_hash_name: "AWP | Printstream (Battle-Scarred)"
+    paint_index: 1206
+
+  # AWP | Asiimov
+  - market_hash_name: "AWP | Asiimov (Factory New)"
+    paint_index: 279
+  - market_hash_name: "AWP | Asiimov (Minimal Wear)"
+    paint_index: 279
+  - market_hash_name: "AWP | Asiimov (Field-Tested)"
+    paint_index: 279
+  - market_hash_name: "AWP | Asiimov (Well-Worn)"
+    paint_index: 279
+  - market_hash_name: "AWP | Asiimov (Battle-Scarred)"
+    paint_index: 279
+
+  # AWP | Atheris
+  - market_hash_name: "AWP | Atheris (Factory New)"
+    paint_index: 838
+  - market_hash_name: "AWP | Atheris (Minimal Wear)"
+    paint_index: 838
+  - market_hash_name: "AWP | Atheris (Field-Tested)"
+    paint_index: 838
+  - market_hash_name: "AWP | Atheris (Well-Worn)"
+    paint_index: 838
+  - market_hash_name: "AWP | Atheris (Battle-Scarred)"
+    paint_index: 838
+
+  # AWP | Neo-Noir
+  - market_hash_name: "AWP | Neo-Noir (Factory New)"
+    paint_index: 803
+  - market_hash_name: "AWP | Neo-Noir (Minimal Wear)"
+    paint_index: 803
+  - market_hash_name: "AWP | Neo-Noir (Field-Tested)"
+    paint_index: 803
+  - market_hash_name: "AWP | Neo-Noir (Well-Worn)"
+    paint_index: 803
+  - market_hash_name: "AWP | Neo-Noir (Battle-Scarred)"
+    paint_index: 803
+
+  # AWP | Gungnir
+  - market_hash_name: "AWP | Gungnir (Factory New)"
+    paint_index: 756
+  - market_hash_name: "AWP | Gungnir (Minimal Wear)"
+    paint_index: 756
+  - market_hash_name: "AWP | Gungnir (Field-Tested)"
+    paint_index: 756
+  - market_hash_name: "AWP | Gungnir (Well-Worn)"
+    paint_index: 756
+  - market_hash_name: "AWP | Gungnir (Battle-Scarred)"
+    paint_index: 756
+
+  # AWP | Wildfire
+  - market_hash_name: "AWP | Wildfire (Factory New)"
+    paint_index: 917
+  - market_hash_name: "AWP | Wildfire (Minimal Wear)"
+    paint_index: 917
+  - market_hash_name: "AWP | Wildfire (Field-Tested)"
+    paint_index: 917
+  - market_hash_name: "AWP | Wildfire (Well-Worn)"
+    paint_index: 917
+  - market_hash_name: "AWP | Wildfire (Battle-Scarred)"
+    paint_index: 917
+
+  # AWP | Desert Hydra
+  - market_hash_name: "AWP | Desert Hydra (Factory New)"
+    paint_index: 819
+  - market_hash_name: "AWP | Desert Hydra (Minimal Wear)"
+    paint_index: 819
+  - market_hash_name: "AWP | Desert Hydra (Field-Tested)"
+    paint_index: 819
+  - market_hash_name: "AWP | Desert Hydra (Well-Worn)"
+    paint_index: 819
+  - market_hash_name: "AWP | Desert Hydra (Battle-Scarred)"
+    paint_index: 819
+
+  # AWP | Chromatic Aberration
+  - market_hash_name: "AWP | Chromatic Aberration (Factory New)"
+    paint_index: 1144
+  - market_hash_name: "AWP | Chromatic Aberration (Minimal Wear)"
+    paint_index: 1144
+  - market_hash_name: "AWP | Chromatic Aberration (Field-Tested)"
+    paint_index: 1144
+  - market_hash_name: "AWP | Chromatic Aberration (Well-Worn)"
+    paint_index: 1144
+  - market_hash_name: "AWP | Chromatic Aberration (Battle-Scarred)"
+    paint_index: 1144
+
+  # AWP | Duality
+  - market_hash_name: "AWP | Duality (Factory New)"
+    paint_index: 1222
+  - market_hash_name: "AWP | Duality (Minimal Wear)"
+    paint_index: 1222
+  - market_hash_name: "AWP | Duality (Field-Tested)"
+    paint_index: 1222
+  - market_hash_name: "AWP | Duality (Well-Worn)"
+    paint_index: 1222
+  - market_hash_name: "AWP | Duality (Battle-Scarred)"
+    paint_index: 1222
+
+  # M4A1-S | Printstream
+  - market_hash_name: "M4A1-S | Printstream (Factory New)"
+    paint_index: 984
+  - market_hash_name: "M4A1-S | Printstream (Minimal Wear)"
+    paint_index: 984
+  - market_hash_name: "M4A1-S | Printstream (Field-Tested)"
+    paint_index: 984
+  - market_hash_name: "M4A1-S | Printstream (Well-Worn)"
+    paint_index: 984
+  - market_hash_name: "M4A1-S | Printstream (Battle-Scarred)"
+    paint_index: 984
+
+  # M4A1-S | Black Lotus
+  - market_hash_name: "M4A1-S | Black Lotus (Factory New)"
+    paint_index: 1166
+  - market_hash_name: "M4A1-S | Black Lotus (Minimal Wear)"
+    paint_index: 1166
+  - market_hash_name: "M4A1-S | Black Lotus (Field-Tested)"
+    paint_index: 1166
+  - market_hash_name: "M4A1-S | Black Lotus (Well-Worn)"
+    paint_index: 1166
+  - market_hash_name: "M4A1-S | Black Lotus (Battle-Scarred)"
+    paint_index: 1166
+
+  # M4A1-S | Fade
+  - market_hash_name: "M4A1-S | Fade (Factory New)"
+    paint_index: 1177
+  - market_hash_name: "M4A1-S | Fade (Minimal Wear)"
+    paint_index: 1177
+  - market_hash_name: "M4A1-S | Fade (Field-Tested)"
+    paint_index: 1177
+  - market_hash_name: "M4A1-S | Fade (Well-Worn)"
+    paint_index: 1177
+  - market_hash_name: "M4A1-S | Fade (Battle-Scarred)"
+    paint_index: 1177
+
+  # M4A1-S | Blue Phosphor
+  - market_hash_name: "M4A1-S | Blue Phosphor (Factory New)"
+    paint_index: 1017
+  - market_hash_name: "M4A1-S | Blue Phosphor (Minimal Wear)"
+    paint_index: 1017
+  - market_hash_name: "M4A1-S | Blue Phosphor (Field-Tested)"
+    paint_index: 1017
+  - market_hash_name: "M4A1-S | Blue Phosphor (Well-Worn)"
+    paint_index: 1017
+  - market_hash_name: "M4A1-S | Blue Phosphor (Battle-Scarred)"
+    paint_index: 1017
+
+  # M4A1-S | Nightmare
+  - market_hash_name: "M4A1-S | Nightmare (Factory New)"
+    paint_index: 714
+  - market_hash_name: "M4A1-S | Nightmare (Minimal Wear)"
+    paint_index: 714
+  - market_hash_name: "M4A1-S | Nightmare (Field-Tested)"
+    paint_index: 714
+  - market_hash_name: "M4A1-S | Nightmare (Well-Worn)"
+    paint_index: 714
+  - market_hash_name: "M4A1-S | Nightmare (Battle-Scarred)"
+    paint_index: 714
+
+  # M4A1-S | Hot Rod
+  - market_hash_name: "M4A1-S | Hot Rod (Factory New)"
+    paint_index: 445
+  - market_hash_name: "M4A1-S | Hot Rod (Minimal Wear)"
+    paint_index: 445
+  - market_hash_name: "M4A1-S | Hot Rod (Field-Tested)"
+    paint_index: 445
+  - market_hash_name: "M4A1-S | Hot Rod (Well-Worn)"
+    paint_index: 445
+  - market_hash_name: "M4A1-S | Hot Rod (Battle-Scarred)"
+    paint_index: 445
+
+  # M4A1-S | Golden Coil
+  - market_hash_name: "M4A1-S | Golden Coil (Factory New)"
+    paint_index: 497
+  - market_hash_name: "M4A1-S | Golden Coil (Minimal Wear)"
+    paint_index: 497
+  - market_hash_name: "M4A1-S | Golden Coil (Field-Tested)"
+    paint_index: 497
+  - market_hash_name: "M4A1-S | Golden Coil (Well-Worn)"
+    paint_index: 497
+  - market_hash_name: "M4A1-S | Golden Coil (Battle-Scarred)"
+    paint_index: 497
+
+  # M4A1-S | Decimator
+  - market_hash_name: "M4A1-S | Decimator (Factory New)"
+    paint_index: 644
+  - market_hash_name: "M4A1-S | Decimator (Minimal Wear)"
+    paint_index: 644
+  - market_hash_name: "M4A1-S | Decimator (Field-Tested)"
+    paint_index: 644
+  - market_hash_name: "M4A1-S | Decimator (Well-Worn)"
+    paint_index: 644
+  - market_hash_name: "M4A1-S | Decimator (Battle-Scarred)"
+    paint_index: 644
+
+  # M4A1-S | Hyper Beast
+  - market_hash_name: "M4A1-S | Hyper Beast (Factory New)"
+    paint_index: 430
+  - market_hash_name: "M4A1-S | Hyper Beast (Minimal Wear)"
+    paint_index: 430
+  - market_hash_name: "M4A1-S | Hyper Beast (Field-Tested)"
+    paint_index: 430
+  - market_hash_name: "M4A1-S | Hyper Beast (Well-Worn)"
+    paint_index: 430
+  - market_hash_name: "M4A1-S | Hyper Beast (Battle-Scarred)"
+    paint_index: 430
+
+  # M4A4 | Howl
+  - market_hash_name: "M4A4 | Howl (Factory New)"
+    paint_index: 309
+  - market_hash_name: "M4A4 | Howl (Minimal Wear)"
+    paint_index: 309
+  - market_hash_name: "M4A4 | Howl (Field-Tested)"
+    paint_index: 309
+  - market_hash_name: "M4A4 | Howl (Well-Worn)"
+    paint_index: 309
+  - market_hash_name: "M4A4 | Howl (Battle-Scarred)"
+    paint_index: 309
+
+  # M4A4 | Neo-Noir
+  - market_hash_name: "M4A4 | Neo-Noir (Factory New)"
+    paint_index: 695
+  - market_hash_name: "M4A4 | Neo-Noir (Minimal Wear)"
+    paint_index: 695
+  - market_hash_name: "M4A4 | Neo-Noir (Field-Tested)"
+    paint_index: 695
+  - market_hash_name: "M4A4 | Neo-Noir (Well-Worn)"
+    paint_index: 695
+  - market_hash_name: "M4A4 | Neo-Noir (Battle-Scarred)"
+    paint_index: 695
+
+  # M4A4 | Asiimov
+  - market_hash_name: "M4A4 | Asiimov (Factory New)"
+    paint_index: 255
+  - market_hash_name: "M4A4 | Asiimov (Minimal Wear)"
+    paint_index: 255
+  - market_hash_name: "M4A4 | Asiimov (Field-Tested)"
+    paint_index: 255
+  - market_hash_name: "M4A4 | Asiimov (Well-Worn)"
+    paint_index: 255
+  - market_hash_name: "M4A4 | Asiimov (Battle-Scarred)"
+    paint_index: 255
+
+  # M4A4 | The Emperor
+  - market_hash_name: "M4A4 | The Emperor (Factory New)"
+    paint_index: 844
+  - market_hash_name: "M4A4 | The Emperor (Minimal Wear)"
+    paint_index: 844
+  - market_hash_name: "M4A4 | The Emperor (Field-Tested)"
+    paint_index: 844
+  - market_hash_name: "M4A4 | The Emperor (Well-Worn)"
+    paint_index: 844
+  - market_hash_name: "M4A4 | The Emperor (Battle-Scarred)"
+    paint_index: 844
+
+  # M4A4 | Spider Lily
+  - market_hash_name: "M4A4 | Spider Lily (Factory New)"
+    paint_index: 1097
+  - market_hash_name: "M4A4 | Spider Lily (Minimal Wear)"
+    paint_index: 1097
+  - market_hash_name: "M4A4 | Spider Lily (Field-Tested)"
+    paint_index: 1097
+  - market_hash_name: "M4A4 | Spider Lily (Well-Worn)"
+    paint_index: 1097
+  - market_hash_name: "M4A4 | Spider Lily (Battle-Scarred)"
+    paint_index: 1097
+
+  # M4A4 | Buzz Kill
+  - market_hash_name: "M4A4 | Buzz Kill (Factory New)"
+    paint_index: 632
+  - market_hash_name: "M4A4 | Buzz Kill (Minimal Wear)"
+    paint_index: 632
+  - market_hash_name: "M4A4 | Buzz Kill (Field-Tested)"
+    paint_index: 632
+  - market_hash_name: "M4A4 | Buzz Kill (Well-Worn)"
+    paint_index: 632
+  - market_hash_name: "M4A4 | Buzz Kill (Battle-Scarred)"
+    paint_index: 632
+
+  # M4A4 | Desolate Space
+  - market_hash_name: "M4A4 | Desolate Space (Factory New)"
+    paint_index: 588
+  - market_hash_name: "M4A4 | Desolate Space (Minimal Wear)"
+    paint_index: 588
+  - market_hash_name: "M4A4 | Desolate Space (Field-Tested)"
+    paint_index: 588
+  - market_hash_name: "M4A4 | Desolate Space (Well-Worn)"
+    paint_index: 588
+  - market_hash_name: "M4A4 | Desolate Space (Battle-Scarred)"
+    paint_index: 588
+
+  # M4A4 | Eye of Horus
+  - market_hash_name: "M4A4 | Eye of Horus (Factory New)"
+    paint_index: 1255
+  - market_hash_name: "M4A4 | Eye of Horus (Minimal Wear)"
+    paint_index: 1255
+  - market_hash_name: "M4A4 | Eye of Horus (Field-Tested)"
+    paint_index: 1255
+  - market_hash_name: "M4A4 | Eye of Horus (Well-Worn)"
+    paint_index: 1255
+  - market_hash_name: "M4A4 | Eye of Horus (Battle-Scarred)"
+    paint_index: 1255
+
+  # M4A4 | Hellish
+  - market_hash_name: "M4A4 | Hellish (Factory New)"
+    paint_index: 1209
+  - market_hash_name: "M4A4 | Hellish (Minimal Wear)"
+    paint_index: 1209
+  - market_hash_name: "M4A4 | Hellish (Field-Tested)"
+    paint_index: 1209
+  - market_hash_name: "M4A4 | Hellish (Well-Worn)"
+    paint_index: 1209
+  - market_hash_name: "M4A4 | Hellish (Battle-Scarred)"
+    paint_index: 1209
+
+# ── Pistols ───────────────────────────────────────────────────────────
+
+  # Desert Eagle | Printstream
+  - market_hash_name: "Desert Eagle | Printstream (Factory New)"
+    paint_index: 962
+  - market_hash_name: "Desert Eagle | Printstream (Minimal Wear)"
+    paint_index: 962
+  - market_hash_name: "Desert Eagle | Printstream (Field-Tested)"
+    paint_index: 962
+  - market_hash_name: "Desert Eagle | Printstream (Well-Worn)"
+    paint_index: 962
+  - market_hash_name: "Desert Eagle | Printstream (Battle-Scarred)"
+    paint_index: 962
+
+  # Desert Eagle | Blaze
+  - market_hash_name: "Desert Eagle | Blaze (Factory New)"
+    paint_index: 37
+  - market_hash_name: "Desert Eagle | Blaze (Minimal Wear)"
+    paint_index: 37
+  - market_hash_name: "Desert Eagle | Blaze (Field-Tested)"
+    paint_index: 37
+  - market_hash_name: "Desert Eagle | Blaze (Well-Worn)"
+    paint_index: 37
+  - market_hash_name: "Desert Eagle | Blaze (Battle-Scarred)"
+    paint_index: 37
+
+  # Desert Eagle | Fennec Fox
+  - market_hash_name: "Desert Eagle | Fennec Fox (Factory New)"
+    paint_index: 764
+  - market_hash_name: "Desert Eagle | Fennec Fox (Minimal Wear)"
+    paint_index: 764
+  - market_hash_name: "Desert Eagle | Fennec Fox (Field-Tested)"
+    paint_index: 764
+  - market_hash_name: "Desert Eagle | Fennec Fox (Well-Worn)"
+    paint_index: 764
+  - market_hash_name: "Desert Eagle | Fennec Fox (Battle-Scarred)"
+    paint_index: 764
+
+  # Desert Eagle | Crimson Web
+  - market_hash_name: "Desert Eagle | Crimson Web (Factory New)"
+    paint_index: 232
+  - market_hash_name: "Desert Eagle | Crimson Web (Minimal Wear)"
+    paint_index: 232
+  - market_hash_name: "Desert Eagle | Crimson Web (Field-Tested)"
+    paint_index: 232
+  - market_hash_name: "Desert Eagle | Crimson Web (Well-Worn)"
+    paint_index: 232
+  - market_hash_name: "Desert Eagle | Crimson Web (Battle-Scarred)"
+    paint_index: 232
+
+  # Desert Eagle | Code Red
+  - market_hash_name: "Desert Eagle | Code Red (Factory New)"
+    paint_index: 711
+  - market_hash_name: "Desert Eagle | Code Red (Minimal Wear)"
+    paint_index: 711
+  - market_hash_name: "Desert Eagle | Code Red (Field-Tested)"
+    paint_index: 711
+  - market_hash_name: "Desert Eagle | Code Red (Well-Worn)"
+    paint_index: 711
+  - market_hash_name: "Desert Eagle | Code Red (Battle-Scarred)"
+    paint_index: 711
+
+  # Desert Eagle | Kumicho Dragon
+  - market_hash_name: "Desert Eagle | Kumicho Dragon (Factory New)"
+    paint_index: 527
+  - market_hash_name: "Desert Eagle | Kumicho Dragon (Minimal Wear)"
+    paint_index: 527
+  - market_hash_name: "Desert Eagle | Kumicho Dragon (Field-Tested)"
+    paint_index: 527
+  - market_hash_name: "Desert Eagle | Kumicho Dragon (Well-Worn)"
+    paint_index: 527
+  - market_hash_name: "Desert Eagle | Kumicho Dragon (Battle-Scarred)"
+    paint_index: 527
+
+  # Desert Eagle | Mecha Industries
+  - market_hash_name: "Desert Eagle | Mecha Industries (Factory New)"
+    paint_index: 805
+  - market_hash_name: "Desert Eagle | Mecha Industries (Minimal Wear)"
+    paint_index: 805
+  - market_hash_name: "Desert Eagle | Mecha Industries (Field-Tested)"
+    paint_index: 805
+  - market_hash_name: "Desert Eagle | Mecha Industries (Well-Worn)"
+    paint_index: 805
+  - market_hash_name: "Desert Eagle | Mecha Industries (Battle-Scarred)"
+    paint_index: 805
+
+  # Desert Eagle | Cobalt Disruption
+  - market_hash_name: "Desert Eagle | Cobalt Disruption (Factory New)"
+    paint_index: 231
+  - market_hash_name: "Desert Eagle | Cobalt Disruption (Minimal Wear)"
+    paint_index: 231
+  - market_hash_name: "Desert Eagle | Cobalt Disruption (Field-Tested)"
+    paint_index: 231
+  - market_hash_name: "Desert Eagle | Cobalt Disruption (Well-Worn)"
+    paint_index: 231
+  - market_hash_name: "Desert Eagle | Cobalt Disruption (Battle-Scarred)"
+    paint_index: 231
+
+  # Glock-18 | Fade
+  - market_hash_name: "Glock-18 | Fade (Factory New)"
+    paint_index: 38
+  - market_hash_name: "Glock-18 | Fade (Minimal Wear)"
+    paint_index: 38
+  - market_hash_name: "Glock-18 | Fade (Field-Tested)"
+    paint_index: 38
+  - market_hash_name: "Glock-18 | Fade (Well-Worn)"
+    paint_index: 38
+  - market_hash_name: "Glock-18 | Fade (Battle-Scarred)"
+    paint_index: 38
+
+  # Glock-18 | Water Elemental
+  - market_hash_name: "Glock-18 | Water Elemental (Factory New)"
+    paint_index: 353
+  - market_hash_name: "Glock-18 | Water Elemental (Minimal Wear)"
+    paint_index: 353
+  - market_hash_name: "Glock-18 | Water Elemental (Field-Tested)"
+    paint_index: 353
+  - market_hash_name: "Glock-18 | Water Elemental (Well-Worn)"
+    paint_index: 353
+  - market_hash_name: "Glock-18 | Water Elemental (Battle-Scarred)"
+    paint_index: 353
+
+  # Glock-18 | Gamma Doppler
+  - market_hash_name: "Glock-18 | Gamma Doppler (Factory New)"
+    paint_index: 1121
+  - market_hash_name: "Glock-18 | Gamma Doppler (Minimal Wear)"
+    paint_index: 1121
+  - market_hash_name: "Glock-18 | Gamma Doppler (Field-Tested)"
+    paint_index: 1121
+  - market_hash_name: "Glock-18 | Gamma Doppler (Well-Worn)"
+    paint_index: 1121
+  - market_hash_name: "Glock-18 | Gamma Doppler (Battle-Scarred)"
+    paint_index: 1121
+
+  # Glock-18 | Nuclear Garden
+  - market_hash_name: "Glock-18 | Nuclear Garden (Factory New)"
+    paint_index: 789
+  - market_hash_name: "Glock-18 | Nuclear Garden (Minimal Wear)"
+    paint_index: 789
+  - market_hash_name: "Glock-18 | Nuclear Garden (Field-Tested)"
+    paint_index: 789
+  - market_hash_name: "Glock-18 | Nuclear Garden (Well-Worn)"
+    paint_index: 789
+  - market_hash_name: "Glock-18 | Nuclear Garden (Battle-Scarred)"
+    paint_index: 789
+
+  # Glock-18 | Neo-Noir
+  - market_hash_name: "Glock-18 | Neo-Noir (Factory New)"
+    paint_index: 988
+  - market_hash_name: "Glock-18 | Neo-Noir (Minimal Wear)"
+    paint_index: 988
+  - market_hash_name: "Glock-18 | Neo-Noir (Field-Tested)"
+    paint_index: 988
+  - market_hash_name: "Glock-18 | Neo-Noir (Well-Worn)"
+    paint_index: 988
+  - market_hash_name: "Glock-18 | Neo-Noir (Battle-Scarred)"
+    paint_index: 988
+
+  # Glock-18 | Twilight Galaxy
+  - market_hash_name: "Glock-18 | Twilight Galaxy (Factory New)"
+    paint_index: 437
+  - market_hash_name: "Glock-18 | Twilight Galaxy (Minimal Wear)"
+    paint_index: 437
+  - market_hash_name: "Glock-18 | Twilight Galaxy (Field-Tested)"
+    paint_index: 437
+  - market_hash_name: "Glock-18 | Twilight Galaxy (Well-Worn)"
+    paint_index: 437
+  - market_hash_name: "Glock-18 | Twilight Galaxy (Battle-Scarred)"
+    paint_index: 437
+
+  # Glock-18 | Vogue
+  - market_hash_name: "Glock-18 | Vogue (Factory New)"
+    paint_index: 963
+  - market_hash_name: "Glock-18 | Vogue (Minimal Wear)"
+    paint_index: 963
+  - market_hash_name: "Glock-18 | Vogue (Field-Tested)"
+    paint_index: 963
+  - market_hash_name: "Glock-18 | Vogue (Well-Worn)"
+    paint_index: 963
+  - market_hash_name: "Glock-18 | Vogue (Battle-Scarred)"
+    paint_index: 963
+
+  # Glock-18 | Candy Apple
+  - market_hash_name: "Glock-18 | Candy Apple (Factory New)"
+    paint_index: 3
+  - market_hash_name: "Glock-18 | Candy Apple (Minimal Wear)"
+    paint_index: 3
+  - market_hash_name: "Glock-18 | Candy Apple (Field-Tested)"
+    paint_index: 3
+  - market_hash_name: "Glock-18 | Candy Apple (Well-Worn)"
+    paint_index: 3
+  - market_hash_name: "Glock-18 | Candy Apple (Battle-Scarred)"
+    paint_index: 3
+
+  # USP-S | Printstream
+  - market_hash_name: "USP-S | Printstream (Factory New)"
+    paint_index: 1142
+  - market_hash_name: "USP-S | Printstream (Minimal Wear)"
+    paint_index: 1142
+  - market_hash_name: "USP-S | Printstream (Field-Tested)"
+    paint_index: 1142
+  - market_hash_name: "USP-S | Printstream (Well-Worn)"
+    paint_index: 1142
+  - market_hash_name: "USP-S | Printstream (Battle-Scarred)"
+    paint_index: 1142
+
+  # USP-S | Kill Confirmed
+  - market_hash_name: "USP-S | Kill Confirmed (Factory New)"
+    paint_index: 504
+  - market_hash_name: "USP-S | Kill Confirmed (Minimal Wear)"
+    paint_index: 504
+  - market_hash_name: "USP-S | Kill Confirmed (Field-Tested)"
+    paint_index: 504
+  - market_hash_name: "USP-S | Kill Confirmed (Well-Worn)"
+    paint_index: 504
+  - market_hash_name: "USP-S | Kill Confirmed (Battle-Scarred)"
+    paint_index: 504
+
+  # USP-S | Whiteout
+  - market_hash_name: "USP-S | Whiteout (Factory New)"
+    paint_index: 1065
+  - market_hash_name: "USP-S | Whiteout (Minimal Wear)"
+    paint_index: 1065
+  - market_hash_name: "USP-S | Whiteout (Field-Tested)"
+    paint_index: 1065
+  - market_hash_name: "USP-S | Whiteout (Well-Worn)"
+    paint_index: 1065
+  - market_hash_name: "USP-S | Whiteout (Battle-Scarred)"
+    paint_index: 1065
+
+  # USP-S | Jawbreaker
+  - market_hash_name: "USP-S | Jawbreaker (Factory New)"
+    paint_index: 1173
+  - market_hash_name: "USP-S | Jawbreaker (Minimal Wear)"
+    paint_index: 1173
+  - market_hash_name: "USP-S | Jawbreaker (Field-Tested)"
+    paint_index: 1173
+  - market_hash_name: "USP-S | Jawbreaker (Well-Worn)"
+    paint_index: 1173
+  - market_hash_name: "USP-S | Jawbreaker (Battle-Scarred)"
+    paint_index: 1173
+
+  # USP-S | Orion
+  - market_hash_name: "USP-S | Orion (Factory New)"
+    paint_index: 313
+  - market_hash_name: "USP-S | Orion (Minimal Wear)"
+    paint_index: 313
+  - market_hash_name: "USP-S | Orion (Field-Tested)"
+    paint_index: 313
+  - market_hash_name: "USP-S | Orion (Well-Worn)"
+    paint_index: 313
+  - market_hash_name: "USP-S | Orion (Battle-Scarred)"
+    paint_index: 313
+
+  # USP-S | Neo-Noir
+  - market_hash_name: "USP-S | Neo-Noir (Factory New)"
+    paint_index: 653
+  - market_hash_name: "USP-S | Neo-Noir (Minimal Wear)"
+    paint_index: 653
+  - market_hash_name: "USP-S | Neo-Noir (Field-Tested)"
+    paint_index: 653
+  - market_hash_name: "USP-S | Neo-Noir (Well-Worn)"
+    paint_index: 653
+  - market_hash_name: "USP-S | Neo-Noir (Battle-Scarred)"
+    paint_index: 653
+
+# ── Knives ────────────────────────────────────────────────────────────
+
+  # ★ Karambit | Doppler
+  - market_hash_name: "★ Karambit | Doppler (Factory New)"
+    paint_index: 421
+  - market_hash_name: "★ Karambit | Doppler (Minimal Wear)"
+    paint_index: 421
+  - market_hash_name: "★ Karambit | Doppler (Field-Tested)"
+    paint_index: 421
+  - market_hash_name: "★ Karambit | Doppler (Well-Worn)"
+    paint_index: 421
+  - market_hash_name: "★ Karambit | Doppler (Battle-Scarred)"
+    paint_index: 421
+
+  # ★ Karambit | Case Hardened
+  - market_hash_name: "★ Karambit | Case Hardened (Factory New)"
+    paint_index: 44
+  - market_hash_name: "★ Karambit | Case Hardened (Minimal Wear)"
+    paint_index: 44
+  - market_hash_name: "★ Karambit | Case Hardened (Field-Tested)"
+    paint_index: 44
+  - market_hash_name: "★ Karambit | Case Hardened (Well-Worn)"
+    paint_index: 44
+  - market_hash_name: "★ Karambit | Case Hardened (Battle-Scarred)"
+    paint_index: 44
+
+  # ★ Karambit | Lore
+  - market_hash_name: "★ Karambit | Lore (Factory New)"
+    paint_index: 561
+  - market_hash_name: "★ Karambit | Lore (Minimal Wear)"
+    paint_index: 561
+  - market_hash_name: "★ Karambit | Lore (Field-Tested)"
+    paint_index: 561
+  - market_hash_name: "★ Karambit | Lore (Well-Worn)"
+    paint_index: 561
+  - market_hash_name: "★ Karambit | Lore (Battle-Scarred)"
+    paint_index: 561
+
+  # ★ Karambit | Tiger Tooth
+  - market_hash_name: "★ Karambit | Tiger Tooth (Factory New)"
+    paint_index: 409
+  - market_hash_name: "★ Karambit | Tiger Tooth (Minimal Wear)"
+    paint_index: 409
+  - market_hash_name: "★ Karambit | Tiger Tooth (Field-Tested)"
+    paint_index: 409
+  - market_hash_name: "★ Karambit | Tiger Tooth (Well-Worn)"
+    paint_index: 409
+  - market_hash_name: "★ Karambit | Tiger Tooth (Battle-Scarred)"
+    paint_index: 409
+
+  # ★ Karambit | Fade
+  - market_hash_name: "★ Karambit | Fade (Factory New)"
+    paint_index: 38
+  - market_hash_name: "★ Karambit | Fade (Minimal Wear)"
+    paint_index: 38
+  - market_hash_name: "★ Karambit | Fade (Field-Tested)"
+    paint_index: 38
+  - market_hash_name: "★ Karambit | Fade (Well-Worn)"
+    paint_index: 38
+  - market_hash_name: "★ Karambit | Fade (Battle-Scarred)"
+    paint_index: 38
+
+  # ★ Karambit | Autotronic
+  - market_hash_name: "★ Karambit | Autotronic (Factory New)"
+    paint_index: 576
+  - market_hash_name: "★ Karambit | Autotronic (Minimal Wear)"
+    paint_index: 576
+  - market_hash_name: "★ Karambit | Autotronic (Field-Tested)"
+    paint_index: 576
+  - market_hash_name: "★ Karambit | Autotronic (Well-Worn)"
+    paint_index: 576
+  - market_hash_name: "★ Karambit | Autotronic (Battle-Scarred)"
+    paint_index: 576
+
+  # ★ Karambit | Marble Fade
+  - market_hash_name: "★ Karambit | Marble Fade (Factory New)"
+    paint_index: 413
+  - market_hash_name: "★ Karambit | Marble Fade (Minimal Wear)"
+    paint_index: 413
+  - market_hash_name: "★ Karambit | Marble Fade (Field-Tested)"
+    paint_index: 413
+  - market_hash_name: "★ Karambit | Marble Fade (Well-Worn)"
+    paint_index: 413
+  - market_hash_name: "★ Karambit | Marble Fade (Battle-Scarred)"
+    paint_index: 413
+
+  # ★ Karambit | Gamma Doppler
+  - market_hash_name: "★ Karambit | Gamma Doppler (Factory New)"
+    paint_index: 569
+  - market_hash_name: "★ Karambit | Gamma Doppler (Minimal Wear)"
+    paint_index: 569
+  - market_hash_name: "★ Karambit | Gamma Doppler (Field-Tested)"
+    paint_index: 569
+  - market_hash_name: "★ Karambit | Gamma Doppler (Well-Worn)"
+    paint_index: 569
+  - market_hash_name: "★ Karambit | Gamma Doppler (Battle-Scarred)"
+    paint_index: 569
+
+  # ★ Karambit | Black Laminate
+  - market_hash_name: "★ Karambit | Black Laminate (Factory New)"
+    paint_index: 566
+  - market_hash_name: "★ Karambit | Black Laminate (Minimal Wear)"
+    paint_index: 566
+  - market_hash_name: "★ Karambit | Black Laminate (Field-Tested)"
+    paint_index: 566
+  - market_hash_name: "★ Karambit | Black Laminate (Well-Worn)"
+    paint_index: 566
+  - market_hash_name: "★ Karambit | Black Laminate (Battle-Scarred)"
+    paint_index: 566
+
+  # ★ Karambit | Slaughter
+  - market_hash_name: "★ Karambit | Slaughter (Factory New)"
+    paint_index: 59
+  - market_hash_name: "★ Karambit | Slaughter (Minimal Wear)"
+    paint_index: 59
+  - market_hash_name: "★ Karambit | Slaughter (Field-Tested)"
+    paint_index: 59
+  - market_hash_name: "★ Karambit | Slaughter (Well-Worn)"
+    paint_index: 59
+  - market_hash_name: "★ Karambit | Slaughter (Battle-Scarred)"
+    paint_index: 59
+
+  # ★ Butterfly Knife | Lore
+  - market_hash_name: "★ Butterfly Knife | Lore (Factory New)"
+    paint_index: 1105
+  - market_hash_name: "★ Butterfly Knife | Lore (Minimal Wear)"
+    paint_index: 1105
+  - market_hash_name: "★ Butterfly Knife | Lore (Field-Tested)"
+    paint_index: 1105
+  - market_hash_name: "★ Butterfly Knife | Lore (Well-Worn)"
+    paint_index: 1105
+  - market_hash_name: "★ Butterfly Knife | Lore (Battle-Scarred)"
+    paint_index: 1105
+
+  # ★ Butterfly Knife | Fade
+  - market_hash_name: "★ Butterfly Knife | Fade (Factory New)"
+    paint_index: 38
+  - market_hash_name: "★ Butterfly Knife | Fade (Minimal Wear)"
+    paint_index: 38
+  - market_hash_name: "★ Butterfly Knife | Fade (Field-Tested)"
+    paint_index: 38
+  - market_hash_name: "★ Butterfly Knife | Fade (Well-Worn)"
+    paint_index: 38
+  - market_hash_name: "★ Butterfly Knife | Fade (Battle-Scarred)"
+    paint_index: 38
+
+  # ★ Butterfly Knife | Tiger Tooth
+  - market_hash_name: "★ Butterfly Knife | Tiger Tooth (Factory New)"
+    paint_index: 409
+  - market_hash_name: "★ Butterfly Knife | Tiger Tooth (Minimal Wear)"
+    paint_index: 409
+  - market_hash_name: "★ Butterfly Knife | Tiger Tooth (Field-Tested)"
+    paint_index: 409
+  - market_hash_name: "★ Butterfly Knife | Tiger Tooth (Well-Worn)"
+    paint_index: 409
+  - market_hash_name: "★ Butterfly Knife | Tiger Tooth (Battle-Scarred)"
+    paint_index: 409
+
+  # ★ Butterfly Knife | Autotronic
+  - market_hash_name: "★ Butterfly Knife | Autotronic (Factory New)"
+    paint_index: 1115
+  - market_hash_name: "★ Butterfly Knife | Autotronic (Minimal Wear)"
+    paint_index: 1115
+  - market_hash_name: "★ Butterfly Knife | Autotronic (Field-Tested)"
+    paint_index: 1115
+  - market_hash_name: "★ Butterfly Knife | Autotronic (Well-Worn)"
+    paint_index: 1115
+  - market_hash_name: "★ Butterfly Knife | Autotronic (Battle-Scarred)"
+    paint_index: 1115
+
+  # ★ Butterfly Knife | Gamma Doppler
+  - market_hash_name: "★ Butterfly Knife | Gamma Doppler (Factory New)"
+    paint_index: 570
+  - market_hash_name: "★ Butterfly Knife | Gamma Doppler (Minimal Wear)"
+    paint_index: 570
+  - market_hash_name: "★ Butterfly Knife | Gamma Doppler (Field-Tested)"
+    paint_index: 570
+  - market_hash_name: "★ Butterfly Knife | Gamma Doppler (Well-Worn)"
+    paint_index: 570
+  - market_hash_name: "★ Butterfly Knife | Gamma Doppler (Battle-Scarred)"
+    paint_index: 570
+
+  # ★ Butterfly Knife | Black Laminate
+  - market_hash_name: "★ Butterfly Knife | Black Laminate (Factory New)"
+    paint_index: 1110
+  - market_hash_name: "★ Butterfly Knife | Black Laminate (Minimal Wear)"
+    paint_index: 1110
+  - market_hash_name: "★ Butterfly Knife | Black Laminate (Field-Tested)"
+    paint_index: 1110
+  - market_hash_name: "★ Butterfly Knife | Black Laminate (Well-Worn)"
+    paint_index: 1110
+  - market_hash_name: "★ Butterfly Knife | Black Laminate (Battle-Scarred)"
+    paint_index: 1110
+
+  # ★ Butterfly Knife | Slaughter
+  - market_hash_name: "★ Butterfly Knife | Slaughter (Factory New)"
+    paint_index: 59
+  - market_hash_name: "★ Butterfly Knife | Slaughter (Minimal Wear)"
+    paint_index: 59
+  - market_hash_name: "★ Butterfly Knife | Slaughter (Field-Tested)"
+    paint_index: 59
+  - market_hash_name: "★ Butterfly Knife | Slaughter (Well-Worn)"
+    paint_index: 59
+  - market_hash_name: "★ Butterfly Knife | Slaughter (Battle-Scarred)"
+    paint_index: 59
+
+  # ★ Butterfly Knife | Doppler
+  - market_hash_name: "★ Butterfly Knife | Doppler (Factory New)"
+    paint_index: 420
+  - market_hash_name: "★ Butterfly Knife | Doppler (Minimal Wear)"
+    paint_index: 420
+  - market_hash_name: "★ Butterfly Knife | Doppler (Field-Tested)"
+    paint_index: 420
+  - market_hash_name: "★ Butterfly Knife | Doppler (Well-Worn)"
+    paint_index: 420
+  - market_hash_name: "★ Butterfly Knife | Doppler (Battle-Scarred)"
+    paint_index: 420
+
+  # ★ Butterfly Knife | Marble Fade
+  - market_hash_name: "★ Butterfly Knife | Marble Fade (Factory New)"
+    paint_index: 413
+  - market_hash_name: "★ Butterfly Knife | Marble Fade (Minimal Wear)"
+    paint_index: 413
+  - market_hash_name: "★ Butterfly Knife | Marble Fade (Field-Tested)"
+    paint_index: 413
+  - market_hash_name: "★ Butterfly Knife | Marble Fade (Well-Worn)"
+    paint_index: 413
+  - market_hash_name: "★ Butterfly Knife | Marble Fade (Battle-Scarred)"
+    paint_index: 413
+
+  # ★ Butterfly Knife | Freehand
+  - market_hash_name: "★ Butterfly Knife | Freehand (Factory New)"
+    paint_index: 581
+  - market_hash_name: "★ Butterfly Knife | Freehand (Minimal Wear)"
+    paint_index: 581
+  - market_hash_name: "★ Butterfly Knife | Freehand (Field-Tested)"
+    paint_index: 581
+  - market_hash_name: "★ Butterfly Knife | Freehand (Well-Worn)"
+    paint_index: 581
+  - market_hash_name: "★ Butterfly Knife | Freehand (Battle-Scarred)"
+    paint_index: 581
+
+  # ★ M9 Bayonet | Doppler
+  - market_hash_name: "★ M9 Bayonet | Doppler (Factory New)"
+    paint_index: 418
+  - market_hash_name: "★ M9 Bayonet | Doppler (Minimal Wear)"
+    paint_index: 418
+  - market_hash_name: "★ M9 Bayonet | Doppler (Field-Tested)"
+    paint_index: 418
+  - market_hash_name: "★ M9 Bayonet | Doppler (Well-Worn)"
+    paint_index: 418
+  - market_hash_name: "★ M9 Bayonet | Doppler (Battle-Scarred)"
+    paint_index: 418
+
+  # ★ M9 Bayonet | Lore
+  - market_hash_name: "★ M9 Bayonet | Lore (Factory New)"
+    paint_index: 562
+  - market_hash_name: "★ M9 Bayonet | Lore (Minimal Wear)"
+    paint_index: 562
+  - market_hash_name: "★ M9 Bayonet | Lore (Field-Tested)"
+    paint_index: 562
+  - market_hash_name: "★ M9 Bayonet | Lore (Well-Worn)"
+    paint_index: 562
+  - market_hash_name: "★ M9 Bayonet | Lore (Battle-Scarred)"
+    paint_index: 562
+
+  # ★ M9 Bayonet | Tiger Tooth
+  - market_hash_name: "★ M9 Bayonet | Tiger Tooth (Factory New)"
+    paint_index: 409
+  - market_hash_name: "★ M9 Bayonet | Tiger Tooth (Minimal Wear)"
+    paint_index: 409
+  - market_hash_name: "★ M9 Bayonet | Tiger Tooth (Field-Tested)"
+    paint_index: 409
+  - market_hash_name: "★ M9 Bayonet | Tiger Tooth (Well-Worn)"
+    paint_index: 409
+  - market_hash_name: "★ M9 Bayonet | Tiger Tooth (Battle-Scarred)"
+    paint_index: 409
+
+  # ★ M9 Bayonet | Black Laminate
+  - market_hash_name: "★ M9 Bayonet | Black Laminate (Factory New)"
+    paint_index: 567
+  - market_hash_name: "★ M9 Bayonet | Black Laminate (Minimal Wear)"
+    paint_index: 567
+  - market_hash_name: "★ M9 Bayonet | Black Laminate (Field-Tested)"
+    paint_index: 567
+  - market_hash_name: "★ M9 Bayonet | Black Laminate (Well-Worn)"
+    paint_index: 567
+  - market_hash_name: "★ M9 Bayonet | Black Laminate (Battle-Scarred)"
+    paint_index: 567
+
+  # ★ M9 Bayonet | Fade
+  - market_hash_name: "★ M9 Bayonet | Fade (Factory New)"
+    paint_index: 38
+  - market_hash_name: "★ M9 Bayonet | Fade (Minimal Wear)"
+    paint_index: 38
+  - market_hash_name: "★ M9 Bayonet | Fade (Field-Tested)"
+    paint_index: 38
+  - market_hash_name: "★ M9 Bayonet | Fade (Well-Worn)"
+    paint_index: 38
+  - market_hash_name: "★ M9 Bayonet | Fade (Battle-Scarred)"
+    paint_index: 38
+
+  # ★ M9 Bayonet | Marble Fade
+  - market_hash_name: "★ M9 Bayonet | Marble Fade (Factory New)"
+    paint_index: 413
+  - market_hash_name: "★ M9 Bayonet | Marble Fade (Minimal Wear)"
+    paint_index: 413
+  - market_hash_name: "★ M9 Bayonet | Marble Fade (Field-Tested)"
+    paint_index: 413
+  - market_hash_name: "★ M9 Bayonet | Marble Fade (Well-Worn)"
+    paint_index: 413
+  - market_hash_name: "★ M9 Bayonet | Marble Fade (Battle-Scarred)"
+    paint_index: 413
+
+  # ★ M9 Bayonet | Crimson Web
+  - market_hash_name: "★ M9 Bayonet | Crimson Web (Factory New)"
+    paint_index: 12
+  - market_hash_name: "★ M9 Bayonet | Crimson Web (Minimal Wear)"
+    paint_index: 12
+  - market_hash_name: "★ M9 Bayonet | Crimson Web (Field-Tested)"
+    paint_index: 12
+  - market_hash_name: "★ M9 Bayonet | Crimson Web (Well-Worn)"
+    paint_index: 12
+  - market_hash_name: "★ M9 Bayonet | Crimson Web (Battle-Scarred)"
+    paint_index: 12
+
+  # ★ M9 Bayonet | Slaughter
+  - market_hash_name: "★ M9 Bayonet | Slaughter (Factory New)"
+    paint_index: 59
+  - market_hash_name: "★ M9 Bayonet | Slaughter (Minimal Wear)"
+    paint_index: 59
+  - market_hash_name: "★ M9 Bayonet | Slaughter (Field-Tested)"
+    paint_index: 59
+  - market_hash_name: "★ M9 Bayonet | Slaughter (Well-Worn)"
+    paint_index: 59
+  - market_hash_name: "★ M9 Bayonet | Slaughter (Battle-Scarred)"
+    paint_index: 59
+
+# ── Gloves ────────────────────────────────────────────────────────────
+
+  # ★ Sport Gloves | Vice
+  - market_hash_name: "★ Sport Gloves | Vice (Factory New)"
+    paint_index: 10048
+  - market_hash_name: "★ Sport Gloves | Vice (Minimal Wear)"
+    paint_index: 10048
+  - market_hash_name: "★ Sport Gloves | Vice (Field-Tested)"
+    paint_index: 10048
+  - market_hash_name: "★ Sport Gloves | Vice (Well-Worn)"
+    paint_index: 10048
+  - market_hash_name: "★ Sport Gloves | Vice (Battle-Scarred)"
+    paint_index: 10048
+
+  # ★ Sport Gloves | Nocts
+  - market_hash_name: "★ Sport Gloves | Nocts (Factory New)"
+    paint_index: 10076
+  - market_hash_name: "★ Sport Gloves | Nocts (Minimal Wear)"
+    paint_index: 10076
+  - market_hash_name: "★ Sport Gloves | Nocts (Field-Tested)"
+    paint_index: 10076
+  - market_hash_name: "★ Sport Gloves | Nocts (Well-Worn)"
+    paint_index: 10076
+  - market_hash_name: "★ Sport Gloves | Nocts (Battle-Scarred)"
+    paint_index: 10076
+
+  # ★ Sport Gloves | Amphibious
+  - market_hash_name: "★ Sport Gloves | Amphibious (Factory New)"
+    paint_index: 10045
+  - market_hash_name: "★ Sport Gloves | Amphibious (Minimal Wear)"
+    paint_index: 10045
+  - market_hash_name: "★ Sport Gloves | Amphibious (Field-Tested)"
+    paint_index: 10045
+  - market_hash_name: "★ Sport Gloves | Amphibious (Well-Worn)"
+    paint_index: 10045
+  - market_hash_name: "★ Sport Gloves | Amphibious (Battle-Scarred)"
+    paint_index: 10045
+
+  # ★ Sport Gloves | Pandora's Box
+  - market_hash_name: "★ Sport Gloves | Pandora's Box (Factory New)"
+    paint_index: 10037
+  - market_hash_name: "★ Sport Gloves | Pandora's Box (Minimal Wear)"
+    paint_index: 10037
+  - market_hash_name: "★ Sport Gloves | Pandora's Box (Field-Tested)"
+    paint_index: 10037
+  - market_hash_name: "★ Sport Gloves | Pandora's Box (Well-Worn)"
+    paint_index: 10037
+  - market_hash_name: "★ Sport Gloves | Pandora's Box (Battle-Scarred)"
+    paint_index: 10037
+
+  # ★ Sport Gloves | Ultra Violent
+  - market_hash_name: "★ Sport Gloves | Ultra Violent (Factory New)"
+    paint_index: 1410
+  - market_hash_name: "★ Sport Gloves | Ultra Violent (Minimal Wear)"
+    paint_index: 1410
+  - market_hash_name: "★ Sport Gloves | Ultra Violent (Field-Tested)"
+    paint_index: 1410
+  - market_hash_name: "★ Sport Gloves | Ultra Violent (Well-Worn)"
+    paint_index: 1410
+  - market_hash_name: "★ Sport Gloves | Ultra Violent (Battle-Scarred)"
+    paint_index: 1410
+
+  # ★ Sport Gloves | Omega
+  - market_hash_name: "★ Sport Gloves | Omega (Factory New)"
+    paint_index: 10047
+  - market_hash_name: "★ Sport Gloves | Omega (Minimal Wear)"
+    paint_index: 10047
+  - market_hash_name: "★ Sport Gloves | Omega (Field-Tested)"
+    paint_index: 10047
+  - market_hash_name: "★ Sport Gloves | Omega (Well-Worn)"
+    paint_index: 10047
+  - market_hash_name: "★ Sport Gloves | Omega (Battle-Scarred)"
+    paint_index: 10047
+
+  # ★ Specialist Gloves | Crimson Web
+  - market_hash_name: "★ Specialist Gloves | Crimson Web (Factory New)"
+    paint_index: 10061
+  - market_hash_name: "★ Specialist Gloves | Crimson Web (Minimal Wear)"
+    paint_index: 10061
+  - market_hash_name: "★ Specialist Gloves | Crimson Web (Field-Tested)"
+    paint_index: 10061
+  - market_hash_name: "★ Specialist Gloves | Crimson Web (Well-Worn)"
+    paint_index: 10061
+  - market_hash_name: "★ Specialist Gloves | Crimson Web (Battle-Scarred)"
+    paint_index: 10061
+
+  # ★ Specialist Gloves | Fade
+  - market_hash_name: "★ Specialist Gloves | Fade (Factory New)"
+    paint_index: 10063
+  - market_hash_name: "★ Specialist Gloves | Fade (Minimal Wear)"
+    paint_index: 10063
+  - market_hash_name: "★ Specialist Gloves | Fade (Field-Tested)"
+    paint_index: 10063
+  - market_hash_name: "★ Specialist Gloves | Fade (Well-Worn)"
+    paint_index: 10063
+  - market_hash_name: "★ Specialist Gloves | Fade (Battle-Scarred)"
+    paint_index: 10063
+
+  # ★ Specialist Gloves | Marble Fade
+  - market_hash_name: "★ Specialist Gloves | Marble Fade (Factory New)"
+    paint_index: 10065
+  - market_hash_name: "★ Specialist Gloves | Marble Fade (Minimal Wear)"
+    paint_index: 10065
+  - market_hash_name: "★ Specialist Gloves | Marble Fade (Field-Tested)"
+    paint_index: 10065
+  - market_hash_name: "★ Specialist Gloves | Marble Fade (Well-Worn)"
+    paint_index: 10065
+  - market_hash_name: "★ Specialist Gloves | Marble Fade (Battle-Scarred)"
+    paint_index: 10065
+
+  # ★ Specialist Gloves | Crimson Kimono
+  - market_hash_name: "★ Specialist Gloves | Crimson Kimono (Factory New)"
+    paint_index: 10033
+  - market_hash_name: "★ Specialist Gloves | Crimson Kimono (Minimal Wear)"
+    paint_index: 10033
+  - market_hash_name: "★ Specialist Gloves | Crimson Kimono (Field-Tested)"
+    paint_index: 10033
+  - market_hash_name: "★ Specialist Gloves | Crimson Kimono (Well-Worn)"
+    paint_index: 10033
+  - market_hash_name: "★ Specialist Gloves | Crimson Kimono (Battle-Scarred)"
+    paint_index: 10033
+
+  # ★ Specialist Gloves | Field Agent
+  - market_hash_name: "★ Specialist Gloves | Field Agent (Factory New)"
+    paint_index: 10068
+  - market_hash_name: "★ Specialist Gloves | Field Agent (Minimal Wear)"
+    paint_index: 10068
+  - market_hash_name: "★ Specialist Gloves | Field Agent (Field-Tested)"
+    paint_index: 10068
+  - market_hash_name: "★ Specialist Gloves | Field Agent (Well-Worn)"
+    paint_index: 10068
+  - market_hash_name: "★ Specialist Gloves | Field Agent (Battle-Scarred)"
+    paint_index: 10068
+
+  # ★ Driver Gloves | King Snake
+  - market_hash_name: "★ Driver Gloves | King Snake (Factory New)"
+    paint_index: 10041
+  - market_hash_name: "★ Driver Gloves | King Snake (Minimal Wear)"
+    paint_index: 10041
+  - market_hash_name: "★ Driver Gloves | King Snake (Field-Tested)"
+    paint_index: 10041
+  - market_hash_name: "★ Driver Gloves | King Snake (Well-Worn)"
+    paint_index: 10041
+  - market_hash_name: "★ Driver Gloves | King Snake (Battle-Scarred)"
+    paint_index: 10041
+
+  # ★ Driver Gloves | Imperial Plaid
+  - market_hash_name: "★ Driver Gloves | Imperial Plaid (Factory New)"
+    paint_index: 10042
+  - market_hash_name: "★ Driver Gloves | Imperial Plaid (Minimal Wear)"
+    paint_index: 10042
+  - market_hash_name: "★ Driver Gloves | Imperial Plaid (Field-Tested)"
+    paint_index: 10042
+  - market_hash_name: "★ Driver Gloves | Imperial Plaid (Well-Worn)"
+    paint_index: 10042
+  - market_hash_name: "★ Driver Gloves | Imperial Plaid (Battle-Scarred)"
+    paint_index: 10042
+
+  # ★ Driver Gloves | Snow Leopard
+  - market_hash_name: "★ Driver Gloves | Snow Leopard (Factory New)"
+    paint_index: 10070
+  - market_hash_name: "★ Driver Gloves | Snow Leopard (Minimal Wear)"
+    paint_index: 10070
+  - market_hash_name: "★ Driver Gloves | Snow Leopard (Field-Tested)"
+    paint_index: 10070
+  - market_hash_name: "★ Driver Gloves | Snow Leopard (Well-Worn)"
+    paint_index: 10070
+  - market_hash_name: "★ Driver Gloves | Snow Leopard (Battle-Scarred)"
+    paint_index: 10070
+
+  # ★ Driver Gloves | Wave Chaser
+  - market_hash_name: "★ Driver Gloves | Wave Chaser (Factory New)"
+    paint_index: 1398
+  - market_hash_name: "★ Driver Gloves | Wave Chaser (Minimal Wear)"
+    paint_index: 1398
+  - market_hash_name: "★ Driver Gloves | Wave Chaser (Field-Tested)"
+    paint_index: 1398
+  - market_hash_name: "★ Driver Gloves | Wave Chaser (Well-Worn)"
+    paint_index: 1398
+  - market_hash_name: "★ Driver Gloves | Wave Chaser (Battle-Scarred)"
+    paint_index: 1398
+
+  # ★ Hand Wraps | Cobalt Skulls
+  - market_hash_name: "★ Hand Wraps | Cobalt Skulls (Factory New)"
+    paint_index: 10053
+  - market_hash_name: "★ Hand Wraps | Cobalt Skulls (Minimal Wear)"
+    paint_index: 10053
+  - market_hash_name: "★ Hand Wraps | Cobalt Skulls (Field-Tested)"
+    paint_index: 10053
+  - market_hash_name: "★ Hand Wraps | Cobalt Skulls (Well-Worn)"
+    paint_index: 10053
+  - market_hash_name: "★ Hand Wraps | Cobalt Skulls (Battle-Scarred)"
+    paint_index: 10053
+
+  # ★ Hand Wraps | Overprint
+  - market_hash_name: "★ Hand Wraps | Overprint (Factory New)"
+    paint_index: 10054
+  - market_hash_name: "★ Hand Wraps | Overprint (Minimal Wear)"
+    paint_index: 10054
+  - market_hash_name: "★ Hand Wraps | Overprint (Field-Tested)"
+    paint_index: 10054
+  - market_hash_name: "★ Hand Wraps | Overprint (Well-Worn)"
+    paint_index: 10054
+  - market_hash_name: "★ Hand Wraps | Overprint (Battle-Scarred)"
+    paint_index: 10054
+
+  # ★ Hand Wraps | Duct Tape
+  - market_hash_name: "★ Hand Wraps | Duct Tape (Factory New)"
+    paint_index: 10055
+  - market_hash_name: "★ Hand Wraps | Duct Tape (Minimal Wear)"
+    paint_index: 10055
+  - market_hash_name: "★ Hand Wraps | Duct Tape (Field-Tested)"
+    paint_index: 10055
+  - market_hash_name: "★ Hand Wraps | Duct Tape (Well-Worn)"
+    paint_index: 10055
+  - market_hash_name: "★ Hand Wraps | Duct Tape (Battle-Scarred)"
+    paint_index: 10055
+
+  # ★ Hand Wraps | CAUTION!
+  - market_hash_name: "★ Hand Wraps | CAUTION! (Factory New)"
+    paint_index: 10084
+  - market_hash_name: "★ Hand Wraps | CAUTION! (Minimal Wear)"
+    paint_index: 10084
+  - market_hash_name: "★ Hand Wraps | CAUTION! (Field-Tested)"
+    paint_index: 10084
+  - market_hash_name: "★ Hand Wraps | CAUTION! (Well-Worn)"
+    paint_index: 10084
+  - market_hash_name: "★ Hand Wraps | CAUTION! (Battle-Scarred)"
+    paint_index: 10084
+
+  # ★ Hand Wraps | Constrictor
+  - market_hash_name: "★ Hand Wraps | Constrictor (Factory New)"
+    paint_index: 10083
+  - market_hash_name: "★ Hand Wraps | Constrictor (Minimal Wear)"
+    paint_index: 10083
+  - market_hash_name: "★ Hand Wraps | Constrictor (Field-Tested)"
+    paint_index: 10083
+  - market_hash_name: "★ Hand Wraps | Constrictor (Well-Worn)"
+    paint_index: 10083
+  - market_hash_name: "★ Hand Wraps | Constrictor (Battle-Scarred)"
+    paint_index: 10083

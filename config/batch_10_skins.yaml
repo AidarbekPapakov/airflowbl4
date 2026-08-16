@@ -1,0 +1,1070 @@
+# Phase 0 data backfill (batch 10)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: UMP-45, ★ Bayonet, ★ Butterfly Knife, ★ Survival Knife, ★ Paracord Knife, ★ Classic Knife
+skins:
+- market_hash_name: UMP-45 | Mechanism (Factory New)
+  paint_index: 1085
+- market_hash_name: UMP-45 | Mechanism (Minimal Wear)
+  paint_index: 1085
+- market_hash_name: UMP-45 | Mechanism (Field-Tested)
+  paint_index: 1085
+- market_hash_name: UMP-45 | Mechanism (Well-Worn)
+  paint_index: 1085
+- market_hash_name: UMP-45 | Mechanism (Battle-Scarred)
+  paint_index: 1085
+- market_hash_name: UMP-45 | Fade (Factory New)
+  paint_index: 879
+- market_hash_name: UMP-45 | Fade (Minimal Wear)
+  paint_index: 879
+- market_hash_name: UMP-45 | Blaze (Factory New)
+  paint_index: 37
+- market_hash_name: UMP-45 | Blaze (Minimal Wear)
+  paint_index: 37
+- market_hash_name: UMP-45 | Moonrise (Factory New)
+  paint_index: 851
+- market_hash_name: UMP-45 | Moonrise (Minimal Wear)
+  paint_index: 851
+- market_hash_name: UMP-45 | Moonrise (Field-Tested)
+  paint_index: 851
+- market_hash_name: UMP-45 | Moonrise (Well-Worn)
+  paint_index: 851
+- market_hash_name: UMP-45 | Carbon Fiber (Factory New)
+  paint_index: 70
+- market_hash_name: UMP-45 | Carbon Fiber (Minimal Wear)
+  paint_index: 70
+- market_hash_name: UMP-45 | Oscillator (Factory New)
+  paint_index: 1049
+- market_hash_name: UMP-45 | Oscillator (Minimal Wear)
+  paint_index: 1049
+- market_hash_name: UMP-45 | Oscillator (Field-Tested)
+  paint_index: 1049
+- market_hash_name: UMP-45 | Oscillator (Well-Worn)
+  paint_index: 1049
+- market_hash_name: UMP-45 | Oscillator (Battle-Scarred)
+  paint_index: 1049
+- market_hash_name: UMP-45 | Grand Prix (Field-Tested)
+  paint_index: 436
+- market_hash_name: UMP-45 | Metal Flowers (Factory New)
+  paint_index: 672
+- market_hash_name: UMP-45 | Metal Flowers (Minimal Wear)
+  paint_index: 672
+- market_hash_name: UMP-45 | Metal Flowers (Field-Tested)
+  paint_index: 672
+- market_hash_name: UMP-45 | Metal Flowers (Well-Worn)
+  paint_index: 672
+- market_hash_name: UMP-45 | Metal Flowers (Battle-Scarred)
+  paint_index: 672
+- market_hash_name: UMP-45 | Minotaur's Labyrinth (Factory New)
+  paint_index: 441
+- market_hash_name: UMP-45 | Minotaur's Labyrinth (Minimal Wear)
+  paint_index: 441
+- market_hash_name: UMP-45 | Minotaur's Labyrinth (Field-Tested)
+  paint_index: 441
+- market_hash_name: UMP-45 | Minotaur's Labyrinth (Well-Worn)
+  paint_index: 441
+- market_hash_name: UMP-45 | Briefing (Factory New)
+  paint_index: 615
+- market_hash_name: UMP-45 | Briefing (Minimal Wear)
+  paint_index: 615
+- market_hash_name: UMP-45 | Briefing (Field-Tested)
+  paint_index: 615
+- market_hash_name: UMP-45 | Briefing (Well-Worn)
+  paint_index: 615
+- market_hash_name: UMP-45 | Briefing (Battle-Scarred)
+  paint_index: 615
+- market_hash_name: UMP-45 | Primal Saber (Factory New)
+  paint_index: 556
+- market_hash_name: UMP-45 | Primal Saber (Minimal Wear)
+  paint_index: 556
+- market_hash_name: UMP-45 | Primal Saber (Field-Tested)
+  paint_index: 556
+- market_hash_name: UMP-45 | Primal Saber (Well-Worn)
+  paint_index: 556
+- market_hash_name: UMP-45 | Primal Saber (Battle-Scarred)
+  paint_index: 556
+- market_hash_name: UMP-45 | Riot (Factory New)
+  paint_index: 488
+- market_hash_name: UMP-45 | Riot (Minimal Wear)
+  paint_index: 488
+- market_hash_name: UMP-45 | Riot (Field-Tested)
+  paint_index: 488
+- market_hash_name: UMP-45 | Riot (Well-Worn)
+  paint_index: 488
+- market_hash_name: UMP-45 | Riot (Battle-Scarred)
+  paint_index: 488
+- market_hash_name: UMP-45 | Arctic Wolf (Factory New)
+  paint_index: 704
+- market_hash_name: UMP-45 | Arctic Wolf (Minimal Wear)
+  paint_index: 704
+- market_hash_name: UMP-45 | Arctic Wolf (Field-Tested)
+  paint_index: 704
+- market_hash_name: UMP-45 | Arctic Wolf (Well-Worn)
+  paint_index: 704
+- market_hash_name: UMP-45 | Arctic Wolf (Battle-Scarred)
+  paint_index: 704
+- market_hash_name: UMP-45 | Exposure (Factory New)
+  paint_index: 688
+- market_hash_name: UMP-45 | Exposure (Minimal Wear)
+  paint_index: 688
+- market_hash_name: UMP-45 | Exposure (Field-Tested)
+  paint_index: 688
+- market_hash_name: UMP-45 | Exposure (Well-Worn)
+  paint_index: 688
+- market_hash_name: UMP-45 | Exposure (Battle-Scarred)
+  paint_index: 688
+- market_hash_name: UMP-45 | Momentum (Factory New)
+  paint_index: 802
+- market_hash_name: UMP-45 | Momentum (Minimal Wear)
+  paint_index: 802
+- market_hash_name: UMP-45 | Momentum (Field-Tested)
+  paint_index: 802
+- market_hash_name: UMP-45 | Momentum (Well-Worn)
+  paint_index: 802
+- market_hash_name: UMP-45 | Momentum (Battle-Scarred)
+  paint_index: 802
+- market_hash_name: UMP-45 | Plastique (Factory New)
+  paint_index: 916
+- market_hash_name: UMP-45 | Plastique (Minimal Wear)
+  paint_index: 916
+- market_hash_name: UMP-45 | Plastique (Field-Tested)
+  paint_index: 916
+- market_hash_name: UMP-45 | Plastique (Well-Worn)
+  paint_index: 916
+- market_hash_name: UMP-45 | Plastique (Battle-Scarred)
+  paint_index: 916
+- market_hash_name: UMP-45 | Wild Child (Factory New)
+  paint_index: 1236
+- market_hash_name: UMP-45 | Wild Child (Minimal Wear)
+  paint_index: 1236
+- market_hash_name: UMP-45 | Wild Child (Field-Tested)
+  paint_index: 1236
+- market_hash_name: UMP-45 | Wild Child (Well-Worn)
+  paint_index: 1236
+- market_hash_name: UMP-45 | Wild Child (Battle-Scarred)
+  paint_index: 1236
+- market_hash_name: UMP-45 | Corporal (Factory New)
+  paint_index: 281
+- market_hash_name: UMP-45 | Corporal (Minimal Wear)
+  paint_index: 281
+- market_hash_name: UMP-45 | Corporal (Field-Tested)
+  paint_index: 281
+- market_hash_name: UMP-45 | Corporal (Well-Worn)
+  paint_index: 281
+- market_hash_name: UMP-45 | Corporal (Battle-Scarred)
+  paint_index: 281
+- market_hash_name: UMP-45 | Crime Scene (Factory New)
+  paint_index: 1003
+- market_hash_name: UMP-45 | Crime Scene (Minimal Wear)
+  paint_index: 1003
+- market_hash_name: UMP-45 | Crime Scene (Field-Tested)
+  paint_index: 1003
+- market_hash_name: UMP-45 | Crime Scene (Well-Worn)
+  paint_index: 1003
+- market_hash_name: UMP-45 | Crime Scene (Battle-Scarred)
+  paint_index: 1003
+- market_hash_name: UMP-45 | Scaffold (Factory New)
+  paint_index: 652
+- market_hash_name: UMP-45 | Scaffold (Minimal Wear)
+  paint_index: 652
+- market_hash_name: UMP-45 | Scaffold (Field-Tested)
+  paint_index: 652
+- market_hash_name: UMP-45 | Scaffold (Well-Worn)
+  paint_index: 652
+- market_hash_name: UMP-45 | Scaffold (Battle-Scarred)
+  paint_index: 652
+- market_hash_name: UMP-45 | Gold Bismuth (Factory New)
+  paint_index: 990
+- market_hash_name: UMP-45 | Gold Bismuth (Minimal Wear)
+  paint_index: 990
+- market_hash_name: UMP-45 | Gold Bismuth (Field-Tested)
+  paint_index: 990
+- market_hash_name: UMP-45 | Gold Bismuth (Well-Worn)
+  paint_index: 990
+- market_hash_name: UMP-45 | Gold Bismuth (Battle-Scarred)
+  paint_index: 990
+- market_hash_name: UMP-45 | Roadblock (Factory New)
+  paint_index: 1157
+- market_hash_name: UMP-45 | Roadblock (Minimal Wear)
+  paint_index: 1157
+- market_hash_name: UMP-45 | Roadblock (Field-Tested)
+  paint_index: 1157
+- market_hash_name: UMP-45 | Roadblock (Well-Worn)
+  paint_index: 1157
+- market_hash_name: UMP-45 | Roadblock (Battle-Scarred)
+  paint_index: 1157
+- market_hash_name: UMP-45 | Crimson Foil (Factory New)
+  paint_index: 412
+- market_hash_name: UMP-45 | Crimson Foil (Minimal Wear)
+  paint_index: 412
+- market_hash_name: UMP-45 | Crimson Foil (Field-Tested)
+  paint_index: 412
+- market_hash_name: UMP-45 | Crimson Foil (Well-Worn)
+  paint_index: 412
+- market_hash_name: UMP-45 | Crimson Foil (Battle-Scarred)
+  paint_index: 412
+- market_hash_name: UMP-45 | Day Lily (Factory New)
+  paint_index: 725
+- market_hash_name: UMP-45 | Day Lily (Minimal Wear)
+  paint_index: 725
+- market_hash_name: UMP-45 | Day Lily (Field-Tested)
+  paint_index: 725
+- market_hash_name: UMP-45 | Day Lily (Well-Worn)
+  paint_index: 725
+- market_hash_name: UMP-45 | Day Lily (Battle-Scarred)
+  paint_index: 725
+- market_hash_name: UMP-45 | Facility Dark (Factory New)
+  paint_index: 778
+- market_hash_name: UMP-45 | Facility Dark (Minimal Wear)
+  paint_index: 778
+- market_hash_name: UMP-45 | Facility Dark (Field-Tested)
+  paint_index: 778
+- market_hash_name: UMP-45 | Facility Dark (Well-Worn)
+  paint_index: 778
+- market_hash_name: UMP-45 | Facility Dark (Battle-Scarred)
+  paint_index: 778
+- market_hash_name: UMP-45 | Urban DDPAT (Factory New)
+  paint_index: 17
+- market_hash_name: UMP-45 | Urban DDPAT (Minimal Wear)
+  paint_index: 17
+- market_hash_name: UMP-45 | Urban DDPAT (Field-Tested)
+  paint_index: 17
+- market_hash_name: UMP-45 | Urban DDPAT (Well-Worn)
+  paint_index: 17
+- market_hash_name: UMP-45 | Urban DDPAT (Battle-Scarred)
+  paint_index: 17
+- market_hash_name: UMP-45 | Gunsmoke (Factory New)
+  paint_index: 15
+- market_hash_name: UMP-45 | Gunsmoke (Minimal Wear)
+  paint_index: 15
+- market_hash_name: UMP-45 | Gunsmoke (Field-Tested)
+  paint_index: 15
+- market_hash_name: UMP-45 | Gunsmoke (Well-Worn)
+  paint_index: 15
+- market_hash_name: UMP-45 | Gunsmoke (Battle-Scarred)
+  paint_index: 15
+- market_hash_name: UMP-45 | Houndstooth (Factory New)
+  paint_index: 1008
+- market_hash_name: UMP-45 | Houndstooth (Minimal Wear)
+  paint_index: 1008
+- market_hash_name: UMP-45 | Houndstooth (Field-Tested)
+  paint_index: 1008
+- market_hash_name: UMP-45 | Houndstooth (Well-Worn)
+  paint_index: 1008
+- market_hash_name: UMP-45 | Houndstooth (Battle-Scarred)
+  paint_index: 1008
+- market_hash_name: UMP-45 | Labyrinth (Factory New)
+  paint_index: 362
+- market_hash_name: UMP-45 | Labyrinth (Minimal Wear)
+  paint_index: 362
+- market_hash_name: UMP-45 | Labyrinth (Field-Tested)
+  paint_index: 362
+- market_hash_name: UMP-45 | Labyrinth (Well-Worn)
+  paint_index: 362
+- market_hash_name: UMP-45 | Mudder (Factory New)
+  paint_index: 90
+- market_hash_name: UMP-45 | Mudder (Minimal Wear)
+  paint_index: 90
+- market_hash_name: UMP-45 | Mudder (Field-Tested)
+  paint_index: 90
+- market_hash_name: UMP-45 | Mudder (Well-Worn)
+  paint_index: 90
+- market_hash_name: UMP-45 | Mudder (Battle-Scarred)
+  paint_index: 90
+- market_hash_name: UMP-45 | Full Stop (Factory New)
+  paint_index: 250
+- market_hash_name: UMP-45 | Full Stop (Minimal Wear)
+  paint_index: 250
+- market_hash_name: UMP-45 | Full Stop (Field-Tested)
+  paint_index: 250
+- market_hash_name: UMP-45 | Full Stop (Well-Worn)
+  paint_index: 250
+- market_hash_name: UMP-45 | Full Stop (Battle-Scarred)
+  paint_index: 250
+- market_hash_name: UMP-45 | Warm Blooded (Factory New)
+  paint_index: 1387
+- market_hash_name: UMP-45 | Warm Blooded (Minimal Wear)
+  paint_index: 1387
+- market_hash_name: UMP-45 | Warm Blooded (Field-Tested)
+  paint_index: 1387
+- market_hash_name: UMP-45 | Warm Blooded (Well-Worn)
+  paint_index: 1387
+- market_hash_name: UMP-45 | Warm Blooded (Battle-Scarred)
+  paint_index: 1387
+- market_hash_name: UMP-45 | Caramel (Factory New)
+  paint_index: 93
+- market_hash_name: UMP-45 | Caramel (Minimal Wear)
+  paint_index: 93
+- market_hash_name: UMP-45 | Caramel (Field-Tested)
+  paint_index: 93
+- market_hash_name: UMP-45 | Caramel (Well-Worn)
+  paint_index: 93
+- market_hash_name: UMP-45 | Caramel (Battle-Scarred)
+  paint_index: 93
+- market_hash_name: UMP-45 | Indigo (Factory New)
+  paint_index: 333
+- market_hash_name: UMP-45 | Indigo (Minimal Wear)
+  paint_index: 333
+- market_hash_name: UMP-45 | Indigo (Field-Tested)
+  paint_index: 333
+- market_hash_name: UMP-45 | Indigo (Well-Worn)
+  paint_index: 333
+- market_hash_name: UMP-45 | Indigo (Battle-Scarred)
+  paint_index: 333
+- market_hash_name: UMP-45 | Green Swirl (Factory New)
+  paint_index: 1303
+- market_hash_name: UMP-45 | Green Swirl (Minimal Wear)
+  paint_index: 1303
+- market_hash_name: UMP-45 | Green Swirl (Field-Tested)
+  paint_index: 1303
+- market_hash_name: UMP-45 | Green Swirl (Well-Worn)
+  paint_index: 1303
+- market_hash_name: UMP-45 | Green Swirl (Battle-Scarred)
+  paint_index: 1303
+- market_hash_name: UMP-45 | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: UMP-45 | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: UMP-45 | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: UMP-45 | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: UMP-45 | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: UMP-45 | Fallout Warning (Factory New)
+  paint_index: 169
+- market_hash_name: UMP-45 | Fallout Warning (Minimal Wear)
+  paint_index: 169
+- market_hash_name: UMP-45 | Fallout Warning (Field-Tested)
+  paint_index: 169
+- market_hash_name: UMP-45 | Fallout Warning (Well-Worn)
+  paint_index: 169
+- market_hash_name: UMP-45 | Fallout Warning (Battle-Scarred)
+  paint_index: 169
+- market_hash_name: UMP-45 | Bone Pile (Factory New)
+  paint_index: 193
+- market_hash_name: UMP-45 | Bone Pile (Minimal Wear)
+  paint_index: 193
+- market_hash_name: UMP-45 | Bone Pile (Field-Tested)
+  paint_index: 193
+- market_hash_name: UMP-45 | Delusion (Factory New)
+  paint_index: 392
+- market_hash_name: UMP-45 | Delusion (Minimal Wear)
+  paint_index: 392
+- market_hash_name: UMP-45 | Delusion (Field-Tested)
+  paint_index: 392
+- market_hash_name: UMP-45 | Motorized (Factory New)
+  paint_index: 1175
+- market_hash_name: UMP-45 | Motorized (Minimal Wear)
+  paint_index: 1175
+- market_hash_name: UMP-45 | Motorized (Field-Tested)
+  paint_index: 1175
+- market_hash_name: UMP-45 | Motorized (Well-Worn)
+  paint_index: 1175
+- market_hash_name: UMP-45 | Motorized (Battle-Scarred)
+  paint_index: 1175
+- market_hash_name: UMP-45 | Continuum (Factory New)
+  paint_index: 1351
+- market_hash_name: UMP-45 | Continuum (Minimal Wear)
+  paint_index: 1351
+- market_hash_name: UMP-45 | Continuum (Field-Tested)
+  paint_index: 1351
+- market_hash_name: UMP-45 | Continuum (Well-Worn)
+  paint_index: 1351
+- market_hash_name: UMP-45 | Continuum (Battle-Scarred)
+  paint_index: 1351
+- market_hash_name: UMP-45 | Neo-Noir (Factory New)
+  paint_index: 131
+- market_hash_name: UMP-45 | Neo-Noir (Minimal Wear)
+  paint_index: 131
+- market_hash_name: UMP-45 | Neo-Noir (Field-Tested)
+  paint_index: 131
+- market_hash_name: UMP-45 | Neo-Noir (Well-Worn)
+  paint_index: 131
+- market_hash_name: UMP-45 | Neo-Noir (Battle-Scarred)
+  paint_index: 131
+- market_hash_name: UMP-45 | K.O. Factory (Factory New)
+  paint_index: 1194
+- market_hash_name: UMP-45 | K.O. Factory (Minimal Wear)
+  paint_index: 1194
+- market_hash_name: UMP-45 | K.O. Factory (Field-Tested)
+  paint_index: 1194
+- market_hash_name: UMP-45 | K.O. Factory (Well-Worn)
+  paint_index: 1194
+- market_hash_name: UMP-45 | K.O. Factory (Battle-Scarred)
+  paint_index: 1194
+- market_hash_name: UMP-45 | Fragment (Factory New)
+  paint_index: 1426
+- market_hash_name: UMP-45 | Fragment (Minimal Wear)
+  paint_index: 1426
+- market_hash_name: UMP-45 | Fragment (Field-Tested)
+  paint_index: 1426
+- market_hash_name: UMP-45 | Fragment (Well-Worn)
+  paint_index: 1426
+- market_hash_name: UMP-45 | Fragment (Battle-Scarred)
+  paint_index: 1426
+- market_hash_name: UMP-45 | Late Night Transit (Factory New)
+  paint_index: 1203
+- market_hash_name: UMP-45 | Late Night Transit (Minimal Wear)
+  paint_index: 1203
+- market_hash_name: UMP-45 | Late Night Transit (Field-Tested)
+  paint_index: 1203
+- market_hash_name: UMP-45 | Late Night Transit (Well-Worn)
+  paint_index: 1203
+- market_hash_name: UMP-45 | Late Night Transit (Battle-Scarred)
+  paint_index: 1203
+- market_hash_name: ★ Bayonet | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Bayonet | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Bayonet | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Bayonet | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Bayonet | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Bayonet | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Bayonet | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Bayonet | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Bayonet | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Bayonet | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Bayonet | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Bayonet | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Bayonet | Gamma Doppler (Factory New)
+  paint_index: 568
+- market_hash_name: ★ Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 568
+- market_hash_name: ★ Bayonet | Gamma Doppler (Factory New)
+  paint_index: 569
+- market_hash_name: ★ Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 569
+- market_hash_name: ★ Bayonet | Gamma Doppler (Factory New)
+  paint_index: 570
+- market_hash_name: ★ Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 570
+- market_hash_name: ★ Bayonet | Gamma Doppler (Factory New)
+  paint_index: 571
+- market_hash_name: ★ Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 571
+- market_hash_name: ★ Bayonet | Gamma Doppler (Factory New)
+  paint_index: 572
+- market_hash_name: ★ Bayonet | Gamma Doppler (Minimal Wear)
+  paint_index: 572
+- market_hash_name: ★ Bayonet | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Bayonet | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Bayonet | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Bayonet | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Bayonet | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Bayonet | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Bayonet | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Bayonet | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Bayonet | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Bayonet | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Bayonet | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Bayonet | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Bayonet | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Bayonet | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Bayonet | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Bayonet | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Bayonet | Damascus Steel (Factory New)
+  paint_index: 410
+- market_hash_name: ★ Bayonet | Damascus Steel (Minimal Wear)
+  paint_index: 410
+- market_hash_name: ★ Bayonet | Damascus Steel (Field-Tested)
+  paint_index: 410
+- market_hash_name: ★ Bayonet | Damascus Steel (Well-Worn)
+  paint_index: 410
+- market_hash_name: ★ Bayonet | Damascus Steel (Battle-Scarred)
+  paint_index: 410
+- market_hash_name: ★ Bayonet | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Bayonet | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Bayonet | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Bayonet | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Bayonet | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Bayonet | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Bayonet | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Bayonet | Lore (Factory New)
+  paint_index: 558
+- market_hash_name: ★ Bayonet | Lore (Minimal Wear)
+  paint_index: 558
+- market_hash_name: ★ Bayonet | Lore (Field-Tested)
+  paint_index: 558
+- market_hash_name: ★ Bayonet | Lore (Well-Worn)
+  paint_index: 558
+- market_hash_name: ★ Bayonet | Lore (Battle-Scarred)
+  paint_index: 558
+- market_hash_name: ★ Bayonet | Black Laminate (Factory New)
+  paint_index: 563
+- market_hash_name: ★ Bayonet | Black Laminate (Minimal Wear)
+  paint_index: 563
+- market_hash_name: ★ Bayonet | Black Laminate (Field-Tested)
+  paint_index: 563
+- market_hash_name: ★ Bayonet | Black Laminate (Well-Worn)
+  paint_index: 563
+- market_hash_name: ★ Bayonet | Black Laminate (Battle-Scarred)
+  paint_index: 563
+- market_hash_name: ★ Bayonet | Autotronic (Factory New)
+  paint_index: 573
+- market_hash_name: ★ Bayonet | Autotronic (Minimal Wear)
+  paint_index: 573
+- market_hash_name: ★ Bayonet | Autotronic (Field-Tested)
+  paint_index: 573
+- market_hash_name: ★ Bayonet | Autotronic (Well-Worn)
+  paint_index: 573
+- market_hash_name: ★ Bayonet | Autotronic (Battle-Scarred)
+  paint_index: 573
+- market_hash_name: ★ Bayonet | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Bayonet | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Bayonet | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Bayonet | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Bayonet | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Butterfly Knife | Doppler (Factory New)
+  paint_index: 617
+- market_hash_name: ★ Butterfly Knife | Doppler (Minimal Wear)
+  paint_index: 617
+- market_hash_name: ★ Butterfly Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Butterfly Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Butterfly Knife | Doppler (Factory New)
+  paint_index: 618
+- market_hash_name: ★ Butterfly Knife | Doppler (Minimal Wear)
+  paint_index: 618
+- market_hash_name: ★ Butterfly Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Butterfly Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Factory New)
+  paint_index: 568
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 568
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Factory New)
+  paint_index: 569
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 569
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Factory New)
+  paint_index: 571
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 571
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Factory New)
+  paint_index: 572
+- market_hash_name: ★ Butterfly Knife | Gamma Doppler (Minimal Wear)
+  paint_index: 572
+- market_hash_name: ★ Butterfly Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Butterfly Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Butterfly Knife | Doppler (Factory New)
+  paint_index: 619
+- market_hash_name: ★ Butterfly Knife | Doppler (Minimal Wear)
+  paint_index: 619
+- market_hash_name: ★ Butterfly Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Butterfly Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Butterfly Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Butterfly Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Butterfly Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Butterfly Knife | Damascus Steel (Factory New)
+  paint_index: 411
+- market_hash_name: ★ Butterfly Knife | Damascus Steel (Minimal Wear)
+  paint_index: 411
+- market_hash_name: ★ Butterfly Knife | Damascus Steel (Field-Tested)
+  paint_index: 411
+- market_hash_name: ★ Butterfly Knife | Damascus Steel (Well-Worn)
+  paint_index: 411
+- market_hash_name: ★ Butterfly Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 411
+- market_hash_name: ★ Butterfly Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Butterfly Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Butterfly Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Butterfly Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Butterfly Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Butterfly Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Butterfly Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Butterfly Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Butterfly Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Butterfly Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Butterfly Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Butterfly Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Survival Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Survival Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Survival Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Survival Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Survival Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Survival Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Survival Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Survival Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Survival Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Survival Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Survival Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Survival Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Survival Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Survival Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Survival Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Survival Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Survival Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Survival Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Survival Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Survival Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Survival Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Survival Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Survival Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Survival Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Survival Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Survival Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Survival Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Survival Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Survival Knife | Damascus Steel (Factory New)
+  paint_index: 410
+- market_hash_name: ★ Survival Knife | Damascus Steel (Minimal Wear)
+  paint_index: 410
+- market_hash_name: ★ Survival Knife | Damascus Steel (Field-Tested)
+  paint_index: 410
+- market_hash_name: ★ Survival Knife | Damascus Steel (Well-Worn)
+  paint_index: 410
+- market_hash_name: ★ Survival Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 410
+- market_hash_name: ★ Survival Knife | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: ★ Survival Knife | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: ★ Survival Knife | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: ★ Survival Knife | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: ★ Survival Knife | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: ★ Survival Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Survival Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Survival Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Survival Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Survival Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Survival Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Survival Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Survival Knife | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: ★ Survival Knife | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: ★ Survival Knife | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: ★ Survival Knife | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: ★ Survival Knife | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: ★ Survival Knife | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: ★ Survival Knife | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: ★ Survival Knife | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: ★ Survival Knife | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: ★ Survival Knife | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: ★ Survival Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Survival Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Survival Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Survival Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Survival Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Survival Knife | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: ★ Survival Knife | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: ★ Survival Knife | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: ★ Survival Knife | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: ★ Survival Knife | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: ★ Survival Knife | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: ★ Survival Knife | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: ★ Survival Knife | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: ★ Survival Knife | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: ★ Survival Knife | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: ★ Survival Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Survival Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Survival Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Survival Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Survival Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Survival Knife | Urban Masked (Factory New)
+  paint_index: 143
+- market_hash_name: ★ Survival Knife | Urban Masked (Minimal Wear)
+  paint_index: 143
+- market_hash_name: ★ Survival Knife | Urban Masked (Field-Tested)
+  paint_index: 143
+- market_hash_name: ★ Survival Knife | Urban Masked (Well-Worn)
+  paint_index: 143
+- market_hash_name: ★ Survival Knife | Urban Masked (Battle-Scarred)
+  paint_index: 143
+- market_hash_name: ★ Paracord Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Paracord Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Paracord Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Paracord Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Paracord Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Paracord Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Paracord Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Paracord Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Paracord Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Paracord Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Paracord Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Paracord Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Paracord Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Paracord Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Paracord Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Paracord Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Paracord Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Paracord Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Paracord Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Paracord Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Paracord Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Paracord Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Paracord Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Paracord Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Paracord Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Paracord Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Paracord Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Paracord Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Paracord Knife | Damascus Steel (Factory New)
+  paint_index: 410
+- market_hash_name: ★ Paracord Knife | Damascus Steel (Minimal Wear)
+  paint_index: 410
+- market_hash_name: ★ Paracord Knife | Damascus Steel (Field-Tested)
+  paint_index: 410
+- market_hash_name: ★ Paracord Knife | Damascus Steel (Well-Worn)
+  paint_index: 410
+- market_hash_name: ★ Paracord Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 410
+- market_hash_name: ★ Paracord Knife | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: ★ Paracord Knife | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: ★ Paracord Knife | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: ★ Paracord Knife | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: ★ Paracord Knife | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: ★ Paracord Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Paracord Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Paracord Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Paracord Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Paracord Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Paracord Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Paracord Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Paracord Knife | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: ★ Paracord Knife | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: ★ Paracord Knife | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: ★ Paracord Knife | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: ★ Paracord Knife | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: ★ Paracord Knife | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: ★ Paracord Knife | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: ★ Paracord Knife | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: ★ Paracord Knife | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: ★ Paracord Knife | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: ★ Paracord Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Paracord Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Paracord Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Paracord Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Paracord Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Paracord Knife | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: ★ Paracord Knife | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: ★ Paracord Knife | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: ★ Paracord Knife | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: ★ Paracord Knife | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: ★ Paracord Knife | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: ★ Paracord Knife | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: ★ Paracord Knife | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: ★ Paracord Knife | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: ★ Paracord Knife | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: ★ Paracord Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Paracord Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Paracord Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Paracord Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Paracord Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Paracord Knife | Urban Masked (Factory New)
+  paint_index: 143
+- market_hash_name: ★ Paracord Knife | Urban Masked (Minimal Wear)
+  paint_index: 143
+- market_hash_name: ★ Paracord Knife | Urban Masked (Field-Tested)
+  paint_index: 143
+- market_hash_name: ★ Paracord Knife | Urban Masked (Well-Worn)
+  paint_index: 143
+- market_hash_name: ★ Paracord Knife | Urban Masked (Battle-Scarred)
+  paint_index: 143
+- market_hash_name: ★ Classic Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Classic Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Classic Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Classic Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Classic Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Classic Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Classic Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Classic Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Classic Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Classic Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Classic Knife | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: ★ Classic Knife | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: ★ Classic Knife | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: ★ Classic Knife | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: ★ Classic Knife | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: ★ Classic Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Classic Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Classic Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Classic Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Classic Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Classic Knife | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: ★ Classic Knife | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: ★ Classic Knife | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: ★ Classic Knife | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: ★ Classic Knife | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: ★ Classic Knife | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: ★ Classic Knife | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: ★ Classic Knife | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: ★ Classic Knife | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: ★ Classic Knife | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: ★ Classic Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Classic Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Classic Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Classic Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Classic Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Classic Knife | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: ★ Classic Knife | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: ★ Classic Knife | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: ★ Classic Knife | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: ★ Classic Knife | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: ★ Classic Knife | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: ★ Classic Knife | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: ★ Classic Knife | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: ★ Classic Knife | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: ★ Classic Knife | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: ★ Classic Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Classic Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Classic Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Classic Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Classic Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Classic Knife | Urban Masked (Factory New)
+  paint_index: 143
+- market_hash_name: ★ Classic Knife | Urban Masked (Minimal Wear)
+  paint_index: 143
+- market_hash_name: ★ Classic Knife | Urban Masked (Field-Tested)
+  paint_index: 143
+- market_hash_name: ★ Classic Knife | Urban Masked (Well-Worn)
+  paint_index: 143
+- market_hash_name: ★ Classic Knife | Urban Masked (Battle-Scarred)
+  paint_index: 143

@@ -1,0 +1,1254 @@
+# Phase 0 data backfill (batch 1)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: AK-47, AUG, AWP
+skins:
+- market_hash_name: AK-47 | Crane Flight (Factory New)
+  paint_index: 1425
+- market_hash_name: AK-47 | Crane Flight (Minimal Wear)
+  paint_index: 1425
+- market_hash_name: AK-47 | Crane Flight (Field-Tested)
+  paint_index: 1425
+- market_hash_name: AK-47 | Crane Flight (Well-Worn)
+  paint_index: 1425
+- market_hash_name: AK-47 | Crane Flight (Battle-Scarred)
+  paint_index: 1425
+- market_hash_name: AK-47 | Searing Rage (Factory New)
+  paint_index: 1207
+- market_hash_name: AK-47 | Searing Rage (Minimal Wear)
+  paint_index: 1207
+- market_hash_name: AK-47 | Searing Rage (Field-Tested)
+  paint_index: 1207
+- market_hash_name: AK-47 | Searing Rage (Well-Worn)
+  paint_index: 1207
+- market_hash_name: AK-47 | Searing Rage (Battle-Scarred)
+  paint_index: 1207
+- market_hash_name: AK-47 | The Outsiders (Factory New)
+  paint_index: 113
+- market_hash_name: AK-47 | The Outsiders (Minimal Wear)
+  paint_index: 113
+- market_hash_name: AK-47 | The Outsiders (Field-Tested)
+  paint_index: 113
+- market_hash_name: AK-47 | The Outsiders (Well-Worn)
+  paint_index: 113
+- market_hash_name: AK-47 | The Outsiders (Battle-Scarred)
+  paint_index: 113
+- market_hash_name: AK-47 | Inheritance (Factory New)
+  paint_index: 1171
+- market_hash_name: AK-47 | Inheritance (Minimal Wear)
+  paint_index: 1171
+- market_hash_name: AK-47 | Inheritance (Field-Tested)
+  paint_index: 1171
+- market_hash_name: AK-47 | Inheritance (Well-Worn)
+  paint_index: 1171
+- market_hash_name: AK-47 | Inheritance (Battle-Scarred)
+  paint_index: 1171
+- market_hash_name: AK-47 | Hydroponic (Factory New)
+  paint_index: 456
+- market_hash_name: AK-47 | Hydroponic (Minimal Wear)
+  paint_index: 456
+- market_hash_name: AK-47 | Hydroponic (Field-Tested)
+  paint_index: 456
+- market_hash_name: AK-47 | Hydroponic (Well-Worn)
+  paint_index: 456
+- market_hash_name: AK-47 | Hydroponic (Battle-Scarred)
+  paint_index: 456
+- market_hash_name: AK-47 | Cartel (Factory New)
+  paint_index: 394
+- market_hash_name: AK-47 | Cartel (Minimal Wear)
+  paint_index: 394
+- market_hash_name: AK-47 | Cartel (Field-Tested)
+  paint_index: 394
+- market_hash_name: AK-47 | Cartel (Well-Worn)
+  paint_index: 394
+- market_hash_name: AK-47 | Cartel (Battle-Scarred)
+  paint_index: 394
+- market_hash_name: AK-47 | Phantom Disruptor (Factory New)
+  paint_index: 941
+- market_hash_name: AK-47 | Phantom Disruptor (Minimal Wear)
+  paint_index: 941
+- market_hash_name: AK-47 | Phantom Disruptor (Field-Tested)
+  paint_index: 941
+- market_hash_name: AK-47 | Phantom Disruptor (Well-Worn)
+  paint_index: 941
+- market_hash_name: AK-47 | Phantom Disruptor (Battle-Scarred)
+  paint_index: 941
+- market_hash_name: AK-47 | Neon Revolution (Factory New)
+  paint_index: 600
+- market_hash_name: AK-47 | Neon Revolution (Minimal Wear)
+  paint_index: 600
+- market_hash_name: AK-47 | Neon Revolution (Field-Tested)
+  paint_index: 600
+- market_hash_name: AK-47 | Neon Revolution (Well-Worn)
+  paint_index: 600
+- market_hash_name: AK-47 | Neon Revolution (Battle-Scarred)
+  paint_index: 600
+- market_hash_name: AK-47 | Legion of Anubis (Factory New)
+  paint_index: 959
+- market_hash_name: AK-47 | Legion of Anubis (Minimal Wear)
+  paint_index: 959
+- market_hash_name: AK-47 | Legion of Anubis (Field-Tested)
+  paint_index: 959
+- market_hash_name: AK-47 | Legion of Anubis (Well-Worn)
+  paint_index: 959
+- market_hash_name: AK-47 | Legion of Anubis (Battle-Scarred)
+  paint_index: 959
+- market_hash_name: AK-47 | Uncharted (Factory New)
+  paint_index: 836
+- market_hash_name: AK-47 | Uncharted (Minimal Wear)
+  paint_index: 836
+- market_hash_name: AK-47 | Uncharted (Field-Tested)
+  paint_index: 836
+- market_hash_name: AK-47 | Uncharted (Well-Worn)
+  paint_index: 836
+- market_hash_name: AK-47 | Uncharted (Battle-Scarred)
+  paint_index: 836
+- market_hash_name: AK-47 | Ice Coaled (Factory New)
+  paint_index: 1143
+- market_hash_name: AK-47 | Ice Coaled (Minimal Wear)
+  paint_index: 1143
+- market_hash_name: AK-47 | Ice Coaled (Field-Tested)
+  paint_index: 1143
+- market_hash_name: AK-47 | Ice Coaled (Well-Worn)
+  paint_index: 1143
+- market_hash_name: AK-47 | Ice Coaled (Battle-Scarred)
+  paint_index: 1143
+- market_hash_name: AK-47 | Aquamarine Revenge (Factory New)
+  paint_index: 474
+- market_hash_name: AK-47 | Aquamarine Revenge (Minimal Wear)
+  paint_index: 474
+- market_hash_name: AK-47 | Aquamarine Revenge (Field-Tested)
+  paint_index: 474
+- market_hash_name: AK-47 | Aquamarine Revenge (Well-Worn)
+  paint_index: 474
+- market_hash_name: AK-47 | Aquamarine Revenge (Battle-Scarred)
+  paint_index: 474
+- market_hash_name: AK-47 | Elite Build (Factory New)
+  paint_index: 422
+- market_hash_name: AK-47 | Elite Build (Minimal Wear)
+  paint_index: 422
+- market_hash_name: AK-47 | Elite Build (Field-Tested)
+  paint_index: 422
+- market_hash_name: AK-47 | Elite Build (Well-Worn)
+  paint_index: 422
+- market_hash_name: AK-47 | Elite Build (Battle-Scarred)
+  paint_index: 422
+- market_hash_name: AK-47 | Nightwish (Factory New)
+  paint_index: 1141
+- market_hash_name: AK-47 | Nightwish (Minimal Wear)
+  paint_index: 1141
+- market_hash_name: AK-47 | Nightwish (Field-Tested)
+  paint_index: 1141
+- market_hash_name: AK-47 | Nightwish (Well-Worn)
+  paint_index: 1141
+- market_hash_name: AK-47 | Nightwish (Battle-Scarred)
+  paint_index: 1141
+- market_hash_name: AK-47 | Point Disarray (Factory New)
+  paint_index: 506
+- market_hash_name: AK-47 | Point Disarray (Minimal Wear)
+  paint_index: 506
+- market_hash_name: AK-47 | Point Disarray (Field-Tested)
+  paint_index: 506
+- market_hash_name: AK-47 | Point Disarray (Well-Worn)
+  paint_index: 506
+- market_hash_name: AK-47 | Point Disarray (Battle-Scarred)
+  paint_index: 506
+- market_hash_name: AK-47 | Frontside Misty (Factory New)
+  paint_index: 490
+- market_hash_name: AK-47 | Frontside Misty (Minimal Wear)
+  paint_index: 490
+- market_hash_name: AK-47 | Frontside Misty (Field-Tested)
+  paint_index: 490
+- market_hash_name: AK-47 | Frontside Misty (Well-Worn)
+  paint_index: 490
+- market_hash_name: AK-47 | Frontside Misty (Battle-Scarred)
+  paint_index: 490
+- market_hash_name: AK-47 | Head Shot (Factory New)
+  paint_index: 1221
+- market_hash_name: AK-47 | Head Shot (Minimal Wear)
+  paint_index: 1221
+- market_hash_name: AK-47 | Head Shot (Field-Tested)
+  paint_index: 1221
+- market_hash_name: AK-47 | Head Shot (Well-Worn)
+  paint_index: 1221
+- market_hash_name: AK-47 | Head Shot (Battle-Scarred)
+  paint_index: 1221
+- market_hash_name: AK-47 | Wild Lotus (Factory New)
+  paint_index: 724
+- market_hash_name: AK-47 | Wild Lotus (Minimal Wear)
+  paint_index: 724
+- market_hash_name: AK-47 | Wild Lotus (Field-Tested)
+  paint_index: 724
+- market_hash_name: AK-47 | Wild Lotus (Well-Worn)
+  paint_index: 724
+- market_hash_name: AK-47 | Wild Lotus (Battle-Scarred)
+  paint_index: 724
+- market_hash_name: AK-47 | Panthera onca (Factory New)
+  paint_index: 1018
+- market_hash_name: AK-47 | Panthera onca (Minimal Wear)
+  paint_index: 1018
+- market_hash_name: AK-47 | Panthera onca (Field-Tested)
+  paint_index: 1018
+- market_hash_name: AK-47 | Panthera onca (Well-Worn)
+  paint_index: 1018
+- market_hash_name: AK-47 | Panthera onca (Battle-Scarred)
+  paint_index: 1018
+- market_hash_name: AK-47 | X-Ray (Factory New)
+  paint_index: 1004
+- market_hash_name: AK-47 | X-Ray (Minimal Wear)
+  paint_index: 1004
+- market_hash_name: AK-47 | X-Ray (Field-Tested)
+  paint_index: 1004
+- market_hash_name: AK-47 | X-Ray (Well-Worn)
+  paint_index: 1004
+- market_hash_name: AK-47 | X-Ray (Battle-Scarred)
+  paint_index: 1004
+- market_hash_name: AK-47 | Crossfade (Factory New)
+  paint_index: 912
+- market_hash_name: AK-47 | Crossfade (Minimal Wear)
+  paint_index: 912
+- market_hash_name: AK-47 | Crossfade (Field-Tested)
+  paint_index: 912
+- market_hash_name: AK-47 | Crossfade (Well-Worn)
+  paint_index: 912
+- market_hash_name: AK-47 | Crossfade (Battle-Scarred)
+  paint_index: 912
+- market_hash_name: AK-47 | First Class (Factory New)
+  paint_index: 341
+- market_hash_name: AK-47 | First Class (Minimal Wear)
+  paint_index: 341
+- market_hash_name: AK-47 | First Class (Field-Tested)
+  paint_index: 341
+- market_hash_name: AK-47 | First Class (Well-Worn)
+  paint_index: 341
+- market_hash_name: AK-47 | First Class (Battle-Scarred)
+  paint_index: 341
+- market_hash_name: AK-47 | B the Monster (Factory New)
+  paint_index: 142
+- market_hash_name: AK-47 | B the Monster (Minimal Wear)
+  paint_index: 142
+- market_hash_name: AK-47 | B the Monster (Field-Tested)
+  paint_index: 142
+- market_hash_name: AK-47 | B the Monster (Well-Worn)
+  paint_index: 142
+- market_hash_name: AK-47 | B the Monster (Battle-Scarred)
+  paint_index: 142
+- market_hash_name: AK-47 | Jaguar (Factory New)
+  paint_index: 316
+- market_hash_name: AK-47 | Jaguar (Minimal Wear)
+  paint_index: 316
+- market_hash_name: AK-47 | Jaguar (Field-Tested)
+  paint_index: 316
+- market_hash_name: AK-47 | Jaguar (Well-Worn)
+  paint_index: 316
+- market_hash_name: AK-47 | Jaguar (Battle-Scarred)
+  paint_index: 316
+- market_hash_name: AK-47 | Emerald Pinstripe (Factory New)
+  paint_index: 300
+- market_hash_name: AK-47 | Emerald Pinstripe (Minimal Wear)
+  paint_index: 300
+- market_hash_name: AK-47 | Emerald Pinstripe (Field-Tested)
+  paint_index: 300
+- market_hash_name: AK-47 | Emerald Pinstripe (Well-Worn)
+  paint_index: 300
+- market_hash_name: AK-47 | Emerald Pinstripe (Battle-Scarred)
+  paint_index: 300
+- market_hash_name: AK-47 | Wasteland Rebel (Factory New)
+  paint_index: 380
+- market_hash_name: AK-47 | Wasteland Rebel (Minimal Wear)
+  paint_index: 380
+- market_hash_name: AK-47 | Wasteland Rebel (Field-Tested)
+  paint_index: 380
+- market_hash_name: AK-47 | Wasteland Rebel (Well-Worn)
+  paint_index: 380
+- market_hash_name: AK-47 | Wasteland Rebel (Battle-Scarred)
+  paint_index: 380
+- market_hash_name: AK-47 | Jet Set (Factory New)
+  paint_index: 340
+- market_hash_name: AK-47 | Jet Set (Minimal Wear)
+  paint_index: 340
+- market_hash_name: AK-47 | Jet Set (Field-Tested)
+  paint_index: 340
+- market_hash_name: AK-47 | Jet Set (Well-Worn)
+  paint_index: 340
+- market_hash_name: AK-47 | Jet Set (Battle-Scarred)
+  paint_index: 340
+- market_hash_name: AK-47 | Leet Museo (Factory New)
+  paint_index: 1087
+- market_hash_name: AK-47 | Leet Museo (Minimal Wear)
+  paint_index: 1087
+- market_hash_name: AK-47 | Leet Museo (Field-Tested)
+  paint_index: 1087
+- market_hash_name: AK-47 | Leet Museo (Well-Worn)
+  paint_index: 1087
+- market_hash_name: AK-47 | Leet Museo (Battle-Scarred)
+  paint_index: 1087
+- market_hash_name: AK-47 | The Empress (Factory New)
+  paint_index: 675
+- market_hash_name: AK-47 | The Empress (Minimal Wear)
+  paint_index: 675
+- market_hash_name: AK-47 | The Empress (Field-Tested)
+  paint_index: 675
+- market_hash_name: AK-47 | The Empress (Well-Worn)
+  paint_index: 675
+- market_hash_name: AK-47 | The Empress (Battle-Scarred)
+  paint_index: 675
+- market_hash_name: AK-47 | Rat Rod (Factory New)
+  paint_index: 885
+- market_hash_name: AK-47 | Rat Rod (Minimal Wear)
+  paint_index: 885
+- market_hash_name: AK-47 | Rat Rod (Field-Tested)
+  paint_index: 885
+- market_hash_name: AK-47 | Rat Rod (Well-Worn)
+  paint_index: 885
+- market_hash_name: AK-47 | Rat Rod (Battle-Scarred)
+  paint_index: 885
+- market_hash_name: AK-47 | Steel Delta (Factory New)
+  paint_index: 1238
+- market_hash_name: AK-47 | Steel Delta (Minimal Wear)
+  paint_index: 1238
+- market_hash_name: AK-47 | Steel Delta (Field-Tested)
+  paint_index: 1238
+- market_hash_name: AK-47 | Steel Delta (Well-Worn)
+  paint_index: 1238
+- market_hash_name: AK-47 | Steel Delta (Battle-Scarred)
+  paint_index: 1238
+- market_hash_name: AK-47 | Fuel Injector (Factory New)
+  paint_index: 524
+- market_hash_name: AK-47 | Fuel Injector (Minimal Wear)
+  paint_index: 524
+- market_hash_name: AK-47 | Fuel Injector (Field-Tested)
+  paint_index: 524
+- market_hash_name: AK-47 | Fuel Injector (Well-Worn)
+  paint_index: 524
+- market_hash_name: AK-47 | Fuel Injector (Battle-Scarred)
+  paint_index: 524
+- market_hash_name: AK-47 | Orbit Mk01 (Factory New)
+  paint_index: 656
+- market_hash_name: AK-47 | Orbit Mk01 (Minimal Wear)
+  paint_index: 656
+- market_hash_name: AK-47 | Orbit Mk01 (Field-Tested)
+  paint_index: 656
+- market_hash_name: AK-47 | Orbit Mk01 (Well-Worn)
+  paint_index: 656
+- market_hash_name: AK-47 | Orbit Mk01 (Battle-Scarred)
+  paint_index: 656
+- market_hash_name: AK-47 | Aphrodite (Factory New)
+  paint_index: 1397
+- market_hash_name: AK-47 | Aphrodite (Minimal Wear)
+  paint_index: 1397
+- market_hash_name: AK-47 | Aphrodite (Field-Tested)
+  paint_index: 1397
+- market_hash_name: AK-47 | Aphrodite (Well-Worn)
+  paint_index: 1397
+- market_hash_name: AK-47 | Aphrodite (Battle-Scarred)
+  paint_index: 1397
+- market_hash_name: AK-47 | Olive Polycam (Factory New)
+  paint_index: 1179
+- market_hash_name: AK-47 | Olive Polycam (Minimal Wear)
+  paint_index: 1179
+- market_hash_name: AK-47 | Olive Polycam (Field-Tested)
+  paint_index: 1179
+- market_hash_name: AK-47 | Olive Polycam (Well-Worn)
+  paint_index: 1179
+- market_hash_name: AK-47 | Olive Polycam (Battle-Scarred)
+  paint_index: 1179
+- market_hash_name: AK-47 | Blue Laminate (Factory New)
+  paint_index: 226
+- market_hash_name: AK-47 | Blue Laminate (Minimal Wear)
+  paint_index: 226
+- market_hash_name: AK-47 | Blue Laminate (Field-Tested)
+  paint_index: 226
+- market_hash_name: AK-47 | Blue Laminate (Well-Worn)
+  paint_index: 226
+- market_hash_name: AK-47 | Black Laminate (Factory New)
+  paint_index: 172
+- market_hash_name: AK-47 | Black Laminate (Minimal Wear)
+  paint_index: 172
+- market_hash_name: AK-47 | Black Laminate (Field-Tested)
+  paint_index: 172
+- market_hash_name: AK-47 | Black Laminate (Well-Worn)
+  paint_index: 172
+- market_hash_name: AK-47 | Black Laminate (Battle-Scarred)
+  paint_index: 172
+- market_hash_name: AK-47 | Green Laminate (Factory New)
+  paint_index: 1070
+- market_hash_name: AK-47 | Green Laminate (Minimal Wear)
+  paint_index: 1070
+- market_hash_name: AK-47 | Green Laminate (Field-Tested)
+  paint_index: 1070
+- market_hash_name: AK-47 | Green Laminate (Well-Worn)
+  paint_index: 1070
+- market_hash_name: AK-47 | Red Laminate (Factory New)
+  paint_index: 14
+- market_hash_name: AK-47 | Red Laminate (Minimal Wear)
+  paint_index: 14
+- market_hash_name: AK-47 | Red Laminate (Field-Tested)
+  paint_index: 14
+- market_hash_name: AK-47 | Red Laminate (Well-Worn)
+  paint_index: 14
+- market_hash_name: AK-47 | Red Laminate (Battle-Scarred)
+  paint_index: 14
+- market_hash_name: AK-47 | Safety Net (Factory New)
+  paint_index: 795
+- market_hash_name: AK-47 | Safety Net (Minimal Wear)
+  paint_index: 795
+- market_hash_name: AK-47 | Safety Net (Field-Tested)
+  paint_index: 795
+- market_hash_name: AK-47 | Safety Net (Well-Worn)
+  paint_index: 795
+- market_hash_name: AK-47 | Safety Net (Battle-Scarred)
+  paint_index: 795
+- market_hash_name: AK-47 | Baroque Purple (Factory New)
+  paint_index: 745
+- market_hash_name: AK-47 | Baroque Purple (Minimal Wear)
+  paint_index: 745
+- market_hash_name: AK-47 | Baroque Purple (Field-Tested)
+  paint_index: 745
+- market_hash_name: AK-47 | Baroque Purple (Well-Worn)
+  paint_index: 745
+- market_hash_name: AK-47 | Baroque Purple (Battle-Scarred)
+  paint_index: 745
+- market_hash_name: AK-47 | Nouveau Rouge (Factory New)
+  paint_index: 1309
+- market_hash_name: AK-47 | Nouveau Rouge (Minimal Wear)
+  paint_index: 1309
+- market_hash_name: AK-47 | Nouveau Rouge (Field-Tested)
+  paint_index: 1309
+- market_hash_name: AK-47 | Nouveau Rouge (Well-Worn)
+  paint_index: 1309
+- market_hash_name: AK-47 | Nouveau Rouge (Battle-Scarred)
+  paint_index: 1309
+- market_hash_name: AK-47 | Breakthrough (Factory New)
+  paint_index: 1358
+- market_hash_name: AK-47 | Breakthrough (Minimal Wear)
+  paint_index: 1358
+- market_hash_name: AK-47 | Breakthrough (Field-Tested)
+  paint_index: 1358
+- market_hash_name: AK-47 | Breakthrough (Well-Worn)
+  paint_index: 1358
+- market_hash_name: AK-47 | Breakthrough (Battle-Scarred)
+  paint_index: 1358
+- market_hash_name: AK-47 | Midnight Laminate (Factory New)
+  paint_index: 1218
+- market_hash_name: AK-47 | Midnight Laminate (Minimal Wear)
+  paint_index: 1218
+- market_hash_name: AK-47 | Midnight Laminate (Field-Tested)
+  paint_index: 1218
+- market_hash_name: AK-47 | Midnight Laminate (Well-Worn)
+  paint_index: 1218
+- market_hash_name: AK-47 | Midnight Laminate (Battle-Scarred)
+  paint_index: 1218
+- market_hash_name: AK-47 | Wintergreen (Factory New)
+  paint_index: 1283
+- market_hash_name: AK-47 | Wintergreen (Minimal Wear)
+  paint_index: 1283
+- market_hash_name: AK-47 | Wintergreen (Field-Tested)
+  paint_index: 1283
+- market_hash_name: AK-47 | Wintergreen (Well-Worn)
+  paint_index: 1283
+- market_hash_name: AK-47 | Wintergreen (Battle-Scarred)
+  paint_index: 1283
+- market_hash_name: AK-47 | VariCamo Grey (Factory New)
+  paint_index: 1288
+- market_hash_name: AK-47 | VariCamo Grey (Minimal Wear)
+  paint_index: 1288
+- market_hash_name: AK-47 | VariCamo Grey (Field-Tested)
+  paint_index: 1288
+- market_hash_name: AK-47 | VariCamo Grey (Well-Worn)
+  paint_index: 1288
+- market_hash_name: AK-47 | VariCamo Grey (Battle-Scarred)
+  paint_index: 1288
+- market_hash_name: AK-47 | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: AK-47 | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: AK-47 | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: AK-47 | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: AK-47 | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: AK-47 | Jungle Spray (Factory New)
+  paint_index: 122
+- market_hash_name: AK-47 | Jungle Spray (Minimal Wear)
+  paint_index: 122
+- market_hash_name: AK-47 | Jungle Spray (Field-Tested)
+  paint_index: 122
+- market_hash_name: AK-47 | Jungle Spray (Well-Worn)
+  paint_index: 122
+- market_hash_name: AK-47 | Jungle Spray (Battle-Scarred)
+  paint_index: 122
+- market_hash_name: AK-47 | Predator (Factory New)
+  paint_index: 170
+- market_hash_name: AK-47 | Predator (Minimal Wear)
+  paint_index: 170
+- market_hash_name: AK-47 | Predator (Field-Tested)
+  paint_index: 170
+- market_hash_name: AK-47 | Predator (Well-Worn)
+  paint_index: 170
+- market_hash_name: AK-47 | Predator (Battle-Scarred)
+  paint_index: 170
+- market_hash_name: AUG | Amber Fade (Factory New)
+  paint_index: 246
+- market_hash_name: AUG | Amber Fade (Minimal Wear)
+  paint_index: 246
+- market_hash_name: AUG | Amber Fade (Field-Tested)
+  paint_index: 246
+- market_hash_name: AUG | Amber Fade (Well-Worn)
+  paint_index: 246
+- market_hash_name: AUG | Death by Puppy (Factory New)
+  paint_index: 913
+- market_hash_name: AUG | Death by Puppy (Minimal Wear)
+  paint_index: 913
+- market_hash_name: AUG | Death by Puppy (Field-Tested)
+  paint_index: 913
+- market_hash_name: AUG | Death by Puppy (Well-Worn)
+  paint_index: 913
+- market_hash_name: AUG | Ricochet (Factory New)
+  paint_index: 507
+- market_hash_name: AUG | Ricochet (Minimal Wear)
+  paint_index: 507
+- market_hash_name: AUG | Ricochet (Field-Tested)
+  paint_index: 507
+- market_hash_name: AUG | Ricochet (Well-Worn)
+  paint_index: 507
+- market_hash_name: AUG | Ricochet (Battle-Scarred)
+  paint_index: 507
+- market_hash_name: AUG | Midnight Lily (Factory New)
+  paint_index: 727
+- market_hash_name: AUG | Midnight Lily (Minimal Wear)
+  paint_index: 727
+- market_hash_name: AUG | Midnight Lily (Field-Tested)
+  paint_index: 727
+- market_hash_name: AUG | Midnight Lily (Well-Worn)
+  paint_index: 727
+- market_hash_name: AUG | Midnight Lily (Battle-Scarred)
+  paint_index: 727
+- market_hash_name: AUG | Random Access (Factory New)
+  paint_index: 779
+- market_hash_name: AUG | Random Access (Minimal Wear)
+  paint_index: 779
+- market_hash_name: AUG | Random Access (Field-Tested)
+  paint_index: 779
+- market_hash_name: AUG | Random Access (Well-Worn)
+  paint_index: 779
+- market_hash_name: AUG | Random Access (Battle-Scarred)
+  paint_index: 779
+- market_hash_name: AUG | Surveillance (Factory New)
+  paint_index: 995
+- market_hash_name: AUG | Surveillance (Minimal Wear)
+  paint_index: 995
+- market_hash_name: AUG | Surveillance (Field-Tested)
+  paint_index: 995
+- market_hash_name: AUG | Surveillance (Well-Worn)
+  paint_index: 995
+- market_hash_name: AUG | Surveillance (Battle-Scarred)
+  paint_index: 995
+- market_hash_name: AUG | Carved Jade (Factory New)
+  paint_index: 1033
+- market_hash_name: AUG | Carved Jade (Minimal Wear)
+  paint_index: 1033
+- market_hash_name: AUG | Carved Jade (Field-Tested)
+  paint_index: 1033
+- market_hash_name: AUG | Flame Jörmungandr (Factory New)
+  paint_index: 758
+- market_hash_name: AUG | Flame Jörmungandr (Minimal Wear)
+  paint_index: 758
+- market_hash_name: AUG | Flame Jörmungandr (Field-Tested)
+  paint_index: 758
+- market_hash_name: AUG | Flame Jörmungandr (Well-Worn)
+  paint_index: 758
+- market_hash_name: AUG | Flame Jörmungandr (Battle-Scarred)
+  paint_index: 758
+- market_hash_name: AUG | Anodized Navy (Factory New)
+  paint_index: 197
+- market_hash_name: AUG | Anodized Navy (Minimal Wear)
+  paint_index: 197
+- market_hash_name: AUG | Hot Rod (Factory New)
+  paint_index: 33
+- market_hash_name: AUG | Hot Rod (Minimal Wear)
+  paint_index: 33
+- market_hash_name: AUG | Steel Sentinel (Factory New)
+  paint_index: 1198
+- market_hash_name: AUG | Steel Sentinel (Minimal Wear)
+  paint_index: 1198
+- market_hash_name: AUG | Steel Sentinel (Field-Tested)
+  paint_index: 1198
+- market_hash_name: AUG | Steel Sentinel (Well-Worn)
+  paint_index: 1198
+- market_hash_name: AUG | Steel Sentinel (Battle-Scarred)
+  paint_index: 1198
+- market_hash_name: AUG | Luxe Trim (Factory New)
+  paint_index: 121
+- market_hash_name: AUG | Luxe Trim (Minimal Wear)
+  paint_index: 121
+- market_hash_name: AUG | Luxe Trim (Field-Tested)
+  paint_index: 121
+- market_hash_name: AUG | Luxe Trim (Well-Worn)
+  paint_index: 121
+- market_hash_name: AUG | Luxe Trim (Battle-Scarred)
+  paint_index: 121
+- market_hash_name: AUG | Trigger Discipline (Factory New)
+  paint_index: 1339
+- market_hash_name: AUG | Trigger Discipline (Minimal Wear)
+  paint_index: 1339
+- market_hash_name: AUG | Trigger Discipline (Field-Tested)
+  paint_index: 1339
+- market_hash_name: AUG | Trigger Discipline (Well-Worn)
+  paint_index: 1339
+- market_hash_name: AUG | Trigger Discipline (Battle-Scarred)
+  paint_index: 1339
+- market_hash_name: AUG | Akihabara Accept (Factory New)
+  paint_index: 455
+- market_hash_name: AUG | Akihabara Accept (Minimal Wear)
+  paint_index: 455
+- market_hash_name: AUG | Akihabara Accept (Field-Tested)
+  paint_index: 455
+- market_hash_name: AUG | Akihabara Accept (Well-Worn)
+  paint_index: 455
+- market_hash_name: AUG | Akihabara Accept (Battle-Scarred)
+  paint_index: 455
+- market_hash_name: AUG | Chameleon (Factory New)
+  paint_index: 280
+- market_hash_name: AUG | Chameleon (Minimal Wear)
+  paint_index: 280
+- market_hash_name: AUG | Chameleon (Field-Tested)
+  paint_index: 280
+- market_hash_name: AUG | Chameleon (Well-Worn)
+  paint_index: 280
+- market_hash_name: AUG | Chameleon (Battle-Scarred)
+  paint_index: 280
+- market_hash_name: AUG | Momentum (Factory New)
+  paint_index: 845
+- market_hash_name: AUG | Momentum (Minimal Wear)
+  paint_index: 845
+- market_hash_name: AUG | Momentum (Field-Tested)
+  paint_index: 845
+- market_hash_name: AUG | Momentum (Well-Worn)
+  paint_index: 845
+- market_hash_name: AUG | Momentum (Battle-Scarred)
+  paint_index: 845
+- market_hash_name: AUG | Triqua (Factory New)
+  paint_index: 674
+- market_hash_name: AUG | Triqua (Minimal Wear)
+  paint_index: 674
+- market_hash_name: AUG | Triqua (Field-Tested)
+  paint_index: 674
+- market_hash_name: AUG | Triqua (Well-Worn)
+  paint_index: 674
+- market_hash_name: AUG | Triqua (Battle-Scarred)
+  paint_index: 674
+- market_hash_name: AUG | Torque (Factory New)
+  paint_index: 305
+- market_hash_name: AUG | Torque (Minimal Wear)
+  paint_index: 305
+- market_hash_name: AUG | Torque (Field-Tested)
+  paint_index: 305
+- market_hash_name: AUG | Torque (Well-Worn)
+  paint_index: 305
+- market_hash_name: AUG | Torque (Battle-Scarred)
+  paint_index: 305
+- market_hash_name: AUG | Fleet Flock (Factory New)
+  paint_index: 541
+- market_hash_name: AUG | Fleet Flock (Minimal Wear)
+  paint_index: 541
+- market_hash_name: AUG | Fleet Flock (Field-Tested)
+  paint_index: 541
+- market_hash_name: AUG | Fleet Flock (Well-Worn)
+  paint_index: 541
+- market_hash_name: AUG | Fleet Flock (Battle-Scarred)
+  paint_index: 541
+- market_hash_name: AUG | Arctic Wolf (Factory New)
+  paint_index: 886
+- market_hash_name: AUG | Arctic Wolf (Minimal Wear)
+  paint_index: 886
+- market_hash_name: AUG | Arctic Wolf (Field-Tested)
+  paint_index: 886
+- market_hash_name: AUG | Arctic Wolf (Well-Worn)
+  paint_index: 886
+- market_hash_name: AUG | Arctic Wolf (Battle-Scarred)
+  paint_index: 886
+- market_hash_name: AUG | Eye of Zapems (Factory New)
+  paint_index: 134
+- market_hash_name: AUG | Eye of Zapems (Minimal Wear)
+  paint_index: 134
+- market_hash_name: AUG | Eye of Zapems (Field-Tested)
+  paint_index: 134
+- market_hash_name: AUG | Eye of Zapems (Well-Worn)
+  paint_index: 134
+- market_hash_name: AUG | Eye of Zapems (Battle-Scarred)
+  paint_index: 134
+- market_hash_name: AUG | Aristocrat (Factory New)
+  paint_index: 583
+- market_hash_name: AUG | Aristocrat (Minimal Wear)
+  paint_index: 583
+- market_hash_name: AUG | Aristocrat (Field-Tested)
+  paint_index: 583
+- market_hash_name: AUG | Aristocrat (Well-Worn)
+  paint_index: 583
+- market_hash_name: AUG | Aristocrat (Battle-Scarred)
+  paint_index: 583
+- market_hash_name: AUG | Plague (Factory New)
+  paint_index: 1088
+- market_hash_name: AUG | Plague (Minimal Wear)
+  paint_index: 1088
+- market_hash_name: AUG | Plague (Field-Tested)
+  paint_index: 1088
+- market_hash_name: AUG | Plague (Well-Worn)
+  paint_index: 1088
+- market_hash_name: AUG | Plague (Battle-Scarred)
+  paint_index: 1088
+- market_hash_name: AUG | Sand Storm (Factory New)
+  paint_index: 823
+- market_hash_name: AUG | Sand Storm (Minimal Wear)
+  paint_index: 823
+- market_hash_name: AUG | Sand Storm (Field-Tested)
+  paint_index: 823
+- market_hash_name: AUG | Sand Storm (Well-Worn)
+  paint_index: 823
+- market_hash_name: AUG | Sand Storm (Battle-Scarred)
+  paint_index: 823
+- market_hash_name: AUG | Stymphalian (Factory New)
+  paint_index: 690
+- market_hash_name: AUG | Stymphalian (Minimal Wear)
+  paint_index: 690
+- market_hash_name: AUG | Stymphalian (Field-Tested)
+  paint_index: 690
+- market_hash_name: AUG | Stymphalian (Well-Worn)
+  paint_index: 690
+- market_hash_name: AUG | Stymphalian (Battle-Scarred)
+  paint_index: 690
+- market_hash_name: AUG | Syd Mead (Factory New)
+  paint_index: 601
+- market_hash_name: AUG | Syd Mead (Minimal Wear)
+  paint_index: 601
+- market_hash_name: AUG | Syd Mead (Field-Tested)
+  paint_index: 601
+- market_hash_name: AUG | Syd Mead (Well-Worn)
+  paint_index: 601
+- market_hash_name: AUG | Syd Mead (Battle-Scarred)
+  paint_index: 601
+- market_hash_name: AUG | Tom Cat (Factory New)
+  paint_index: 942
+- market_hash_name: AUG | Tom Cat (Minimal Wear)
+  paint_index: 942
+- market_hash_name: AUG | Tom Cat (Field-Tested)
+  paint_index: 942
+- market_hash_name: AUG | Tom Cat (Well-Worn)
+  paint_index: 942
+- market_hash_name: AUG | Tom Cat (Battle-Scarred)
+  paint_index: 942
+- market_hash_name: AUG | Lil' Pig (Factory New)
+  paint_index: 173
+- market_hash_name: AUG | Lil' Pig (Minimal Wear)
+  paint_index: 173
+- market_hash_name: AUG | Lil' Pig (Field-Tested)
+  paint_index: 173
+- market_hash_name: AUG | Lil' Pig (Well-Worn)
+  paint_index: 173
+- market_hash_name: AUG | Lil' Pig (Battle-Scarred)
+  paint_index: 173
+- market_hash_name: AUG | Amber Slipstream (Factory New)
+  paint_index: 708
+- market_hash_name: AUG | Amber Slipstream (Minimal Wear)
+  paint_index: 708
+- market_hash_name: AUG | Amber Slipstream (Field-Tested)
+  paint_index: 708
+- market_hash_name: AUG | Amber Slipstream (Well-Worn)
+  paint_index: 708
+- market_hash_name: AUG | Amber Slipstream (Battle-Scarred)
+  paint_index: 708
+- market_hash_name: AUG | Copperhead (Minimal Wear)
+  paint_index: 10
+- market_hash_name: AUG | Copperhead (Field-Tested)
+  paint_index: 10
+- market_hash_name: AUG | Spalted Wood (Factory New)
+  paint_index: 927
+- market_hash_name: AUG | Spalted Wood (Minimal Wear)
+  paint_index: 927
+- market_hash_name: AUG | Spalted Wood (Field-Tested)
+  paint_index: 927
+- market_hash_name: AUG | Spalted Wood (Well-Worn)
+  paint_index: 927
+- market_hash_name: AUG | Spalted Wood (Battle-Scarred)
+  paint_index: 927
+- market_hash_name: AUG | Snake Pit (Factory New)
+  paint_index: 1249
+- market_hash_name: AUG | Snake Pit (Minimal Wear)
+  paint_index: 1249
+- market_hash_name: AUG | Snake Pit (Field-Tested)
+  paint_index: 1249
+- market_hash_name: AUG | Snake Pit (Well-Worn)
+  paint_index: 1249
+- market_hash_name: AUG | Snake Pit (Battle-Scarred)
+  paint_index: 1249
+- market_hash_name: AUG | Wings (Factory New)
+  paint_index: 73
+- market_hash_name: AUG | Wings (Minimal Wear)
+  paint_index: 73
+- market_hash_name: AUG | Commando Company (Factory New)
+  paint_index: 1308
+- market_hash_name: AUG | Commando Company (Minimal Wear)
+  paint_index: 1308
+- market_hash_name: AUG | Commando Company (Field-Tested)
+  paint_index: 1308
+- market_hash_name: AUG | Commando Company (Well-Worn)
+  paint_index: 1308
+- market_hash_name: AUG | Commando Company (Battle-Scarred)
+  paint_index: 1308
+- market_hash_name: AUG | Navy Murano (Factory New)
+  paint_index: 740
+- market_hash_name: AUG | Navy Murano (Minimal Wear)
+  paint_index: 740
+- market_hash_name: AUG | Navy Murano (Field-Tested)
+  paint_index: 740
+- market_hash_name: AUG | Navy Murano (Well-Worn)
+  paint_index: 740
+- market_hash_name: AUG | Navy Murano (Battle-Scarred)
+  paint_index: 740
+- market_hash_name: AUG | Bengal Tiger (Factory New)
+  paint_index: 9
+- market_hash_name: AUG | Bengal Tiger (Minimal Wear)
+  paint_index: 9
+- market_hash_name: AUG | Bengal Tiger (Field-Tested)
+  paint_index: 9
+- market_hash_name: AUG | Bengal Tiger (Well-Worn)
+  paint_index: 9
+- market_hash_name: AUG | Bengal Tiger (Battle-Scarred)
+  paint_index: 9
+- market_hash_name: AUG | Contractor (Factory New)
+  paint_index: 46
+- market_hash_name: AUG | Contractor (Minimal Wear)
+  paint_index: 46
+- market_hash_name: AUG | Contractor (Field-Tested)
+  paint_index: 46
+- market_hash_name: AUG | Contractor (Well-Worn)
+  paint_index: 46
+- market_hash_name: AUG | Contractor (Battle-Scarred)
+  paint_index: 46
+- market_hash_name: AUG | Colony (Factory New)
+  paint_index: 47
+- market_hash_name: AUG | Colony (Minimal Wear)
+  paint_index: 47
+- market_hash_name: AUG | Colony (Field-Tested)
+  paint_index: 47
+- market_hash_name: AUG | Colony (Well-Worn)
+  paint_index: 47
+- market_hash_name: AUG | Colony (Battle-Scarred)
+  paint_index: 47
+- market_hash_name: AUG | Storm (Factory New)
+  paint_index: 100
+- market_hash_name: AUG | Storm (Minimal Wear)
+  paint_index: 100
+- market_hash_name: AUG | Storm (Field-Tested)
+  paint_index: 100
+- market_hash_name: AUG | Storm (Well-Worn)
+  paint_index: 100
+- market_hash_name: AUG | Storm (Battle-Scarred)
+  paint_index: 100
+- market_hash_name: AUG | Creep (Factory New)
+  paint_index: 1362
+- market_hash_name: AUG | Creep (Minimal Wear)
+  paint_index: 1362
+- market_hash_name: AUG | Creep (Field-Tested)
+  paint_index: 1362
+- market_hash_name: AUG | Creep (Well-Worn)
+  paint_index: 1362
+- market_hash_name: AUG | Creep (Battle-Scarred)
+  paint_index: 1362
+- market_hash_name: AUG | Daedalus (Factory New)
+  paint_index: 444
+- market_hash_name: AUG | Daedalus (Minimal Wear)
+  paint_index: 444
+- market_hash_name: AUG | Daedalus (Field-Tested)
+  paint_index: 444
+- market_hash_name: AUG | Daedalus (Well-Worn)
+  paint_index: 444
+- market_hash_name: AUG | Daedalus (Battle-Scarred)
+  paint_index: 444
+- market_hash_name: AUG | Condemned (Factory New)
+  paint_index: 110
+- market_hash_name: AUG | Condemned (Minimal Wear)
+  paint_index: 110
+- market_hash_name: AUG | Condemned (Field-Tested)
+  paint_index: 110
+- market_hash_name: AUG | Condemned (Well-Worn)
+  paint_index: 110
+- market_hash_name: AUG | Condemned (Battle-Scarred)
+  paint_index: 110
+- market_hash_name: AUG | Sweeper (Factory New)
+  paint_index: 794
+- market_hash_name: AUG | Sweeper (Minimal Wear)
+  paint_index: 794
+- market_hash_name: AUG | Sweeper (Field-Tested)
+  paint_index: 794
+- market_hash_name: AUG | Sweeper (Well-Worn)
+  paint_index: 794
+- market_hash_name: AUG | Sweeper (Battle-Scarred)
+  paint_index: 794
+- market_hash_name: AUG | Radiation Hazard (Factory New)
+  paint_index: 375
+- market_hash_name: AUG | Radiation Hazard (Minimal Wear)
+  paint_index: 375
+- market_hash_name: AUG | Radiation Hazard (Field-Tested)
+  paint_index: 375
+- market_hash_name: AUG | Radiation Hazard (Well-Worn)
+  paint_index: 375
+- market_hash_name: AUG | Radiation Hazard (Battle-Scarred)
+  paint_index: 375
+- market_hash_name: AWP | Fade (Factory New)
+  paint_index: 1026
+- market_hash_name: AWP | Fade (Minimal Wear)
+  paint_index: 1026
+- market_hash_name: AWP | Man-o'-war (Minimal Wear)
+  paint_index: 395
+- market_hash_name: AWP | Man-o'-war (Field-Tested)
+  paint_index: 395
+- market_hash_name: AWP | PAW (Factory New)
+  paint_index: 718
+- market_hash_name: AWP | PAW (Minimal Wear)
+  paint_index: 718
+- market_hash_name: AWP | PAW (Field-Tested)
+  paint_index: 718
+- market_hash_name: AWP | PAW (Well-Worn)
+  paint_index: 718
+- market_hash_name: AWP | PAW (Battle-Scarred)
+  paint_index: 718
+- market_hash_name: AWP | Graphite (Factory New)
+  paint_index: 212
+- market_hash_name: AWP | Graphite (Minimal Wear)
+  paint_index: 212
+- market_hash_name: AWP | Lightning Strike (Factory New)
+  paint_index: 51
+- market_hash_name: AWP | Lightning Strike (Minimal Wear)
+  paint_index: 51
+- market_hash_name: AWP | Silk Tiger (Factory New)
+  paint_index: 1029
+- market_hash_name: AWP | Silk Tiger (Minimal Wear)
+  paint_index: 1029
+- market_hash_name: AWP | Silk Tiger (Field-Tested)
+  paint_index: 1029
+- market_hash_name: AWP | Silk Tiger (Well-Worn)
+  paint_index: 1029
+- market_hash_name: AWP | Silk Tiger (Battle-Scarred)
+  paint_index: 1029
+- market_hash_name: AWP | Worm God (Factory New)
+  paint_index: 424
+- market_hash_name: AWP | Worm God (Minimal Wear)
+  paint_index: 424
+- market_hash_name: AWP | Worm God (Field-Tested)
+  paint_index: 424
+- market_hash_name: AWP | Worm God (Well-Worn)
+  paint_index: 424
+- market_hash_name: AWP | Ice Coaled (Factory New)
+  paint_index: 1346
+- market_hash_name: AWP | Ice Coaled (Minimal Wear)
+  paint_index: 1346
+- market_hash_name: AWP | Ice Coaled (Field-Tested)
+  paint_index: 1346
+- market_hash_name: AWP | Ice Coaled (Well-Worn)
+  paint_index: 1346
+- market_hash_name: AWP | Ice Coaled (Battle-Scarred)
+  paint_index: 1346
+- market_hash_name: AWP | LongDog (Factory New)
+  paint_index: 1213
+- market_hash_name: AWP | LongDog (Minimal Wear)
+  paint_index: 1213
+- market_hash_name: AWP | LongDog (Field-Tested)
+  paint_index: 1213
+- market_hash_name: AWP | LongDog (Well-Worn)
+  paint_index: 1213
+- market_hash_name: AWP | LongDog (Battle-Scarred)
+  paint_index: 1213
+- market_hash_name: AWP | Queen's Gambit (Factory New)
+  paint_index: 1422
+- market_hash_name: AWP | Queen's Gambit (Minimal Wear)
+  paint_index: 1422
+- market_hash_name: AWP | Queen's Gambit (Field-Tested)
+  paint_index: 1422
+- market_hash_name: AWP | Queen's Gambit (Well-Worn)
+  paint_index: 1422
+- market_hash_name: AWP | Queen's Gambit (Battle-Scarred)
+  paint_index: 1422
+- market_hash_name: AWP | Chrome Cannon (Factory New)
+  paint_index: 1170
+- market_hash_name: AWP | Chrome Cannon (Minimal Wear)
+  paint_index: 1170
+- market_hash_name: AWP | Chrome Cannon (Field-Tested)
+  paint_index: 1170
+- market_hash_name: AWP | Chrome Cannon (Well-Worn)
+  paint_index: 1170
+- market_hash_name: AWP | Chrome Cannon (Battle-Scarred)
+  paint_index: 1170
+- market_hash_name: AWP | Redline (Minimal Wear)
+  paint_index: 259
+- market_hash_name: AWP | Redline (Field-Tested)
+  paint_index: 259
+- market_hash_name: AWP | Redline (Well-Worn)
+  paint_index: 259
+- market_hash_name: AWP | Oni Taiji (Factory New)
+  paint_index: 662
+- market_hash_name: AWP | Oni Taiji (Minimal Wear)
+  paint_index: 662
+- market_hash_name: AWP | Oni Taiji (Field-Tested)
+  paint_index: 662
+- market_hash_name: AWP | Oni Taiji (Well-Worn)
+  paint_index: 662
+- market_hash_name: AWP | Oni Taiji (Battle-Scarred)
+  paint_index: 662
+- market_hash_name: AWP | Hyper Beast (Factory New)
+  paint_index: 475
+- market_hash_name: AWP | Hyper Beast (Minimal Wear)
+  paint_index: 475
+- market_hash_name: AWP | Hyper Beast (Field-Tested)
+  paint_index: 475
+- market_hash_name: AWP | Hyper Beast (Well-Worn)
+  paint_index: 475
+- market_hash_name: AWP | Hyper Beast (Battle-Scarred)
+  paint_index: 475
+- market_hash_name: AWP | Elite Build (Factory New)
+  paint_index: 525
+- market_hash_name: AWP | Elite Build (Minimal Wear)
+  paint_index: 525
+- market_hash_name: AWP | Elite Build (Field-Tested)
+  paint_index: 525
+- market_hash_name: AWP | Elite Build (Well-Worn)
+  paint_index: 525
+- market_hash_name: AWP | Elite Build (Battle-Scarred)
+  paint_index: 525
+- market_hash_name: AWP | Fever Dream (Factory New)
+  paint_index: 640
+- market_hash_name: AWP | Fever Dream (Minimal Wear)
+  paint_index: 640
+- market_hash_name: AWP | Fever Dream (Field-Tested)
+  paint_index: 640
+- market_hash_name: AWP | Fever Dream (Well-Worn)
+  paint_index: 640
+- market_hash_name: AWP | Fever Dream (Battle-Scarred)
+  paint_index: 640
+- market_hash_name: AWP | Capillary (Factory New)
+  paint_index: 943
+- market_hash_name: AWP | Capillary (Minimal Wear)
+  paint_index: 943
+- market_hash_name: AWP | Capillary (Field-Tested)
+  paint_index: 943
+- market_hash_name: AWP | Capillary (Well-Worn)
+  paint_index: 943
+- market_hash_name: AWP | Capillary (Battle-Scarred)
+  paint_index: 943
+- market_hash_name: AWP | Containment Breach (Factory New)
+  paint_index: 887
+- market_hash_name: AWP | Containment Breach (Minimal Wear)
+  paint_index: 887
+- market_hash_name: AWP | Containment Breach (Field-Tested)
+  paint_index: 887
+- market_hash_name: AWP | Containment Breach (Well-Worn)
+  paint_index: 887
+- market_hash_name: AWP | Containment Breach (Battle-Scarred)
+  paint_index: 887
+- market_hash_name: AWP | Corticera (Factory New)
+  paint_index: 181
+- market_hash_name: AWP | Corticera (Minimal Wear)
+  paint_index: 181
+- market_hash_name: AWP | Corticera (Field-Tested)
+  paint_index: 181
+- market_hash_name: AWP | Medusa (Factory New)
+  paint_index: 446
+- market_hash_name: AWP | Medusa (Minimal Wear)
+  paint_index: 446
+- market_hash_name: AWP | Medusa (Field-Tested)
+  paint_index: 446
+- market_hash_name: AWP | Medusa (Well-Worn)
+  paint_index: 446
+- market_hash_name: AWP | Medusa (Battle-Scarred)
+  paint_index: 446
+- market_hash_name: AWP | Crakow! (Factory New)
+  paint_index: 137
+- market_hash_name: AWP | Crakow! (Minimal Wear)
+  paint_index: 137
+- market_hash_name: AWP | Crakow! (Field-Tested)
+  paint_index: 137
+- market_hash_name: AWP | Crakow! (Well-Worn)
+  paint_index: 137
+- market_hash_name: AWP | Crakow! (Battle-Scarred)
+  paint_index: 137
+- market_hash_name: AWP | Green Energy (Factory New)
+  paint_index: 1280
+- market_hash_name: AWP | Green Energy (Minimal Wear)
+  paint_index: 1280
+- market_hash_name: AWP | Green Energy (Field-Tested)
+  paint_index: 1280
+- market_hash_name: AWP | Green Energy (Well-Worn)
+  paint_index: 1280
+- market_hash_name: AWP | Green Energy (Battle-Scarred)
+  paint_index: 1280
+- market_hash_name: AWP | Mortis (Factory New)
+  paint_index: 691
+- market_hash_name: AWP | Mortis (Minimal Wear)
+  paint_index: 691
+- market_hash_name: AWP | Mortis (Field-Tested)
+  paint_index: 691
+- market_hash_name: AWP | Mortis (Well-Worn)
+  paint_index: 691
+- market_hash_name: AWP | Mortis (Battle-Scarred)
+  paint_index: 691
+- market_hash_name: AWP | The Prince (Factory New)
+  paint_index: 736
+- market_hash_name: AWP | The Prince (Minimal Wear)
+  paint_index: 736
+- market_hash_name: AWP | The Prince (Field-Tested)
+  paint_index: 736
+- market_hash_name: AWP | The Prince (Well-Worn)
+  paint_index: 736
+- market_hash_name: AWP | The Prince (Battle-Scarred)
+  paint_index: 736
+- market_hash_name: AWP | Exoskeleton (Factory New)
+  paint_index: 975
+- market_hash_name: AWP | Exoskeleton (Minimal Wear)
+  paint_index: 975
+- market_hash_name: AWP | Exoskeleton (Field-Tested)
+  paint_index: 975
+- market_hash_name: AWP | Exoskeleton (Well-Worn)
+  paint_index: 975
+- market_hash_name: AWP | Exoskeleton (Battle-Scarred)
+  paint_index: 975
+- market_hash_name: AWP | Phobos (Factory New)
+  paint_index: 584
+- market_hash_name: AWP | Phobos (Minimal Wear)
+  paint_index: 584
+- market_hash_name: AWP | Phobos (Field-Tested)
+  paint_index: 584
+- market_hash_name: AWP | Phobos (Well-Worn)
+  paint_index: 584
+- market_hash_name: AWP | Black Nile (Factory New)
+  paint_index: 1239
+- market_hash_name: AWP | Black Nile (Minimal Wear)
+  paint_index: 1239
+- market_hash_name: AWP | Black Nile (Field-Tested)
+  paint_index: 1239
+- market_hash_name: AWP | Black Nile (Well-Worn)
+  paint_index: 1239
+- market_hash_name: AWP | Black Nile (Battle-Scarred)
+  paint_index: 1239
+- market_hash_name: AWP | CMYK (Factory New)
+  paint_index: 163
+- market_hash_name: AWP | CMYK (Minimal Wear)
+  paint_index: 163
+- market_hash_name: AWP | CMYK (Field-Tested)
+  paint_index: 163
+- market_hash_name: AWP | CMYK (Well-Worn)
+  paint_index: 163
+- market_hash_name: AWP | CMYK (Battle-Scarred)
+  paint_index: 163
+- market_hash_name: AWP | BOOM (Factory New)
+  paint_index: 174
+- market_hash_name: AWP | BOOM (Minimal Wear)
+  paint_index: 174
+- market_hash_name: AWP | BOOM (Field-Tested)
+  paint_index: 174
+- market_hash_name: AWP | Pink DDPAT (Factory New)
+  paint_index: 84
+- market_hash_name: AWP | Pink DDPAT (Minimal Wear)
+  paint_index: 84
+- market_hash_name: AWP | Pink DDPAT (Field-Tested)
+  paint_index: 84
+- market_hash_name: AWP | Pink DDPAT (Well-Worn)
+  paint_index: 84
+- market_hash_name: AWP | Pink DDPAT (Battle-Scarred)
+  paint_index: 84
+- market_hash_name: AWP | Electric Hive (Factory New)
+  paint_index: 227
+- market_hash_name: AWP | Electric Hive (Minimal Wear)
+  paint_index: 227
+- market_hash_name: AWP | Electric Hive (Field-Tested)
+  paint_index: 227
+- market_hash_name: AWP | Electric Hive (Well-Worn)
+  paint_index: 227
+- market_hash_name: AWP | Acheron (Factory New)
+  paint_index: 788
+- market_hash_name: AWP | Acheron (Minimal Wear)
+  paint_index: 788
+- market_hash_name: AWP | Acheron (Field-Tested)
+  paint_index: 788
+- market_hash_name: AWP | Acheron (Well-Worn)
+  paint_index: 788
+- market_hash_name: AWP | Acheron (Battle-Scarred)
+  paint_index: 788
+- market_hash_name: AWP | Pit Viper (Minimal Wear)
+  paint_index: 251
+- market_hash_name: AWP | Pit Viper (Field-Tested)
+  paint_index: 251
+- market_hash_name: AWP | Pit Viper (Well-Worn)
+  paint_index: 251
+- market_hash_name: AWP | Pit Viper (Battle-Scarred)
+  paint_index: 251
+- market_hash_name: AWP | POP AWP (Factory New)
+  paint_index: 1058
+- market_hash_name: AWP | POP AWP (Minimal Wear)
+  paint_index: 1058
+- market_hash_name: AWP | POP AWP (Field-Tested)
+  paint_index: 1058
+- market_hash_name: AWP | POP AWP (Well-Worn)
+  paint_index: 1058
+- market_hash_name: AWP | Arsenic Spill (Factory New)
+  paint_index: 1324
+- market_hash_name: AWP | Arsenic Spill (Minimal Wear)
+  paint_index: 1324
+- market_hash_name: AWP | Arsenic Spill (Field-Tested)
+  paint_index: 1324
+- market_hash_name: AWP | Arsenic Spill (Well-Worn)
+  paint_index: 1324
+- market_hash_name: AWP | Arsenic Spill (Battle-Scarred)
+  paint_index: 1324
+- market_hash_name: AWP | Sun in Leo (Factory New)
+  paint_index: 451
+- market_hash_name: AWP | Sun in Leo (Minimal Wear)
+  paint_index: 451
+- market_hash_name: AWP | Sun in Leo (Field-Tested)
+  paint_index: 451
+- market_hash_name: AWP | Sun in Leo (Well-Worn)
+  paint_index: 451
+- market_hash_name: AWP | Sun in Leo (Battle-Scarred)
+  paint_index: 451
+- market_hash_name: AWP | Exothermic (Factory New)
+  paint_index: 1378
+- market_hash_name: AWP | Exothermic (Minimal Wear)
+  paint_index: 1378
+- market_hash_name: AWP | Exothermic (Field-Tested)
+  paint_index: 1378
+- market_hash_name: AWP | Exothermic (Well-Worn)
+  paint_index: 1378
+- market_hash_name: AWP | Exothermic (Battle-Scarred)
+  paint_index: 1378
+- market_hash_name: AWP | The End (Factory New)
+  paint_index: 1356
+- market_hash_name: AWP | The End (Minimal Wear)
+  paint_index: 1356
+- market_hash_name: AWP | The End (Field-Tested)
+  paint_index: 1356
+- market_hash_name: AWP | The End (Well-Worn)
+  paint_index: 1356
+- market_hash_name: AWP | The End (Battle-Scarred)
+  paint_index: 1356
+- market_hash_name: AWP | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: AWP | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: AWP | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: AWP | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: AWP | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: AWP | Snake Camo (Factory New)
+  paint_index: 30
+- market_hash_name: AWP | Snake Camo (Minimal Wear)
+  paint_index: 30
+- market_hash_name: AWP | Snake Camo (Field-Tested)
+  paint_index: 30
+- market_hash_name: AWP | Snake Camo (Well-Worn)
+  paint_index: 30
+- market_hash_name: AWP | Snake Camo (Battle-Scarred)
+  paint_index: 30

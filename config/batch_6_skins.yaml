@@ -1,0 +1,1106 @@
+# Phase 0 data backfill (batch 6)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: Desert Eagle, Dual Berettas, Five-SeveN
+skins:
+- market_hash_name: Desert Eagle | Hypnotic (Factory New)
+  paint_index: 61
+- market_hash_name: Desert Eagle | Hypnotic (Minimal Wear)
+  paint_index: 61
+- market_hash_name: Desert Eagle | Bronze Deco (Factory New)
+  paint_index: 425
+- market_hash_name: Desert Eagle | Bronze Deco (Minimal Wear)
+  paint_index: 425
+- market_hash_name: Desert Eagle | Bronze Deco (Field-Tested)
+  paint_index: 425
+- market_hash_name: Desert Eagle | Bronze Deco (Well-Worn)
+  paint_index: 425
+- market_hash_name: Desert Eagle | Bronze Deco (Battle-Scarred)
+  paint_index: 425
+- market_hash_name: Desert Eagle | Meteorite (Factory New)
+  paint_index: 296
+- market_hash_name: Desert Eagle | Meteorite (Minimal Wear)
+  paint_index: 296
+- market_hash_name: Desert Eagle | Meteorite (Field-Tested)
+  paint_index: 296
+- market_hash_name: Desert Eagle | Night Heist (Factory New)
+  paint_index: 1006
+- market_hash_name: Desert Eagle | Night Heist (Minimal Wear)
+  paint_index: 1006
+- market_hash_name: Desert Eagle | Night Heist (Field-Tested)
+  paint_index: 1006
+- market_hash_name: Desert Eagle | Night Heist (Well-Worn)
+  paint_index: 1006
+- market_hash_name: Desert Eagle | Night Heist (Battle-Scarred)
+  paint_index: 1006
+- market_hash_name: Desert Eagle | Emerald Jörmungandr (Factory New)
+  paint_index: 757
+- market_hash_name: Desert Eagle | Emerald Jörmungandr (Minimal Wear)
+  paint_index: 757
+- market_hash_name: Desert Eagle | Emerald Jörmungandr (Field-Tested)
+  paint_index: 757
+- market_hash_name: Desert Eagle | Emerald Jörmungandr (Well-Worn)
+  paint_index: 757
+- market_hash_name: Desert Eagle | Emerald Jörmungandr (Battle-Scarred)
+  paint_index: 757
+- market_hash_name: Desert Eagle | The Bronze (Factory New)
+  paint_index: 992
+- market_hash_name: Desert Eagle | The Bronze (Minimal Wear)
+  paint_index: 992
+- market_hash_name: Desert Eagle | The Bronze (Field-Tested)
+  paint_index: 992
+- market_hash_name: Desert Eagle | Golden Koi (Factory New)
+  paint_index: 185
+- market_hash_name: Desert Eagle | Golden Koi (Minimal Wear)
+  paint_index: 185
+- market_hash_name: Desert Eagle | Sunset Storm 壱 (Factory New)
+  paint_index: 469
+- market_hash_name: Desert Eagle | Sunset Storm 壱 (Minimal Wear)
+  paint_index: 469
+- market_hash_name: Desert Eagle | Sunset Storm 壱 (Field-Tested)
+  paint_index: 469
+- market_hash_name: Desert Eagle | Sunset Storm 壱 (Well-Worn)
+  paint_index: 469
+- market_hash_name: Desert Eagle | Sunset Storm 壱 (Battle-Scarred)
+  paint_index: 469
+- market_hash_name: Desert Eagle | Midnight Storm (Factory New)
+  paint_index: 468
+- market_hash_name: Desert Eagle | Midnight Storm (Minimal Wear)
+  paint_index: 468
+- market_hash_name: Desert Eagle | Midnight Storm (Field-Tested)
+  paint_index: 468
+- market_hash_name: Desert Eagle | Midnight Storm (Well-Worn)
+  paint_index: 468
+- market_hash_name: Desert Eagle | Midnight Storm (Battle-Scarred)
+  paint_index: 468
+- market_hash_name: Desert Eagle | Sunset Storm 弐 (Factory New)
+  paint_index: 470
+- market_hash_name: Desert Eagle | Sunset Storm 弐 (Minimal Wear)
+  paint_index: 470
+- market_hash_name: Desert Eagle | Sunset Storm 弐 (Field-Tested)
+  paint_index: 470
+- market_hash_name: Desert Eagle | Sunset Storm 弐 (Well-Worn)
+  paint_index: 470
+- market_hash_name: Desert Eagle | Sunset Storm 弐 (Battle-Scarred)
+  paint_index: 470
+- market_hash_name: Desert Eagle | Heat Treated (Factory New)
+  paint_index: 1054
+- market_hash_name: Desert Eagle | Heat Treated (Minimal Wear)
+  paint_index: 1054
+- market_hash_name: Desert Eagle | Heat Treated (Field-Tested)
+  paint_index: 1054
+- market_hash_name: Desert Eagle | Heat Treated (Well-Worn)
+  paint_index: 1054
+- market_hash_name: Desert Eagle | Heat Treated (Battle-Scarred)
+  paint_index: 1054
+- market_hash_name: Desert Eagle | Corinthian (Factory New)
+  paint_index: 509
+- market_hash_name: Desert Eagle | Corinthian (Minimal Wear)
+  paint_index: 509
+- market_hash_name: Desert Eagle | Corinthian (Field-Tested)
+  paint_index: 509
+- market_hash_name: Desert Eagle | Corinthian (Well-Worn)
+  paint_index: 509
+- market_hash_name: Desert Eagle | Naga (Factory New)
+  paint_index: 397
+- market_hash_name: Desert Eagle | Naga (Minimal Wear)
+  paint_index: 397
+- market_hash_name: Desert Eagle | Naga (Field-Tested)
+  paint_index: 397
+- market_hash_name: Desert Eagle | Naga (Well-Worn)
+  paint_index: 397
+- market_hash_name: Desert Eagle | Naga (Battle-Scarred)
+  paint_index: 397
+- market_hash_name: Desert Eagle | Directive (Factory New)
+  paint_index: 603
+- market_hash_name: Desert Eagle | Directive (Minimal Wear)
+  paint_index: 603
+- market_hash_name: Desert Eagle | Directive (Field-Tested)
+  paint_index: 603
+- market_hash_name: Desert Eagle | Directive (Well-Worn)
+  paint_index: 603
+- market_hash_name: Desert Eagle | Directive (Battle-Scarred)
+  paint_index: 603
+- market_hash_name: Desert Eagle | Heirloom (Factory New)
+  paint_index: 273
+- market_hash_name: Desert Eagle | Heirloom (Minimal Wear)
+  paint_index: 273
+- market_hash_name: Desert Eagle | Heirloom (Field-Tested)
+  paint_index: 273
+- market_hash_name: Desert Eagle | Heirloom (Well-Worn)
+  paint_index: 273
+- market_hash_name: Desert Eagle | Heirloom (Battle-Scarred)
+  paint_index: 273
+- market_hash_name: Desert Eagle | Hand Cannon (Factory New)
+  paint_index: 328
+- market_hash_name: Desert Eagle | Hand Cannon (Minimal Wear)
+  paint_index: 328
+- market_hash_name: Desert Eagle | Hand Cannon (Field-Tested)
+  paint_index: 328
+- market_hash_name: Desert Eagle | Hand Cannon (Well-Worn)
+  paint_index: 328
+- market_hash_name: Desert Eagle | Hand Cannon (Battle-Scarred)
+  paint_index: 328
+- market_hash_name: Desert Eagle | Pilot (Factory New)
+  paint_index: 347
+- market_hash_name: Desert Eagle | Pilot (Minimal Wear)
+  paint_index: 347
+- market_hash_name: Desert Eagle | Pilot (Field-Tested)
+  paint_index: 347
+- market_hash_name: Desert Eagle | Pilot (Well-Worn)
+  paint_index: 347
+- market_hash_name: Desert Eagle | Pilot (Battle-Scarred)
+  paint_index: 347
+- market_hash_name: Desert Eagle | Trigger Discipline (Factory New)
+  paint_index: 1050
+- market_hash_name: Desert Eagle | Trigger Discipline (Minimal Wear)
+  paint_index: 1050
+- market_hash_name: Desert Eagle | Trigger Discipline (Field-Tested)
+  paint_index: 1050
+- market_hash_name: Desert Eagle | Trigger Discipline (Well-Worn)
+  paint_index: 1050
+- market_hash_name: Desert Eagle | Trigger Discipline (Battle-Scarred)
+  paint_index: 1050
+- market_hash_name: Desert Eagle | Conspiracy (Factory New)
+  paint_index: 351
+- market_hash_name: Desert Eagle | Conspiracy (Minimal Wear)
+  paint_index: 351
+- market_hash_name: Desert Eagle | Conspiracy (Field-Tested)
+  paint_index: 351
+- market_hash_name: Desert Eagle | Ocean Drive (Factory New)
+  paint_index: 1090
+- market_hash_name: Desert Eagle | Ocean Drive (Minimal Wear)
+  paint_index: 1090
+- market_hash_name: Desert Eagle | Ocean Drive (Field-Tested)
+  paint_index: 1090
+- market_hash_name: Desert Eagle | Ocean Drive (Well-Worn)
+  paint_index: 1090
+- market_hash_name: Desert Eagle | Ocean Drive (Battle-Scarred)
+  paint_index: 1090
+- market_hash_name: Desert Eagle | Blue Ply (Factory New)
+  paint_index: 945
+- market_hash_name: Desert Eagle | Blue Ply (Minimal Wear)
+  paint_index: 945
+- market_hash_name: Desert Eagle | Blue Ply (Field-Tested)
+  paint_index: 945
+- market_hash_name: Desert Eagle | Blue Ply (Well-Worn)
+  paint_index: 945
+- market_hash_name: Desert Eagle | Blue Ply (Battle-Scarred)
+  paint_index: 945
+- market_hash_name: Desert Eagle | Oxide Blaze (Factory New)
+  paint_index: 645
+- market_hash_name: Desert Eagle | Oxide Blaze (Minimal Wear)
+  paint_index: 645
+- market_hash_name: Desert Eagle | Oxide Blaze (Field-Tested)
+  paint_index: 645
+- market_hash_name: Desert Eagle | Oxide Blaze (Well-Worn)
+  paint_index: 645
+- market_hash_name: Desert Eagle | Oxide Blaze (Battle-Scarred)
+  paint_index: 645
+- market_hash_name: Desert Eagle | Starcade (Factory New)
+  paint_index: 938
+- market_hash_name: Desert Eagle | Starcade (Minimal Wear)
+  paint_index: 938
+- market_hash_name: Desert Eagle | Starcade (Field-Tested)
+  paint_index: 938
+- market_hash_name: Desert Eagle | Starcade (Well-Worn)
+  paint_index: 938
+- market_hash_name: Desert Eagle | Starcade (Battle-Scarred)
+  paint_index: 938
+- market_hash_name: Desert Eagle | Tilted (Factory New)
+  paint_index: 138
+- market_hash_name: Desert Eagle | Tilted (Minimal Wear)
+  paint_index: 138
+- market_hash_name: Desert Eagle | Tilted (Field-Tested)
+  paint_index: 138
+- market_hash_name: Desert Eagle | Tilted (Well-Worn)
+  paint_index: 138
+- market_hash_name: Desert Eagle | Tilted (Battle-Scarred)
+  paint_index: 138
+- market_hash_name: Desert Eagle | Calligraffiti (Factory New)
+  paint_index: 114
+- market_hash_name: Desert Eagle | Calligraffiti (Minimal Wear)
+  paint_index: 114
+- market_hash_name: Desert Eagle | Calligraffiti (Field-Tested)
+  paint_index: 114
+- market_hash_name: Desert Eagle | Calligraffiti (Well-Worn)
+  paint_index: 114
+- market_hash_name: Desert Eagle | Calligraffiti (Battle-Scarred)
+  paint_index: 114
+- market_hash_name: Desert Eagle | Firebreathing (Factory New)
+  paint_index: 1430
+- market_hash_name: Desert Eagle | Firebreathing (Minimal Wear)
+  paint_index: 1430
+- market_hash_name: Desert Eagle | Firebreathing (Field-Tested)
+  paint_index: 1430
+- market_hash_name: Desert Eagle | Firebreathing (Well-Worn)
+  paint_index: 1430
+- market_hash_name: Desert Eagle | Firebreathing (Battle-Scarred)
+  paint_index: 1430
+- market_hash_name: Desert Eagle | Serpent Strike (Factory New)
+  paint_index: 1189
+- market_hash_name: Desert Eagle | Serpent Strike (Minimal Wear)
+  paint_index: 1189
+- market_hash_name: Desert Eagle | Serpent Strike (Field-Tested)
+  paint_index: 1189
+- market_hash_name: Desert Eagle | Serpent Strike (Well-Worn)
+  paint_index: 1189
+- market_hash_name: Desert Eagle | Serpent Strike (Battle-Scarred)
+  paint_index: 1189
+- market_hash_name: Desert Eagle | Light Rail (Factory New)
+  paint_index: 841
+- market_hash_name: Desert Eagle | Light Rail (Minimal Wear)
+  paint_index: 841
+- market_hash_name: Desert Eagle | Light Rail (Field-Tested)
+  paint_index: 841
+- market_hash_name: Desert Eagle | Light Rail (Well-Worn)
+  paint_index: 841
+- market_hash_name: Desert Eagle | Light Rail (Battle-Scarred)
+  paint_index: 841
+- market_hash_name: Desert Eagle | Mint Fan (Factory New)
+  paint_index: 1257
+- market_hash_name: Desert Eagle | Mint Fan (Minimal Wear)
+  paint_index: 1257
+- market_hash_name: Desert Eagle | Mint Fan (Field-Tested)
+  paint_index: 1257
+- market_hash_name: Desert Eagle | Mint Fan (Well-Worn)
+  paint_index: 1257
+- market_hash_name: Desert Eagle | Mint Fan (Battle-Scarred)
+  paint_index: 1257
+- market_hash_name: Desert Eagle | Urban DDPAT (Factory New)
+  paint_index: 17
+- market_hash_name: Desert Eagle | Urban DDPAT (Minimal Wear)
+  paint_index: 17
+- market_hash_name: Desert Eagle | Urban DDPAT (Field-Tested)
+  paint_index: 17
+- market_hash_name: Desert Eagle | Urban DDPAT (Well-Worn)
+  paint_index: 17
+- market_hash_name: Desert Eagle | Urban DDPAT (Battle-Scarred)
+  paint_index: 17
+- market_hash_name: Desert Eagle | Mudder (Factory New)
+  paint_index: 90
+- market_hash_name: Desert Eagle | Mudder (Minimal Wear)
+  paint_index: 90
+- market_hash_name: Desert Eagle | Mudder (Field-Tested)
+  paint_index: 90
+- market_hash_name: Desert Eagle | Mudder (Well-Worn)
+  paint_index: 90
+- market_hash_name: Desert Eagle | Mudder (Battle-Scarred)
+  paint_index: 90
+- market_hash_name: Desert Eagle | Urban Rubble (Factory New)
+  paint_index: 237
+- market_hash_name: Desert Eagle | Urban Rubble (Minimal Wear)
+  paint_index: 237
+- market_hash_name: Desert Eagle | Urban Rubble (Field-Tested)
+  paint_index: 237
+- market_hash_name: Desert Eagle | Urban Rubble (Well-Worn)
+  paint_index: 237
+- market_hash_name: Desert Eagle | Urban Rubble (Battle-Scarred)
+  paint_index: 237
+- market_hash_name: Desert Eagle | The Daily Deagle (Factory New)
+  paint_index: 1360
+- market_hash_name: Desert Eagle | The Daily Deagle (Minimal Wear)
+  paint_index: 1360
+- market_hash_name: Desert Eagle | The Daily Deagle (Field-Tested)
+  paint_index: 1360
+- market_hash_name: Desert Eagle | The Daily Deagle (Well-Worn)
+  paint_index: 1360
+- market_hash_name: Desert Eagle | The Daily Deagle (Battle-Scarred)
+  paint_index: 1360
+- market_hash_name: Desert Eagle | Night (Factory New)
+  paint_index: 40
+- market_hash_name: Desert Eagle | Night (Minimal Wear)
+  paint_index: 40
+- market_hash_name: Desert Eagle | Night (Field-Tested)
+  paint_index: 40
+- market_hash_name: Desert Eagle | Night (Well-Worn)
+  paint_index: 40
+- market_hash_name: Desert Eagle | Night (Battle-Scarred)
+  paint_index: 40
+- market_hash_name: Desert Eagle | Mulberry (Factory New)
+  paint_index: 1318
+- market_hash_name: Desert Eagle | Mulberry (Minimal Wear)
+  paint_index: 1318
+- market_hash_name: Desert Eagle | Mulberry (Field-Tested)
+  paint_index: 1318
+- market_hash_name: Desert Eagle | Mulberry (Well-Worn)
+  paint_index: 1318
+- market_hash_name: Desert Eagle | Mulberry (Battle-Scarred)
+  paint_index: 1318
+- market_hash_name: Desert Eagle | Sputnik (Factory New)
+  paint_index: 1056
+- market_hash_name: Desert Eagle | Sputnik (Minimal Wear)
+  paint_index: 1056
+- market_hash_name: Desert Eagle | Sputnik (Field-Tested)
+  paint_index: 1056
+- market_hash_name: Desert Eagle | Sputnik (Well-Worn)
+  paint_index: 1056
+- market_hash_name: Desert Eagle | Sputnik (Battle-Scarred)
+  paint_index: 1056
+- market_hash_name: Dual Berettas | Cobalt Quartz (Factory New)
+  paint_index: 249
+- market_hash_name: Dual Berettas | Cobalt Quartz (Minimal Wear)
+  paint_index: 249
+- market_hash_name: Dual Berettas | Cobalt Quartz (Field-Tested)
+  paint_index: 249
+- market_hash_name: Dual Berettas | Cobalt Quartz (Well-Worn)
+  paint_index: 249
+- market_hash_name: Dual Berettas | Heist (Factory New)
+  paint_index: 1005
+- market_hash_name: Dual Berettas | Heist (Minimal Wear)
+  paint_index: 1005
+- market_hash_name: Dual Berettas | Heist (Field-Tested)
+  paint_index: 1005
+- market_hash_name: Dual Berettas | Heist (Well-Worn)
+  paint_index: 1005
+- market_hash_name: Dual Berettas | Heist (Battle-Scarred)
+  paint_index: 1005
+- market_hash_name: Dual Berettas | Hemoglobin (Factory New)
+  paint_index: 220
+- market_hash_name: Dual Berettas | Hemoglobin (Minimal Wear)
+  paint_index: 220
+- market_hash_name: Dual Berettas | Hemoglobin (Field-Tested)
+  paint_index: 220
+- market_hash_name: Dual Berettas | Emerald (Factory New)
+  paint_index: 453
+- market_hash_name: Dual Berettas | Emerald (Minimal Wear)
+  paint_index: 453
+- market_hash_name: Dual Berettas | Anodized Navy (Factory New)
+  paint_index: 28
+- market_hash_name: Dual Berettas | Anodized Navy (Minimal Wear)
+  paint_index: 28
+- market_hash_name: Dual Berettas | Cartel (Factory New)
+  paint_index: 528
+- market_hash_name: Dual Berettas | Cartel (Minimal Wear)
+  paint_index: 528
+- market_hash_name: Dual Berettas | Cartel (Field-Tested)
+  paint_index: 528
+- market_hash_name: Dual Berettas | Cartel (Well-Worn)
+  paint_index: 528
+- market_hash_name: Dual Berettas | Cartel (Battle-Scarred)
+  paint_index: 528
+- market_hash_name: Dual Berettas | Stained (Factory New)
+  paint_index: 43
+- market_hash_name: Dual Berettas | Stained (Minimal Wear)
+  paint_index: 43
+- market_hash_name: Dual Berettas | Stained (Field-Tested)
+  paint_index: 43
+- market_hash_name: Dual Berettas | Stained (Well-Worn)
+  paint_index: 43
+- market_hash_name: Dual Berettas | Stained (Battle-Scarred)
+  paint_index: 43
+- market_hash_name: Dual Berettas | Flora Carnivora (Factory New)
+  paint_index: 1156
+- market_hash_name: Dual Berettas | Flora Carnivora (Minimal Wear)
+  paint_index: 1156
+- market_hash_name: Dual Berettas | Flora Carnivora (Field-Tested)
+  paint_index: 1156
+- market_hash_name: Dual Berettas | Flora Carnivora (Well-Worn)
+  paint_index: 1156
+- market_hash_name: Dual Berettas | Flora Carnivora (Battle-Scarred)
+  paint_index: 1156
+- market_hash_name: Dual Berettas | Twin Turbo (Factory New)
+  paint_index: 747
+- market_hash_name: Dual Berettas | Twin Turbo (Minimal Wear)
+  paint_index: 747
+- market_hash_name: Dual Berettas | Twin Turbo (Field-Tested)
+  paint_index: 747
+- market_hash_name: Dual Berettas | Twin Turbo (Well-Worn)
+  paint_index: 747
+- market_hash_name: Dual Berettas | Twin Turbo (Battle-Scarred)
+  paint_index: 747
+- market_hash_name: Dual Berettas | Dualing Dragons (Factory New)
+  paint_index: 491
+- market_hash_name: Dual Berettas | Dualing Dragons (Minimal Wear)
+  paint_index: 491
+- market_hash_name: Dual Berettas | Dualing Dragons (Field-Tested)
+  paint_index: 491
+- market_hash_name: Dual Berettas | Dualing Dragons (Well-Worn)
+  paint_index: 491
+- market_hash_name: Dual Berettas | Dualing Dragons (Battle-Scarred)
+  paint_index: 491
+- market_hash_name: Dual Berettas | Melondrama (Factory New)
+  paint_index: 1126
+- market_hash_name: Dual Berettas | Melondrama (Minimal Wear)
+  paint_index: 1126
+- market_hash_name: Dual Berettas | Melondrama (Field-Tested)
+  paint_index: 1126
+- market_hash_name: Dual Berettas | Melondrama (Well-Worn)
+  paint_index: 1126
+- market_hash_name: Dual Berettas | Melondrama (Battle-Scarred)
+  paint_index: 1126
+- market_hash_name: Dual Berettas | Urban Shock (Factory New)
+  paint_index: 396
+- market_hash_name: Dual Berettas | Urban Shock (Minimal Wear)
+  paint_index: 396
+- market_hash_name: Dual Berettas | Urban Shock (Field-Tested)
+  paint_index: 396
+- market_hash_name: Dual Berettas | Urban Shock (Well-Worn)
+  paint_index: 396
+- market_hash_name: Dual Berettas | Urban Shock (Battle-Scarred)
+  paint_index: 396
+- market_hash_name: Dual Berettas | Sweet Little Angels (Factory New)
+  paint_index: 139
+- market_hash_name: Dual Berettas | Sweet Little Angels (Minimal Wear)
+  paint_index: 139
+- market_hash_name: Dual Berettas | Sweet Little Angels (Field-Tested)
+  paint_index: 139
+- market_hash_name: Dual Berettas | Sweet Little Angels (Well-Worn)
+  paint_index: 139
+- market_hash_name: Dual Berettas | Sweet Little Angels (Battle-Scarred)
+  paint_index: 139
+- market_hash_name: Dual Berettas | Retribution (Factory New)
+  paint_index: 307
+- market_hash_name: Dual Berettas | Retribution (Minimal Wear)
+  paint_index: 307
+- market_hash_name: Dual Berettas | Retribution (Field-Tested)
+  paint_index: 307
+- market_hash_name: Dual Berettas | Retribution (Well-Worn)
+  paint_index: 307
+- market_hash_name: Dual Berettas | Black Limba (Factory New)
+  paint_index: 190
+- market_hash_name: Dual Berettas | Black Limba (Minimal Wear)
+  paint_index: 190
+- market_hash_name: Dual Berettas | Black Limba (Field-Tested)
+  paint_index: 190
+- market_hash_name: Dual Berettas | Black Limba (Well-Worn)
+  paint_index: 190
+- market_hash_name: Dual Berettas | Black Limba (Battle-Scarred)
+  paint_index: 190
+- market_hash_name: Dual Berettas | Hideout (Factory New)
+  paint_index: 1169
+- market_hash_name: Dual Berettas | Hideout (Minimal Wear)
+  paint_index: 1169
+- market_hash_name: Dual Berettas | Hideout (Field-Tested)
+  paint_index: 1169
+- market_hash_name: Dual Berettas | Hideout (Well-Worn)
+  paint_index: 1169
+- market_hash_name: Dual Berettas | Hideout (Battle-Scarred)
+  paint_index: 1169
+- market_hash_name: Dual Berettas | Angel Eyes (Factory New)
+  paint_index: 1347
+- market_hash_name: Dual Berettas | Angel Eyes (Minimal Wear)
+  paint_index: 1347
+- market_hash_name: Dual Berettas | Angel Eyes (Field-Tested)
+  paint_index: 1347
+- market_hash_name: Dual Berettas | Angel Eyes (Well-Worn)
+  paint_index: 1347
+- market_hash_name: Dual Berettas | Angel Eyes (Battle-Scarred)
+  paint_index: 1347
+- market_hash_name: Dual Berettas | Hydro Strike (Factory New)
+  paint_index: 112
+- market_hash_name: Dual Berettas | Hydro Strike (Minimal Wear)
+  paint_index: 112
+- market_hash_name: Dual Berettas | Hydro Strike (Field-Tested)
+  paint_index: 112
+- market_hash_name: Dual Berettas | Hydro Strike (Well-Worn)
+  paint_index: 112
+- market_hash_name: Dual Berettas | Hydro Strike (Battle-Scarred)
+  paint_index: 112
+- market_hash_name: Dual Berettas | Royal Consorts (Factory New)
+  paint_index: 625
+- market_hash_name: Dual Berettas | Royal Consorts (Minimal Wear)
+  paint_index: 625
+- market_hash_name: Dual Berettas | Royal Consorts (Field-Tested)
+  paint_index: 625
+- market_hash_name: Dual Berettas | Royal Consorts (Well-Worn)
+  paint_index: 625
+- market_hash_name: Dual Berettas | Royal Consorts (Battle-Scarred)
+  paint_index: 625
+- market_hash_name: Dual Berettas | Tread (Factory New)
+  paint_index: 1091
+- market_hash_name: Dual Berettas | Tread (Minimal Wear)
+  paint_index: 1091
+- market_hash_name: Dual Berettas | Tread (Field-Tested)
+  paint_index: 1091
+- market_hash_name: Dual Berettas | Tread (Well-Worn)
+  paint_index: 1091
+- market_hash_name: Dual Berettas | Tread (Battle-Scarred)
+  paint_index: 1091
+- market_hash_name: Dual Berettas | Elite 1.6 (Factory New)
+  paint_index: 903
+- market_hash_name: Dual Berettas | Elite 1.6 (Minimal Wear)
+  paint_index: 903
+- market_hash_name: Dual Berettas | Elite 1.6 (Field-Tested)
+  paint_index: 903
+- market_hash_name: Dual Berettas | Elite 1.6 (Well-Worn)
+  paint_index: 903
+- market_hash_name: Dual Berettas | Elite 1.6 (Battle-Scarred)
+  paint_index: 903
+- market_hash_name: Dual Berettas | Dezastre (Factory New)
+  paint_index: 978
+- market_hash_name: Dual Berettas | Dezastre (Minimal Wear)
+  paint_index: 978
+- market_hash_name: Dual Berettas | Dezastre (Field-Tested)
+  paint_index: 978
+- market_hash_name: Dual Berettas | Dezastre (Well-Worn)
+  paint_index: 978
+- market_hash_name: Dual Berettas | Dezastre (Battle-Scarred)
+  paint_index: 978
+- market_hash_name: Dual Berettas | Balance (Factory New)
+  paint_index: 895
+- market_hash_name: Dual Berettas | Balance (Minimal Wear)
+  paint_index: 895
+- market_hash_name: Dual Berettas | Balance (Field-Tested)
+  paint_index: 895
+- market_hash_name: Dual Berettas | Balance (Well-Worn)
+  paint_index: 895
+- market_hash_name: Dual Berettas | Balance (Battle-Scarred)
+  paint_index: 895
+- market_hash_name: Dual Berettas | Cobra Strike (Factory New)
+  paint_index: 658
+- market_hash_name: Dual Berettas | Cobra Strike (Minimal Wear)
+  paint_index: 658
+- market_hash_name: Dual Berettas | Cobra Strike (Field-Tested)
+  paint_index: 658
+- market_hash_name: Dual Berettas | Cobra Strike (Well-Worn)
+  paint_index: 658
+- market_hash_name: Dual Berettas | Cobra Strike (Battle-Scarred)
+  paint_index: 658
+- market_hash_name: Dual Berettas | Ventilators (Factory New)
+  paint_index: 544
+- market_hash_name: Dual Berettas | Ventilators (Minimal Wear)
+  paint_index: 544
+- market_hash_name: Dual Berettas | Ventilators (Field-Tested)
+  paint_index: 544
+- market_hash_name: Dual Berettas | Ventilators (Well-Worn)
+  paint_index: 544
+- market_hash_name: Dual Berettas | Duelist (Factory New)
+  paint_index: 447
+- market_hash_name: Dual Berettas | Duelist (Minimal Wear)
+  paint_index: 447
+- market_hash_name: Dual Berettas | Duelist (Field-Tested)
+  paint_index: 447
+- market_hash_name: Dual Berettas | Duelist (Well-Worn)
+  paint_index: 447
+- market_hash_name: Dual Berettas | Duelist (Battle-Scarred)
+  paint_index: 447
+- market_hash_name: Dual Berettas | Pyre (Factory New)
+  paint_index: 860
+- market_hash_name: Dual Berettas | Pyre (Minimal Wear)
+  paint_index: 860
+- market_hash_name: Dual Berettas | Pyre (Field-Tested)
+  paint_index: 860
+- market_hash_name: Dual Berettas | Pyre (Well-Worn)
+  paint_index: 860
+- market_hash_name: Dual Berettas | Pyre (Battle-Scarred)
+  paint_index: 860
+- market_hash_name: Dual Berettas | Marina (Factory New)
+  paint_index: 261
+- market_hash_name: Dual Berettas | Marina (Minimal Wear)
+  paint_index: 261
+- market_hash_name: Dual Berettas | Marina (Field-Tested)
+  paint_index: 261
+- market_hash_name: Dual Berettas | Marina (Well-Worn)
+  paint_index: 261
+- market_hash_name: Dual Berettas | Marina (Battle-Scarred)
+  paint_index: 261
+- market_hash_name: Dual Berettas | Switch Board (Factory New)
+  paint_index: 998
+- market_hash_name: Dual Berettas | Switch Board (Minimal Wear)
+  paint_index: 998
+- market_hash_name: Dual Berettas | Switch Board (Field-Tested)
+  paint_index: 998
+- market_hash_name: Dual Berettas | Switch Board (Well-Worn)
+  paint_index: 998
+- market_hash_name: Dual Berettas | Switch Board (Battle-Scarred)
+  paint_index: 998
+- market_hash_name: Dual Berettas | Briar (Factory New)
+  paint_index: 330
+- market_hash_name: Dual Berettas | Briar (Minimal Wear)
+  paint_index: 330
+- market_hash_name: Dual Berettas | Briar (Field-Tested)
+  paint_index: 330
+- market_hash_name: Dual Berettas | Moon in Libra (Factory New)
+  paint_index: 450
+- market_hash_name: Dual Berettas | Moon in Libra (Minimal Wear)
+  paint_index: 450
+- market_hash_name: Dual Berettas | Moon in Libra (Field-Tested)
+  paint_index: 450
+- market_hash_name: Dual Berettas | Moon in Libra (Well-Worn)
+  paint_index: 450
+- market_hash_name: Dual Berettas | Moon in Libra (Battle-Scarred)
+  paint_index: 450
+- market_hash_name: Dual Berettas | Panther (Factory New)
+  paint_index: 276
+- market_hash_name: Dual Berettas | Panther (Minimal Wear)
+  paint_index: 276
+- market_hash_name: Dual Berettas | Panther (Field-Tested)
+  paint_index: 276
+- market_hash_name: Dual Berettas | Panther (Well-Worn)
+  paint_index: 276
+- market_hash_name: Dual Berettas | Panther (Battle-Scarred)
+  paint_index: 276
+- market_hash_name: Dual Berettas | Contractor (Factory New)
+  paint_index: 46
+- market_hash_name: Dual Berettas | Contractor (Minimal Wear)
+  paint_index: 46
+- market_hash_name: Dual Berettas | Contractor (Field-Tested)
+  paint_index: 46
+- market_hash_name: Dual Berettas | Contractor (Well-Worn)
+  paint_index: 46
+- market_hash_name: Dual Berettas | Contractor (Battle-Scarred)
+  paint_index: 46
+- market_hash_name: Dual Berettas | Colony (Factory New)
+  paint_index: 47
+- market_hash_name: Dual Berettas | Colony (Minimal Wear)
+  paint_index: 47
+- market_hash_name: Dual Berettas | Colony (Field-Tested)
+  paint_index: 47
+- market_hash_name: Dual Berettas | Colony (Well-Worn)
+  paint_index: 47
+- market_hash_name: Dual Berettas | Colony (Battle-Scarred)
+  paint_index: 47
+- market_hash_name: Dual Berettas | Demolition (Field-Tested)
+  paint_index: 153
+- market_hash_name: Dual Berettas | Demolition (Well-Worn)
+  paint_index: 153
+- market_hash_name: Dual Berettas | Demolition (Battle-Scarred)
+  paint_index: 153
+- market_hash_name: Dual Berettas | BorDeux (Factory New)
+  paint_index: 1335
+- market_hash_name: Dual Berettas | BorDeux (Minimal Wear)
+  paint_index: 1335
+- market_hash_name: Dual Berettas | BorDeux (Field-Tested)
+  paint_index: 1335
+- market_hash_name: Dual Berettas | BorDeux (Well-Worn)
+  paint_index: 1335
+- market_hash_name: Dual Berettas | BorDeux (Battle-Scarred)
+  paint_index: 1335
+- market_hash_name: Dual Berettas | Polished Malachite (Factory New)
+  paint_index: 1290
+- market_hash_name: Dual Berettas | Polished Malachite (Minimal Wear)
+  paint_index: 1290
+- market_hash_name: Dual Berettas | Polished Malachite (Field-Tested)
+  paint_index: 1290
+- market_hash_name: Dual Berettas | Polished Malachite (Well-Worn)
+  paint_index: 1290
+- market_hash_name: Dual Berettas | Polished Malachite (Battle-Scarred)
+  paint_index: 1290
+- market_hash_name: Dual Berettas | Silver Pour (Factory New)
+  paint_index: 1373
+- market_hash_name: Dual Berettas | Silver Pour (Minimal Wear)
+  paint_index: 1373
+- market_hash_name: Dual Berettas | Silver Pour (Field-Tested)
+  paint_index: 1373
+- market_hash_name: Dual Berettas | Silver Pour (Well-Worn)
+  paint_index: 1373
+- market_hash_name: Dual Berettas | Silver Pour (Battle-Scarred)
+  paint_index: 1373
+- market_hash_name: Dual Berettas | Rose Nacre (Factory New)
+  paint_index: 1263
+- market_hash_name: Dual Berettas | Rose Nacre (Minimal Wear)
+  paint_index: 1263
+- market_hash_name: Dual Berettas | Rose Nacre (Field-Tested)
+  paint_index: 1263
+- market_hash_name: Dual Berettas | Rose Nacre (Well-Worn)
+  paint_index: 1263
+- market_hash_name: Dual Berettas | Rose Nacre (Battle-Scarred)
+  paint_index: 1263
+- market_hash_name: Dual Berettas | Drift Wood (Factory New)
+  paint_index: 824
+- market_hash_name: Dual Berettas | Drift Wood (Minimal Wear)
+  paint_index: 824
+- market_hash_name: Dual Berettas | Drift Wood (Field-Tested)
+  paint_index: 824
+- market_hash_name: Dual Berettas | Drift Wood (Well-Worn)
+  paint_index: 824
+- market_hash_name: Dual Berettas | Drift Wood (Battle-Scarred)
+  paint_index: 824
+- market_hash_name: Dual Berettas | Shred (Factory New)
+  paint_index: 710
+- market_hash_name: Dual Berettas | Shred (Minimal Wear)
+  paint_index: 710
+- market_hash_name: Dual Berettas | Shred (Field-Tested)
+  paint_index: 710
+- market_hash_name: Dual Berettas | Shred (Well-Worn)
+  paint_index: 710
+- market_hash_name: Dual Berettas | Shred (Battle-Scarred)
+  paint_index: 710
+- market_hash_name: Dual Berettas | Oil Change (Factory New)
+  paint_index: 1086
+- market_hash_name: Dual Berettas | Oil Change (Minimal Wear)
+  paint_index: 1086
+- market_hash_name: Dual Berettas | Oil Change (Field-Tested)
+  paint_index: 1086
+- market_hash_name: Dual Berettas | Oil Change (Well-Worn)
+  paint_index: 1086
+- market_hash_name: Dual Berettas | Oil Change (Battle-Scarred)
+  paint_index: 1086
+- market_hash_name: Five-SeveN | Berries And Cherries (Factory New)
+  paint_index: 1002
+- market_hash_name: Five-SeveN | Berries And Cherries (Minimal Wear)
+  paint_index: 1002
+- market_hash_name: Five-SeveN | Copper Galaxy (Factory New)
+  paint_index: 274
+- market_hash_name: Five-SeveN | Copper Galaxy (Minimal Wear)
+  paint_index: 274
+- market_hash_name: Five-SeveN | Copper Galaxy (Field-Tested)
+  paint_index: 274
+- market_hash_name: Five-SeveN | Silver Quartz (Factory New)
+  paint_index: 252
+- market_hash_name: Five-SeveN | Silver Quartz (Minimal Wear)
+  paint_index: 252
+- market_hash_name: Five-SeveN | Silver Quartz (Field-Tested)
+  paint_index: 252
+- market_hash_name: Five-SeveN | Silver Quartz (Well-Worn)
+  paint_index: 252
+- market_hash_name: Five-SeveN | Anodized Gunmetal (Factory New)
+  paint_index: 210
+- market_hash_name: Five-SeveN | Anodized Gunmetal (Minimal Wear)
+  paint_index: 210
+- market_hash_name: Five-SeveN | Fowl Play (Factory New)
+  paint_index: 352
+- market_hash_name: Five-SeveN | Fowl Play (Minimal Wear)
+  paint_index: 352
+- market_hash_name: Five-SeveN | Fowl Play (Field-Tested)
+  paint_index: 352
+- market_hash_name: Five-SeveN | Fowl Play (Well-Worn)
+  paint_index: 352
+- market_hash_name: Five-SeveN | Fowl Play (Battle-Scarred)
+  paint_index: 352
+- market_hash_name: Five-SeveN | Heat Treated (Factory New)
+  paint_index: 831
+- market_hash_name: Five-SeveN | Heat Treated (Minimal Wear)
+  paint_index: 831
+- market_hash_name: Five-SeveN | Heat Treated (Field-Tested)
+  paint_index: 831
+- market_hash_name: Five-SeveN | Heat Treated (Well-Worn)
+  paint_index: 831
+- market_hash_name: Five-SeveN | Heat Treated (Battle-Scarred)
+  paint_index: 831
+- market_hash_name: Five-SeveN | Scumbria (Factory New)
+  paint_index: 605
+- market_hash_name: Five-SeveN | Scumbria (Minimal Wear)
+  paint_index: 605
+- market_hash_name: Five-SeveN | Scumbria (Field-Tested)
+  paint_index: 605
+- market_hash_name: Five-SeveN | Scumbria (Well-Worn)
+  paint_index: 605
+- market_hash_name: Five-SeveN | Scumbria (Battle-Scarred)
+  paint_index: 605
+- market_hash_name: Five-SeveN | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: Five-SeveN | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: Five-SeveN | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: Five-SeveN | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: Five-SeveN | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: Five-SeveN | Angry Mob (Factory New)
+  paint_index: 837
+- market_hash_name: Five-SeveN | Angry Mob (Minimal Wear)
+  paint_index: 837
+- market_hash_name: Five-SeveN | Angry Mob (Field-Tested)
+  paint_index: 837
+- market_hash_name: Five-SeveN | Angry Mob (Well-Worn)
+  paint_index: 837
+- market_hash_name: Five-SeveN | Angry Mob (Battle-Scarred)
+  paint_index: 837
+- market_hash_name: Five-SeveN | Violent Daimyo (Factory New)
+  paint_index: 585
+- market_hash_name: Five-SeveN | Violent Daimyo (Minimal Wear)
+  paint_index: 585
+- market_hash_name: Five-SeveN | Violent Daimyo (Field-Tested)
+  paint_index: 585
+- market_hash_name: Five-SeveN | Violent Daimyo (Well-Worn)
+  paint_index: 585
+- market_hash_name: Five-SeveN | Violent Daimyo (Battle-Scarred)
+  paint_index: 585
+- market_hash_name: Five-SeveN | Fairy Tale (Factory New)
+  paint_index: 979
+- market_hash_name: Five-SeveN | Fairy Tale (Minimal Wear)
+  paint_index: 979
+- market_hash_name: Five-SeveN | Fairy Tale (Field-Tested)
+  paint_index: 979
+- market_hash_name: Five-SeveN | Fairy Tale (Well-Worn)
+  paint_index: 979
+- market_hash_name: Five-SeveN | Fairy Tale (Battle-Scarred)
+  paint_index: 979
+- market_hash_name: Five-SeveN | Scrawl (Factory New)
+  paint_index: 1128
+- market_hash_name: Five-SeveN | Scrawl (Minimal Wear)
+  paint_index: 1128
+- market_hash_name: Five-SeveN | Scrawl (Field-Tested)
+  paint_index: 1128
+- market_hash_name: Five-SeveN | Scrawl (Well-Worn)
+  paint_index: 1128
+- market_hash_name: Five-SeveN | Scrawl (Battle-Scarred)
+  paint_index: 1128
+- market_hash_name: Five-SeveN | Triumvirate (Factory New)
+  paint_index: 530
+- market_hash_name: Five-SeveN | Triumvirate (Minimal Wear)
+  paint_index: 530
+- market_hash_name: Five-SeveN | Triumvirate (Field-Tested)
+  paint_index: 530
+- market_hash_name: Five-SeveN | Triumvirate (Well-Worn)
+  paint_index: 530
+- market_hash_name: Five-SeveN | Triumvirate (Battle-Scarred)
+  paint_index: 530
+- market_hash_name: Five-SeveN | Monkey Business (Minimal Wear)
+  paint_index: 427
+- market_hash_name: Five-SeveN | Monkey Business (Field-Tested)
+  paint_index: 427
+- market_hash_name: Five-SeveN | Monkey Business (Well-Worn)
+  paint_index: 427
+- market_hash_name: Five-SeveN | Monkey Business (Battle-Scarred)
+  paint_index: 427
+- market_hash_name: Five-SeveN | Buddy (Factory New)
+  paint_index: 906
+- market_hash_name: Five-SeveN | Buddy (Minimal Wear)
+  paint_index: 906
+- market_hash_name: Five-SeveN | Buddy (Field-Tested)
+  paint_index: 906
+- market_hash_name: Five-SeveN | Buddy (Well-Worn)
+  paint_index: 906
+- market_hash_name: Five-SeveN | Buddy (Battle-Scarred)
+  paint_index: 906
+- market_hash_name: Five-SeveN | Hyper Beast (Factory New)
+  paint_index: 660
+- market_hash_name: Five-SeveN | Hyper Beast (Minimal Wear)
+  paint_index: 660
+- market_hash_name: Five-SeveN | Hyper Beast (Field-Tested)
+  paint_index: 660
+- market_hash_name: Five-SeveN | Hyper Beast (Well-Worn)
+  paint_index: 660
+- market_hash_name: Five-SeveN | Hyper Beast (Battle-Scarred)
+  paint_index: 660
+- market_hash_name: Five-SeveN | Retrobution (Factory New)
+  paint_index: 510
+- market_hash_name: Five-SeveN | Retrobution (Minimal Wear)
+  paint_index: 510
+- market_hash_name: Five-SeveN | Retrobution (Field-Tested)
+  paint_index: 510
+- market_hash_name: Five-SeveN | Retrobution (Well-Worn)
+  paint_index: 510
+- market_hash_name: Five-SeveN | Retrobution (Battle-Scarred)
+  paint_index: 510
+- market_hash_name: Five-SeveN | Urban Hazard (Factory New)
+  paint_index: 387
+- market_hash_name: Five-SeveN | Urban Hazard (Minimal Wear)
+  paint_index: 387
+- market_hash_name: Five-SeveN | Urban Hazard (Field-Tested)
+  paint_index: 387
+- market_hash_name: Five-SeveN | Capillary (Factory New)
+  paint_index: 646
+- market_hash_name: Five-SeveN | Capillary (Minimal Wear)
+  paint_index: 646
+- market_hash_name: Five-SeveN | Capillary (Field-Tested)
+  paint_index: 646
+- market_hash_name: Five-SeveN | Capillary (Well-Worn)
+  paint_index: 646
+- market_hash_name: Five-SeveN | Capillary (Battle-Scarred)
+  paint_index: 646
+- market_hash_name: Five-SeveN | Fall Hazard (Factory New)
+  paint_index: 1082
+- market_hash_name: Five-SeveN | Fall Hazard (Minimal Wear)
+  paint_index: 1082
+- market_hash_name: Five-SeveN | Fall Hazard (Field-Tested)
+  paint_index: 1082
+- market_hash_name: Five-SeveN | Fall Hazard (Well-Worn)
+  paint_index: 1082
+- market_hash_name: Five-SeveN | Fall Hazard (Battle-Scarred)
+  paint_index: 1082
+- market_hash_name: Five-SeveN | Hybrid (Factory New)
+  paint_index: 1168
+- market_hash_name: Five-SeveN | Hybrid (Minimal Wear)
+  paint_index: 1168
+- market_hash_name: Five-SeveN | Hybrid (Field-Tested)
+  paint_index: 1168
+- market_hash_name: Five-SeveN | Hybrid (Well-Worn)
+  paint_index: 1168
+- market_hash_name: Five-SeveN | Hybrid (Battle-Scarred)
+  paint_index: 1168
+- market_hash_name: Five-SeveN | Dark Polymer (Factory New)
+  paint_index: 1429
+- market_hash_name: Five-SeveN | Dark Polymer (Minimal Wear)
+  paint_index: 1429
+- market_hash_name: Five-SeveN | Dark Polymer (Field-Tested)
+  paint_index: 1429
+- market_hash_name: Five-SeveN | Dark Polymer (Well-Worn)
+  paint_index: 1429
+- market_hash_name: Five-SeveN | Dark Polymer (Battle-Scarred)
+  paint_index: 1429
+- market_hash_name: Five-SeveN | Boost Protocol (Factory New)
+  paint_index: 1093
+- market_hash_name: Five-SeveN | Boost Protocol (Minimal Wear)
+  paint_index: 1093
+- market_hash_name: Five-SeveN | Boost Protocol (Field-Tested)
+  paint_index: 1093
+- market_hash_name: Five-SeveN | Boost Protocol (Well-Worn)
+  paint_index: 1093
+- market_hash_name: Five-SeveN | Flame Test (Factory New)
+  paint_index: 693
+- market_hash_name: Five-SeveN | Flame Test (Minimal Wear)
+  paint_index: 693
+- market_hash_name: Five-SeveN | Flame Test (Field-Tested)
+  paint_index: 693
+- market_hash_name: Five-SeveN | Flame Test (Well-Worn)
+  paint_index: 693
+- market_hash_name: Five-SeveN | Flame Test (Battle-Scarred)
+  paint_index: 693
+- market_hash_name: Five-SeveN | Crimson Blossom (Factory New)
+  paint_index: 729
+- market_hash_name: Five-SeveN | Crimson Blossom (Minimal Wear)
+  paint_index: 729
+- market_hash_name: Five-SeveN | Crimson Blossom (Field-Tested)
+  paint_index: 729
+- market_hash_name: Five-SeveN | Crimson Blossom (Well-Worn)
+  paint_index: 729
+- market_hash_name: Five-SeveN | Crimson Blossom (Battle-Scarred)
+  paint_index: 729
+- market_hash_name: Five-SeveN | Coolant (Factory New)
+  paint_index: 784
+- market_hash_name: Five-SeveN | Coolant (Minimal Wear)
+  paint_index: 784
+- market_hash_name: Five-SeveN | Coolant (Field-Tested)
+  paint_index: 784
+- market_hash_name: Five-SeveN | Coolant (Well-Worn)
+  paint_index: 784
+- market_hash_name: Five-SeveN | Coolant (Battle-Scarred)
+  paint_index: 784
+- market_hash_name: Five-SeveN | Nightshade (Factory New)
+  paint_index: 223
+- market_hash_name: Five-SeveN | Nightshade (Minimal Wear)
+  paint_index: 223
+- market_hash_name: Five-SeveN | Nightshade (Field-Tested)
+  paint_index: 223
+- market_hash_name: Five-SeveN | Nightshade (Well-Worn)
+  paint_index: 223
+- market_hash_name: Five-SeveN | Nightshade (Battle-Scarred)
+  paint_index: 223
+- market_hash_name: Five-SeveN | Forest Night (Factory New)
+  paint_index: 78
+- market_hash_name: Five-SeveN | Forest Night (Minimal Wear)
+  paint_index: 78
+- market_hash_name: Five-SeveN | Forest Night (Field-Tested)
+  paint_index: 78
+- market_hash_name: Five-SeveN | Forest Night (Well-Worn)
+  paint_index: 78
+- market_hash_name: Five-SeveN | Forest Night (Battle-Scarred)
+  paint_index: 78
+- market_hash_name: Five-SeveN | Kami (Factory New)
+  paint_index: 265
+- market_hash_name: Five-SeveN | Kami (Minimal Wear)
+  paint_index: 265
+- market_hash_name: Five-SeveN | Kami (Field-Tested)
+  paint_index: 265
+- market_hash_name: Five-SeveN | Neon Kimono (Factory New)
+  paint_index: 464
+- market_hash_name: Five-SeveN | Neon Kimono (Minimal Wear)
+  paint_index: 464
+- market_hash_name: Five-SeveN | Neon Kimono (Field-Tested)
+  paint_index: 464
+- market_hash_name: Five-SeveN | Neon Kimono (Well-Worn)
+  paint_index: 464
+- market_hash_name: Five-SeveN | Neon Kimono (Battle-Scarred)
+  paint_index: 464
+- market_hash_name: Five-SeveN | Midnight Paintover (Factory New)
+  paint_index: 1062
+- market_hash_name: Five-SeveN | Midnight Paintover (Minimal Wear)
+  paint_index: 1062
+- market_hash_name: Five-SeveN | Midnight Paintover (Field-Tested)
+  paint_index: 1062
+- market_hash_name: Five-SeveN | Midnight Paintover (Well-Worn)
+  paint_index: 1062
+- market_hash_name: Five-SeveN | Midnight Paintover (Battle-Scarred)
+  paint_index: 1062
+- market_hash_name: Five-SeveN | Hot Shot (Factory New)
+  paint_index: 377
+- market_hash_name: Five-SeveN | Hot Shot (Minimal Wear)
+  paint_index: 377
+- market_hash_name: Five-SeveN | Hot Shot (Field-Tested)
+  paint_index: 377
+- market_hash_name: Five-SeveN | Hot Shot (Well-Worn)
+  paint_index: 377
+- market_hash_name: Five-SeveN | Hot Shot (Battle-Scarred)
+  paint_index: 377
+- market_hash_name: Five-SeveN | Jungle (Factory New)
+  paint_index: 151
+- market_hash_name: Five-SeveN | Jungle (Minimal Wear)
+  paint_index: 151
+- market_hash_name: Five-SeveN | Jungle (Field-Tested)
+  paint_index: 151
+- market_hash_name: Five-SeveN | Jungle (Well-Worn)
+  paint_index: 151
+- market_hash_name: Five-SeveN | Jungle (Battle-Scarred)
+  paint_index: 151
+- market_hash_name: Five-SeveN | Nitro (Factory New)
+  paint_index: 254
+- market_hash_name: Five-SeveN | Nitro (Minimal Wear)
+  paint_index: 254
+- market_hash_name: Five-SeveN | Nitro (Field-Tested)
+  paint_index: 254
+- market_hash_name: Five-SeveN | Nitro (Well-Worn)
+  paint_index: 254
+- market_hash_name: Five-SeveN | Nitro (Battle-Scarred)
+  paint_index: 254
+- market_hash_name: Five-SeveN | Contractor (Factory New)
+  paint_index: 46
+- market_hash_name: Five-SeveN | Contractor (Minimal Wear)
+  paint_index: 46
+- market_hash_name: Five-SeveN | Contractor (Field-Tested)
+  paint_index: 46
+- market_hash_name: Five-SeveN | Contractor (Well-Worn)
+  paint_index: 46
+- market_hash_name: Five-SeveN | Contractor (Battle-Scarred)
+  paint_index: 46
+- market_hash_name: Five-SeveN | Candy Apple (Factory New)
+  paint_index: 3
+- market_hash_name: Five-SeveN | Candy Apple (Minimal Wear)
+  paint_index: 3
+- market_hash_name: Five-SeveN | Candy Apple (Field-Tested)
+  paint_index: 3
+- market_hash_name: Five-SeveN | Sky Blue (Factory New)
+  paint_index: 1262
+- market_hash_name: Five-SeveN | Sky Blue (Minimal Wear)
+  paint_index: 1262
+- market_hash_name: Five-SeveN | Sky Blue (Field-Tested)
+  paint_index: 1262
+- market_hash_name: Five-SeveN | Sky Blue (Well-Worn)
+  paint_index: 1262
+- market_hash_name: Five-SeveN | Sky Blue (Battle-Scarred)
+  paint_index: 1262
+- market_hash_name: Five-SeveN | Fraise Crane (Factory New)
+  paint_index: 1380
+- market_hash_name: Five-SeveN | Fraise Crane (Minimal Wear)
+  paint_index: 1380
+- market_hash_name: Five-SeveN | Fraise Crane (Field-Tested)
+  paint_index: 1380
+- market_hash_name: Five-SeveN | Fraise Crane (Well-Worn)
+  paint_index: 1380
+- market_hash_name: Five-SeveN | Fraise Crane (Battle-Scarred)
+  paint_index: 1380
+- market_hash_name: Five-SeveN | Autumn Thicket (Factory New)
+  paint_index: 1336
+- market_hash_name: Five-SeveN | Autumn Thicket (Minimal Wear)
+  paint_index: 1336
+- market_hash_name: Five-SeveN | Autumn Thicket (Field-Tested)
+  paint_index: 1336
+- market_hash_name: Five-SeveN | Autumn Thicket (Well-Worn)
+  paint_index: 1336
+- market_hash_name: Five-SeveN | Autumn Thicket (Battle-Scarred)
+  paint_index: 1336
+- market_hash_name: Five-SeveN | Withered Vine (Factory New)
+  paint_index: 932
+- market_hash_name: Five-SeveN | Withered Vine (Minimal Wear)
+  paint_index: 932
+- market_hash_name: Five-SeveN | Withered Vine (Field-Tested)
+  paint_index: 932
+- market_hash_name: Five-SeveN | Withered Vine (Well-Worn)
+  paint_index: 932
+- market_hash_name: Five-SeveN | Withered Vine (Battle-Scarred)
+  paint_index: 932
+- market_hash_name: Five-SeveN | Orange Peel (Factory New)
+  paint_index: 141
+- market_hash_name: Five-SeveN | Orange Peel (Minimal Wear)
+  paint_index: 141
+- market_hash_name: Five-SeveN | Orange Peel (Field-Tested)
+  paint_index: 141
+- market_hash_name: Five-SeveN | Orange Peel (Well-Worn)
+  paint_index: 141
+- market_hash_name: Five-SeveN | Orange Peel (Battle-Scarred)
+  paint_index: 141

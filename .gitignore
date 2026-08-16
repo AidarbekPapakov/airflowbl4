@@ -1,0 +1,11 @@
+.env
+*.env
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+logs/
+quarantine/*.json
+.pytest_cache/
+.DS_Store
+.idea/
+.vscode/

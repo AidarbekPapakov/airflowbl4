@@ -1,0 +1,946 @@
+# Phase 0 data backfill (batch 13)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: ★ Ursus Knife, ★ Talon Knife, ★ Hand Wraps, ★ Moto Gloves, ★ Driver Gloves, ★ Specialist Gloves, ★ Sport Gloves, ★ Bloodhound Gloves, ★ Broken Fang Gloves, ★ Hydra Gloves
+skins:
+- market_hash_name: ★ Ursus Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Ursus Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Ursus Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Ursus Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Ursus Knife | Doppler (Factory New)
+  paint_index: 418
+- market_hash_name: ★ Ursus Knife | Doppler (Minimal Wear)
+  paint_index: 418
+- market_hash_name: ★ Ursus Knife | Doppler (Factory New)
+  paint_index: 419
+- market_hash_name: ★ Ursus Knife | Doppler (Minimal Wear)
+  paint_index: 419
+- market_hash_name: ★ Ursus Knife | Doppler (Factory New)
+  paint_index: 420
+- market_hash_name: ★ Ursus Knife | Doppler (Minimal Wear)
+  paint_index: 420
+- market_hash_name: ★ Ursus Knife | Doppler (Factory New)
+  paint_index: 421
+- market_hash_name: ★ Ursus Knife | Doppler (Minimal Wear)
+  paint_index: 421
+- market_hash_name: ★ Ursus Knife | Marble Fade (Factory New)
+  paint_index: 413
+- market_hash_name: ★ Ursus Knife | Marble Fade (Minimal Wear)
+  paint_index: 413
+- market_hash_name: ★ Ursus Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Ursus Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Ursus Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Ursus Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Ursus Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Ursus Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Ursus Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Ursus Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Ursus Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Ursus Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Ursus Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Ursus Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Ursus Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Ursus Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Ursus Knife | Damascus Steel (Factory New)
+  paint_index: 857
+- market_hash_name: ★ Ursus Knife | Damascus Steel (Minimal Wear)
+  paint_index: 857
+- market_hash_name: ★ Ursus Knife | Damascus Steel (Field-Tested)
+  paint_index: 857
+- market_hash_name: ★ Ursus Knife | Damascus Steel (Well-Worn)
+  paint_index: 857
+- market_hash_name: ★ Ursus Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 857
+- market_hash_name: ★ Ursus Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Ursus Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Ursus Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Ursus Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Ursus Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Ursus Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Ursus Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Ursus Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Ursus Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Ursus Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Ursus Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Ursus Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Ursus Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Ursus Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Ursus Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Ursus Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Ursus Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Talon Knife | Fade (Factory New)
+  paint_index: 38
+- market_hash_name: ★ Talon Knife | Fade (Minimal Wear)
+  paint_index: 38
+- market_hash_name: ★ Talon Knife | Doppler (Factory New)
+  paint_index: 417
+- market_hash_name: ★ Talon Knife | Doppler (Minimal Wear)
+  paint_index: 417
+- market_hash_name: ★ Talon Knife | Doppler (Factory New)
+  paint_index: 852
+- market_hash_name: ★ Talon Knife | Doppler (Minimal Wear)
+  paint_index: 852
+- market_hash_name: ★ Talon Knife | Doppler (Factory New)
+  paint_index: 853
+- market_hash_name: ★ Talon Knife | Doppler (Minimal Wear)
+  paint_index: 853
+- market_hash_name: ★ Talon Knife | Doppler (Factory New)
+  paint_index: 854
+- market_hash_name: ★ Talon Knife | Doppler (Minimal Wear)
+  paint_index: 854
+- market_hash_name: ★ Talon Knife | Doppler (Factory New)
+  paint_index: 855
+- market_hash_name: ★ Talon Knife | Doppler (Minimal Wear)
+  paint_index: 855
+- market_hash_name: ★ Talon Knife | Marble Fade (Factory New)
+  paint_index: 856
+- market_hash_name: ★ Talon Knife | Marble Fade (Minimal Wear)
+  paint_index: 856
+- market_hash_name: ★ Talon Knife | Doppler (Factory New)
+  paint_index: 415
+- market_hash_name: ★ Talon Knife | Doppler (Minimal Wear)
+  paint_index: 415
+- market_hash_name: ★ Talon Knife | Doppler (Factory New)
+  paint_index: 416
+- market_hash_name: ★ Talon Knife | Doppler (Minimal Wear)
+  paint_index: 416
+- market_hash_name: ★ Talon Knife | Slaughter (Factory New)
+  paint_index: 59
+- market_hash_name: ★ Talon Knife | Slaughter (Minimal Wear)
+  paint_index: 59
+- market_hash_name: ★ Talon Knife | Slaughter (Field-Tested)
+  paint_index: 59
+- market_hash_name: ★ Talon Knife | Tiger Tooth (Factory New)
+  paint_index: 409
+- market_hash_name: ★ Talon Knife | Tiger Tooth (Minimal Wear)
+  paint_index: 409
+- market_hash_name: ★ Talon Knife | Blue Steel (Factory New)
+  paint_index: 42
+- market_hash_name: ★ Talon Knife | Blue Steel (Minimal Wear)
+  paint_index: 42
+- market_hash_name: ★ Talon Knife | Blue Steel (Field-Tested)
+  paint_index: 42
+- market_hash_name: ★ Talon Knife | Blue Steel (Well-Worn)
+  paint_index: 42
+- market_hash_name: ★ Talon Knife | Blue Steel (Battle-Scarred)
+  paint_index: 42
+- market_hash_name: ★ Talon Knife | Damascus Steel (Factory New)
+  paint_index: 858
+- market_hash_name: ★ Talon Knife | Damascus Steel (Minimal Wear)
+  paint_index: 858
+- market_hash_name: ★ Talon Knife | Damascus Steel (Field-Tested)
+  paint_index: 858
+- market_hash_name: ★ Talon Knife | Damascus Steel (Well-Worn)
+  paint_index: 858
+- market_hash_name: ★ Talon Knife | Damascus Steel (Battle-Scarred)
+  paint_index: 858
+- market_hash_name: ★ Talon Knife | Case Hardened (Factory New)
+  paint_index: 44
+- market_hash_name: ★ Talon Knife | Case Hardened (Minimal Wear)
+  paint_index: 44
+- market_hash_name: ★ Talon Knife | Case Hardened (Field-Tested)
+  paint_index: 44
+- market_hash_name: ★ Talon Knife | Case Hardened (Well-Worn)
+  paint_index: 44
+- market_hash_name: ★ Talon Knife | Case Hardened (Battle-Scarred)
+  paint_index: 44
+- market_hash_name: ★ Talon Knife | Rust Coat (Well-Worn)
+  paint_index: 414
+- market_hash_name: ★ Talon Knife | Rust Coat (Battle-Scarred)
+  paint_index: 414
+- market_hash_name: ★ Talon Knife | Crimson Web (Factory New)
+  paint_index: 12
+- market_hash_name: ★ Talon Knife | Crimson Web (Minimal Wear)
+  paint_index: 12
+- market_hash_name: ★ Talon Knife | Crimson Web (Field-Tested)
+  paint_index: 12
+- market_hash_name: ★ Talon Knife | Crimson Web (Well-Worn)
+  paint_index: 12
+- market_hash_name: ★ Talon Knife | Crimson Web (Battle-Scarred)
+  paint_index: 12
+- market_hash_name: ★ Talon Knife | Night Stripe (Factory New)
+  paint_index: 735
+- market_hash_name: ★ Talon Knife | Night Stripe (Minimal Wear)
+  paint_index: 735
+- market_hash_name: ★ Talon Knife | Night Stripe (Field-Tested)
+  paint_index: 735
+- market_hash_name: ★ Talon Knife | Night Stripe (Well-Worn)
+  paint_index: 735
+- market_hash_name: ★ Talon Knife | Night Stripe (Battle-Scarred)
+  paint_index: 735
+- market_hash_name: ★ Hand Wraps | Spruce DDPAT (Factory New)
+  paint_index: 10010
+- market_hash_name: ★ Hand Wraps | Spruce DDPAT (Minimal Wear)
+  paint_index: 10010
+- market_hash_name: ★ Hand Wraps | Spruce DDPAT (Field-Tested)
+  paint_index: 10010
+- market_hash_name: ★ Hand Wraps | Spruce DDPAT (Well-Worn)
+  paint_index: 10010
+- market_hash_name: ★ Hand Wraps | Spruce DDPAT (Battle-Scarred)
+  paint_index: 10010
+- market_hash_name: ★ Hand Wraps | Desert Shamagh (Factory New)
+  paint_index: 10081
+- market_hash_name: ★ Hand Wraps | Desert Shamagh (Minimal Wear)
+  paint_index: 10081
+- market_hash_name: ★ Hand Wraps | Desert Shamagh (Field-Tested)
+  paint_index: 10081
+- market_hash_name: ★ Hand Wraps | Desert Shamagh (Well-Worn)
+  paint_index: 10081
+- market_hash_name: ★ Hand Wraps | Desert Shamagh (Battle-Scarred)
+  paint_index: 10081
+- market_hash_name: ★ Hand Wraps | Badlands (Factory New)
+  paint_index: 10036
+- market_hash_name: ★ Hand Wraps | Badlands (Minimal Wear)
+  paint_index: 10036
+- market_hash_name: ★ Hand Wraps | Badlands (Field-Tested)
+  paint_index: 10036
+- market_hash_name: ★ Hand Wraps | Badlands (Well-Worn)
+  paint_index: 10036
+- market_hash_name: ★ Hand Wraps | Badlands (Battle-Scarred)
+  paint_index: 10036
+- market_hash_name: ★ Hand Wraps | Giraffe (Factory New)
+  paint_index: 10082
+- market_hash_name: ★ Hand Wraps | Giraffe (Minimal Wear)
+  paint_index: 10082
+- market_hash_name: ★ Hand Wraps | Giraffe (Field-Tested)
+  paint_index: 10082
+- market_hash_name: ★ Hand Wraps | Giraffe (Well-Worn)
+  paint_index: 10082
+- market_hash_name: ★ Hand Wraps | Giraffe (Battle-Scarred)
+  paint_index: 10082
+- market_hash_name: ★ Hand Wraps | Arboreal (Factory New)
+  paint_index: 10056
+- market_hash_name: ★ Hand Wraps | Arboreal (Minimal Wear)
+  paint_index: 10056
+- market_hash_name: ★ Hand Wraps | Arboreal (Field-Tested)
+  paint_index: 10056
+- market_hash_name: ★ Hand Wraps | Arboreal (Well-Worn)
+  paint_index: 10056
+- market_hash_name: ★ Hand Wraps | Arboreal (Battle-Scarred)
+  paint_index: 10056
+- market_hash_name: ★ Hand Wraps | Leather (Factory New)
+  paint_index: 10009
+- market_hash_name: ★ Hand Wraps | Leather (Minimal Wear)
+  paint_index: 10009
+- market_hash_name: ★ Hand Wraps | Leather (Field-Tested)
+  paint_index: 10009
+- market_hash_name: ★ Hand Wraps | Leather (Well-Worn)
+  paint_index: 10009
+- market_hash_name: ★ Hand Wraps | Leather (Battle-Scarred)
+  paint_index: 10009
+- market_hash_name: ★ Hand Wraps | Slaughter (Factory New)
+  paint_index: 10021
+- market_hash_name: ★ Hand Wraps | Slaughter (Minimal Wear)
+  paint_index: 10021
+- market_hash_name: ★ Hand Wraps | Slaughter (Field-Tested)
+  paint_index: 10021
+- market_hash_name: ★ Hand Wraps | Slaughter (Well-Worn)
+  paint_index: 10021
+- market_hash_name: ★ Hand Wraps | Slaughter (Battle-Scarred)
+  paint_index: 10021
+- market_hash_name: ★ Moto Gloves | Eclipse (Factory New)
+  paint_index: 10024
+- market_hash_name: ★ Moto Gloves | Eclipse (Minimal Wear)
+  paint_index: 10024
+- market_hash_name: ★ Moto Gloves | Eclipse (Field-Tested)
+  paint_index: 10024
+- market_hash_name: ★ Moto Gloves | Eclipse (Well-Worn)
+  paint_index: 10024
+- market_hash_name: ★ Moto Gloves | Eclipse (Battle-Scarred)
+  paint_index: 10024
+- market_hash_name: ★ Moto Gloves | Turtle (Factory New)
+  paint_index: 10050
+- market_hash_name: ★ Moto Gloves | Turtle (Minimal Wear)
+  paint_index: 10050
+- market_hash_name: ★ Moto Gloves | Turtle (Field-Tested)
+  paint_index: 10050
+- market_hash_name: ★ Moto Gloves | Turtle (Well-Worn)
+  paint_index: 10050
+- market_hash_name: ★ Moto Gloves | Turtle (Battle-Scarred)
+  paint_index: 10050
+- market_hash_name: ★ Moto Gloves | Blood Pressure (Factory New)
+  paint_index: 10079
+- market_hash_name: ★ Moto Gloves | Blood Pressure (Minimal Wear)
+  paint_index: 10079
+- market_hash_name: ★ Moto Gloves | Blood Pressure (Field-Tested)
+  paint_index: 10079
+- market_hash_name: ★ Moto Gloves | Blood Pressure (Well-Worn)
+  paint_index: 10079
+- market_hash_name: ★ Moto Gloves | Blood Pressure (Battle-Scarred)
+  paint_index: 10079
+- market_hash_name: ★ Moto Gloves | Finish Line (Factory New)
+  paint_index: 10077
+- market_hash_name: ★ Moto Gloves | Finish Line (Minimal Wear)
+  paint_index: 10077
+- market_hash_name: ★ Moto Gloves | Finish Line (Field-Tested)
+  paint_index: 10077
+- market_hash_name: ★ Moto Gloves | Finish Line (Well-Worn)
+  paint_index: 10077
+- market_hash_name: ★ Moto Gloves | Finish Line (Battle-Scarred)
+  paint_index: 10077
+- market_hash_name: ★ Moto Gloves | POW! (Factory New)
+  paint_index: 10049
+- market_hash_name: ★ Moto Gloves | POW! (Minimal Wear)
+  paint_index: 10049
+- market_hash_name: ★ Moto Gloves | POW! (Field-Tested)
+  paint_index: 10049
+- market_hash_name: ★ Moto Gloves | POW! (Well-Worn)
+  paint_index: 10049
+- market_hash_name: ★ Moto Gloves | POW! (Battle-Scarred)
+  paint_index: 10049
+- market_hash_name: ★ Moto Gloves | 3rd Commando Company (Factory New)
+  paint_index: 10080
+- market_hash_name: ★ Moto Gloves | 3rd Commando Company (Minimal Wear)
+  paint_index: 10080
+- market_hash_name: ★ Moto Gloves | 3rd Commando Company (Field-Tested)
+  paint_index: 10080
+- market_hash_name: ★ Moto Gloves | 3rd Commando Company (Well-Worn)
+  paint_index: 10080
+- market_hash_name: ★ Moto Gloves | 3rd Commando Company (Battle-Scarred)
+  paint_index: 10080
+- market_hash_name: ★ Moto Gloves | Spearmint (Factory New)
+  paint_index: 10026
+- market_hash_name: ★ Moto Gloves | Spearmint (Minimal Wear)
+  paint_index: 10026
+- market_hash_name: ★ Moto Gloves | Spearmint (Field-Tested)
+  paint_index: 10026
+- market_hash_name: ★ Moto Gloves | Spearmint (Well-Worn)
+  paint_index: 10026
+- market_hash_name: ★ Moto Gloves | Spearmint (Battle-Scarred)
+  paint_index: 10026
+- market_hash_name: ★ Moto Gloves | Boom! (Factory New)
+  paint_index: 10027
+- market_hash_name: ★ Moto Gloves | Boom! (Minimal Wear)
+  paint_index: 10027
+- market_hash_name: ★ Moto Gloves | Boom! (Field-Tested)
+  paint_index: 10027
+- market_hash_name: ★ Moto Gloves | Boom! (Well-Worn)
+  paint_index: 10027
+- market_hash_name: ★ Moto Gloves | Boom! (Battle-Scarred)
+  paint_index: 10027
+- market_hash_name: ★ Moto Gloves | Smoke Out (Factory New)
+  paint_index: 10078
+- market_hash_name: ★ Moto Gloves | Smoke Out (Minimal Wear)
+  paint_index: 10078
+- market_hash_name: ★ Moto Gloves | Smoke Out (Field-Tested)
+  paint_index: 10078
+- market_hash_name: ★ Moto Gloves | Smoke Out (Well-Worn)
+  paint_index: 10078
+- market_hash_name: ★ Moto Gloves | Smoke Out (Battle-Scarred)
+  paint_index: 10078
+- market_hash_name: ★ Moto Gloves | Cool Mint (Factory New)
+  paint_index: 10028
+- market_hash_name: ★ Moto Gloves | Cool Mint (Minimal Wear)
+  paint_index: 10028
+- market_hash_name: ★ Moto Gloves | Cool Mint (Field-Tested)
+  paint_index: 10028
+- market_hash_name: ★ Moto Gloves | Cool Mint (Well-Worn)
+  paint_index: 10028
+- market_hash_name: ★ Moto Gloves | Cool Mint (Battle-Scarred)
+  paint_index: 10028
+- market_hash_name: ★ Moto Gloves | Polygon (Factory New)
+  paint_index: 10052
+- market_hash_name: ★ Moto Gloves | Polygon (Minimal Wear)
+  paint_index: 10052
+- market_hash_name: ★ Moto Gloves | Polygon (Field-Tested)
+  paint_index: 10052
+- market_hash_name: ★ Moto Gloves | Polygon (Well-Worn)
+  paint_index: 10052
+- market_hash_name: ★ Moto Gloves | Polygon (Battle-Scarred)
+  paint_index: 10052
+- market_hash_name: ★ Moto Gloves | Transport (Factory New)
+  paint_index: 10051
+- market_hash_name: ★ Moto Gloves | Transport (Minimal Wear)
+  paint_index: 10051
+- market_hash_name: ★ Moto Gloves | Transport (Field-Tested)
+  paint_index: 10051
+- market_hash_name: ★ Moto Gloves | Transport (Well-Worn)
+  paint_index: 10051
+- market_hash_name: ★ Moto Gloves | Transport (Battle-Scarred)
+  paint_index: 10051
+- market_hash_name: ★ Driver Gloves | Brocade Crane (Factory New)
+  paint_index: 1399
+- market_hash_name: ★ Driver Gloves | Brocade Crane (Minimal Wear)
+  paint_index: 1399
+- market_hash_name: ★ Driver Gloves | Brocade Crane (Field-Tested)
+  paint_index: 1399
+- market_hash_name: ★ Driver Gloves | Brocade Crane (Well-Worn)
+  paint_index: 1399
+- market_hash_name: ★ Driver Gloves | Brocade Crane (Battle-Scarred)
+  paint_index: 1399
+- market_hash_name: ★ Driver Gloves | Brocade Flowers (Factory New)
+  paint_index: 1400
+- market_hash_name: ★ Driver Gloves | Brocade Flowers (Minimal Wear)
+  paint_index: 1400
+- market_hash_name: ★ Driver Gloves | Brocade Flowers (Field-Tested)
+  paint_index: 1400
+- market_hash_name: ★ Driver Gloves | Brocade Flowers (Well-Worn)
+  paint_index: 1400
+- market_hash_name: ★ Driver Gloves | Brocade Flowers (Battle-Scarred)
+  paint_index: 1400
+- market_hash_name: ★ Driver Gloves | Dragon Fists (Factory New)
+  paint_index: 1401
+- market_hash_name: ★ Driver Gloves | Dragon Fists (Minimal Wear)
+  paint_index: 1401
+- market_hash_name: ★ Driver Gloves | Dragon Fists (Field-Tested)
+  paint_index: 1401
+- market_hash_name: ★ Driver Gloves | Dragon Fists (Well-Worn)
+  paint_index: 1401
+- market_hash_name: ★ Driver Gloves | Dragon Fists (Battle-Scarred)
+  paint_index: 1401
+- market_hash_name: ★ Driver Gloves | Garden (Factory New)
+  paint_index: 1402
+- market_hash_name: ★ Driver Gloves | Garden (Minimal Wear)
+  paint_index: 1402
+- market_hash_name: ★ Driver Gloves | Garden (Field-Tested)
+  paint_index: 1402
+- market_hash_name: ★ Driver Gloves | Garden (Well-Worn)
+  paint_index: 1402
+- market_hash_name: ★ Driver Gloves | Garden (Battle-Scarred)
+  paint_index: 1402
+- market_hash_name: ★ Driver Gloves | Hand Sweaters (Factory New)
+  paint_index: 1439
+- market_hash_name: ★ Driver Gloves | Hand Sweaters (Minimal Wear)
+  paint_index: 1439
+- market_hash_name: ★ Driver Gloves | Hand Sweaters (Field-Tested)
+  paint_index: 1439
+- market_hash_name: ★ Driver Gloves | Hand Sweaters (Well-Worn)
+  paint_index: 1439
+- market_hash_name: ★ Driver Gloves | Hand Sweaters (Battle-Scarred)
+  paint_index: 1439
+- market_hash_name: ★ Driver Gloves | Plum Quill (Factory New)
+  paint_index: 1412
+- market_hash_name: ★ Driver Gloves | Plum Quill (Minimal Wear)
+  paint_index: 1412
+- market_hash_name: ★ Driver Gloves | Plum Quill (Field-Tested)
+  paint_index: 1412
+- market_hash_name: ★ Driver Gloves | Plum Quill (Well-Worn)
+  paint_index: 1412
+- market_hash_name: ★ Driver Gloves | Plum Quill (Battle-Scarred)
+  paint_index: 1412
+- market_hash_name: ★ Driver Gloves | Seigaiha (Factory New)
+  paint_index: 1404
+- market_hash_name: ★ Driver Gloves | Seigaiha (Minimal Wear)
+  paint_index: 1404
+- market_hash_name: ★ Driver Gloves | Seigaiha (Field-Tested)
+  paint_index: 1404
+- market_hash_name: ★ Driver Gloves | Seigaiha (Well-Worn)
+  paint_index: 1404
+- market_hash_name: ★ Driver Gloves | Seigaiha (Battle-Scarred)
+  paint_index: 1404
+- market_hash_name: ★ Driver Gloves | Lunar Weave (Factory New)
+  paint_index: 10013
+- market_hash_name: ★ Driver Gloves | Lunar Weave (Minimal Wear)
+  paint_index: 10013
+- market_hash_name: ★ Driver Gloves | Lunar Weave (Field-Tested)
+  paint_index: 10013
+- market_hash_name: ★ Driver Gloves | Lunar Weave (Well-Worn)
+  paint_index: 10013
+- market_hash_name: ★ Driver Gloves | Lunar Weave (Battle-Scarred)
+  paint_index: 10013
+- market_hash_name: ★ Driver Gloves | Queen Jaguar (Factory New)
+  paint_index: 10071
+- market_hash_name: ★ Driver Gloves | Queen Jaguar (Minimal Wear)
+  paint_index: 10071
+- market_hash_name: ★ Driver Gloves | Queen Jaguar (Field-Tested)
+  paint_index: 10071
+- market_hash_name: ★ Driver Gloves | Queen Jaguar (Well-Worn)
+  paint_index: 10071
+- market_hash_name: ★ Driver Gloves | Queen Jaguar (Battle-Scarred)
+  paint_index: 10071
+- market_hash_name: ★ Driver Gloves | Convoy (Factory New)
+  paint_index: 10015
+- market_hash_name: ★ Driver Gloves | Convoy (Minimal Wear)
+  paint_index: 10015
+- market_hash_name: ★ Driver Gloves | Convoy (Field-Tested)
+  paint_index: 10015
+- market_hash_name: ★ Driver Gloves | Convoy (Well-Worn)
+  paint_index: 10015
+- market_hash_name: ★ Driver Gloves | Convoy (Battle-Scarred)
+  paint_index: 10015
+- market_hash_name: ★ Driver Gloves | Crimson Weave (Factory New)
+  paint_index: 10016
+- market_hash_name: ★ Driver Gloves | Crimson Weave (Minimal Wear)
+  paint_index: 10016
+- market_hash_name: ★ Driver Gloves | Crimson Weave (Field-Tested)
+  paint_index: 10016
+- market_hash_name: ★ Driver Gloves | Crimson Weave (Well-Worn)
+  paint_index: 10016
+- market_hash_name: ★ Driver Gloves | Crimson Weave (Battle-Scarred)
+  paint_index: 10016
+- market_hash_name: ★ Driver Gloves | Rezan the Red (Factory New)
+  paint_index: 10069
+- market_hash_name: ★ Driver Gloves | Rezan the Red (Minimal Wear)
+  paint_index: 10069
+- market_hash_name: ★ Driver Gloves | Rezan the Red (Field-Tested)
+  paint_index: 10069
+- market_hash_name: ★ Driver Gloves | Rezan the Red (Well-Worn)
+  paint_index: 10069
+- market_hash_name: ★ Driver Gloves | Rezan the Red (Battle-Scarred)
+  paint_index: 10069
+- market_hash_name: ★ Driver Gloves | Diamondback (Factory New)
+  paint_index: 10040
+- market_hash_name: ★ Driver Gloves | Diamondback (Minimal Wear)
+  paint_index: 10040
+- market_hash_name: ★ Driver Gloves | Diamondback (Field-Tested)
+  paint_index: 10040
+- market_hash_name: ★ Driver Gloves | Diamondback (Well-Worn)
+  paint_index: 10040
+- market_hash_name: ★ Driver Gloves | Diamondback (Battle-Scarred)
+  paint_index: 10040
+- market_hash_name: ★ Driver Gloves | Overtake (Factory New)
+  paint_index: 10043
+- market_hash_name: ★ Driver Gloves | Overtake (Minimal Wear)
+  paint_index: 10043
+- market_hash_name: ★ Driver Gloves | Overtake (Field-Tested)
+  paint_index: 10043
+- market_hash_name: ★ Driver Gloves | Overtake (Well-Worn)
+  paint_index: 10043
+- market_hash_name: ★ Driver Gloves | Overtake (Battle-Scarred)
+  paint_index: 10043
+- market_hash_name: ★ Driver Gloves | Black Tie (Factory New)
+  paint_index: 10072
+- market_hash_name: ★ Driver Gloves | Black Tie (Minimal Wear)
+  paint_index: 10072
+- market_hash_name: ★ Driver Gloves | Black Tie (Field-Tested)
+  paint_index: 10072
+- market_hash_name: ★ Driver Gloves | Black Tie (Well-Worn)
+  paint_index: 10072
+- market_hash_name: ★ Driver Gloves | Black Tie (Battle-Scarred)
+  paint_index: 10072
+- market_hash_name: ★ Driver Gloves | Racing Green (Factory New)
+  paint_index: 10044
+- market_hash_name: ★ Driver Gloves | Racing Green (Minimal Wear)
+  paint_index: 10044
+- market_hash_name: ★ Driver Gloves | Racing Green (Field-Tested)
+  paint_index: 10044
+- market_hash_name: ★ Driver Gloves | Racing Green (Well-Worn)
+  paint_index: 10044
+- market_hash_name: ★ Driver Gloves | Racing Green (Battle-Scarred)
+  paint_index: 10044
+- market_hash_name: ★ Specialist Gloves | Lime Polycam (Factory New)
+  paint_index: 1413
+- market_hash_name: ★ Specialist Gloves | Lime Polycam (Minimal Wear)
+  paint_index: 1413
+- market_hash_name: ★ Specialist Gloves | Lime Polycam (Field-Tested)
+  paint_index: 1413
+- market_hash_name: ★ Specialist Gloves | Lime Polycam (Well-Worn)
+  paint_index: 1413
+- market_hash_name: ★ Specialist Gloves | Lime Polycam (Battle-Scarred)
+  paint_index: 1413
+- market_hash_name: ★ Specialist Gloves | Cloud Chaser (Factory New)
+  paint_index: 1440
+- market_hash_name: ★ Specialist Gloves | Cloud Chaser (Minimal Wear)
+  paint_index: 1440
+- market_hash_name: ★ Specialist Gloves | Cloud Chaser (Field-Tested)
+  paint_index: 1440
+- market_hash_name: ★ Specialist Gloves | Cloud Chaser (Well-Worn)
+  paint_index: 1440
+- market_hash_name: ★ Specialist Gloves | Cloud Chaser (Battle-Scarred)
+  paint_index: 1440
+- market_hash_name: ★ Specialist Gloves | Blackbook (Factory New)
+  paint_index: 1414
+- market_hash_name: ★ Specialist Gloves | Blackbook (Minimal Wear)
+  paint_index: 1414
+- market_hash_name: ★ Specialist Gloves | Blackbook (Field-Tested)
+  paint_index: 1414
+- market_hash_name: ★ Specialist Gloves | Blackbook (Well-Worn)
+  paint_index: 1414
+- market_hash_name: ★ Specialist Gloves | Blackbook (Battle-Scarred)
+  paint_index: 1414
+- market_hash_name: ★ Specialist Gloves | Chocolate Chesterfield (Factory New)
+  paint_index: 1415
+- market_hash_name: ★ Specialist Gloves | Chocolate Chesterfield (Minimal Wear)
+  paint_index: 1415
+- market_hash_name: ★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)
+  paint_index: 1415
+- market_hash_name: ★ Specialist Gloves | Chocolate Chesterfield (Well-Worn)
+  paint_index: 1415
+- market_hash_name: ★ Specialist Gloves | Chocolate Chesterfield (Battle-Scarred)
+  paint_index: 1415
+- market_hash_name: ★ Specialist Gloves | Pillow Punchers (Factory New)
+  paint_index: 1438
+- market_hash_name: ★ Specialist Gloves | Pillow Punchers (Minimal Wear)
+  paint_index: 1438
+- market_hash_name: ★ Specialist Gloves | Pillow Punchers (Field-Tested)
+  paint_index: 1438
+- market_hash_name: ★ Specialist Gloves | Pillow Punchers (Well-Worn)
+  paint_index: 1438
+- market_hash_name: ★ Specialist Gloves | Pillow Punchers (Battle-Scarred)
+  paint_index: 1438
+- market_hash_name: ★ Specialist Gloves | Sunburst (Factory New)
+  paint_index: 1416
+- market_hash_name: ★ Specialist Gloves | Sunburst (Minimal Wear)
+  paint_index: 1416
+- market_hash_name: ★ Specialist Gloves | Sunburst (Field-Tested)
+  paint_index: 1416
+- market_hash_name: ★ Specialist Gloves | Sunburst (Well-Worn)
+  paint_index: 1416
+- market_hash_name: ★ Specialist Gloves | Sunburst (Battle-Scarred)
+  paint_index: 1416
+- market_hash_name: ★ Specialist Gloves | Big Swell (Factory New)
+  paint_index: 1437
+- market_hash_name: ★ Specialist Gloves | Big Swell (Minimal Wear)
+  paint_index: 1437
+- market_hash_name: ★ Specialist Gloves | Big Swell (Field-Tested)
+  paint_index: 1437
+- market_hash_name: ★ Specialist Gloves | Big Swell (Well-Worn)
+  paint_index: 1437
+- market_hash_name: ★ Specialist Gloves | Big Swell (Battle-Scarred)
+  paint_index: 1437
+- market_hash_name: ★ Specialist Gloves | Forest DDPAT (Factory New)
+  paint_index: 10030
+- market_hash_name: ★ Specialist Gloves | Forest DDPAT (Minimal Wear)
+  paint_index: 10030
+- market_hash_name: ★ Specialist Gloves | Forest DDPAT (Field-Tested)
+  paint_index: 10030
+- market_hash_name: ★ Specialist Gloves | Forest DDPAT (Well-Worn)
+  paint_index: 10030
+- market_hash_name: ★ Specialist Gloves | Forest DDPAT (Battle-Scarred)
+  paint_index: 10030
+- market_hash_name: ★ Specialist Gloves | Emerald Web (Factory New)
+  paint_index: 10034
+- market_hash_name: ★ Specialist Gloves | Emerald Web (Minimal Wear)
+  paint_index: 10034
+- market_hash_name: ★ Specialist Gloves | Emerald Web (Field-Tested)
+  paint_index: 10034
+- market_hash_name: ★ Specialist Gloves | Emerald Web (Well-Worn)
+  paint_index: 10034
+- market_hash_name: ★ Specialist Gloves | Emerald Web (Battle-Scarred)
+  paint_index: 10034
+- market_hash_name: ★ Specialist Gloves | Buckshot (Factory New)
+  paint_index: 10062
+- market_hash_name: ★ Specialist Gloves | Buckshot (Minimal Wear)
+  paint_index: 10062
+- market_hash_name: ★ Specialist Gloves | Buckshot (Field-Tested)
+  paint_index: 10062
+- market_hash_name: ★ Specialist Gloves | Buckshot (Well-Worn)
+  paint_index: 10062
+- market_hash_name: ★ Specialist Gloves | Buckshot (Battle-Scarred)
+  paint_index: 10062
+- market_hash_name: ★ Specialist Gloves | Foundation (Factory New)
+  paint_index: 10035
+- market_hash_name: ★ Specialist Gloves | Foundation (Minimal Wear)
+  paint_index: 10035
+- market_hash_name: ★ Specialist Gloves | Foundation (Field-Tested)
+  paint_index: 10035
+- market_hash_name: ★ Specialist Gloves | Foundation (Well-Worn)
+  paint_index: 10035
+- market_hash_name: ★ Specialist Gloves | Foundation (Battle-Scarred)
+  paint_index: 10035
+- market_hash_name: ★ Specialist Gloves | Lt. Commander (Factory New)
+  paint_index: 10066
+- market_hash_name: ★ Specialist Gloves | Lt. Commander (Minimal Wear)
+  paint_index: 10066
+- market_hash_name: ★ Specialist Gloves | Lt. Commander (Field-Tested)
+  paint_index: 10066
+- market_hash_name: ★ Specialist Gloves | Lt. Commander (Well-Worn)
+  paint_index: 10066
+- market_hash_name: ★ Specialist Gloves | Lt. Commander (Battle-Scarred)
+  paint_index: 10066
+- market_hash_name: ★ Specialist Gloves | Tiger Strike (Factory New)
+  paint_index: 10067
+- market_hash_name: ★ Specialist Gloves | Tiger Strike (Minimal Wear)
+  paint_index: 10067
+- market_hash_name: ★ Specialist Gloves | Tiger Strike (Field-Tested)
+  paint_index: 10067
+- market_hash_name: ★ Specialist Gloves | Tiger Strike (Well-Worn)
+  paint_index: 10067
+- market_hash_name: ★ Specialist Gloves | Tiger Strike (Battle-Scarred)
+  paint_index: 10067
+- market_hash_name: ★ Specialist Gloves | Mogul (Factory New)
+  paint_index: 10064
+- market_hash_name: ★ Specialist Gloves | Mogul (Minimal Wear)
+  paint_index: 10064
+- market_hash_name: ★ Specialist Gloves | Mogul (Field-Tested)
+  paint_index: 10064
+- market_hash_name: ★ Specialist Gloves | Mogul (Well-Worn)
+  paint_index: 10064
+- market_hash_name: ★ Specialist Gloves | Mogul (Battle-Scarred)
+  paint_index: 10064
+- market_hash_name: ★ Sport Gloves | Violet Beadwork (Factory New)
+  paint_index: 1405
+- market_hash_name: ★ Sport Gloves | Violet Beadwork (Minimal Wear)
+  paint_index: 1405
+- market_hash_name: ★ Sport Gloves | Violet Beadwork (Field-Tested)
+  paint_index: 1405
+- market_hash_name: ★ Sport Gloves | Violet Beadwork (Well-Worn)
+  paint_index: 1405
+- market_hash_name: ★ Sport Gloves | Violet Beadwork (Battle-Scarred)
+  paint_index: 1405
+- market_hash_name: ★ Sport Gloves | Frosty (Factory New)
+  paint_index: 1406
+- market_hash_name: ★ Sport Gloves | Frosty (Minimal Wear)
+  paint_index: 1406
+- market_hash_name: ★ Sport Gloves | Frosty (Field-Tested)
+  paint_index: 1406
+- market_hash_name: ★ Sport Gloves | Frosty (Well-Worn)
+  paint_index: 1406
+- market_hash_name: ★ Sport Gloves | Frosty (Battle-Scarred)
+  paint_index: 1406
+- market_hash_name: ★ Sport Gloves | Blaze (Factory New)
+  paint_index: 1407
+- market_hash_name: ★ Sport Gloves | Blaze (Minimal Wear)
+  paint_index: 1407
+- market_hash_name: ★ Sport Gloves | Blaze (Field-Tested)
+  paint_index: 1407
+- market_hash_name: ★ Sport Gloves | Blaze (Well-Worn)
+  paint_index: 1407
+- market_hash_name: ★ Sport Gloves | Blaze (Battle-Scarred)
+  paint_index: 1407
+- market_hash_name: ★ Sport Gloves | Creme Pinstripe (Factory New)
+  paint_index: 1408
+- market_hash_name: ★ Sport Gloves | Creme Pinstripe (Minimal Wear)
+  paint_index: 1408
+- market_hash_name: ★ Sport Gloves | Creme Pinstripe (Field-Tested)
+  paint_index: 1408
+- market_hash_name: ★ Sport Gloves | Creme Pinstripe (Well-Worn)
+  paint_index: 1408
+- market_hash_name: ★ Sport Gloves | Creme Pinstripe (Battle-Scarred)
+  paint_index: 1408
+- market_hash_name: ★ Sport Gloves | Red Racer (Factory New)
+  paint_index: 1409
+- market_hash_name: ★ Sport Gloves | Red Racer (Minimal Wear)
+  paint_index: 1409
+- market_hash_name: ★ Sport Gloves | Red Racer (Field-Tested)
+  paint_index: 1409
+- market_hash_name: ★ Sport Gloves | Red Racer (Well-Worn)
+  paint_index: 1409
+- market_hash_name: ★ Sport Gloves | Red Racer (Battle-Scarred)
+  paint_index: 1409
+- market_hash_name: ★ Sport Gloves | Occult (Factory New)
+  paint_index: 1417
+- market_hash_name: ★ Sport Gloves | Occult (Minimal Wear)
+  paint_index: 1417
+- market_hash_name: ★ Sport Gloves | Occult (Field-Tested)
+  paint_index: 1417
+- market_hash_name: ★ Sport Gloves | Occult (Well-Worn)
+  paint_index: 1417
+- market_hash_name: ★ Sport Gloves | Occult (Battle-Scarred)
+  paint_index: 1417
+- market_hash_name: ★ Sport Gloves | Hedge Maze (Factory New)
+  paint_index: 10038
+- market_hash_name: ★ Sport Gloves | Hedge Maze (Minimal Wear)
+  paint_index: 10038
+- market_hash_name: ★ Sport Gloves | Hedge Maze (Field-Tested)
+  paint_index: 10038
+- market_hash_name: ★ Sport Gloves | Hedge Maze (Well-Worn)
+  paint_index: 10038
+- market_hash_name: ★ Sport Gloves | Hedge Maze (Battle-Scarred)
+  paint_index: 10038
+- market_hash_name: ★ Sport Gloves | Scarlet Shamagh (Factory New)
+  paint_index: 10075
+- market_hash_name: ★ Sport Gloves | Scarlet Shamagh (Minimal Wear)
+  paint_index: 10075
+- market_hash_name: ★ Sport Gloves | Scarlet Shamagh (Field-Tested)
+  paint_index: 10075
+- market_hash_name: ★ Sport Gloves | Scarlet Shamagh (Well-Worn)
+  paint_index: 10075
+- market_hash_name: ★ Sport Gloves | Scarlet Shamagh (Battle-Scarred)
+  paint_index: 10075
+- market_hash_name: ★ Sport Gloves | Big Game (Factory New)
+  paint_index: 10074
+- market_hash_name: ★ Sport Gloves | Big Game (Minimal Wear)
+  paint_index: 10074
+- market_hash_name: ★ Sport Gloves | Big Game (Field-Tested)
+  paint_index: 10074
+- market_hash_name: ★ Sport Gloves | Big Game (Well-Worn)
+  paint_index: 10074
+- market_hash_name: ★ Sport Gloves | Big Game (Battle-Scarred)
+  paint_index: 10074
+- market_hash_name: ★ Sport Gloves | Superconductor (Factory New)
+  paint_index: 10018
+- market_hash_name: ★ Sport Gloves | Superconductor (Minimal Wear)
+  paint_index: 10018
+- market_hash_name: ★ Sport Gloves | Superconductor (Field-Tested)
+  paint_index: 10018
+- market_hash_name: ★ Sport Gloves | Superconductor (Well-Worn)
+  paint_index: 10018
+- market_hash_name: ★ Sport Gloves | Superconductor (Battle-Scarred)
+  paint_index: 10018
+- market_hash_name: ★ Sport Gloves | Arid (Factory New)
+  paint_index: 10019
+- market_hash_name: ★ Sport Gloves | Arid (Minimal Wear)
+  paint_index: 10019
+- market_hash_name: ★ Sport Gloves | Arid (Field-Tested)
+  paint_index: 10019
+- market_hash_name: ★ Sport Gloves | Arid (Well-Worn)
+  paint_index: 10019
+- market_hash_name: ★ Sport Gloves | Arid (Battle-Scarred)
+  paint_index: 10019
+- market_hash_name: ★ Sport Gloves | Bronze Morph (Factory New)
+  paint_index: 10046
+- market_hash_name: ★ Sport Gloves | Bronze Morph (Minimal Wear)
+  paint_index: 10046
+- market_hash_name: ★ Sport Gloves | Bronze Morph (Field-Tested)
+  paint_index: 10046
+- market_hash_name: ★ Sport Gloves | Bronze Morph (Well-Worn)
+  paint_index: 10046
+- market_hash_name: ★ Sport Gloves | Bronze Morph (Battle-Scarred)
+  paint_index: 10046
+- market_hash_name: ★ Sport Gloves | Slingshot (Factory New)
+  paint_index: 10073
+- market_hash_name: ★ Sport Gloves | Slingshot (Minimal Wear)
+  paint_index: 10073
+- market_hash_name: ★ Sport Gloves | Slingshot (Field-Tested)
+  paint_index: 10073
+- market_hash_name: ★ Sport Gloves | Slingshot (Well-Worn)
+  paint_index: 10073
+- market_hash_name: ★ Sport Gloves | Slingshot (Battle-Scarred)
+  paint_index: 10073
+- market_hash_name: ★ Bloodhound Gloves | Charred (Factory New)
+  paint_index: 10006
+- market_hash_name: ★ Bloodhound Gloves | Charred (Minimal Wear)
+  paint_index: 10006
+- market_hash_name: ★ Bloodhound Gloves | Charred (Field-Tested)
+  paint_index: 10006
+- market_hash_name: ★ Bloodhound Gloves | Charred (Well-Worn)
+  paint_index: 10006
+- market_hash_name: ★ Bloodhound Gloves | Charred (Battle-Scarred)
+  paint_index: 10006
+- market_hash_name: ★ Bloodhound Gloves | Guerrilla (Factory New)
+  paint_index: 10039
+- market_hash_name: ★ Bloodhound Gloves | Guerrilla (Minimal Wear)
+  paint_index: 10039
+- market_hash_name: ★ Bloodhound Gloves | Guerrilla (Field-Tested)
+  paint_index: 10039
+- market_hash_name: ★ Bloodhound Gloves | Guerrilla (Well-Worn)
+  paint_index: 10039
+- market_hash_name: ★ Bloodhound Gloves | Guerrilla (Battle-Scarred)
+  paint_index: 10039
+- market_hash_name: ★ Bloodhound Gloves | Bronzed (Factory New)
+  paint_index: 10008
+- market_hash_name: ★ Bloodhound Gloves | Bronzed (Minimal Wear)
+  paint_index: 10008
+- market_hash_name: ★ Bloodhound Gloves | Bronzed (Field-Tested)
+  paint_index: 10008
+- market_hash_name: ★ Bloodhound Gloves | Bronzed (Well-Worn)
+  paint_index: 10008
+- market_hash_name: ★ Bloodhound Gloves | Bronzed (Battle-Scarred)
+  paint_index: 10008
+- market_hash_name: ★ Bloodhound Gloves | Snakebite (Factory New)
+  paint_index: 10007
+- market_hash_name: ★ Bloodhound Gloves | Snakebite (Minimal Wear)
+  paint_index: 10007
+- market_hash_name: ★ Bloodhound Gloves | Snakebite (Field-Tested)
+  paint_index: 10007
+- market_hash_name: ★ Bloodhound Gloves | Snakebite (Well-Worn)
+  paint_index: 10007
+- market_hash_name: ★ Bloodhound Gloves | Snakebite (Battle-Scarred)
+  paint_index: 10007
+- market_hash_name: ★ Broken Fang Gloves | Needle Point (Factory New)
+  paint_index: 10087
+- market_hash_name: ★ Broken Fang Gloves | Needle Point (Minimal Wear)
+  paint_index: 10087
+- market_hash_name: ★ Broken Fang Gloves | Needle Point (Field-Tested)
+  paint_index: 10087
+- market_hash_name: ★ Broken Fang Gloves | Needle Point (Well-Worn)
+  paint_index: 10087
+- market_hash_name: ★ Broken Fang Gloves | Needle Point (Battle-Scarred)
+  paint_index: 10087
+- market_hash_name: ★ Broken Fang Gloves | Jade (Factory New)
+  paint_index: 10085
+- market_hash_name: ★ Broken Fang Gloves | Jade (Minimal Wear)
+  paint_index: 10085
+- market_hash_name: ★ Broken Fang Gloves | Jade (Field-Tested)
+  paint_index: 10085
+- market_hash_name: ★ Broken Fang Gloves | Jade (Well-Worn)
+  paint_index: 10085
+- market_hash_name: ★ Broken Fang Gloves | Jade (Battle-Scarred)
+  paint_index: 10085
+- market_hash_name: ★ Broken Fang Gloves | Yellow-banded (Factory New)
+  paint_index: 10086
+- market_hash_name: ★ Broken Fang Gloves | Yellow-banded (Minimal Wear)
+  paint_index: 10086
+- market_hash_name: ★ Broken Fang Gloves | Yellow-banded (Field-Tested)
+  paint_index: 10086
+- market_hash_name: ★ Broken Fang Gloves | Yellow-banded (Well-Worn)
+  paint_index: 10086
+- market_hash_name: ★ Broken Fang Gloves | Yellow-banded (Battle-Scarred)
+  paint_index: 10086
+- market_hash_name: ★ Broken Fang Gloves | Unhinged (Factory New)
+  paint_index: 10088
+- market_hash_name: ★ Broken Fang Gloves | Unhinged (Minimal Wear)
+  paint_index: 10088
+- market_hash_name: ★ Broken Fang Gloves | Unhinged (Field-Tested)
+  paint_index: 10088
+- market_hash_name: ★ Broken Fang Gloves | Unhinged (Well-Worn)
+  paint_index: 10088
+- market_hash_name: ★ Broken Fang Gloves | Unhinged (Battle-Scarred)
+  paint_index: 10088
+- market_hash_name: ★ Hydra Gloves | Emerald (Factory New)
+  paint_index: 10057
+- market_hash_name: ★ Hydra Gloves | Emerald (Minimal Wear)
+  paint_index: 10057
+- market_hash_name: ★ Hydra Gloves | Emerald (Field-Tested)
+  paint_index: 10057
+- market_hash_name: ★ Hydra Gloves | Emerald (Well-Worn)
+  paint_index: 10057
+- market_hash_name: ★ Hydra Gloves | Emerald (Battle-Scarred)
+  paint_index: 10057
+- market_hash_name: ★ Hydra Gloves | Case Hardened (Factory New)
+  paint_index: 10060
+- market_hash_name: ★ Hydra Gloves | Case Hardened (Minimal Wear)
+  paint_index: 10060
+- market_hash_name: ★ Hydra Gloves | Case Hardened (Field-Tested)
+  paint_index: 10060
+- market_hash_name: ★ Hydra Gloves | Case Hardened (Well-Worn)
+  paint_index: 10060
+- market_hash_name: ★ Hydra Gloves | Case Hardened (Battle-Scarred)
+  paint_index: 10060
+- market_hash_name: ★ Hydra Gloves | Mangrove (Factory New)
+  paint_index: 10058
+- market_hash_name: ★ Hydra Gloves | Mangrove (Minimal Wear)
+  paint_index: 10058
+- market_hash_name: ★ Hydra Gloves | Mangrove (Field-Tested)
+  paint_index: 10058
+- market_hash_name: ★ Hydra Gloves | Mangrove (Well-Worn)
+  paint_index: 10058
+- market_hash_name: ★ Hydra Gloves | Mangrove (Battle-Scarred)
+  paint_index: 10058
+- market_hash_name: ★ Hydra Gloves | Rattler (Factory New)
+  paint_index: 10059
+- market_hash_name: ★ Hydra Gloves | Rattler (Minimal Wear)
+  paint_index: 10059
+- market_hash_name: ★ Hydra Gloves | Rattler (Field-Tested)
+  paint_index: 10059
+- market_hash_name: ★ Hydra Gloves | Rattler (Well-Worn)
+  paint_index: 10059
+- market_hash_name: ★ Hydra Gloves | Rattler (Battle-Scarred)
+  paint_index: 10059

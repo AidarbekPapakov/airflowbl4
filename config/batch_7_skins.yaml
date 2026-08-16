@@ -1,0 +1,1326 @@
+# Phase 0 data backfill (batch 7)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: Glock-18, P2000, P250
+skins:
+- market_hash_name: Glock-18 | Moonrise (Factory New)
+  paint_index: 694
+- market_hash_name: Glock-18 | Moonrise (Minimal Wear)
+  paint_index: 694
+- market_hash_name: Glock-18 | Moonrise (Field-Tested)
+  paint_index: 694
+- market_hash_name: Glock-18 | Moonrise (Well-Worn)
+  paint_index: 694
+- market_hash_name: Glock-18 | Moonrise (Battle-Scarred)
+  paint_index: 694
+- market_hash_name: Glock-18 | High Beam (Factory New)
+  paint_index: 799
+- market_hash_name: Glock-18 | High Beam (Minimal Wear)
+  paint_index: 799
+- market_hash_name: Glock-18 | Steel Disruption (Factory New)
+  paint_index: 230
+- market_hash_name: Glock-18 | Steel Disruption (Minimal Wear)
+  paint_index: 230
+- market_hash_name: Glock-18 | Steel Disruption (Field-Tested)
+  paint_index: 230
+- market_hash_name: Glock-18 | Dragon Tattoo (Factory New)
+  paint_index: 48
+- market_hash_name: Glock-18 | Dragon Tattoo (Minimal Wear)
+  paint_index: 48
+- market_hash_name: Glock-18 | Gamma Doppler (Factory New)
+  paint_index: 1119
+- market_hash_name: Glock-18 | Gamma Doppler (Minimal Wear)
+  paint_index: 1119
+- market_hash_name: Glock-18 | Gamma Doppler (Field-Tested)
+  paint_index: 1119
+- market_hash_name: Glock-18 | Gamma Doppler (Well-Worn)
+  paint_index: 1119
+- market_hash_name: Glock-18 | Gamma Doppler (Battle-Scarred)
+  paint_index: 1119
+- market_hash_name: Glock-18 | Gamma Doppler (Factory New)
+  paint_index: 1120
+- market_hash_name: Glock-18 | Gamma Doppler (Minimal Wear)
+  paint_index: 1120
+- market_hash_name: Glock-18 | Gamma Doppler (Field-Tested)
+  paint_index: 1120
+- market_hash_name: Glock-18 | Gamma Doppler (Well-Worn)
+  paint_index: 1120
+- market_hash_name: Glock-18 | Gamma Doppler (Battle-Scarred)
+  paint_index: 1120
+- market_hash_name: Glock-18 | Gamma Doppler (Factory New)
+  paint_index: 1122
+- market_hash_name: Glock-18 | Gamma Doppler (Minimal Wear)
+  paint_index: 1122
+- market_hash_name: Glock-18 | Gamma Doppler (Field-Tested)
+  paint_index: 1122
+- market_hash_name: Glock-18 | Gamma Doppler (Well-Worn)
+  paint_index: 1122
+- market_hash_name: Glock-18 | Gamma Doppler (Battle-Scarred)
+  paint_index: 1122
+- market_hash_name: Glock-18 | Gamma Doppler (Factory New)
+  paint_index: 1123
+- market_hash_name: Glock-18 | Gamma Doppler (Minimal Wear)
+  paint_index: 1123
+- market_hash_name: Glock-18 | Gamma Doppler (Field-Tested)
+  paint_index: 1123
+- market_hash_name: Glock-18 | Gamma Doppler (Well-Worn)
+  paint_index: 1123
+- market_hash_name: Glock-18 | Gamma Doppler (Battle-Scarred)
+  paint_index: 1123
+- market_hash_name: Glock-18 | Reactor (Factory New)
+  paint_index: 367
+- market_hash_name: Glock-18 | Reactor (Minimal Wear)
+  paint_index: 367
+- market_hash_name: Glock-18 | Reactor (Field-Tested)
+  paint_index: 367
+- market_hash_name: Glock-18 | Reactor (Well-Worn)
+  paint_index: 367
+- market_hash_name: Glock-18 | Reactor (Battle-Scarred)
+  paint_index: 367
+- market_hash_name: Glock-18 | Brass (Factory New)
+  paint_index: 159
+- market_hash_name: Glock-18 | Brass (Minimal Wear)
+  paint_index: 159
+- market_hash_name: Glock-18 | Brass (Field-Tested)
+  paint_index: 159
+- market_hash_name: Glock-18 | Brass (Well-Worn)
+  paint_index: 159
+- market_hash_name: Glock-18 | Brass (Battle-Scarred)
+  paint_index: 159
+- market_hash_name: Glock-18 | Bunsen Burner (Factory New)
+  paint_index: 479
+- market_hash_name: Glock-18 | Bunsen Burner (Minimal Wear)
+  paint_index: 479
+- market_hash_name: Glock-18 | Bunsen Burner (Field-Tested)
+  paint_index: 479
+- market_hash_name: Glock-18 | Bunsen Burner (Well-Worn)
+  paint_index: 479
+- market_hash_name: Glock-18 | Bunsen Burner (Battle-Scarred)
+  paint_index: 479
+- market_hash_name: Glock-18 | Grinder (Factory New)
+  paint_index: 381
+- market_hash_name: Glock-18 | Grinder (Minimal Wear)
+  paint_index: 381
+- market_hash_name: Glock-18 | Grinder (Field-Tested)
+  paint_index: 381
+- market_hash_name: Glock-18 | Ironwork (Factory New)
+  paint_index: 623
+- market_hash_name: Glock-18 | Ironwork (Minimal Wear)
+  paint_index: 623
+- market_hash_name: Glock-18 | Ironwork (Field-Tested)
+  paint_index: 623
+- market_hash_name: Glock-18 | Ironwork (Well-Worn)
+  paint_index: 623
+- market_hash_name: Glock-18 | Ironwork (Battle-Scarred)
+  paint_index: 623
+- market_hash_name: Glock-18 | Oxide Blaze (Factory New)
+  paint_index: 808
+- market_hash_name: Glock-18 | Oxide Blaze (Minimal Wear)
+  paint_index: 808
+- market_hash_name: Glock-18 | Oxide Blaze (Field-Tested)
+  paint_index: 808
+- market_hash_name: Glock-18 | Oxide Blaze (Well-Worn)
+  paint_index: 808
+- market_hash_name: Glock-18 | Oxide Blaze (Battle-Scarred)
+  paint_index: 808
+- market_hash_name: Glock-18 | Bullet Queen (Factory New)
+  paint_index: 957
+- market_hash_name: Glock-18 | Bullet Queen (Minimal Wear)
+  paint_index: 957
+- market_hash_name: Glock-18 | Bullet Queen (Field-Tested)
+  paint_index: 957
+- market_hash_name: Glock-18 | Bullet Queen (Well-Worn)
+  paint_index: 957
+- market_hash_name: Glock-18 | Bullet Queen (Battle-Scarred)
+  paint_index: 957
+- market_hash_name: Glock-18 | Weasel (Factory New)
+  paint_index: 607
+- market_hash_name: Glock-18 | Weasel (Minimal Wear)
+  paint_index: 607
+- market_hash_name: Glock-18 | Weasel (Field-Tested)
+  paint_index: 607
+- market_hash_name: Glock-18 | Weasel (Well-Worn)
+  paint_index: 607
+- market_hash_name: Glock-18 | Weasel (Battle-Scarred)
+  paint_index: 607
+- market_hash_name: Glock-18 | Catacombs (Factory New)
+  paint_index: 399
+- market_hash_name: Glock-18 | Catacombs (Minimal Wear)
+  paint_index: 399
+- market_hash_name: Glock-18 | Catacombs (Field-Tested)
+  paint_index: 399
+- market_hash_name: Glock-18 | Catacombs (Well-Worn)
+  paint_index: 399
+- market_hash_name: Glock-18 | Catacombs (Battle-Scarred)
+  paint_index: 399
+- market_hash_name: Glock-18 | Sacrifice (Factory New)
+  paint_index: 918
+- market_hash_name: Glock-18 | Sacrifice (Minimal Wear)
+  paint_index: 918
+- market_hash_name: Glock-18 | Sacrifice (Field-Tested)
+  paint_index: 918
+- market_hash_name: Glock-18 | Sacrifice (Well-Worn)
+  paint_index: 918
+- market_hash_name: Glock-18 | Sacrifice (Battle-Scarred)
+  paint_index: 918
+- market_hash_name: Glock-18 | Off World (Factory New)
+  paint_index: 680
+- market_hash_name: Glock-18 | Off World (Minimal Wear)
+  paint_index: 680
+- market_hash_name: Glock-18 | Off World (Field-Tested)
+  paint_index: 680
+- market_hash_name: Glock-18 | Off World (Well-Worn)
+  paint_index: 680
+- market_hash_name: Glock-18 | Off World (Battle-Scarred)
+  paint_index: 680
+- market_hash_name: Glock-18 | Umbral Rabbit (Factory New)
+  paint_index: 1227
+- market_hash_name: Glock-18 | Umbral Rabbit (Minimal Wear)
+  paint_index: 1227
+- market_hash_name: Glock-18 | Umbral Rabbit (Field-Tested)
+  paint_index: 1227
+- market_hash_name: Glock-18 | Umbral Rabbit (Well-Worn)
+  paint_index: 1227
+- market_hash_name: Glock-18 | Umbral Rabbit (Battle-Scarred)
+  paint_index: 1227
+- market_hash_name: Glock-18 | Ramese's Reach (Factory New)
+  paint_index: 1240
+- market_hash_name: Glock-18 | Ramese's Reach (Minimal Wear)
+  paint_index: 1240
+- market_hash_name: Glock-18 | Ramese's Reach (Field-Tested)
+  paint_index: 1240
+- market_hash_name: Glock-18 | Ramese's Reach (Well-Worn)
+  paint_index: 1240
+- market_hash_name: Glock-18 | Ramese's Reach (Battle-Scarred)
+  paint_index: 1240
+- market_hash_name: Glock-18 | Snack Attack (Factory New)
+  paint_index: 1100
+- market_hash_name: Glock-18 | Snack Attack (Minimal Wear)
+  paint_index: 1100
+- market_hash_name: Glock-18 | Snack Attack (Field-Tested)
+  paint_index: 1100
+- market_hash_name: Glock-18 | Snack Attack (Well-Worn)
+  paint_index: 1100
+- market_hash_name: Glock-18 | Snack Attack (Battle-Scarred)
+  paint_index: 1100
+- market_hash_name: Glock-18 | Wasteland Rebel (Factory New)
+  paint_index: 586
+- market_hash_name: Glock-18 | Wasteland Rebel (Minimal Wear)
+  paint_index: 586
+- market_hash_name: Glock-18 | Wasteland Rebel (Field-Tested)
+  paint_index: 586
+- market_hash_name: Glock-18 | Wasteland Rebel (Well-Worn)
+  paint_index: 586
+- market_hash_name: Glock-18 | Wasteland Rebel (Battle-Scarred)
+  paint_index: 586
+- market_hash_name: Glock-18 | Franklin (Factory New)
+  paint_index: 1016
+- market_hash_name: Glock-18 | Franklin (Minimal Wear)
+  paint_index: 1016
+- market_hash_name: Glock-18 | Franklin (Field-Tested)
+  paint_index: 1016
+- market_hash_name: Glock-18 | Franklin (Well-Worn)
+  paint_index: 1016
+- market_hash_name: Glock-18 | Block-18 (Factory New)
+  paint_index: 1167
+- market_hash_name: Glock-18 | Block-18 (Minimal Wear)
+  paint_index: 1167
+- market_hash_name: Glock-18 | Block-18 (Field-Tested)
+  paint_index: 1167
+- market_hash_name: Glock-18 | Block-18 (Well-Worn)
+  paint_index: 1167
+- market_hash_name: Glock-18 | Block-18 (Battle-Scarred)
+  paint_index: 1167
+- market_hash_name: Glock-18 | Gold Toof (Factory New)
+  paint_index: 129
+- market_hash_name: Glock-18 | Gold Toof (Minimal Wear)
+  paint_index: 129
+- market_hash_name: Glock-18 | Gold Toof (Field-Tested)
+  paint_index: 129
+- market_hash_name: Glock-18 | Gold Toof (Well-Worn)
+  paint_index: 129
+- market_hash_name: Glock-18 | Gold Toof (Battle-Scarred)
+  paint_index: 129
+- market_hash_name: Glock-18 | Fully Tuned (Factory New)
+  paint_index: 1421
+- market_hash_name: Glock-18 | Fully Tuned (Minimal Wear)
+  paint_index: 1421
+- market_hash_name: Glock-18 | Fully Tuned (Field-Tested)
+  paint_index: 1421
+- market_hash_name: Glock-18 | Fully Tuned (Well-Worn)
+  paint_index: 1421
+- market_hash_name: Glock-18 | Fully Tuned (Battle-Scarred)
+  paint_index: 1421
+- market_hash_name: Glock-18 | Mirror Mosaic (Factory New)
+  paint_index: 1348
+- market_hash_name: Glock-18 | Mirror Mosaic (Minimal Wear)
+  paint_index: 1348
+- market_hash_name: Glock-18 | Mirror Mosaic (Field-Tested)
+  paint_index: 1348
+- market_hash_name: Glock-18 | Mirror Mosaic (Well-Worn)
+  paint_index: 1348
+- market_hash_name: Glock-18 | Mirror Mosaic (Battle-Scarred)
+  paint_index: 1348
+- market_hash_name: Glock-18 | Shinobu (Factory New)
+  paint_index: 1208
+- market_hash_name: Glock-18 | Shinobu (Minimal Wear)
+  paint_index: 1208
+- market_hash_name: Glock-18 | Shinobu (Field-Tested)
+  paint_index: 1208
+- market_hash_name: Glock-18 | Shinobu (Well-Worn)
+  paint_index: 1208
+- market_hash_name: Glock-18 | Shinobu (Battle-Scarred)
+  paint_index: 1208
+- market_hash_name: Glock-18 | Green Line (Factory New)
+  paint_index: 1200
+- market_hash_name: Glock-18 | Green Line (Minimal Wear)
+  paint_index: 1200
+- market_hash_name: Glock-18 | Green Line (Field-Tested)
+  paint_index: 1200
+- market_hash_name: Glock-18 | Green Line (Well-Worn)
+  paint_index: 1200
+- market_hash_name: Glock-18 | Green Line (Battle-Scarred)
+  paint_index: 1200
+- market_hash_name: Glock-18 | Royal Legion (Factory New)
+  paint_index: 532
+- market_hash_name: Glock-18 | Royal Legion (Minimal Wear)
+  paint_index: 532
+- market_hash_name: Glock-18 | Royal Legion (Field-Tested)
+  paint_index: 532
+- market_hash_name: Glock-18 | Royal Legion (Well-Worn)
+  paint_index: 532
+- market_hash_name: Glock-18 | Royal Legion (Battle-Scarred)
+  paint_index: 532
+- market_hash_name: Glock-18 | Wraiths (Factory New)
+  paint_index: 495
+- market_hash_name: Glock-18 | Wraiths (Minimal Wear)
+  paint_index: 495
+- market_hash_name: Glock-18 | Wraiths (Field-Tested)
+  paint_index: 495
+- market_hash_name: Glock-18 | Wraiths (Well-Worn)
+  paint_index: 495
+- market_hash_name: Glock-18 | Wraiths (Battle-Scarred)
+  paint_index: 495
+- market_hash_name: Glock-18 | Winterized (Factory New)
+  paint_index: 1158
+- market_hash_name: Glock-18 | Winterized (Minimal Wear)
+  paint_index: 1158
+- market_hash_name: Glock-18 | Winterized (Field-Tested)
+  paint_index: 1158
+- market_hash_name: Glock-18 | Winterized (Well-Worn)
+  paint_index: 1158
+- market_hash_name: Glock-18 | Winterized (Battle-Scarred)
+  paint_index: 1158
+- market_hash_name: Glock-18 | Clear Polymer (Factory New)
+  paint_index: 1039
+- market_hash_name: Glock-18 | Clear Polymer (Minimal Wear)
+  paint_index: 1039
+- market_hash_name: Glock-18 | Clear Polymer (Field-Tested)
+  paint_index: 1039
+- market_hash_name: Glock-18 | Clear Polymer (Well-Worn)
+  paint_index: 1039
+- market_hash_name: Glock-18 | Clear Polymer (Battle-Scarred)
+  paint_index: 1039
+- market_hash_name: Glock-18 | Warhawk (Factory New)
+  paint_index: 713
+- market_hash_name: Glock-18 | Warhawk (Minimal Wear)
+  paint_index: 713
+- market_hash_name: Glock-18 | Warhawk (Field-Tested)
+  paint_index: 713
+- market_hash_name: Glock-18 | Warhawk (Well-Worn)
+  paint_index: 713
+- market_hash_name: Glock-18 | Warhawk (Battle-Scarred)
+  paint_index: 713
+- market_hash_name: Glock-18 | AXIA (Factory New)
+  paint_index: 832
+- market_hash_name: Glock-18 | AXIA (Minimal Wear)
+  paint_index: 832
+- market_hash_name: Glock-18 | AXIA (Field-Tested)
+  paint_index: 832
+- market_hash_name: Glock-18 | AXIA (Well-Worn)
+  paint_index: 832
+- market_hash_name: Glock-18 | AXIA (Battle-Scarred)
+  paint_index: 832
+- market_hash_name: Glock-18 | Trace Lock (Factory New)
+  paint_index: 1357
+- market_hash_name: Glock-18 | Trace Lock (Minimal Wear)
+  paint_index: 1357
+- market_hash_name: Glock-18 | Trace Lock (Field-Tested)
+  paint_index: 1357
+- market_hash_name: Glock-18 | Trace Lock (Well-Worn)
+  paint_index: 1357
+- market_hash_name: Glock-18 | Trace Lock (Battle-Scarred)
+  paint_index: 1357
+- market_hash_name: Glock-18 | Blue Fissure (Factory New)
+  paint_index: 278
+- market_hash_name: Glock-18 | Blue Fissure (Minimal Wear)
+  paint_index: 278
+- market_hash_name: Glock-18 | Blue Fissure (Field-Tested)
+  paint_index: 278
+- market_hash_name: Glock-18 | Blue Fissure (Well-Worn)
+  paint_index: 278
+- market_hash_name: Glock-18 | Blue Fissure (Battle-Scarred)
+  paint_index: 278
+- market_hash_name: Glock-18 | Pink DDPAT (Factory New)
+  paint_index: 84
+- market_hash_name: Glock-18 | Pink DDPAT (Minimal Wear)
+  paint_index: 84
+- market_hash_name: Glock-18 | Pink DDPAT (Field-Tested)
+  paint_index: 84
+- market_hash_name: Glock-18 | Pink DDPAT (Well-Worn)
+  paint_index: 84
+- market_hash_name: Glock-18 | Pink DDPAT (Battle-Scarred)
+  paint_index: 84
+- market_hash_name: Glock-18 | Synth Leaf (Factory New)
+  paint_index: 732
+- market_hash_name: Glock-18 | Synth Leaf (Minimal Wear)
+  paint_index: 732
+- market_hash_name: Glock-18 | Synth Leaf (Field-Tested)
+  paint_index: 732
+- market_hash_name: Glock-18 | Synth Leaf (Well-Worn)
+  paint_index: 732
+- market_hash_name: Glock-18 | Synth Leaf (Battle-Scarred)
+  paint_index: 732
+- market_hash_name: Glock-18 | Death Rattle (Minimal Wear)
+  paint_index: 293
+- market_hash_name: Glock-18 | Death Rattle (Field-Tested)
+  paint_index: 293
+- market_hash_name: Glock-18 | Death Rattle (Well-Worn)
+  paint_index: 293
+- market_hash_name: Glock-18 | Death Rattle (Battle-Scarred)
+  paint_index: 293
+- market_hash_name: Glock-18 | Teal Graf (Factory New)
+  paint_index: 152
+- market_hash_name: Glock-18 | Teal Graf (Minimal Wear)
+  paint_index: 152
+- market_hash_name: Glock-18 | Teal Graf (Field-Tested)
+  paint_index: 152
+- market_hash_name: Glock-18 | Teal Graf (Well-Worn)
+  paint_index: 152
+- market_hash_name: Glock-18 | Teal Graf (Battle-Scarred)
+  paint_index: 152
+- market_hash_name: Glock-18 | Ocean Topo (Factory New)
+  paint_index: 1265
+- market_hash_name: Glock-18 | Ocean Topo (Minimal Wear)
+  paint_index: 1265
+- market_hash_name: Glock-18 | Ocean Topo (Field-Tested)
+  paint_index: 1265
+- market_hash_name: Glock-18 | Ocean Topo (Well-Worn)
+  paint_index: 1265
+- market_hash_name: Glock-18 | Ocean Topo (Battle-Scarred)
+  paint_index: 1265
+- market_hash_name: Glock-18 | Night (Factory New)
+  paint_index: 40
+- market_hash_name: Glock-18 | Night (Minimal Wear)
+  paint_index: 40
+- market_hash_name: Glock-18 | Night (Field-Tested)
+  paint_index: 40
+- market_hash_name: Glock-18 | Night (Well-Worn)
+  paint_index: 40
+- market_hash_name: Glock-18 | Night (Battle-Scarred)
+  paint_index: 40
+- market_hash_name: Glock-18 | Groundwater (Factory New)
+  paint_index: 2
+- market_hash_name: Glock-18 | Groundwater (Minimal Wear)
+  paint_index: 2
+- market_hash_name: Glock-18 | Groundwater (Field-Tested)
+  paint_index: 2
+- market_hash_name: Glock-18 | Groundwater (Well-Worn)
+  paint_index: 2
+- market_hash_name: Glock-18 | Groundwater (Battle-Scarred)
+  paint_index: 2
+- market_hash_name: Glock-18 | Sand Dune (Factory New)
+  paint_index: 208
+- market_hash_name: Glock-18 | Sand Dune (Minimal Wear)
+  paint_index: 208
+- market_hash_name: Glock-18 | Sand Dune (Field-Tested)
+  paint_index: 208
+- market_hash_name: Glock-18 | Sand Dune (Well-Worn)
+  paint_index: 208
+- market_hash_name: Glock-18 | Sand Dune (Battle-Scarred)
+  paint_index: 208
+- market_hash_name: Glock-18 | Coral Bloom (Factory New)
+  paint_index: 1312
+- market_hash_name: Glock-18 | Coral Bloom (Minimal Wear)
+  paint_index: 1312
+- market_hash_name: Glock-18 | Coral Bloom (Field-Tested)
+  paint_index: 1312
+- market_hash_name: Glock-18 | Coral Bloom (Well-Worn)
+  paint_index: 1312
+- market_hash_name: Glock-18 | Coral Bloom (Battle-Scarred)
+  paint_index: 1312
+- market_hash_name: Glock-18 | Red Tire (Factory New)
+  paint_index: 1079
+- market_hash_name: Glock-18 | Red Tire (Minimal Wear)
+  paint_index: 1079
+- market_hash_name: Glock-18 | Red Tire (Field-Tested)
+  paint_index: 1079
+- market_hash_name: Glock-18 | Red Tire (Well-Worn)
+  paint_index: 1079
+- market_hash_name: Glock-18 | Red Tire (Battle-Scarred)
+  paint_index: 1079
+- market_hash_name: Glock-18 | Glockingbird (Factory New)
+  paint_index: 1282
+- market_hash_name: Glock-18 | Glockingbird (Minimal Wear)
+  paint_index: 1282
+- market_hash_name: Glock-18 | Glockingbird (Field-Tested)
+  paint_index: 1282
+- market_hash_name: Glock-18 | Glockingbird (Well-Worn)
+  paint_index: 1282
+- market_hash_name: Glock-18 | Glockingbird (Battle-Scarred)
+  paint_index: 1282
+- market_hash_name: P2000 | Amber Fade (Factory New)
+  paint_index: 246
+- market_hash_name: P2000 | Amber Fade (Minimal Wear)
+  paint_index: 246
+- market_hash_name: P2000 | Amber Fade (Field-Tested)
+  paint_index: 246
+- market_hash_name: P2000 | Amber Fade (Well-Worn)
+  paint_index: 246
+- market_hash_name: P2000 | Space Race (Factory New)
+  paint_index: 1055
+- market_hash_name: P2000 | Space Race (Minimal Wear)
+  paint_index: 1055
+- market_hash_name: P2000 | Space Race (Field-Tested)
+  paint_index: 1055
+- market_hash_name: P2000 | Space Race (Well-Worn)
+  paint_index: 1055
+- market_hash_name: P2000 | Space Race (Battle-Scarred)
+  paint_index: 1055
+- market_hash_name: P2000 | Panther Camo (Factory New)
+  paint_index: 1019
+- market_hash_name: P2000 | Panther Camo (Minimal Wear)
+  paint_index: 1019
+- market_hash_name: P2000 | Panther Camo (Field-Tested)
+  paint_index: 1019
+- market_hash_name: P2000 | Panther Camo (Well-Worn)
+  paint_index: 1019
+- market_hash_name: P2000 | Panther Camo (Battle-Scarred)
+  paint_index: 1019
+- market_hash_name: P2000 | Chainmail (Factory New)
+  paint_index: 327
+- market_hash_name: P2000 | Chainmail (Minimal Wear)
+  paint_index: 327
+- market_hash_name: P2000 | Chainmail (Field-Tested)
+  paint_index: 327
+- market_hash_name: P2000 | Dispatch (Factory New)
+  paint_index: 997
+- market_hash_name: P2000 | Dispatch (Minimal Wear)
+  paint_index: 997
+- market_hash_name: P2000 | Dispatch (Field-Tested)
+  paint_index: 997
+- market_hash_name: P2000 | Dispatch (Well-Worn)
+  paint_index: 997
+- market_hash_name: P2000 | Dispatch (Battle-Scarred)
+  paint_index: 997
+- market_hash_name: P2000 | Ocean Foam (Factory New)
+  paint_index: 211
+- market_hash_name: P2000 | Ocean Foam (Minimal Wear)
+  paint_index: 211
+- market_hash_name: P2000 | Imperial (Factory New)
+  paint_index: 515
+- market_hash_name: P2000 | Imperial (Minimal Wear)
+  paint_index: 515
+- market_hash_name: P2000 | Imperial (Field-Tested)
+  paint_index: 515
+- market_hash_name: P2000 | Scorpion (Factory New)
+  paint_index: 71
+- market_hash_name: P2000 | Scorpion (Minimal Wear)
+  paint_index: 71
+- market_hash_name: P2000 | Silver (Factory New)
+  paint_index: 32
+- market_hash_name: P2000 | Silver (Minimal Wear)
+  paint_index: 32
+- market_hash_name: P2000 | Acid Etched (Factory New)
+  paint_index: 951
+- market_hash_name: P2000 | Acid Etched (Minimal Wear)
+  paint_index: 951
+- market_hash_name: P2000 | Acid Etched (Field-Tested)
+  paint_index: 951
+- market_hash_name: P2000 | Acid Etched (Well-Worn)
+  paint_index: 951
+- market_hash_name: P2000 | Acid Etched (Battle-Scarred)
+  paint_index: 951
+- market_hash_name: P2000 | Handgun (Factory New)
+  paint_index: 485
+- market_hash_name: P2000 | Handgun (Minimal Wear)
+  paint_index: 485
+- market_hash_name: P2000 | Handgun (Field-Tested)
+  paint_index: 485
+- market_hash_name: P2000 | Handgun (Well-Worn)
+  paint_index: 485
+- market_hash_name: P2000 | Handgun (Battle-Scarred)
+  paint_index: 485
+- market_hash_name: P2000 | Gnarled (Factory New)
+  paint_index: 960
+- market_hash_name: P2000 | Gnarled (Minimal Wear)
+  paint_index: 960
+- market_hash_name: P2000 | Gnarled (Field-Tested)
+  paint_index: 960
+- market_hash_name: P2000 | Gnarled (Well-Worn)
+  paint_index: 960
+- market_hash_name: P2000 | Gnarled (Battle-Scarred)
+  paint_index: 960
+- market_hash_name: P2000 | Corticera (Factory New)
+  paint_index: 184
+- market_hash_name: P2000 | Corticera (Minimal Wear)
+  paint_index: 184
+- market_hash_name: P2000 | Corticera (Field-Tested)
+  paint_index: 184
+- market_hash_name: P2000 | Coach Class (Factory New)
+  paint_index: 346
+- market_hash_name: P2000 | Coach Class (Minimal Wear)
+  paint_index: 346
+- market_hash_name: P2000 | Coach Class (Field-Tested)
+  paint_index: 346
+- market_hash_name: P2000 | Coach Class (Well-Worn)
+  paint_index: 346
+- market_hash_name: P2000 | Coach Class (Battle-Scarred)
+  paint_index: 346
+- market_hash_name: P2000 | Wicked Sick (Factory New)
+  paint_index: 1224
+- market_hash_name: P2000 | Wicked Sick (Minimal Wear)
+  paint_index: 1224
+- market_hash_name: P2000 | Wicked Sick (Field-Tested)
+  paint_index: 1224
+- market_hash_name: P2000 | Wicked Sick (Well-Worn)
+  paint_index: 1224
+- market_hash_name: P2000 | Wicked Sick (Battle-Scarred)
+  paint_index: 1224
+- market_hash_name: P2000 | Fire Elemental (Factory New)
+  paint_index: 389
+- market_hash_name: P2000 | Fire Elemental (Minimal Wear)
+  paint_index: 389
+- market_hash_name: P2000 | Fire Elemental (Field-Tested)
+  paint_index: 389
+- market_hash_name: P2000 | Fire Elemental (Well-Worn)
+  paint_index: 389
+- market_hash_name: P2000 | Fire Elemental (Battle-Scarred)
+  paint_index: 389
+- market_hash_name: P2000 | Woodsman (Factory New)
+  paint_index: 667
+- market_hash_name: P2000 | Woodsman (Minimal Wear)
+  paint_index: 667
+- market_hash_name: P2000 | Woodsman (Field-Tested)
+  paint_index: 667
+- market_hash_name: P2000 | Woodsman (Well-Worn)
+  paint_index: 667
+- market_hash_name: P2000 | Woodsman (Battle-Scarred)
+  paint_index: 667
+- market_hash_name: P2000 | Ivory (Factory New)
+  paint_index: 357
+- market_hash_name: P2000 | Ivory (Minimal Wear)
+  paint_index: 357
+- market_hash_name: P2000 | Ivory (Field-Tested)
+  paint_index: 357
+- market_hash_name: P2000 | Ivory (Well-Worn)
+  paint_index: 357
+- market_hash_name: P2000 | Ivory (Battle-Scarred)
+  paint_index: 357
+- market_hash_name: P2000 | Obsidian (Factory New)
+  paint_index: 894
+- market_hash_name: P2000 | Obsidian (Minimal Wear)
+  paint_index: 894
+- market_hash_name: P2000 | Obsidian (Field-Tested)
+  paint_index: 894
+- market_hash_name: P2000 | Obsidian (Well-Worn)
+  paint_index: 894
+- market_hash_name: P2000 | Obsidian (Battle-Scarred)
+  paint_index: 894
+- market_hash_name: P2000 | Pulse (Factory New)
+  paint_index: 338
+- market_hash_name: P2000 | Pulse (Minimal Wear)
+  paint_index: 338
+- market_hash_name: P2000 | Pulse (Field-Tested)
+  paint_index: 338
+- market_hash_name: P2000 | Pulse (Well-Worn)
+  paint_index: 338
+- market_hash_name: P2000 | Pulse (Battle-Scarred)
+  paint_index: 338
+- market_hash_name: P2000 | Urban Hazard (Factory New)
+  paint_index: 700
+- market_hash_name: P2000 | Urban Hazard (Minimal Wear)
+  paint_index: 700
+- market_hash_name: P2000 | Urban Hazard (Field-Tested)
+  paint_index: 700
+- market_hash_name: P2000 | Urban Hazard (Well-Worn)
+  paint_index: 700
+- market_hash_name: P2000 | Urban Hazard (Battle-Scarred)
+  paint_index: 700
+- market_hash_name: P2000 | Lifted Spirits (Factory New)
+  paint_index: 1138
+- market_hash_name: P2000 | Lifted Spirits (Minimal Wear)
+  paint_index: 1138
+- market_hash_name: P2000 | Lifted Spirits (Field-Tested)
+  paint_index: 1138
+- market_hash_name: P2000 | Lifted Spirits (Well-Worn)
+  paint_index: 1138
+- market_hash_name: P2000 | Lifted Spirits (Battle-Scarred)
+  paint_index: 1138
+- market_hash_name: P2000 | Turf (Factory New)
+  paint_index: 635
+- market_hash_name: P2000 | Turf (Minimal Wear)
+  paint_index: 635
+- market_hash_name: P2000 | Turf (Field-Tested)
+  paint_index: 635
+- market_hash_name: P2000 | Turf (Well-Worn)
+  paint_index: 635
+- market_hash_name: P2000 | Turf (Battle-Scarred)
+  paint_index: 635
+- market_hash_name: P2000 | Imperial Dragon (Factory New)
+  paint_index: 591
+- market_hash_name: P2000 | Imperial Dragon (Minimal Wear)
+  paint_index: 591
+- market_hash_name: P2000 | Imperial Dragon (Field-Tested)
+  paint_index: 591
+- market_hash_name: P2000 | Imperial Dragon (Well-Worn)
+  paint_index: 591
+- market_hash_name: P2000 | Imperial Dragon (Battle-Scarred)
+  paint_index: 591
+- market_hash_name: P2000 | Coral Halftone (Factory New)
+  paint_index: 878
+- market_hash_name: P2000 | Coral Halftone (Minimal Wear)
+  paint_index: 878
+- market_hash_name: P2000 | Coral Halftone (Field-Tested)
+  paint_index: 878
+- market_hash_name: P2000 | Coral Halftone (Well-Worn)
+  paint_index: 878
+- market_hash_name: P2000 | Coral Halftone (Battle-Scarred)
+  paint_index: 878
+- market_hash_name: P2000 | Granite Marbleized (Factory New)
+  paint_index: 21
+- market_hash_name: P2000 | Granite Marbleized (Minimal Wear)
+  paint_index: 21
+- market_hash_name: P2000 | Granite Marbleized (Field-Tested)
+  paint_index: 21
+- market_hash_name: P2000 | Granite Marbleized (Well-Worn)
+  paint_index: 21
+- market_hash_name: P2000 | Granite Marbleized (Battle-Scarred)
+  paint_index: 21
+- market_hash_name: P2000 | Oceanic (Factory New)
+  paint_index: 550
+- market_hash_name: P2000 | Oceanic (Minimal Wear)
+  paint_index: 550
+- market_hash_name: P2000 | Oceanic (Field-Tested)
+  paint_index: 550
+- market_hash_name: P2000 | Oceanic (Well-Worn)
+  paint_index: 550
+- market_hash_name: P2000 | Oceanic (Battle-Scarred)
+  paint_index: 550
+- market_hash_name: P2000 | Red FragCam (Factory New)
+  paint_index: 275
+- market_hash_name: P2000 | Red FragCam (Minimal Wear)
+  paint_index: 275
+- market_hash_name: P2000 | Red FragCam (Field-Tested)
+  paint_index: 275
+- market_hash_name: P2000 | Red FragCam (Well-Worn)
+  paint_index: 275
+- market_hash_name: P2000 | Red FragCam (Battle-Scarred)
+  paint_index: 275
+- market_hash_name: P2000 | Red Wing (Factory New)
+  paint_index: 1342
+- market_hash_name: P2000 | Red Wing (Minimal Wear)
+  paint_index: 1342
+- market_hash_name: P2000 | Red Wing (Field-Tested)
+  paint_index: 1342
+- market_hash_name: P2000 | Red Wing (Well-Worn)
+  paint_index: 1342
+- market_hash_name: P2000 | Red Wing (Battle-Scarred)
+  paint_index: 1342
+- market_hash_name: P2000 | Sure Grip (Factory New)
+  paint_index: 1181
+- market_hash_name: P2000 | Sure Grip (Minimal Wear)
+  paint_index: 1181
+- market_hash_name: P2000 | Sure Grip (Field-Tested)
+  paint_index: 1181
+- market_hash_name: P2000 | Sure Grip (Well-Worn)
+  paint_index: 1181
+- market_hash_name: P2000 | Sure Grip (Battle-Scarred)
+  paint_index: 1181
+- market_hash_name: P2000 | Grassland (Factory New)
+  paint_index: 95
+- market_hash_name: P2000 | Grassland (Minimal Wear)
+  paint_index: 95
+- market_hash_name: P2000 | Grassland (Field-Tested)
+  paint_index: 95
+- market_hash_name: P2000 | Grassland (Well-Worn)
+  paint_index: 95
+- market_hash_name: P2000 | Grassland (Battle-Scarred)
+  paint_index: 95
+- market_hash_name: P2000 | Grip Tape (Factory New)
+  paint_index: 1359
+- market_hash_name: P2000 | Grip Tape (Minimal Wear)
+  paint_index: 1359
+- market_hash_name: P2000 | Grip Tape (Field-Tested)
+  paint_index: 1359
+- market_hash_name: P2000 | Grip Tape (Well-Worn)
+  paint_index: 1359
+- market_hash_name: P2000 | Grip Tape (Battle-Scarred)
+  paint_index: 1359
+- market_hash_name: P2000 | Marsh (Factory New)
+  paint_index: 1292
+- market_hash_name: P2000 | Marsh (Minimal Wear)
+  paint_index: 1292
+- market_hash_name: P2000 | Marsh (Field-Tested)
+  paint_index: 1292
+- market_hash_name: P2000 | Marsh (Well-Worn)
+  paint_index: 1292
+- market_hash_name: P2000 | Marsh (Battle-Scarred)
+  paint_index: 1292
+- market_hash_name: P2000 | Pathfinder (Factory New)
+  paint_index: 443
+- market_hash_name: P2000 | Pathfinder (Minimal Wear)
+  paint_index: 443
+- market_hash_name: P2000 | Pathfinder (Field-Tested)
+  paint_index: 443
+- market_hash_name: P2000 | Grassland Leaves (Factory New)
+  paint_index: 104
+- market_hash_name: P2000 | Grassland Leaves (Minimal Wear)
+  paint_index: 104
+- market_hash_name: P2000 | Grassland Leaves (Field-Tested)
+  paint_index: 104
+- market_hash_name: P2000 | Grassland Leaves (Well-Worn)
+  paint_index: 104
+- market_hash_name: P2000 | Grassland Leaves (Battle-Scarred)
+  paint_index: 104
+- market_hash_name: P2000 | Royal Baroque (Factory New)
+  paint_index: 1259
+- market_hash_name: P2000 | Royal Baroque (Minimal Wear)
+  paint_index: 1259
+- market_hash_name: P2000 | Royal Baroque (Field-Tested)
+  paint_index: 1259
+- market_hash_name: P2000 | Royal Baroque (Well-Worn)
+  paint_index: 1259
+- market_hash_name: P2000 | Royal Baroque (Battle-Scarred)
+  paint_index: 1259
+- market_hash_name: P250 | Nevermore (Factory New)
+  paint_index: 813
+- market_hash_name: P250 | Nevermore (Minimal Wear)
+  paint_index: 813
+- market_hash_name: P250 | Nevermore (Field-Tested)
+  paint_index: 813
+- market_hash_name: P250 | Nevermore (Well-Worn)
+  paint_index: 813
+- market_hash_name: P250 | Digital Architect (Factory New)
+  paint_index: 1081
+- market_hash_name: P250 | Digital Architect (Minimal Wear)
+  paint_index: 1081
+- market_hash_name: P250 | Digital Architect (Field-Tested)
+  paint_index: 1081
+- market_hash_name: P250 | Digital Architect (Well-Worn)
+  paint_index: 1081
+- market_hash_name: P250 | Digital Architect (Battle-Scarred)
+  paint_index: 1081
+- market_hash_name: P250 | Steel Disruption (Factory New)
+  paint_index: 230
+- market_hash_name: P250 | Steel Disruption (Minimal Wear)
+  paint_index: 230
+- market_hash_name: P250 | Steel Disruption (Field-Tested)
+  paint_index: 230
+- market_hash_name: P250 | Undertow (Factory New)
+  paint_index: 271
+- market_hash_name: P250 | Undertow (Minimal Wear)
+  paint_index: 271
+- market_hash_name: P250 | Undertow (Field-Tested)
+  paint_index: 271
+- market_hash_name: P250 | Ripple (Factory New)
+  paint_index: 650
+- market_hash_name: P250 | Ripple (Minimal Wear)
+  paint_index: 650
+- market_hash_name: P250 | Ripple (Field-Tested)
+  paint_index: 650
+- market_hash_name: P250 | Ripple (Well-Worn)
+  paint_index: 650
+- market_hash_name: P250 | Ripple (Battle-Scarred)
+  paint_index: 650
+- market_hash_name: P250 | Dark Filigree (Factory New)
+  paint_index: 741
+- market_hash_name: P250 | Dark Filigree (Minimal Wear)
+  paint_index: 741
+- market_hash_name: P250 | Dark Filigree (Field-Tested)
+  paint_index: 741
+- market_hash_name: P250 | Dark Filigree (Well-Worn)
+  paint_index: 741
+- market_hash_name: P250 | Dark Filigree (Battle-Scarred)
+  paint_index: 741
+- market_hash_name: P250 | Metallic DDPAT (Factory New)
+  paint_index: 34
+- market_hash_name: P250 | Metallic DDPAT (Minimal Wear)
+  paint_index: 34
+- market_hash_name: P250 | Cartel (Factory New)
+  paint_index: 388
+- market_hash_name: P250 | Cartel (Minimal Wear)
+  paint_index: 388
+- market_hash_name: P250 | Cartel (Field-Tested)
+  paint_index: 388
+- market_hash_name: P250 | Cartel (Well-Worn)
+  paint_index: 388
+- market_hash_name: P250 | Cartel (Battle-Scarred)
+  paint_index: 388
+- market_hash_name: P250 | Valence (Factory New)
+  paint_index: 426
+- market_hash_name: P250 | Valence (Minimal Wear)
+  paint_index: 426
+- market_hash_name: P250 | Valence (Field-Tested)
+  paint_index: 426
+- market_hash_name: P250 | Valence (Well-Worn)
+  paint_index: 426
+- market_hash_name: P250 | Valence (Battle-Scarred)
+  paint_index: 426
+- market_hash_name: P250 | Verdigris (Factory New)
+  paint_index: 848
+- market_hash_name: P250 | Verdigris (Minimal Wear)
+  paint_index: 848
+- market_hash_name: P250 | Verdigris (Field-Tested)
+  paint_index: 848
+- market_hash_name: P250 | Verdigris (Well-Worn)
+  paint_index: 848
+- market_hash_name: P250 | Verdigris (Battle-Scarred)
+  paint_index: 848
+- market_hash_name: P250 | Constructivist (Factory New)
+  paint_index: 1212
+- market_hash_name: P250 | Constructivist (Minimal Wear)
+  paint_index: 1212
+- market_hash_name: P250 | Constructivist (Field-Tested)
+  paint_index: 1212
+- market_hash_name: P250 | Supernova (Factory New)
+  paint_index: 358
+- market_hash_name: P250 | Supernova (Minimal Wear)
+  paint_index: 358
+- market_hash_name: P250 | Supernova (Field-Tested)
+  paint_index: 358
+- market_hash_name: P250 | Supernova (Well-Worn)
+  paint_index: 358
+- market_hash_name: P250 | Franklin (Factory New)
+  paint_index: 295
+- market_hash_name: P250 | Franklin (Minimal Wear)
+  paint_index: 295
+- market_hash_name: P250 | Franklin (Field-Tested)
+  paint_index: 295
+- market_hash_name: P250 | Franklin (Well-Worn)
+  paint_index: 295
+- market_hash_name: P250 | Asiimov (Minimal Wear)
+  paint_index: 551
+- market_hash_name: P250 | Asiimov (Field-Tested)
+  paint_index: 551
+- market_hash_name: P250 | Asiimov (Well-Worn)
+  paint_index: 551
+- market_hash_name: P250 | Asiimov (Battle-Scarred)
+  paint_index: 551
+- market_hash_name: P250 | Red Rock (Factory New)
+  paint_index: 668
+- market_hash_name: P250 | Red Rock (Minimal Wear)
+  paint_index: 668
+- market_hash_name: P250 | Red Rock (Field-Tested)
+  paint_index: 668
+- market_hash_name: P250 | Red Rock (Well-Worn)
+  paint_index: 668
+- market_hash_name: P250 | Red Rock (Battle-Scarred)
+  paint_index: 668
+- market_hash_name: P250 | Cassette (Factory New)
+  paint_index: 968
+- market_hash_name: P250 | Cassette (Minimal Wear)
+  paint_index: 968
+- market_hash_name: P250 | Cassette (Field-Tested)
+  paint_index: 968
+- market_hash_name: P250 | Cassette (Well-Worn)
+  paint_index: 968
+- market_hash_name: P250 | Cassette (Battle-Scarred)
+  paint_index: 968
+- market_hash_name: P250 | See Ya Later (Factory New)
+  paint_index: 678
+- market_hash_name: P250 | See Ya Later (Minimal Wear)
+  paint_index: 678
+- market_hash_name: P250 | See Ya Later (Field-Tested)
+  paint_index: 678
+- market_hash_name: P250 | See Ya Later (Well-Worn)
+  paint_index: 678
+- market_hash_name: P250 | See Ya Later (Battle-Scarred)
+  paint_index: 678
+- market_hash_name: P250 | Contaminant (Factory New)
+  paint_index: 982
+- market_hash_name: P250 | Contaminant (Minimal Wear)
+  paint_index: 982
+- market_hash_name: P250 | Contaminant (Field-Tested)
+  paint_index: 982
+- market_hash_name: P250 | Contaminant (Well-Worn)
+  paint_index: 982
+- market_hash_name: P250 | Contaminant (Battle-Scarred)
+  paint_index: 982
+- market_hash_name: P250 | Muertos (Factory New)
+  paint_index: 404
+- market_hash_name: P250 | Muertos (Minimal Wear)
+  paint_index: 404
+- market_hash_name: P250 | Muertos (Field-Tested)
+  paint_index: 404
+- market_hash_name: P250 | Muertos (Well-Worn)
+  paint_index: 404
+- market_hash_name: P250 | Muertos (Battle-Scarred)
+  paint_index: 404
+- market_hash_name: P250 | Re.built (Factory New)
+  paint_index: 1230
+- market_hash_name: P250 | Re.built (Minimal Wear)
+  paint_index: 1230
+- market_hash_name: P250 | Re.built (Field-Tested)
+  paint_index: 1230
+- market_hash_name: P250 | Re.built (Well-Worn)
+  paint_index: 1230
+- market_hash_name: P250 | Re.built (Battle-Scarred)
+  paint_index: 1230
+- market_hash_name: P250 | Mehndi (Factory New)
+  paint_index: 258
+- market_hash_name: P250 | Mehndi (Minimal Wear)
+  paint_index: 258
+- market_hash_name: P250 | Mehndi (Field-Tested)
+  paint_index: 258
+- market_hash_name: P250 | Mehndi (Well-Worn)
+  paint_index: 258
+- market_hash_name: P250 | Mehndi (Battle-Scarred)
+  paint_index: 258
+- market_hash_name: P250 | X-Ray (Factory New)
+  paint_index: 125
+- market_hash_name: P250 | X-Ray (Minimal Wear)
+  paint_index: 125
+- market_hash_name: P250 | X-Ray (Field-Tested)
+  paint_index: 125
+- market_hash_name: P250 | Apep's Curse (Factory New)
+  paint_index: 1248
+- market_hash_name: P250 | Apep's Curse (Minimal Wear)
+  paint_index: 1248
+- market_hash_name: P250 | Apep's Curse (Field-Tested)
+  paint_index: 1248
+- market_hash_name: P250 | Apep's Curse (Well-Worn)
+  paint_index: 1248
+- market_hash_name: P250 | Apep's Curse (Battle-Scarred)
+  paint_index: 1248
+- market_hash_name: P250 | Vino Primo (Factory New)
+  paint_index: 749
+- market_hash_name: P250 | Vino Primo (Minimal Wear)
+  paint_index: 749
+- market_hash_name: P250 | Vino Primo (Field-Tested)
+  paint_index: 749
+- market_hash_name: P250 | Vino Primo (Well-Worn)
+  paint_index: 749
+- market_hash_name: P250 | Vino Primo (Battle-Scarred)
+  paint_index: 749
+- market_hash_name: P250 | Cyber Shell (Factory New)
+  paint_index: 1044
+- market_hash_name: P250 | Cyber Shell (Minimal Wear)
+  paint_index: 1044
+- market_hash_name: P250 | Cyber Shell (Field-Tested)
+  paint_index: 1044
+- market_hash_name: P250 | Cyber Shell (Well-Worn)
+  paint_index: 1044
+- market_hash_name: P250 | Cyber Shell (Battle-Scarred)
+  paint_index: 1044
+- market_hash_name: P250 | Inferno (Factory New)
+  paint_index: 907
+- market_hash_name: P250 | Inferno (Minimal Wear)
+  paint_index: 907
+- market_hash_name: P250 | Inferno (Field-Tested)
+  paint_index: 907
+- market_hash_name: P250 | Inferno (Well-Worn)
+  paint_index: 907
+- market_hash_name: P250 | Inferno (Battle-Scarred)
+  paint_index: 907
+- market_hash_name: P250 | Iron Clad (Factory New)
+  paint_index: 592
+- market_hash_name: P250 | Iron Clad (Minimal Wear)
+  paint_index: 592
+- market_hash_name: P250 | Iron Clad (Field-Tested)
+  paint_index: 592
+- market_hash_name: P250 | Iron Clad (Well-Worn)
+  paint_index: 592
+- market_hash_name: P250 | Iron Clad (Battle-Scarred)
+  paint_index: 592
+- market_hash_name: P250 | Visions (Factory New)
+  paint_index: 1153
+- market_hash_name: P250 | Visions (Minimal Wear)
+  paint_index: 1153
+- market_hash_name: P250 | Visions (Field-Tested)
+  paint_index: 1153
+- market_hash_name: P250 | Visions (Well-Worn)
+  paint_index: 1153
+- market_hash_name: P250 | Visions (Battle-Scarred)
+  paint_index: 1153
+- market_hash_name: P250 | Facility Draft (Factory New)
+  paint_index: 777
+- market_hash_name: P250 | Facility Draft (Minimal Wear)
+  paint_index: 777
+- market_hash_name: P250 | Facility Draft (Field-Tested)
+  paint_index: 777
+- market_hash_name: P250 | Facility Draft (Well-Worn)
+  paint_index: 777
+- market_hash_name: P250 | Facility Draft (Battle-Scarred)
+  paint_index: 777
+- market_hash_name: P250 | Facets (Factory New)
+  paint_index: 207
+- market_hash_name: P250 | Facets (Minimal Wear)
+  paint_index: 207
+- market_hash_name: P250 | Facets (Field-Tested)
+  paint_index: 207
+- market_hash_name: P250 | Facets (Well-Worn)
+  paint_index: 207
+- market_hash_name: P250 | Facets (Battle-Scarred)
+  paint_index: 207
+- market_hash_name: P250 | Black & Tan (Factory New)
+  paint_index: 928
+- market_hash_name: P250 | Black & Tan (Minimal Wear)
+  paint_index: 928
+- market_hash_name: P250 | Black & Tan (Field-Tested)
+  paint_index: 928
+- market_hash_name: P250 | Black & Tan (Well-Worn)
+  paint_index: 928
+- market_hash_name: P250 | Black & Tan (Battle-Scarred)
+  paint_index: 928
+- market_hash_name: P250 | Exchanger (Factory New)
+  paint_index: 786
+- market_hash_name: P250 | Exchanger (Minimal Wear)
+  paint_index: 786
+- market_hash_name: P250 | Exchanger (Field-Tested)
+  paint_index: 786
+- market_hash_name: P250 | Exchanger (Well-Worn)
+  paint_index: 786
+- market_hash_name: P250 | Exchanger (Battle-Scarred)
+  paint_index: 786
+- market_hash_name: P250 | Boreal Forest (Factory New)
+  paint_index: 77
+- market_hash_name: P250 | Boreal Forest (Minimal Wear)
+  paint_index: 77
+- market_hash_name: P250 | Boreal Forest (Field-Tested)
+  paint_index: 77
+- market_hash_name: P250 | Boreal Forest (Well-Worn)
+  paint_index: 77
+- market_hash_name: P250 | Boreal Forest (Battle-Scarred)
+  paint_index: 77
+- market_hash_name: P250 | Forest Night (Factory New)
+  paint_index: 78
+- market_hash_name: P250 | Forest Night (Minimal Wear)
+  paint_index: 78
+- market_hash_name: P250 | Forest Night (Field-Tested)
+  paint_index: 78
+- market_hash_name: P250 | Forest Night (Well-Worn)
+  paint_index: 78
+- market_hash_name: P250 | Forest Night (Battle-Scarred)
+  paint_index: 78
+- market_hash_name: P250 | Gunsmoke (Factory New)
+  paint_index: 15
+- market_hash_name: P250 | Gunsmoke (Minimal Wear)
+  paint_index: 15
+- market_hash_name: P250 | Gunsmoke (Field-Tested)
+  paint_index: 15
+- market_hash_name: P250 | Gunsmoke (Well-Worn)
+  paint_index: 15
+- market_hash_name: P250 | Gunsmoke (Battle-Scarred)
+  paint_index: 15
+- market_hash_name: P250 | Modern Hunter (Factory New)
+  paint_index: 164
+- market_hash_name: P250 | Modern Hunter (Minimal Wear)
+  paint_index: 164
+- market_hash_name: P250 | Modern Hunter (Field-Tested)
+  paint_index: 164
+- market_hash_name: P250 | Modern Hunter (Well-Worn)
+  paint_index: 164
+- market_hash_name: P250 | Modern Hunter (Battle-Scarred)
+  paint_index: 164
+- market_hash_name: P250 | Crimson Kimono (Factory New)
+  paint_index: 466
+- market_hash_name: P250 | Crimson Kimono (Minimal Wear)
+  paint_index: 466
+- market_hash_name: P250 | Crimson Kimono (Field-Tested)
+  paint_index: 466
+- market_hash_name: P250 | Crimson Kimono (Well-Worn)
+  paint_index: 466
+- market_hash_name: P250 | Crimson Kimono (Battle-Scarred)
+  paint_index: 466
+- market_hash_name: P250 | Contamination (Factory New)
+  paint_index: 373
+- market_hash_name: P250 | Contamination (Minimal Wear)
+  paint_index: 373
+- market_hash_name: P250 | Contamination (Field-Tested)
+  paint_index: 373
+- market_hash_name: P250 | Contamination (Well-Worn)
+  paint_index: 373
+- market_hash_name: P250 | Contamination (Battle-Scarred)
+  paint_index: 373
+- market_hash_name: P250 | Wingshot (Factory New)
+  paint_index: 501
+- market_hash_name: P250 | Wingshot (Minimal Wear)
+  paint_index: 501
+- market_hash_name: P250 | Wingshot (Field-Tested)
+  paint_index: 501
+- market_hash_name: P250 | Wingshot (Well-Worn)
+  paint_index: 501
+- market_hash_name: P250 | Wingshot (Battle-Scarred)
+  paint_index: 501
+- market_hash_name: P250 | Bengal Tiger (Factory New)
+  paint_index: 1030
+- market_hash_name: P250 | Bengal Tiger (Minimal Wear)
+  paint_index: 1030
+- market_hash_name: P250 | Bengal Tiger (Field-Tested)
+  paint_index: 1030
+- market_hash_name: P250 | Bengal Tiger (Well-Worn)
+  paint_index: 1030
+- market_hash_name: P250 | Bengal Tiger (Battle-Scarred)
+  paint_index: 1030
+- market_hash_name: P250 | Hive (Factory New)
+  paint_index: 219
+- market_hash_name: P250 | Hive (Minimal Wear)
+  paint_index: 219
+- market_hash_name: P250 | Hive (Field-Tested)
+  paint_index: 219
+- market_hash_name: P250 | Sleet (Factory New)
+  paint_index: 1369
+- market_hash_name: P250 | Sleet (Minimal Wear)
+  paint_index: 1369
+- market_hash_name: P250 | Sleet (Field-Tested)
+  paint_index: 1369
+- market_hash_name: P250 | Sleet (Well-Worn)
+  paint_index: 1369
+- market_hash_name: P250 | Sleet (Battle-Scarred)
+  paint_index: 1369
+- market_hash_name: P250 | Red Tide (Factory New)
+  paint_index: 1315
+- market_hash_name: P250 | Red Tide (Minimal Wear)
+  paint_index: 1315
+- market_hash_name: P250 | Red Tide (Field-Tested)
+  paint_index: 1315
+- market_hash_name: P250 | Red Tide (Well-Worn)
+  paint_index: 1315
+- market_hash_name: P250 | Red Tide (Battle-Scarred)
+  paint_index: 1315
+- market_hash_name: P250 | Bullfrog (Factory New)
+  paint_index: 1345
+- market_hash_name: P250 | Bullfrog (Minimal Wear)
+  paint_index: 1345
+- market_hash_name: P250 | Bullfrog (Field-Tested)
+  paint_index: 1345
+- market_hash_name: P250 | Bullfrog (Well-Worn)
+  paint_index: 1345
+- market_hash_name: P250 | Bullfrog (Battle-Scarred)
+  paint_index: 1345
+- market_hash_name: P250 | Epicenter (Factory New)
+  paint_index: 130
+- market_hash_name: P250 | Epicenter (Minimal Wear)
+  paint_index: 130
+- market_hash_name: P250 | Epicenter (Field-Tested)
+  paint_index: 130
+- market_hash_name: P250 | Epicenter (Well-Worn)
+  paint_index: 130
+- market_hash_name: P250 | Epicenter (Battle-Scarred)
+  paint_index: 130
+- market_hash_name: P250 | Kintsugi (Factory New)
+  paint_index: 1420
+- market_hash_name: P250 | Kintsugi (Minimal Wear)
+  paint_index: 1420
+- market_hash_name: P250 | Kintsugi (Field-Tested)
+  paint_index: 1420
+- market_hash_name: P250 | Kintsugi (Well-Worn)
+  paint_index: 1420
+- market_hash_name: P250 | Kintsugi (Battle-Scarred)
+  paint_index: 1420
+- market_hash_name: P250 | Copper Oxide (Factory New)
+  paint_index: 1307
+- market_hash_name: P250 | Copper Oxide (Minimal Wear)
+  paint_index: 1307
+- market_hash_name: P250 | Copper Oxide (Field-Tested)
+  paint_index: 1307
+- market_hash_name: P250 | Copper Oxide (Well-Worn)
+  paint_index: 1307
+- market_hash_name: P250 | Copper Oxide (Battle-Scarred)
+  paint_index: 1307
+- market_hash_name: P250 | Sand Dune (Factory New)
+  paint_index: 99
+- market_hash_name: P250 | Sand Dune (Minimal Wear)
+  paint_index: 99
+- market_hash_name: P250 | Sand Dune (Field-Tested)
+  paint_index: 99
+- market_hash_name: P250 | Sand Dune (Well-Worn)
+  paint_index: 99
+- market_hash_name: P250 | Sand Dune (Battle-Scarred)
+  paint_index: 99
+- market_hash_name: P250 | Whiteout (Factory New)
+  paint_index: 102
+- market_hash_name: P250 | Whiteout (Minimal Wear)
+  paint_index: 102
+- market_hash_name: P250 | Whiteout (Field-Tested)
+  paint_index: 102
+- market_hash_name: P250 | Whiteout (Well-Worn)
+  paint_index: 102
+- market_hash_name: P250 | Whiteout (Battle-Scarred)
+  paint_index: 102
+- market_hash_name: P250 | Small Game (Factory New)
+  paint_index: 774
+- market_hash_name: P250 | Small Game (Minimal Wear)
+  paint_index: 774
+- market_hash_name: P250 | Small Game (Field-Tested)
+  paint_index: 774
+- market_hash_name: P250 | Small Game (Well-Worn)
+  paint_index: 774
+- market_hash_name: P250 | Small Game (Battle-Scarred)
+  paint_index: 774
+- market_hash_name: P250 | Sedimentary (Factory New)
+  paint_index: 1317
+- market_hash_name: P250 | Sedimentary (Minimal Wear)
+  paint_index: 1317
+- market_hash_name: P250 | Sedimentary (Field-Tested)
+  paint_index: 1317
+- market_hash_name: P250 | Sedimentary (Well-Worn)
+  paint_index: 1317
+- market_hash_name: P250 | Sedimentary (Battle-Scarred)
+  paint_index: 1317
+- market_hash_name: P250 | Drought (Factory New)
+  paint_index: 825
+- market_hash_name: P250 | Drought (Minimal Wear)
+  paint_index: 825
+- market_hash_name: P250 | Drought (Field-Tested)
+  paint_index: 825
+- market_hash_name: P250 | Drought (Well-Worn)
+  paint_index: 825
+- market_hash_name: P250 | Mint Kimono (Factory New)
+  paint_index: 467
+- market_hash_name: P250 | Mint Kimono (Minimal Wear)
+  paint_index: 467
+- market_hash_name: P250 | Mint Kimono (Field-Tested)
+  paint_index: 467
+- market_hash_name: P250 | Mint Kimono (Well-Worn)
+  paint_index: 467
+- market_hash_name: P250 | Mint Kimono (Battle-Scarred)
+  paint_index: 467
+- market_hash_name: P250 | Plum Netting (Factory New)
+  paint_index: 1273
+- market_hash_name: P250 | Plum Netting (Minimal Wear)
+  paint_index: 1273
+- market_hash_name: P250 | Plum Netting (Field-Tested)
+  paint_index: 1273
+- market_hash_name: P250 | Plum Netting (Well-Worn)
+  paint_index: 1273
+- market_hash_name: P250 | Plum Netting (Battle-Scarred)
+  paint_index: 1273
+- market_hash_name: P250 | Nuclear Threat (Factory New)
+  paint_index: 168
+- market_hash_name: P250 | Nuclear Threat (Minimal Wear)
+  paint_index: 168
+- market_hash_name: P250 | Nuclear Threat (Field-Tested)
+  paint_index: 168
+- market_hash_name: P250 | Nuclear Threat (Well-Worn)
+  paint_index: 168
+- market_hash_name: P250 | Nuclear Threat (Battle-Scarred)
+  paint_index: 168
+- market_hash_name: P250 | Splash (Factory New)
+  paint_index: 162
+- market_hash_name: P250 | Splash (Minimal Wear)
+  paint_index: 162
+- market_hash_name: P250 | Splash (Field-Tested)
+  paint_index: 162
+- market_hash_name: P250 | Bone Mask (Factory New)
+  paint_index: 27
+- market_hash_name: P250 | Bone Mask (Minimal Wear)
+  paint_index: 27
+- market_hash_name: P250 | Bone Mask (Field-Tested)
+  paint_index: 27
+- market_hash_name: P250 | Bone Mask (Well-Worn)
+  paint_index: 27
+- market_hash_name: P250 | Bone Mask (Battle-Scarred)
+  paint_index: 27

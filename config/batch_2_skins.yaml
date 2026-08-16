@@ -1,0 +1,1286 @@
+# Phase 0 data backfill (batch 2)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: MP7, MP9, P90
+skins:
+- market_hash_name: MP7 | Fade (Factory New)
+  paint_index: 752
+- market_hash_name: MP7 | Fade (Minimal Wear)
+  paint_index: 752
+- market_hash_name: MP7 | Fade (Field-Tested)
+  paint_index: 752
+- market_hash_name: MP7 | Motherboard (Factory New)
+  paint_index: 782
+- market_hash_name: MP7 | Motherboard (Minimal Wear)
+  paint_index: 782
+- market_hash_name: MP7 | Motherboard (Field-Tested)
+  paint_index: 782
+- market_hash_name: MP7 | Motherboard (Well-Worn)
+  paint_index: 782
+- market_hash_name: MP7 | Motherboard (Battle-Scarred)
+  paint_index: 782
+- market_hash_name: MP7 | Vault Heist (Factory New)
+  paint_index: 1007
+- market_hash_name: MP7 | Vault Heist (Minimal Wear)
+  paint_index: 1007
+- market_hash_name: MP7 | Vault Heist (Field-Tested)
+  paint_index: 1007
+- market_hash_name: MP7 | Vault Heist (Well-Worn)
+  paint_index: 1007
+- market_hash_name: MP7 | Vault Heist (Battle-Scarred)
+  paint_index: 1007
+- market_hash_name: MP7 | Ocean Foam (Factory New)
+  paint_index: 213
+- market_hash_name: MP7 | Ocean Foam (Minimal Wear)
+  paint_index: 213
+- market_hash_name: MP7 | Anodized Navy (Factory New)
+  paint_index: 28
+- market_hash_name: MP7 | Anodized Navy (Minimal Wear)
+  paint_index: 28
+- market_hash_name: MP7 | Armor Core (Factory New)
+  paint_index: 423
+- market_hash_name: MP7 | Armor Core (Minimal Wear)
+  paint_index: 423
+- market_hash_name: MP7 | Armor Core (Field-Tested)
+  paint_index: 423
+- market_hash_name: MP7 | Armor Core (Well-Worn)
+  paint_index: 423
+- market_hash_name: MP7 | Armor Core (Battle-Scarred)
+  paint_index: 423
+- market_hash_name: MP7 | Urban Hazard (Factory New)
+  paint_index: 354
+- market_hash_name: MP7 | Urban Hazard (Minimal Wear)
+  paint_index: 354
+- market_hash_name: MP7 | Urban Hazard (Field-Tested)
+  paint_index: 354
+- market_hash_name: MP7 | Urban Hazard (Well-Worn)
+  paint_index: 354
+- market_hash_name: MP7 | Urban Hazard (Battle-Scarred)
+  paint_index: 354
+- market_hash_name: MP7 | Special Delivery (Factory New)
+  paint_index: 500
+- market_hash_name: MP7 | Special Delivery (Minimal Wear)
+  paint_index: 500
+- market_hash_name: MP7 | Special Delivery (Field-Tested)
+  paint_index: 500
+- market_hash_name: MP7 | Special Delivery (Well-Worn)
+  paint_index: 500
+- market_hash_name: MP7 | Special Delivery (Battle-Scarred)
+  paint_index: 500
+- market_hash_name: MP7 | Abyssal Apparition (Factory New)
+  paint_index: 1133
+- market_hash_name: MP7 | Abyssal Apparition (Minimal Wear)
+  paint_index: 1133
+- market_hash_name: MP7 | Abyssal Apparition (Field-Tested)
+  paint_index: 1133
+- market_hash_name: MP7 | Abyssal Apparition (Well-Worn)
+  paint_index: 1133
+- market_hash_name: MP7 | Abyssal Apparition (Battle-Scarred)
+  paint_index: 1133
+- market_hash_name: MP7 | Guerrilla (Factory New)
+  paint_index: 1096
+- market_hash_name: MP7 | Guerrilla (Minimal Wear)
+  paint_index: 1096
+- market_hash_name: MP7 | Guerrilla (Field-Tested)
+  paint_index: 1096
+- market_hash_name: MP7 | Guerrilla (Well-Worn)
+  paint_index: 1096
+- market_hash_name: MP7 | Guerrilla (Battle-Scarred)
+  paint_index: 1096
+- market_hash_name: MP7 | Nemesis (Factory New)
+  paint_index: 481
+- market_hash_name: MP7 | Nemesis (Minimal Wear)
+  paint_index: 481
+- market_hash_name: MP7 | Nemesis (Field-Tested)
+  paint_index: 481
+- market_hash_name: MP7 | Mischief (Minimal Wear)
+  paint_index: 847
+- market_hash_name: MP7 | Mischief (Field-Tested)
+  paint_index: 847
+- market_hash_name: MP7 | Mischief (Well-Worn)
+  paint_index: 847
+- market_hash_name: MP7 | Mischief (Battle-Scarred)
+  paint_index: 847
+- market_hash_name: MP7 | Neon Ply (Factory New)
+  paint_index: 893
+- market_hash_name: MP7 | Neon Ply (Minimal Wear)
+  paint_index: 893
+- market_hash_name: MP7 | Neon Ply (Field-Tested)
+  paint_index: 893
+- market_hash_name: MP7 | Neon Ply (Well-Worn)
+  paint_index: 893
+- market_hash_name: MP7 | Neon Ply (Battle-Scarred)
+  paint_index: 893
+- market_hash_name: MP7 | Astrolabe (Factory New)
+  paint_index: 940
+- market_hash_name: MP7 | Astrolabe (Minimal Wear)
+  paint_index: 940
+- market_hash_name: MP7 | Astrolabe (Field-Tested)
+  paint_index: 940
+- market_hash_name: MP7 | Astrolabe (Well-Worn)
+  paint_index: 940
+- market_hash_name: MP7 | Astrolabe (Battle-Scarred)
+  paint_index: 940
+- market_hash_name: MP7 | Cirrus (Factory New)
+  paint_index: 627
+- market_hash_name: MP7 | Cirrus (Minimal Wear)
+  paint_index: 627
+- market_hash_name: MP7 | Cirrus (Field-Tested)
+  paint_index: 627
+- market_hash_name: MP7 | Cirrus (Well-Worn)
+  paint_index: 627
+- market_hash_name: MP7 | Cirrus (Battle-Scarred)
+  paint_index: 627
+- market_hash_name: MP7 | Bloodsport (Factory New)
+  paint_index: 696
+- market_hash_name: MP7 | Bloodsport (Minimal Wear)
+  paint_index: 696
+- market_hash_name: MP7 | Bloodsport (Field-Tested)
+  paint_index: 696
+- market_hash_name: MP7 | Bloodsport (Well-Worn)
+  paint_index: 696
+- market_hash_name: MP7 | Bloodsport (Battle-Scarred)
+  paint_index: 696
+- market_hash_name: MP7 | Sunbaked (Factory New)
+  paint_index: 1246
+- market_hash_name: MP7 | Sunbaked (Minimal Wear)
+  paint_index: 1246
+- market_hash_name: MP7 | Sunbaked (Field-Tested)
+  paint_index: 1246
+- market_hash_name: MP7 | Sunbaked (Well-Worn)
+  paint_index: 1246
+- market_hash_name: MP7 | Sunbaked (Battle-Scarred)
+  paint_index: 1246
+- market_hash_name: MP7 | Powercore (Factory New)
+  paint_index: 719
+- market_hash_name: MP7 | Powercore (Minimal Wear)
+  paint_index: 719
+- market_hash_name: MP7 | Powercore (Field-Tested)
+  paint_index: 719
+- market_hash_name: MP7 | Powercore (Well-Worn)
+  paint_index: 719
+- market_hash_name: MP7 | Powercore (Battle-Scarred)
+  paint_index: 719
+- market_hash_name: MP7 | Forest DDPAT (Factory New)
+  paint_index: 5
+- market_hash_name: MP7 | Forest DDPAT (Minimal Wear)
+  paint_index: 5
+- market_hash_name: MP7 | Forest DDPAT (Field-Tested)
+  paint_index: 5
+- market_hash_name: MP7 | Forest DDPAT (Well-Worn)
+  paint_index: 5
+- market_hash_name: MP7 | Forest DDPAT (Battle-Scarred)
+  paint_index: 5
+- market_hash_name: MP7 | Tall Grass (Factory New)
+  paint_index: 1023
+- market_hash_name: MP7 | Tall Grass (Minimal Wear)
+  paint_index: 1023
+- market_hash_name: MP7 | Tall Grass (Field-Tested)
+  paint_index: 1023
+- market_hash_name: MP7 | Tall Grass (Well-Worn)
+  paint_index: 1023
+- market_hash_name: MP7 | Tall Grass (Battle-Scarred)
+  paint_index: 1023
+- market_hash_name: MP7 | Gunsmoke (Factory New)
+  paint_index: 15
+- market_hash_name: MP7 | Gunsmoke (Minimal Wear)
+  paint_index: 15
+- market_hash_name: MP7 | Gunsmoke (Field-Tested)
+  paint_index: 15
+- market_hash_name: MP7 | Gunsmoke (Well-Worn)
+  paint_index: 15
+- market_hash_name: MP7 | Gunsmoke (Battle-Scarred)
+  paint_index: 15
+- market_hash_name: MP7 | Olive Plaid (Factory New)
+  paint_index: 365
+- market_hash_name: MP7 | Olive Plaid (Minimal Wear)
+  paint_index: 365
+- market_hash_name: MP7 | Olive Plaid (Field-Tested)
+  paint_index: 365
+- market_hash_name: MP7 | Olive Plaid (Well-Worn)
+  paint_index: 365
+- market_hash_name: MP7 | Olive Plaid (Battle-Scarred)
+  paint_index: 365
+- market_hash_name: MP7 | Skulls (Minimal Wear)
+  paint_index: 11
+- market_hash_name: MP7 | Skulls (Field-Tested)
+  paint_index: 11
+- market_hash_name: MP7 | Full Stop (Factory New)
+  paint_index: 250
+- market_hash_name: MP7 | Full Stop (Minimal Wear)
+  paint_index: 250
+- market_hash_name: MP7 | Full Stop (Field-Tested)
+  paint_index: 250
+- market_hash_name: MP7 | Full Stop (Well-Worn)
+  paint_index: 250
+- market_hash_name: MP7 | Full Stop (Battle-Scarred)
+  paint_index: 250
+- market_hash_name: MP7 | Coral Paisley (Factory New)
+  paint_index: 1386
+- market_hash_name: MP7 | Coral Paisley (Minimal Wear)
+  paint_index: 1386
+- market_hash_name: MP7 | Coral Paisley (Field-Tested)
+  paint_index: 1386
+- market_hash_name: MP7 | Coral Paisley (Well-Worn)
+  paint_index: 1386
+- market_hash_name: MP7 | Coral Paisley (Battle-Scarred)
+  paint_index: 1386
+- market_hash_name: MP7 | Amberline (Factory New)
+  paint_index: 1436
+- market_hash_name: MP7 | Amberline (Minimal Wear)
+  paint_index: 1436
+- market_hash_name: MP7 | Amberline (Field-Tested)
+  paint_index: 1436
+- market_hash_name: MP7 | Amberline (Well-Worn)
+  paint_index: 1436
+- market_hash_name: MP7 | Amberline (Battle-Scarred)
+  paint_index: 1436
+- market_hash_name: MP7 | Just Smile (Factory New)
+  paint_index: 1163
+- market_hash_name: MP7 | Just Smile (Minimal Wear)
+  paint_index: 1163
+- market_hash_name: MP7 | Just Smile (Field-Tested)
+  paint_index: 1163
+- market_hash_name: MP7 | Just Smile (Well-Worn)
+  paint_index: 1163
+- market_hash_name: MP7 | Just Smile (Battle-Scarred)
+  paint_index: 1163
+- market_hash_name: MP7 | Smoking Kills (Factory New)
+  paint_index: 1354
+- market_hash_name: MP7 | Smoking Kills (Minimal Wear)
+  paint_index: 1354
+- market_hash_name: MP7 | Smoking Kills (Field-Tested)
+  paint_index: 1354
+- market_hash_name: MP7 | Smoking Kills (Well-Worn)
+  paint_index: 1354
+- market_hash_name: MP7 | Smoking Kills (Battle-Scarred)
+  paint_index: 1354
+- market_hash_name: MP7 | Short Ochre (Factory New)
+  paint_index: 1326
+- market_hash_name: MP7 | Short Ochre (Minimal Wear)
+  paint_index: 1326
+- market_hash_name: MP7 | Short Ochre (Field-Tested)
+  paint_index: 1326
+- market_hash_name: MP7 | Short Ochre (Well-Worn)
+  paint_index: 1326
+- market_hash_name: MP7 | Short Ochre (Battle-Scarred)
+  paint_index: 1326
+- market_hash_name: MP7 | Groundwater (Factory New)
+  paint_index: 209
+- market_hash_name: MP7 | Groundwater (Minimal Wear)
+  paint_index: 209
+- market_hash_name: MP7 | Groundwater (Field-Tested)
+  paint_index: 209
+- market_hash_name: MP7 | Groundwater (Well-Worn)
+  paint_index: 209
+- market_hash_name: MP7 | Groundwater (Battle-Scarred)
+  paint_index: 209
+- market_hash_name: MP7 | Whiteout (Factory New)
+  paint_index: 102
+- market_hash_name: MP7 | Whiteout (Minimal Wear)
+  paint_index: 102
+- market_hash_name: MP7 | Whiteout (Field-Tested)
+  paint_index: 102
+- market_hash_name: MP7 | Whiteout (Well-Worn)
+  paint_index: 102
+- market_hash_name: MP7 | Whiteout (Battle-Scarred)
+  paint_index: 102
+- market_hash_name: MP7 | Teal Blossom (Factory New)
+  paint_index: 728
+- market_hash_name: MP7 | Teal Blossom (Minimal Wear)
+  paint_index: 728
+- market_hash_name: MP7 | Teal Blossom (Field-Tested)
+  paint_index: 728
+- market_hash_name: MP7 | Teal Blossom (Well-Worn)
+  paint_index: 728
+- market_hash_name: MP7 | Teal Blossom (Battle-Scarred)
+  paint_index: 728
+- market_hash_name: MP7 | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: MP7 | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: MP7 | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: MP7 | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: MP7 | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: MP7 | Asterion (Factory New)
+  paint_index: 442
+- market_hash_name: MP7 | Asterion (Minimal Wear)
+  paint_index: 442
+- market_hash_name: MP7 | Asterion (Field-Tested)
+  paint_index: 442
+- market_hash_name: MP7 | Asterion (Well-Worn)
+  paint_index: 442
+- market_hash_name: MP7 | Asterion (Battle-Scarred)
+  paint_index: 442
+- market_hash_name: MP7 | Impire (Factory New)
+  paint_index: 536
+- market_hash_name: MP7 | Impire (Minimal Wear)
+  paint_index: 536
+- market_hash_name: MP7 | Impire (Field-Tested)
+  paint_index: 536
+- market_hash_name: MP7 | Impire (Well-Worn)
+  paint_index: 536
+- market_hash_name: MP7 | Akoben (Factory New)
+  paint_index: 649
+- market_hash_name: MP7 | Akoben (Minimal Wear)
+  paint_index: 649
+- market_hash_name: MP7 | Akoben (Field-Tested)
+  paint_index: 649
+- market_hash_name: MP7 | Akoben (Well-Worn)
+  paint_index: 649
+- market_hash_name: MP7 | Akoben (Battle-Scarred)
+  paint_index: 649
+- market_hash_name: MP7 | Army Recon (Factory New)
+  paint_index: 245
+- market_hash_name: MP7 | Army Recon (Minimal Wear)
+  paint_index: 245
+- market_hash_name: MP7 | Army Recon (Field-Tested)
+  paint_index: 245
+- market_hash_name: MP7 | Army Recon (Well-Worn)
+  paint_index: 245
+- market_hash_name: MP7 | Army Recon (Battle-Scarred)
+  paint_index: 245
+- market_hash_name: MP7 | Orange Peel (Factory New)
+  paint_index: 141
+- market_hash_name: MP7 | Orange Peel (Minimal Wear)
+  paint_index: 141
+- market_hash_name: MP7 | Orange Peel (Field-Tested)
+  paint_index: 141
+- market_hash_name: MP7 | Orange Peel (Well-Worn)
+  paint_index: 141
+- market_hash_name: MP7 | Orange Peel (Battle-Scarred)
+  paint_index: 141
+- market_hash_name: MP7 | Prey (Factory New)
+  paint_index: 935
+- market_hash_name: MP7 | Prey (Minimal Wear)
+  paint_index: 935
+- market_hash_name: MP7 | Prey (Field-Tested)
+  paint_index: 935
+- market_hash_name: MP7 | Prey (Well-Worn)
+  paint_index: 935
+- market_hash_name: MP7 | Prey (Battle-Scarred)
+  paint_index: 935
+- market_hash_name: MP9 | Sand Scale (Factory New)
+  paint_index: 630
+- market_hash_name: MP9 | Sand Scale (Minimal Wear)
+  paint_index: 630
+- market_hash_name: MP9 | Sand Scale (Field-Tested)
+  paint_index: 630
+- market_hash_name: MP9 | Sand Scale (Well-Worn)
+  paint_index: 630
+- market_hash_name: MP9 | Mount Fuji (Factory New)
+  paint_index: 1094
+- market_hash_name: MP9 | Mount Fuji (Minimal Wear)
+  paint_index: 1094
+- market_hash_name: MP9 | Mount Fuji (Field-Tested)
+  paint_index: 1094
+- market_hash_name: MP9 | Mount Fuji (Well-Worn)
+  paint_index: 1094
+- market_hash_name: MP9 | Mount Fuji (Battle-Scarred)
+  paint_index: 1094
+- market_hash_name: MP9 | Pandora's Box (Factory New)
+  paint_index: 448
+- market_hash_name: MP9 | Pandora's Box (Minimal Wear)
+  paint_index: 448
+- market_hash_name: MP9 | Pandora's Box (Field-Tested)
+  paint_index: 448
+- market_hash_name: MP9 | Hypnotic (Factory New)
+  paint_index: 61
+- market_hash_name: MP9 | Hypnotic (Minimal Wear)
+  paint_index: 61
+- market_hash_name: MP9 | Army Sheen (Factory New)
+  paint_index: 298
+- market_hash_name: MP9 | Army Sheen (Minimal Wear)
+  paint_index: 298
+- market_hash_name: MP9 | Army Sheen (Field-Tested)
+  paint_index: 298
+- market_hash_name: MP9 | Dark Age (Factory New)
+  paint_index: 329
+- market_hash_name: MP9 | Dark Age (Minimal Wear)
+  paint_index: 329
+- market_hash_name: MP9 | Dark Age (Field-Tested)
+  paint_index: 329
+- market_hash_name: MP9 | Music Box (Factory New)
+  paint_index: 820
+- market_hash_name: MP9 | Music Box (Minimal Wear)
+  paint_index: 820
+- market_hash_name: MP9 | Music Box (Field-Tested)
+  paint_index: 820
+- market_hash_name: MP9 | Music Box (Well-Worn)
+  paint_index: 820
+- market_hash_name: MP9 | Music Box (Battle-Scarred)
+  paint_index: 820
+- market_hash_name: MP9 | Bioleak (Factory New)
+  paint_index: 549
+- market_hash_name: MP9 | Bioleak (Minimal Wear)
+  paint_index: 549
+- market_hash_name: MP9 | Bioleak (Field-Tested)
+  paint_index: 549
+- market_hash_name: MP9 | Bioleak (Well-Worn)
+  paint_index: 549
+- market_hash_name: MP9 | Bioleak (Battle-Scarred)
+  paint_index: 549
+- market_hash_name: MP9 | Ruby Poison Dart (Factory New)
+  paint_index: 482
+- market_hash_name: MP9 | Ruby Poison Dart (Minimal Wear)
+  paint_index: 482
+- market_hash_name: MP9 | Ruby Poison Dart (Field-Tested)
+  paint_index: 482
+- market_hash_name: MP9 | Ruby Poison Dart (Well-Worn)
+  paint_index: 482
+- market_hash_name: MP9 | Ruby Poison Dart (Battle-Scarred)
+  paint_index: 482
+- market_hash_name: MP9 | Stained Glass (Factory New)
+  paint_index: 867
+- market_hash_name: MP9 | Stained Glass (Minimal Wear)
+  paint_index: 867
+- market_hash_name: MP9 | Stained Glass (Field-Tested)
+  paint_index: 867
+- market_hash_name: MP9 | Stained Glass (Well-Worn)
+  paint_index: 867
+- market_hash_name: MP9 | Stained Glass (Battle-Scarred)
+  paint_index: 867
+- market_hash_name: MP9 | Rose Iron (Factory New)
+  paint_index: 262
+- market_hash_name: MP9 | Rose Iron (Minimal Wear)
+  paint_index: 262
+- market_hash_name: MP9 | Rose Iron (Field-Tested)
+  paint_index: 262
+- market_hash_name: MP9 | Hot Rod (Factory New)
+  paint_index: 33
+- market_hash_name: MP9 | Hot Rod (Minimal Wear)
+  paint_index: 33
+- market_hash_name: MP9 | Black Sand (Factory New)
+  paint_index: 697
+- market_hash_name: MP9 | Black Sand (Minimal Wear)
+  paint_index: 697
+- market_hash_name: MP9 | Black Sand (Field-Tested)
+  paint_index: 697
+- market_hash_name: MP9 | Black Sand (Well-Worn)
+  paint_index: 697
+- market_hash_name: MP9 | Black Sand (Battle-Scarred)
+  paint_index: 697
+- market_hash_name: MP9 | Dart (Factory New)
+  paint_index: 386
+- market_hash_name: MP9 | Dart (Minimal Wear)
+  paint_index: 386
+- market_hash_name: MP9 | Dart (Field-Tested)
+  paint_index: 386
+- market_hash_name: MP9 | Dart (Well-Worn)
+  paint_index: 386
+- market_hash_name: MP9 | Dart (Battle-Scarred)
+  paint_index: 386
+- market_hash_name: MP9 | Deadly Poison (Factory New)
+  paint_index: 403
+- market_hash_name: MP9 | Deadly Poison (Minimal Wear)
+  paint_index: 403
+- market_hash_name: MP9 | Deadly Poison (Field-Tested)
+  paint_index: 403
+- market_hash_name: MP9 | Deadly Poison (Well-Worn)
+  paint_index: 403
+- market_hash_name: MP9 | Deadly Poison (Battle-Scarred)
+  paint_index: 403
+- market_hash_name: MP9 | Food Chain (Factory New)
+  paint_index: 1037
+- market_hash_name: MP9 | Food Chain (Minimal Wear)
+  paint_index: 1037
+- market_hash_name: MP9 | Food Chain (Field-Tested)
+  paint_index: 1037
+- market_hash_name: MP9 | Food Chain (Well-Worn)
+  paint_index: 1037
+- market_hash_name: MP9 | Food Chain (Battle-Scarred)
+  paint_index: 1037
+- market_hash_name: MP9 | Goo (Factory New)
+  paint_index: 679
+- market_hash_name: MP9 | Goo (Minimal Wear)
+  paint_index: 679
+- market_hash_name: MP9 | Goo (Field-Tested)
+  paint_index: 679
+- market_hash_name: MP9 | Goo (Well-Worn)
+  paint_index: 679
+- market_hash_name: MP9 | Goo (Battle-Scarred)
+  paint_index: 679
+- market_hash_name: MP9 | Hydra (Factory New)
+  paint_index: 910
+- market_hash_name: MP9 | Hydra (Minimal Wear)
+  paint_index: 910
+- market_hash_name: MP9 | Hydra (Field-Tested)
+  paint_index: 910
+- market_hash_name: MP9 | Hydra (Well-Worn)
+  paint_index: 910
+- market_hash_name: MP9 | Hydra (Battle-Scarred)
+  paint_index: 910
+- market_hash_name: MP9 | Wild Lily (Factory New)
+  paint_index: 734
+- market_hash_name: MP9 | Wild Lily (Minimal Wear)
+  paint_index: 734
+- market_hash_name: MP9 | Wild Lily (Field-Tested)
+  paint_index: 734
+- market_hash_name: MP9 | Wild Lily (Well-Worn)
+  paint_index: 734
+- market_hash_name: MP9 | Wild Lily (Battle-Scarred)
+  paint_index: 734
+- market_hash_name: MP9 | Latte Rush (Factory New)
+  paint_index: 1211
+- market_hash_name: MP9 | Latte Rush (Minimal Wear)
+  paint_index: 1211
+- market_hash_name: MP9 | Latte Rush (Field-Tested)
+  paint_index: 1211
+- market_hash_name: MP9 | Latte Rush (Well-Worn)
+  paint_index: 1211
+- market_hash_name: MP9 | Latte Rush (Battle-Scarred)
+  paint_index: 1211
+- market_hash_name: MP9 | Airlock (Factory New)
+  paint_index: 609
+- market_hash_name: MP9 | Airlock (Minimal Wear)
+  paint_index: 609
+- market_hash_name: MP9 | Airlock (Field-Tested)
+  paint_index: 609
+- market_hash_name: MP9 | Airlock (Well-Worn)
+  paint_index: 609
+- market_hash_name: MP9 | Airlock (Battle-Scarred)
+  paint_index: 609
+- market_hash_name: MP9 | Featherweight (Factory New)
+  paint_index: 1225
+- market_hash_name: MP9 | Featherweight (Minimal Wear)
+  paint_index: 1225
+- market_hash_name: MP9 | Featherweight (Field-Tested)
+  paint_index: 1225
+- market_hash_name: MP9 | Featherweight (Well-Worn)
+  paint_index: 1225
+- market_hash_name: MP9 | Featherweight (Battle-Scarred)
+  paint_index: 1225
+- market_hash_name: MP9 | Capillary (Factory New)
+  paint_index: 715
+- market_hash_name: MP9 | Capillary (Minimal Wear)
+  paint_index: 715
+- market_hash_name: MP9 | Capillary (Field-Tested)
+  paint_index: 715
+- market_hash_name: MP9 | Capillary (Well-Worn)
+  paint_index: 715
+- market_hash_name: MP9 | Capillary (Battle-Scarred)
+  paint_index: 715
+- market_hash_name: MP9 | Arctic Tri-Tone (Factory New)
+  paint_index: 331
+- market_hash_name: MP9 | Arctic Tri-Tone (Minimal Wear)
+  paint_index: 331
+- market_hash_name: MP9 | Arctic Tri-Tone (Field-Tested)
+  paint_index: 331
+- market_hash_name: MP9 | Arctic Tri-Tone (Well-Worn)
+  paint_index: 331
+- market_hash_name: MP9 | Arctic Tri-Tone (Battle-Scarred)
+  paint_index: 331
+- market_hash_name: MP9 | Modest Threat (Factory New)
+  paint_index: 804
+- market_hash_name: MP9 | Modest Threat (Minimal Wear)
+  paint_index: 804
+- market_hash_name: MP9 | Modest Threat (Field-Tested)
+  paint_index: 804
+- market_hash_name: MP9 | Modest Threat (Well-Worn)
+  paint_index: 804
+- market_hash_name: MP9 | Modest Threat (Battle-Scarred)
+  paint_index: 804
+- market_hash_name: MP9 | Starlight Protector (Factory New)
+  paint_index: 1134
+- market_hash_name: MP9 | Starlight Protector (Minimal Wear)
+  paint_index: 1134
+- market_hash_name: MP9 | Starlight Protector (Field-Tested)
+  paint_index: 1134
+- market_hash_name: MP9 | Starlight Protector (Well-Worn)
+  paint_index: 1134
+- market_hash_name: MP9 | Starlight Protector (Battle-Scarred)
+  paint_index: 1134
+- market_hash_name: MP9 | Buff Blue (Factory New)
+  paint_index: 1278
+- market_hash_name: MP9 | Buff Blue (Minimal Wear)
+  paint_index: 1278
+- market_hash_name: MP9 | Buff Blue (Field-Tested)
+  paint_index: 1278
+- market_hash_name: MP9 | Buff Blue (Well-Worn)
+  paint_index: 1278
+- market_hash_name: MP9 | Buff Blue (Battle-Scarred)
+  paint_index: 1278
+- market_hash_name: MP9 | Multi-Terrain (Factory New)
+  paint_index: 1330
+- market_hash_name: MP9 | Multi-Terrain (Minimal Wear)
+  paint_index: 1330
+- market_hash_name: MP9 | Multi-Terrain (Field-Tested)
+  paint_index: 1330
+- market_hash_name: MP9 | Multi-Terrain (Well-Worn)
+  paint_index: 1330
+- market_hash_name: MP9 | Multi-Terrain (Battle-Scarred)
+  paint_index: 1330
+- market_hash_name: MP9 | Setting Sun (Factory New)
+  paint_index: 368
+- market_hash_name: MP9 | Setting Sun (Minimal Wear)
+  paint_index: 368
+- market_hash_name: MP9 | Setting Sun (Field-Tested)
+  paint_index: 368
+- market_hash_name: MP9 | Setting Sun (Well-Worn)
+  paint_index: 368
+- market_hash_name: MP9 | Setting Sun (Battle-Scarred)
+  paint_index: 368
+- market_hash_name: MP9 | Green Plaid (Factory New)
+  paint_index: 366
+- market_hash_name: MP9 | Green Plaid (Minimal Wear)
+  paint_index: 366
+- market_hash_name: MP9 | Green Plaid (Field-Tested)
+  paint_index: 366
+- market_hash_name: MP9 | Green Plaid (Well-Worn)
+  paint_index: 366
+- market_hash_name: MP9 | Green Plaid (Battle-Scarred)
+  paint_index: 366
+- market_hash_name: MP9 | Slide (Factory New)
+  paint_index: 755
+- market_hash_name: MP9 | Slide (Minimal Wear)
+  paint_index: 755
+- market_hash_name: MP9 | Slide (Field-Tested)
+  paint_index: 755
+- market_hash_name: MP9 | Slide (Well-Worn)
+  paint_index: 755
+- market_hash_name: MP9 | Slide (Battle-Scarred)
+  paint_index: 755
+- market_hash_name: MP9 | Cobalt Paisley (Factory New)
+  paint_index: 1258
+- market_hash_name: MP9 | Cobalt Paisley (Minimal Wear)
+  paint_index: 1258
+- market_hash_name: MP9 | Cobalt Paisley (Field-Tested)
+  paint_index: 1258
+- market_hash_name: MP9 | Cobalt Paisley (Well-Worn)
+  paint_index: 1258
+- market_hash_name: MP9 | Cobalt Paisley (Battle-Scarred)
+  paint_index: 1258
+- market_hash_name: MP9 | Shredded (Factory New)
+  paint_index: 1310
+- market_hash_name: MP9 | Shredded (Minimal Wear)
+  paint_index: 1310
+- market_hash_name: MP9 | Shredded (Field-Tested)
+  paint_index: 1310
+- market_hash_name: MP9 | Shredded (Well-Worn)
+  paint_index: 1310
+- market_hash_name: MP9 | Shredded (Battle-Scarred)
+  paint_index: 1310
+- market_hash_name: MP9 | Nexus (Factory New)
+  paint_index: 1193
+- market_hash_name: MP9 | Nexus (Minimal Wear)
+  paint_index: 1193
+- market_hash_name: MP9 | Nexus (Field-Tested)
+  paint_index: 1193
+- market_hash_name: MP9 | Nexus (Well-Worn)
+  paint_index: 1193
+- market_hash_name: MP9 | Nexus (Battle-Scarred)
+  paint_index: 1193
+- market_hash_name: MP9 | Urban Sovereign (Factory New)
+  paint_index: 1423
+- market_hash_name: MP9 | Urban Sovereign (Minimal Wear)
+  paint_index: 1423
+- market_hash_name: MP9 | Urban Sovereign (Field-Tested)
+  paint_index: 1423
+- market_hash_name: MP9 | Urban Sovereign (Well-Worn)
+  paint_index: 1423
+- market_hash_name: MP9 | Urban Sovereign (Battle-Scarred)
+  paint_index: 1423
+- market_hash_name: MP9 | Broken Record (Factory New)
+  paint_index: 1341
+- market_hash_name: MP9 | Broken Record (Minimal Wear)
+  paint_index: 1341
+- market_hash_name: MP9 | Broken Record (Field-Tested)
+  paint_index: 1341
+- market_hash_name: MP9 | Broken Record (Well-Worn)
+  paint_index: 1341
+- market_hash_name: MP9 | Broken Record (Battle-Scarred)
+  paint_index: 1341
+- market_hash_name: MP9 | Storm (Factory New)
+  paint_index: 100
+- market_hash_name: MP9 | Storm (Minimal Wear)
+  paint_index: 100
+- market_hash_name: MP9 | Storm (Field-Tested)
+  paint_index: 100
+- market_hash_name: MP9 | Storm (Well-Worn)
+  paint_index: 100
+- market_hash_name: MP9 | Storm (Battle-Scarred)
+  paint_index: 100
+- market_hash_name: MP9 | Bulldozer (Factory New)
+  paint_index: 39
+- market_hash_name: MP9 | Bulldozer (Minimal Wear)
+  paint_index: 39
+- market_hash_name: MP9 | Bulldozer (Field-Tested)
+  paint_index: 39
+- market_hash_name: MP9 | Bulldozer (Well-Worn)
+  paint_index: 39
+- market_hash_name: MP9 | Bulldozer (Battle-Scarred)
+  paint_index: 39
+- market_hash_name: MP9 | Pine (Factory New)
+  paint_index: 1301
+- market_hash_name: MP9 | Pine (Minimal Wear)
+  paint_index: 1301
+- market_hash_name: MP9 | Pine (Field-Tested)
+  paint_index: 1301
+- market_hash_name: MP9 | Pine (Well-Worn)
+  paint_index: 1301
+- market_hash_name: MP9 | Pine (Battle-Scarred)
+  paint_index: 1301
+- market_hash_name: MP9 | Dizzy (Factory New)
+  paint_index: 1375
+- market_hash_name: MP9 | Dizzy (Minimal Wear)
+  paint_index: 1375
+- market_hash_name: MP9 | Dizzy (Field-Tested)
+  paint_index: 1375
+- market_hash_name: MP9 | Dizzy (Well-Worn)
+  paint_index: 1375
+- market_hash_name: MP9 | Dizzy (Battle-Scarred)
+  paint_index: 1375
+- market_hash_name: MP9 | Bee-Tron (Factory New)
+  paint_index: 1388
+- market_hash_name: MP9 | Bee-Tron (Minimal Wear)
+  paint_index: 1388
+- market_hash_name: MP9 | Bee-Tron (Field-Tested)
+  paint_index: 1388
+- market_hash_name: MP9 | Bee-Tron (Well-Worn)
+  paint_index: 1388
+- market_hash_name: MP9 | Bee-Tron (Battle-Scarred)
+  paint_index: 1388
+- market_hash_name: MP9 | Old Roots (Factory New)
+  paint_index: 931
+- market_hash_name: MP9 | Old Roots (Minimal Wear)
+  paint_index: 931
+- market_hash_name: MP9 | Old Roots (Field-Tested)
+  paint_index: 931
+- market_hash_name: MP9 | Old Roots (Well-Worn)
+  paint_index: 931
+- market_hash_name: MP9 | Old Roots (Battle-Scarred)
+  paint_index: 931
+- market_hash_name: MP9 | Dry Season (Factory New)
+  paint_index: 199
+- market_hash_name: MP9 | Dry Season (Minimal Wear)
+  paint_index: 199
+- market_hash_name: MP9 | Dry Season (Field-Tested)
+  paint_index: 199
+- market_hash_name: MP9 | Dry Season (Well-Worn)
+  paint_index: 199
+- market_hash_name: MP9 | Dry Season (Battle-Scarred)
+  paint_index: 199
+- market_hash_name: MP9 | Orange Peel (Factory New)
+  paint_index: 141
+- market_hash_name: MP9 | Orange Peel (Minimal Wear)
+  paint_index: 141
+- market_hash_name: MP9 | Orange Peel (Field-Tested)
+  paint_index: 141
+- market_hash_name: MP9 | Orange Peel (Well-Worn)
+  paint_index: 141
+- market_hash_name: MP9 | Orange Peel (Battle-Scarred)
+  paint_index: 141
+- market_hash_name: MP9 | Sand Dashed (Factory New)
+  paint_index: 148
+- market_hash_name: MP9 | Sand Dashed (Minimal Wear)
+  paint_index: 148
+- market_hash_name: MP9 | Sand Dashed (Field-Tested)
+  paint_index: 148
+- market_hash_name: MP9 | Sand Dashed (Well-Worn)
+  paint_index: 148
+- market_hash_name: MP9 | Sand Dashed (Battle-Scarred)
+  paint_index: 148
+- market_hash_name: P90 | Ancient Earth (Factory New)
+  paint_index: 1020
+- market_hash_name: P90 | Ancient Earth (Minimal Wear)
+  paint_index: 1020
+- market_hash_name: P90 | Ancient Earth (Field-Tested)
+  paint_index: 1020
+- market_hash_name: P90 | Ancient Earth (Well-Worn)
+  paint_index: 1020
+- market_hash_name: P90 | Ancient Earth (Battle-Scarred)
+  paint_index: 1020
+- market_hash_name: P90 | Astral Jörmungandr (Factory New)
+  paint_index: 759
+- market_hash_name: P90 | Astral Jörmungandr (Minimal Wear)
+  paint_index: 759
+- market_hash_name: P90 | Astral Jörmungandr (Field-Tested)
+  paint_index: 759
+- market_hash_name: P90 | Astral Jörmungandr (Well-Worn)
+  paint_index: 759
+- market_hash_name: P90 | Astral Jörmungandr (Battle-Scarred)
+  paint_index: 759
+- market_hash_name: P90 | Cold Blooded (Factory New)
+  paint_index: 67
+- market_hash_name: P90 | Cold Blooded (Minimal Wear)
+  paint_index: 67
+- market_hash_name: P90 | Tiger Pit (Factory New)
+  paint_index: 1015
+- market_hash_name: P90 | Tiger Pit (Minimal Wear)
+  paint_index: 1015
+- market_hash_name: P90 | Tiger Pit (Field-Tested)
+  paint_index: 1015
+- market_hash_name: P90 | Tiger Pit (Well-Worn)
+  paint_index: 1015
+- market_hash_name: P90 | Tiger Pit (Battle-Scarred)
+  paint_index: 1015
+- market_hash_name: P90 | Baroque Red (Factory New)
+  paint_index: 744
+- market_hash_name: P90 | Baroque Red (Minimal Wear)
+  paint_index: 744
+- market_hash_name: P90 | Baroque Red (Field-Tested)
+  paint_index: 744
+- market_hash_name: P90 | Baroque Red (Well-Worn)
+  paint_index: 744
+- market_hash_name: P90 | Baroque Red (Battle-Scarred)
+  paint_index: 744
+- market_hash_name: P90 | Module (Factory New)
+  paint_index: 335
+- market_hash_name: P90 | Module (Minimal Wear)
+  paint_index: 335
+- market_hash_name: P90 | Module (Field-Tested)
+  paint_index: 335
+- market_hash_name: P90 | Leather (Factory New)
+  paint_index: 342
+- market_hash_name: P90 | Leather (Minimal Wear)
+  paint_index: 342
+- market_hash_name: P90 | Leather (Field-Tested)
+  paint_index: 342
+- market_hash_name: P90 | Leather (Well-Worn)
+  paint_index: 342
+- market_hash_name: P90 | Leather (Battle-Scarred)
+  paint_index: 342
+- market_hash_name: P90 | Death by Kitty (Minimal Wear)
+  paint_index: 156
+- market_hash_name: P90 | Death by Kitty (Field-Tested)
+  paint_index: 156
+- market_hash_name: P90 | Emerald Dragon (Factory New)
+  paint_index: 182
+- market_hash_name: P90 | Emerald Dragon (Minimal Wear)
+  paint_index: 182
+- market_hash_name: P90 | Emerald Dragon (Field-Tested)
+  paint_index: 182
+- market_hash_name: P90 | Emerald Dragon (Well-Worn)
+  paint_index: 182
+- market_hash_name: P90 | Emerald Dragon (Battle-Scarred)
+  paint_index: 182
+- market_hash_name: P90 | Run and Hide (Factory New)
+  paint_index: 1000
+- market_hash_name: P90 | Run and Hide (Minimal Wear)
+  paint_index: 1000
+- market_hash_name: P90 | Run and Hide (Field-Tested)
+  paint_index: 1000
+- market_hash_name: P90 | Run and Hide (Well-Worn)
+  paint_index: 1000
+- market_hash_name: P90 | Run and Hide (Battle-Scarred)
+  paint_index: 1000
+- market_hash_name: P90 | Asiimov (Factory New)
+  paint_index: 359
+- market_hash_name: P90 | Asiimov (Minimal Wear)
+  paint_index: 359
+- market_hash_name: P90 | Asiimov (Field-Tested)
+  paint_index: 359
+- market_hash_name: P90 | Asiimov (Well-Worn)
+  paint_index: 359
+- market_hash_name: P90 | Asiimov (Battle-Scarred)
+  paint_index: 359
+- market_hash_name: P90 | Grim (Factory New)
+  paint_index: 611
+- market_hash_name: P90 | Grim (Minimal Wear)
+  paint_index: 611
+- market_hash_name: P90 | Grim (Field-Tested)
+  paint_index: 611
+- market_hash_name: P90 | Grim (Well-Worn)
+  paint_index: 611
+- market_hash_name: P90 | Grim (Battle-Scarred)
+  paint_index: 611
+- market_hash_name: P90 | Elite Build (Factory New)
+  paint_index: 486
+- market_hash_name: P90 | Elite Build (Minimal Wear)
+  paint_index: 486
+- market_hash_name: P90 | Elite Build (Field-Tested)
+  paint_index: 486
+- market_hash_name: P90 | Elite Build (Well-Worn)
+  paint_index: 486
+- market_hash_name: P90 | Elite Build (Battle-Scarred)
+  paint_index: 486
+- market_hash_name: P90 | Nostalgia (Factory New)
+  paint_index: 911
+- market_hash_name: P90 | Nostalgia (Minimal Wear)
+  paint_index: 911
+- market_hash_name: P90 | Nostalgia (Field-Tested)
+  paint_index: 911
+- market_hash_name: P90 | Nostalgia (Well-Worn)
+  paint_index: 911
+- market_hash_name: P90 | Nostalgia (Battle-Scarred)
+  paint_index: 911
+- market_hash_name: P90 | Off World (Factory New)
+  paint_index: 849
+- market_hash_name: P90 | Off World (Minimal Wear)
+  paint_index: 849
+- market_hash_name: P90 | Off World (Field-Tested)
+  paint_index: 849
+- market_hash_name: P90 | Off World (Well-Worn)
+  paint_index: 849
+- market_hash_name: P90 | Off World (Battle-Scarred)
+  paint_index: 849
+- market_hash_name: P90 | ScaraB Rush (Factory New)
+  paint_index: 1250
+- market_hash_name: P90 | ScaraB Rush (Minimal Wear)
+  paint_index: 1250
+- market_hash_name: P90 | ScaraB Rush (Field-Tested)
+  paint_index: 1250
+- market_hash_name: P90 | ScaraB Rush (Well-Worn)
+  paint_index: 1250
+- market_hash_name: P90 | ScaraB Rush (Battle-Scarred)
+  paint_index: 1250
+- market_hash_name: P90 | Desert Warfare (Factory New)
+  paint_index: 311
+- market_hash_name: P90 | Desert Warfare (Minimal Wear)
+  paint_index: 311
+- market_hash_name: P90 | Desert Warfare (Field-Tested)
+  paint_index: 311
+- market_hash_name: P90 | Desert Warfare (Well-Worn)
+  paint_index: 311
+- market_hash_name: P90 | Desert Warfare (Battle-Scarred)
+  paint_index: 311
+- market_hash_name: P90 | Shapewood (Factory New)
+  paint_index: 516
+- market_hash_name: P90 | Shapewood (Minimal Wear)
+  paint_index: 516
+- market_hash_name: P90 | Shapewood (Field-Tested)
+  paint_index: 516
+- market_hash_name: P90 | Shapewood (Well-Worn)
+  paint_index: 516
+- market_hash_name: P90 | Shapewood (Battle-Scarred)
+  paint_index: 516
+- market_hash_name: P90 | Trigon (Minimal Wear)
+  paint_index: 283
+- market_hash_name: P90 | Trigon (Field-Tested)
+  paint_index: 283
+- market_hash_name: P90 | Trigon (Well-Worn)
+  paint_index: 283
+- market_hash_name: P90 | Trigon (Battle-Scarred)
+  paint_index: 283
+- market_hash_name: P90 | Attack Vector (Factory New)
+  paint_index: 936
+- market_hash_name: P90 | Attack Vector (Minimal Wear)
+  paint_index: 936
+- market_hash_name: P90 | Attack Vector (Field-Tested)
+  paint_index: 936
+- market_hash_name: P90 | Attack Vector (Well-Worn)
+  paint_index: 936
+- market_hash_name: P90 | Attack Vector (Battle-Scarred)
+  paint_index: 936
+- market_hash_name: P90 | Freight (Factory New)
+  paint_index: 969
+- market_hash_name: P90 | Freight (Minimal Wear)
+  paint_index: 969
+- market_hash_name: P90 | Freight (Field-Tested)
+  paint_index: 969
+- market_hash_name: P90 | Freight (Well-Worn)
+  paint_index: 969
+- market_hash_name: P90 | Freight (Battle-Scarred)
+  paint_index: 969
+- market_hash_name: P90 | Chopper (Factory New)
+  paint_index: 593
+- market_hash_name: P90 | Chopper (Minimal Wear)
+  paint_index: 593
+- market_hash_name: P90 | Chopper (Field-Tested)
+  paint_index: 593
+- market_hash_name: P90 | Chopper (Well-Worn)
+  paint_index: 593
+- market_hash_name: P90 | Chopper (Battle-Scarred)
+  paint_index: 593
+- market_hash_name: P90 | Neoqueen (Factory New)
+  paint_index: 1233
+- market_hash_name: P90 | Neoqueen (Minimal Wear)
+  paint_index: 1233
+- market_hash_name: P90 | Neoqueen (Field-Tested)
+  paint_index: 1233
+- market_hash_name: P90 | Neoqueen (Well-Worn)
+  paint_index: 1233
+- market_hash_name: P90 | Neoqueen (Battle-Scarred)
+  paint_index: 1233
+- market_hash_name: P90 | Shallow Grave (Factory New)
+  paint_index: 636
+- market_hash_name: P90 | Shallow Grave (Minimal Wear)
+  paint_index: 636
+- market_hash_name: P90 | Shallow Grave (Field-Tested)
+  paint_index: 636
+- market_hash_name: P90 | Shallow Grave (Well-Worn)
+  paint_index: 636
+- market_hash_name: P90 | Shallow Grave (Battle-Scarred)
+  paint_index: 636
+- market_hash_name: P90 | Vent Rush (Factory New)
+  paint_index: 1154
+- market_hash_name: P90 | Vent Rush (Minimal Wear)
+  paint_index: 1154
+- market_hash_name: P90 | Vent Rush (Field-Tested)
+  paint_index: 1154
+- market_hash_name: P90 | Vent Rush (Well-Worn)
+  paint_index: 1154
+- market_hash_name: P90 | Vent Rush (Battle-Scarred)
+  paint_index: 1154
+- market_hash_name: P90 | Traction (Factory New)
+  paint_index: 717
+- market_hash_name: P90 | Traction (Minimal Wear)
+  paint_index: 717
+- market_hash_name: P90 | Traction (Field-Tested)
+  paint_index: 717
+- market_hash_name: P90 | Traction (Well-Worn)
+  paint_index: 717
+- market_hash_name: P90 | Traction (Battle-Scarred)
+  paint_index: 717
+- market_hash_name: P90 | Desert Halftone (Factory New)
+  paint_index: 1332
+- market_hash_name: P90 | Desert Halftone (Minimal Wear)
+  paint_index: 1332
+- market_hash_name: P90 | Desert Halftone (Field-Tested)
+  paint_index: 1332
+- market_hash_name: P90 | Desert Halftone (Well-Worn)
+  paint_index: 1332
+- market_hash_name: P90 | Desert Halftone (Battle-Scarred)
+  paint_index: 1332
+- market_hash_name: P90 | Facility Negative (Factory New)
+  paint_index: 776
+- market_hash_name: P90 | Facility Negative (Minimal Wear)
+  paint_index: 776
+- market_hash_name: P90 | Facility Negative (Field-Tested)
+  paint_index: 776
+- market_hash_name: P90 | Facility Negative (Well-Worn)
+  paint_index: 776
+- market_hash_name: P90 | Facility Negative (Battle-Scarred)
+  paint_index: 776
+- market_hash_name: P90 | Desert DDPAT (Factory New)
+  paint_index: 925
+- market_hash_name: P90 | Desert DDPAT (Minimal Wear)
+  paint_index: 925
+- market_hash_name: P90 | Desert DDPAT (Field-Tested)
+  paint_index: 925
+- market_hash_name: P90 | Desert DDPAT (Well-Worn)
+  paint_index: 925
+- market_hash_name: P90 | Desert DDPAT (Battle-Scarred)
+  paint_index: 925
+- market_hash_name: P90 | Blind Spot (Factory New)
+  paint_index: 228
+- market_hash_name: P90 | Blind Spot (Minimal Wear)
+  paint_index: 228
+- market_hash_name: P90 | Blind Spot (Field-Tested)
+  paint_index: 228
+- market_hash_name: P90 | Blind Spot (Well-Worn)
+  paint_index: 228
+- market_hash_name: P90 | Blind Spot (Battle-Scarred)
+  paint_index: 228
+- market_hash_name: P90 | Death Grip (Factory New)
+  paint_index: 669
+- market_hash_name: P90 | Death Grip (Minimal Wear)
+  paint_index: 669
+- market_hash_name: P90 | Death Grip (Field-Tested)
+  paint_index: 669
+- market_hash_name: P90 | Death Grip (Well-Worn)
+  paint_index: 669
+- market_hash_name: P90 | Death Grip (Battle-Scarred)
+  paint_index: 669
+- market_hash_name: P90 | Cocoa Rampage (Factory New)
+  paint_index: 977
+- market_hash_name: P90 | Cocoa Rampage (Minimal Wear)
+  paint_index: 977
+- market_hash_name: P90 | Cocoa Rampage (Field-Tested)
+  paint_index: 977
+- market_hash_name: P90 | Cocoa Rampage (Well-Worn)
+  paint_index: 977
+- market_hash_name: P90 | Cocoa Rampage (Battle-Scarred)
+  paint_index: 977
+- market_hash_name: P90 | Blue Tac (Factory New)
+  paint_index: 1277
+- market_hash_name: P90 | Blue Tac (Minimal Wear)
+  paint_index: 1277
+- market_hash_name: P90 | Blue Tac (Field-Tested)
+  paint_index: 1277
+- market_hash_name: P90 | Blue Tac (Well-Worn)
+  paint_index: 1277
+- market_hash_name: P90 | Blue Tac (Battle-Scarred)
+  paint_index: 1277
+- market_hash_name: P90 | Schematic (Factory New)
+  paint_index: 1074
+- market_hash_name: P90 | Schematic (Minimal Wear)
+  paint_index: 1074
+- market_hash_name: P90 | Schematic (Field-Tested)
+  paint_index: 1074
+- market_hash_name: P90 | Schematic (Well-Worn)
+  paint_index: 1074
+- market_hash_name: P90 | Schematic (Battle-Scarred)
+  paint_index: 1074
+- market_hash_name: P90 | Virus (Factory New)
+  paint_index: 20
+- market_hash_name: P90 | Virus (Minimal Wear)
+  paint_index: 20
+- market_hash_name: P90 | Virus (Field-Tested)
+  paint_index: 20
+- market_hash_name: P90 | Virus (Well-Worn)
+  paint_index: 20
+- market_hash_name: P90 | Virus (Battle-Scarred)
+  paint_index: 20
+- market_hash_name: P90 | Aeolian Light (Factory New)
+  paint_index: 1361
+- market_hash_name: P90 | Aeolian Light (Minimal Wear)
+  paint_index: 1361
+- market_hash_name: P90 | Aeolian Light (Field-Tested)
+  paint_index: 1361
+- market_hash_name: P90 | Aeolian Light (Well-Worn)
+  paint_index: 1361
+- market_hash_name: P90 | Aeolian Light (Battle-Scarred)
+  paint_index: 1361
+- market_hash_name: P90 | Reef Grief (Factory New)
+  paint_index: 1256
+- market_hash_name: P90 | Reef Grief (Minimal Wear)
+  paint_index: 1256
+- market_hash_name: P90 | Reef Grief (Field-Tested)
+  paint_index: 1256
+- market_hash_name: P90 | Reef Grief (Well-Worn)
+  paint_index: 1256
+- market_hash_name: P90 | Reef Grief (Battle-Scarred)
+  paint_index: 1256
+- market_hash_name: P90 | Mustard Gas (Factory New)
+  paint_index: 1291
+- market_hash_name: P90 | Mustard Gas (Minimal Wear)
+  paint_index: 1291
+- market_hash_name: P90 | Mustard Gas (Field-Tested)
+  paint_index: 1291
+- market_hash_name: P90 | Mustard Gas (Well-Worn)
+  paint_index: 1291
+- market_hash_name: P90 | Mustard Gas (Battle-Scarred)
+  paint_index: 1291
+- market_hash_name: P90 | Wave Breaker (Factory New)
+  paint_index: 1190
+- market_hash_name: P90 | Wave Breaker (Minimal Wear)
+  paint_index: 1190
+- market_hash_name: P90 | Wave Breaker (Field-Tested)
+  paint_index: 1190
+- market_hash_name: P90 | Wave Breaker (Well-Worn)
+  paint_index: 1190
+- market_hash_name: P90 | Wave Breaker (Battle-Scarred)
+  paint_index: 1190
+- market_hash_name: P90 | Deathgaze (Factory New)
+  paint_index: 1419
+- market_hash_name: P90 | Deathgaze (Minimal Wear)
+  paint_index: 1419
+- market_hash_name: P90 | Deathgaze (Field-Tested)
+  paint_index: 1419
+- market_hash_name: P90 | Deathgaze (Well-Worn)
+  paint_index: 1419
+- market_hash_name: P90 | Deathgaze (Battle-Scarred)
+  paint_index: 1419
+- market_hash_name: P90 | Randy Rush (Factory New)
+  paint_index: 127
+- market_hash_name: P90 | Randy Rush (Minimal Wear)
+  paint_index: 127
+- market_hash_name: P90 | Randy Rush (Field-Tested)
+  paint_index: 127
+- market_hash_name: P90 | Randy Rush (Well-Worn)
+  paint_index: 127
+- market_hash_name: P90 | Randy Rush (Battle-Scarred)
+  paint_index: 127
+- market_hash_name: P90 | Straight Dimes (Factory New)
+  paint_index: 1199
+- market_hash_name: P90 | Straight Dimes (Minimal Wear)
+  paint_index: 1199
+- market_hash_name: P90 | Straight Dimes (Field-Tested)
+  paint_index: 1199
+- market_hash_name: P90 | Straight Dimes (Well-Worn)
+  paint_index: 1199
+- market_hash_name: P90 | Straight Dimes (Battle-Scarred)
+  paint_index: 1199
+- market_hash_name: P90 | Storm (Factory New)
+  paint_index: 100
+- market_hash_name: P90 | Storm (Minimal Wear)
+  paint_index: 100
+- market_hash_name: P90 | Storm (Field-Tested)
+  paint_index: 100
+- market_hash_name: P90 | Storm (Well-Worn)
+  paint_index: 100
+- market_hash_name: P90 | Storm (Battle-Scarred)
+  paint_index: 100
+- market_hash_name: P90 | Sunset Lily (Factory New)
+  paint_index: 726
+- market_hash_name: P90 | Sunset Lily (Minimal Wear)
+  paint_index: 726
+- market_hash_name: P90 | Sunset Lily (Field-Tested)
+  paint_index: 726
+- market_hash_name: P90 | Sunset Lily (Well-Worn)
+  paint_index: 726
+- market_hash_name: P90 | Sunset Lily (Battle-Scarred)
+  paint_index: 726
+- market_hash_name: P90 | Scorched (Factory New)
+  paint_index: 175
+- market_hash_name: P90 | Scorched (Minimal Wear)
+  paint_index: 175
+- market_hash_name: P90 | Scorched (Field-Tested)
+  paint_index: 175
+- market_hash_name: P90 | Scorched (Well-Worn)
+  paint_index: 175
+- market_hash_name: P90 | Scorched (Battle-Scarred)
+  paint_index: 175
+- market_hash_name: P90 | Glacier Mesh (Factory New)
+  paint_index: 111
+- market_hash_name: P90 | Glacier Mesh (Minimal Wear)
+  paint_index: 111
+- market_hash_name: P90 | Glacier Mesh (Field-Tested)
+  paint_index: 111
+- market_hash_name: P90 | Glacier Mesh (Well-Worn)
+  paint_index: 111
+- market_hash_name: P90 | Glacier Mesh (Battle-Scarred)
+  paint_index: 111
+- market_hash_name: P90 | Teardown (Factory New)
+  paint_index: 244
+- market_hash_name: P90 | Teardown (Minimal Wear)
+  paint_index: 244
+- market_hash_name: P90 | Teardown (Field-Tested)
+  paint_index: 244
+- market_hash_name: P90 | Teardown (Well-Worn)
+  paint_index: 244
+- market_hash_name: P90 | Teardown (Battle-Scarred)
+  paint_index: 244
+- market_hash_name: P90 | Verdant Growth (Factory New)
+  paint_index: 828
+- market_hash_name: P90 | Verdant Growth (Minimal Wear)
+  paint_index: 828
+- market_hash_name: P90 | Verdant Growth (Field-Tested)
+  paint_index: 828
+- market_hash_name: P90 | Verdant Growth (Well-Worn)
+  paint_index: 828
+- market_hash_name: P90 | Verdant Growth (Battle-Scarred)
+  paint_index: 828
+- market_hash_name: P90 | Fallout Warning (Factory New)
+  paint_index: 169
+- market_hash_name: P90 | Fallout Warning (Minimal Wear)
+  paint_index: 169
+- market_hash_name: P90 | Fallout Warning (Field-Tested)
+  paint_index: 169
+- market_hash_name: P90 | Fallout Warning (Well-Worn)
+  paint_index: 169
+- market_hash_name: P90 | Fallout Warning (Battle-Scarred)
+  paint_index: 169
+- market_hash_name: P90 | Wash me (Factory New)
+  paint_index: 133
+- market_hash_name: P90 | Wash me (Minimal Wear)
+  paint_index: 133
+- market_hash_name: P90 | Wash me (Field-Tested)
+  paint_index: 133
+- market_hash_name: P90 | Wash me (Well-Worn)
+  paint_index: 133
+- market_hash_name: P90 | Wash me (Battle-Scarred)
+  paint_index: 133
+- market_hash_name: P90 | Sand Spray (Factory New)
+  paint_index: 124
+- market_hash_name: P90 | Sand Spray (Minimal Wear)
+  paint_index: 124
+- market_hash_name: P90 | Sand Spray (Field-Tested)
+  paint_index: 124
+- market_hash_name: P90 | Sand Spray (Well-Worn)
+  paint_index: 124
+- market_hash_name: P90 | Sand Spray (Battle-Scarred)
+  paint_index: 124
+- market_hash_name: P90 | Ash Wood (Factory New)
+  paint_index: 234
+- market_hash_name: P90 | Ash Wood (Minimal Wear)
+  paint_index: 234
+- market_hash_name: P90 | Ash Wood (Field-Tested)
+  paint_index: 234
+- market_hash_name: P90 | Ash Wood (Well-Worn)
+  paint_index: 234

@@ -1,0 +1,1104 @@
+# Phase 0 data backfill (batch 3)
+# Excludes shotguns & machineguns, souvenir, skins already in starter_skins.yaml (batch 0).
+# Filtering criteria: >500 total listings across all exteriors, >5 cents.
+# StatTrak variants are omitted
+# Includes: FAMAS, G3SG1, Galil AR
+skins:
+- market_hash_name: FAMAS | Faulty Wiring (Factory New)
+  paint_index: 1066
+- market_hash_name: FAMAS | Faulty Wiring (Minimal Wear)
+  paint_index: 1066
+- market_hash_name: FAMAS | Faulty Wiring (Field-Tested)
+  paint_index: 1066
+- market_hash_name: FAMAS | Faulty Wiring (Well-Worn)
+  paint_index: 1066
+- market_hash_name: FAMAS | Faulty Wiring (Battle-Scarred)
+  paint_index: 1066
+- market_hash_name: FAMAS | Neural Net (Factory New)
+  paint_index: 477
+- market_hash_name: FAMAS | Neural Net (Minimal Wear)
+  paint_index: 477
+- market_hash_name: FAMAS | Neural Net (Field-Tested)
+  paint_index: 477
+- market_hash_name: FAMAS | Neural Net (Well-Worn)
+  paint_index: 477
+- market_hash_name: FAMAS | Neural Net (Battle-Scarred)
+  paint_index: 477
+- market_hash_name: FAMAS | Meltdown (Factory New)
+  paint_index: 1053
+- market_hash_name: FAMAS | Meltdown (Minimal Wear)
+  paint_index: 1053
+- market_hash_name: FAMAS | Meltdown (Field-Tested)
+  paint_index: 1053
+- market_hash_name: FAMAS | Meltdown (Well-Worn)
+  paint_index: 1053
+- market_hash_name: FAMAS | Styx (Factory New)
+  paint_index: 371
+- market_hash_name: FAMAS | Styx (Minimal Wear)
+  paint_index: 371
+- market_hash_name: FAMAS | Styx (Field-Tested)
+  paint_index: 371
+- market_hash_name: FAMAS | Styx (Well-Worn)
+  paint_index: 371
+- market_hash_name: FAMAS | Styx (Battle-Scarred)
+  paint_index: 371
+- market_hash_name: FAMAS | Prime Conspiracy (Factory New)
+  paint_index: 999
+- market_hash_name: FAMAS | Prime Conspiracy (Minimal Wear)
+  paint_index: 999
+- market_hash_name: FAMAS | Prime Conspiracy (Field-Tested)
+  paint_index: 999
+- market_hash_name: FAMAS | Prime Conspiracy (Well-Worn)
+  paint_index: 999
+- market_hash_name: FAMAS | Prime Conspiracy (Battle-Scarred)
+  paint_index: 999
+- market_hash_name: FAMAS | Dark Water (Minimal Wear)
+  paint_index: 60
+- market_hash_name: FAMAS | Dark Water (Field-Tested)
+  paint_index: 60
+- market_hash_name: FAMAS | Sergeant (Minimal Wear)
+  paint_index: 288
+- market_hash_name: FAMAS | Sergeant (Field-Tested)
+  paint_index: 288
+- market_hash_name: FAMAS | Sergeant (Well-Worn)
+  paint_index: 288
+- market_hash_name: FAMAS | Sergeant (Battle-Scarred)
+  paint_index: 288
+- market_hash_name: FAMAS | Valence (Factory New)
+  paint_index: 529
+- market_hash_name: FAMAS | Valence (Minimal Wear)
+  paint_index: 529
+- market_hash_name: FAMAS | Valence (Field-Tested)
+  paint_index: 529
+- market_hash_name: FAMAS | Valence (Well-Worn)
+  paint_index: 529
+- market_hash_name: FAMAS | Valence (Battle-Scarred)
+  paint_index: 529
+- market_hash_name: FAMAS | Djinn (Factory New)
+  paint_index: 429
+- market_hash_name: FAMAS | Djinn (Minimal Wear)
+  paint_index: 429
+- market_hash_name: FAMAS | Djinn (Field-Tested)
+  paint_index: 429
+- market_hash_name: FAMAS | Djinn (Well-Worn)
+  paint_index: 429
+- market_hash_name: FAMAS | Djinn (Battle-Scarred)
+  paint_index: 429
+- market_hash_name: FAMAS | Afterimage (Factory New)
+  paint_index: 154
+- market_hash_name: FAMAS | Afterimage (Minimal Wear)
+  paint_index: 154
+- market_hash_name: FAMAS | Afterimage (Field-Tested)
+  paint_index: 154
+- market_hash_name: FAMAS | Afterimage (Well-Worn)
+  paint_index: 154
+- market_hash_name: FAMAS | Waters of Nephthys (Factory New)
+  paint_index: 1241
+- market_hash_name: FAMAS | Waters of Nephthys (Minimal Wear)
+  paint_index: 1241
+- market_hash_name: FAMAS | Waters of Nephthys (Field-Tested)
+  paint_index: 1241
+- market_hash_name: FAMAS | Waters of Nephthys (Well-Worn)
+  paint_index: 1241
+- market_hash_name: FAMAS | Waters of Nephthys (Battle-Scarred)
+  paint_index: 1241
+- market_hash_name: FAMAS | Survivor Z (Factory New)
+  paint_index: 492
+- market_hash_name: FAMAS | Survivor Z (Minimal Wear)
+  paint_index: 492
+- market_hash_name: FAMAS | Survivor Z (Field-Tested)
+  paint_index: 492
+- market_hash_name: FAMAS | Survivor Z (Well-Worn)
+  paint_index: 492
+- market_hash_name: FAMAS | Survivor Z (Battle-Scarred)
+  paint_index: 492
+- market_hash_name: FAMAS | Decommissioned (Factory New)
+  paint_index: 904
+- market_hash_name: FAMAS | Decommissioned (Minimal Wear)
+  paint_index: 904
+- market_hash_name: FAMAS | Decommissioned (Field-Tested)
+  paint_index: 904
+- market_hash_name: FAMAS | Decommissioned (Well-Worn)
+  paint_index: 904
+- market_hash_name: FAMAS | Decommissioned (Battle-Scarred)
+  paint_index: 904
+- market_hash_name: FAMAS | Eye of Athena (Factory New)
+  paint_index: 723
+- market_hash_name: FAMAS | Eye of Athena (Minimal Wear)
+  paint_index: 723
+- market_hash_name: FAMAS | Eye of Athena (Field-Tested)
+  paint_index: 723
+- market_hash_name: FAMAS | Eye of Athena (Well-Worn)
+  paint_index: 723
+- market_hash_name: FAMAS | Eye of Athena (Battle-Scarred)
+  paint_index: 723
+- market_hash_name: FAMAS | Pulse (Factory New)
+  paint_index: 260
+- market_hash_name: FAMAS | Pulse (Minimal Wear)
+  paint_index: 260
+- market_hash_name: FAMAS | Pulse (Field-Tested)
+  paint_index: 260
+- market_hash_name: FAMAS | Pulse (Well-Worn)
+  paint_index: 260
+- market_hash_name: FAMAS | ZX Spectron (Factory New)
+  paint_index: 1092
+- market_hash_name: FAMAS | ZX Spectron (Minimal Wear)
+  paint_index: 1092
+- market_hash_name: FAMAS | ZX Spectron (Field-Tested)
+  paint_index: 1092
+- market_hash_name: FAMAS | ZX Spectron (Well-Worn)
+  paint_index: 1092
+- market_hash_name: FAMAS | ZX Spectron (Battle-Scarred)
+  paint_index: 1092
+- market_hash_name: FAMAS | Bad Trip (Factory New)
+  paint_index: 1184
+- market_hash_name: FAMAS | Bad Trip (Minimal Wear)
+  paint_index: 1184
+- market_hash_name: FAMAS | Bad Trip (Field-Tested)
+  paint_index: 1184
+- market_hash_name: FAMAS | Bad Trip (Well-Worn)
+  paint_index: 1184
+- market_hash_name: FAMAS | Bad Trip (Battle-Scarred)
+  paint_index: 1184
+- market_hash_name: FAMAS | Meow 36 (Factory New)
+  paint_index: 1146
+- market_hash_name: FAMAS | Meow 36 (Minimal Wear)
+  paint_index: 1146
+- market_hash_name: FAMAS | Meow 36 (Field-Tested)
+  paint_index: 1146
+- market_hash_name: FAMAS | Meow 36 (Well-Worn)
+  paint_index: 1146
+- market_hash_name: FAMAS | Meow 36 (Battle-Scarred)
+  paint_index: 1146
+- market_hash_name: FAMAS | Commemoration (Factory New)
+  paint_index: 919
+- market_hash_name: FAMAS | Commemoration (Minimal Wear)
+  paint_index: 919
+- market_hash_name: FAMAS | Commemoration (Field-Tested)
+  paint_index: 919
+- market_hash_name: FAMAS | Commemoration (Well-Worn)
+  paint_index: 919
+- market_hash_name: FAMAS | Commemoration (Battle-Scarred)
+  paint_index: 919
+- market_hash_name: FAMAS | Mecha Industries (Factory New)
+  paint_index: 626
+- market_hash_name: FAMAS | Mecha Industries (Minimal Wear)
+  paint_index: 626
+- market_hash_name: FAMAS | Mecha Industries (Field-Tested)
+  paint_index: 626
+- market_hash_name: FAMAS | Mecha Industries (Well-Worn)
+  paint_index: 626
+- market_hash_name: FAMAS | Mecha Industries (Battle-Scarred)
+  paint_index: 626
+- market_hash_name: FAMAS | Roll Cage (Factory New)
+  paint_index: 604
+- market_hash_name: FAMAS | Roll Cage (Minimal Wear)
+  paint_index: 604
+- market_hash_name: FAMAS | Roll Cage (Field-Tested)
+  paint_index: 604
+- market_hash_name: FAMAS | Roll Cage (Well-Worn)
+  paint_index: 604
+- market_hash_name: FAMAS | Roll Cage (Battle-Scarred)
+  paint_index: 604
+- market_hash_name: FAMAS | Rapid Eye Movement (Factory New)
+  paint_index: 1127
+- market_hash_name: FAMAS | Rapid Eye Movement (Minimal Wear)
+  paint_index: 1127
+- market_hash_name: FAMAS | Rapid Eye Movement (Field-Tested)
+  paint_index: 1127
+- market_hash_name: FAMAS | Rapid Eye Movement (Well-Worn)
+  paint_index: 1127
+- market_hash_name: FAMAS | Rapid Eye Movement (Battle-Scarred)
+  paint_index: 1127
+- market_hash_name: FAMAS | Half Sleeve (Factory New)
+  paint_index: 461
+- market_hash_name: FAMAS | Half Sleeve (Minimal Wear)
+  paint_index: 461
+- market_hash_name: FAMAS | Half Sleeve (Field-Tested)
+  paint_index: 461
+- market_hash_name: FAMAS | Half Sleeve (Well-Worn)
+  paint_index: 461
+- market_hash_name: FAMAS | Half Sleeve (Battle-Scarred)
+  paint_index: 461
+- market_hash_name: FAMAS | 2A2F (Factory New)
+  paint_index: 1202
+- market_hash_name: FAMAS | 2A2F (Minimal Wear)
+  paint_index: 1202
+- market_hash_name: FAMAS | 2A2F (Field-Tested)
+  paint_index: 1202
+- market_hash_name: FAMAS | 2A2F (Well-Worn)
+  paint_index: 1202
+- market_hash_name: FAMAS | 2A2F (Battle-Scarred)
+  paint_index: 1202
+- market_hash_name: FAMAS | Halftone Wash (Factory New)
+  paint_index: 882
+- market_hash_name: FAMAS | Halftone Wash (Minimal Wear)
+  paint_index: 882
+- market_hash_name: FAMAS | Halftone Wash (Field-Tested)
+  paint_index: 882
+- market_hash_name: FAMAS | Halftone Wash (Well-Worn)
+  paint_index: 882
+- market_hash_name: FAMAS | Halftone Wash (Battle-Scarred)
+  paint_index: 882
+- market_hash_name: FAMAS | Hexane (Factory New)
+  paint_index: 218
+- market_hash_name: FAMAS | Hexane (Minimal Wear)
+  paint_index: 218
+- market_hash_name: FAMAS | Hexane (Field-Tested)
+  paint_index: 218
+- market_hash_name: FAMAS | Hexane (Well-Worn)
+  paint_index: 218
+- market_hash_name: FAMAS | Doomkitty (Minimal Wear)
+  paint_index: 178
+- market_hash_name: FAMAS | Doomkitty (Field-Tested)
+  paint_index: 178
+- market_hash_name: FAMAS | Cyanospatter (Factory New)
+  paint_index: 92
+- market_hash_name: FAMAS | Cyanospatter (Minimal Wear)
+  paint_index: 92
+- market_hash_name: FAMAS | Cyanospatter (Field-Tested)
+  paint_index: 92
+- market_hash_name: FAMAS | Cyanospatter (Well-Worn)
+  paint_index: 92
+- market_hash_name: FAMAS | Cyanospatter (Battle-Scarred)
+  paint_index: 92
+- market_hash_name: FAMAS | CaliCamo (Factory New)
+  paint_index: 240
+- market_hash_name: FAMAS | CaliCamo (Minimal Wear)
+  paint_index: 240
+- market_hash_name: FAMAS | CaliCamo (Field-Tested)
+  paint_index: 240
+- market_hash_name: FAMAS | CaliCamo (Well-Worn)
+  paint_index: 240
+- market_hash_name: FAMAS | CaliCamo (Battle-Scarred)
+  paint_index: 240
+- market_hash_name: FAMAS | Byproduct (Factory New)
+  paint_index: 1393
+- market_hash_name: FAMAS | Byproduct (Minimal Wear)
+  paint_index: 1393
+- market_hash_name: FAMAS | Byproduct (Field-Tested)
+  paint_index: 1393
+- market_hash_name: FAMAS | Byproduct (Well-Worn)
+  paint_index: 1393
+- market_hash_name: FAMAS | Byproduct (Battle-Scarred)
+  paint_index: 1393
+- market_hash_name: FAMAS | Colony (Factory New)
+  paint_index: 47
+- market_hash_name: FAMAS | Colony (Minimal Wear)
+  paint_index: 47
+- market_hash_name: FAMAS | Colony (Field-Tested)
+  paint_index: 47
+- market_hash_name: FAMAS | Colony (Well-Worn)
+  paint_index: 47
+- market_hash_name: FAMAS | Colony (Battle-Scarred)
+  paint_index: 47
+- market_hash_name: FAMAS | Yeti Camo (Factory New)
+  paint_index: 1219
+- market_hash_name: FAMAS | Yeti Camo (Minimal Wear)
+  paint_index: 1219
+- market_hash_name: FAMAS | Yeti Camo (Field-Tested)
+  paint_index: 1219
+- market_hash_name: FAMAS | Yeti Camo (Well-Worn)
+  paint_index: 1219
+- market_hash_name: FAMAS | Yeti Camo (Battle-Scarred)
+  paint_index: 1219
+- market_hash_name: FAMAS | Vendetta (Factory New)
+  paint_index: 1365
+- market_hash_name: FAMAS | Vendetta (Minimal Wear)
+  paint_index: 1365
+- market_hash_name: FAMAS | Vendetta (Field-Tested)
+  paint_index: 1365
+- market_hash_name: FAMAS | Vendetta (Well-Worn)
+  paint_index: 1365
+- market_hash_name: FAMAS | Vendetta (Battle-Scarred)
+  paint_index: 1365
+- market_hash_name: FAMAS | Grey Ghost (Factory New)
+  paint_index: 1321
+- market_hash_name: FAMAS | Grey Ghost (Minimal Wear)
+  paint_index: 1321
+- market_hash_name: FAMAS | Grey Ghost (Field-Tested)
+  paint_index: 1321
+- market_hash_name: FAMAS | Grey Ghost (Well-Worn)
+  paint_index: 1321
+- market_hash_name: FAMAS | Grey Ghost (Battle-Scarred)
+  paint_index: 1321
+- market_hash_name: FAMAS | Crypsis (Factory New)
+  paint_index: 835
+- market_hash_name: FAMAS | Crypsis (Minimal Wear)
+  paint_index: 835
+- market_hash_name: FAMAS | Crypsis (Field-Tested)
+  paint_index: 835
+- market_hash_name: FAMAS | Crypsis (Well-Worn)
+  paint_index: 835
+- market_hash_name: FAMAS | Crypsis (Battle-Scarred)
+  paint_index: 835
+- market_hash_name: FAMAS | Macabre (Factory New)
+  paint_index: 659
+- market_hash_name: FAMAS | Macabre (Minimal Wear)
+  paint_index: 659
+- market_hash_name: FAMAS | Macabre (Field-Tested)
+  paint_index: 659
+- market_hash_name: FAMAS | Macabre (Well-Worn)
+  paint_index: 659
+- market_hash_name: FAMAS | Macabre (Battle-Scarred)
+  paint_index: 659
+- market_hash_name: FAMAS | Night Borre (Factory New)
+  paint_index: 863
+- market_hash_name: FAMAS | Night Borre (Minimal Wear)
+  paint_index: 863
+- market_hash_name: FAMAS | Night Borre (Field-Tested)
+  paint_index: 863
+- market_hash_name: FAMAS | Night Borre (Well-Worn)
+  paint_index: 863
+- market_hash_name: FAMAS | Night Borre (Battle-Scarred)
+  paint_index: 863
+- market_hash_name: FAMAS | Teardown (Factory New)
+  paint_index: 244
+- market_hash_name: FAMAS | Teardown (Minimal Wear)
+  paint_index: 244
+- market_hash_name: FAMAS | Teardown (Field-Tested)
+  paint_index: 244
+- market_hash_name: FAMAS | Teardown (Well-Worn)
+  paint_index: 244
+- market_hash_name: FAMAS | Teardown (Battle-Scarred)
+  paint_index: 244
+- market_hash_name: FAMAS | Sundown (Factory New)
+  paint_index: 869
+- market_hash_name: FAMAS | Sundown (Minimal Wear)
+  paint_index: 869
+- market_hash_name: FAMAS | Sundown (Field-Tested)
+  paint_index: 869
+- market_hash_name: FAMAS | Sundown (Well-Worn)
+  paint_index: 869
+- market_hash_name: FAMAS | Sundown (Battle-Scarred)
+  paint_index: 869
+- market_hash_name: FAMAS | Spitfire (Factory New)
+  paint_index: 194
+- market_hash_name: FAMAS | Spitfire (Minimal Wear)
+  paint_index: 194
+- market_hash_name: FAMAS | Spitfire (Field-Tested)
+  paint_index: 194
+- market_hash_name: FAMAS | Spitfire (Well-Worn)
+  paint_index: 194
+- market_hash_name: FAMAS | Spitfire (Battle-Scarred)
+  paint_index: 194
+- market_hash_name: FAMAS | Contrast Spray (Factory New)
+  paint_index: 22
+- market_hash_name: FAMAS | Contrast Spray (Minimal Wear)
+  paint_index: 22
+- market_hash_name: FAMAS | Contrast Spray (Field-Tested)
+  paint_index: 22
+- market_hash_name: FAMAS | Contrast Spray (Well-Worn)
+  paint_index: 22
+- market_hash_name: FAMAS | Contrast Spray (Battle-Scarred)
+  paint_index: 22
+- market_hash_name: FAMAS | Palm (Factory New)
+  paint_index: 1302
+- market_hash_name: FAMAS | Palm (Minimal Wear)
+  paint_index: 1302
+- market_hash_name: FAMAS | Palm (Field-Tested)
+  paint_index: 1302
+- market_hash_name: FAMAS | Palm (Well-Worn)
+  paint_index: 1302
+- market_hash_name: FAMAS | Palm (Battle-Scarred)
+  paint_index: 1302
+- market_hash_name: G3SG1 | Ancient Ritual (Factory New)
+  paint_index: 1034
+- market_hash_name: G3SG1 | Ancient Ritual (Minimal Wear)
+  paint_index: 1034
+- market_hash_name: G3SG1 | Ancient Ritual (Field-Tested)
+  paint_index: 1034
+- market_hash_name: G3SG1 | Ancient Ritual (Well-Worn)
+  paint_index: 1034
+- market_hash_name: G3SG1 | Ancient Ritual (Battle-Scarred)
+  paint_index: 1034
+- market_hash_name: G3SG1 | Murky (Factory New)
+  paint_index: 382
+- market_hash_name: G3SG1 | Murky (Minimal Wear)
+  paint_index: 382
+- market_hash_name: G3SG1 | Murky (Field-Tested)
+  paint_index: 382
+- market_hash_name: G3SG1 | Violet Murano (Factory New)
+  paint_index: 739
+- market_hash_name: G3SG1 | Violet Murano (Minimal Wear)
+  paint_index: 739
+- market_hash_name: G3SG1 | Violet Murano (Field-Tested)
+  paint_index: 739
+- market_hash_name: G3SG1 | Violet Murano (Well-Worn)
+  paint_index: 739
+- market_hash_name: G3SG1 | Violet Murano (Battle-Scarred)
+  paint_index: 739
+- market_hash_name: G3SG1 | Chronos (Factory New)
+  paint_index: 438
+- market_hash_name: G3SG1 | Chronos (Minimal Wear)
+  paint_index: 438
+- market_hash_name: G3SG1 | Chronos (Field-Tested)
+  paint_index: 438
+- market_hash_name: G3SG1 | Chronos (Well-Worn)
+  paint_index: 438
+- market_hash_name: G3SG1 | Black Sand (Factory New)
+  paint_index: 891
+- market_hash_name: G3SG1 | Black Sand (Minimal Wear)
+  paint_index: 891
+- market_hash_name: G3SG1 | Black Sand (Field-Tested)
+  paint_index: 891
+- market_hash_name: G3SG1 | Black Sand (Well-Worn)
+  paint_index: 891
+- market_hash_name: G3SG1 | Black Sand (Battle-Scarred)
+  paint_index: 891
+- market_hash_name: G3SG1 | The Executioner (Minimal Wear)
+  paint_index: 511
+- market_hash_name: G3SG1 | The Executioner (Field-Tested)
+  paint_index: 511
+- market_hash_name: G3SG1 | The Executioner (Well-Worn)
+  paint_index: 511
+- market_hash_name: G3SG1 | The Executioner (Battle-Scarred)
+  paint_index: 511
+- market_hash_name: G3SG1 | Dream Glade (Factory New)
+  paint_index: 1129
+- market_hash_name: G3SG1 | Dream Glade (Minimal Wear)
+  paint_index: 1129
+- market_hash_name: G3SG1 | Dream Glade (Field-Tested)
+  paint_index: 1129
+- market_hash_name: G3SG1 | Dream Glade (Well-Worn)
+  paint_index: 1129
+- market_hash_name: G3SG1 | Dream Glade (Battle-Scarred)
+  paint_index: 1129
+- market_hash_name: G3SG1 | Keeping Tabs (Factory New)
+  paint_index: 1095
+- market_hash_name: G3SG1 | Keeping Tabs (Minimal Wear)
+  paint_index: 1095
+- market_hash_name: G3SG1 | Keeping Tabs (Field-Tested)
+  paint_index: 1095
+- market_hash_name: G3SG1 | Keeping Tabs (Well-Worn)
+  paint_index: 1095
+- market_hash_name: G3SG1 | Keeping Tabs (Battle-Scarred)
+  paint_index: 1095
+- market_hash_name: G3SG1 | High Seas (Factory New)
+  paint_index: 712
+- market_hash_name: G3SG1 | High Seas (Minimal Wear)
+  paint_index: 712
+- market_hash_name: G3SG1 | High Seas (Field-Tested)
+  paint_index: 712
+- market_hash_name: G3SG1 | High Seas (Well-Worn)
+  paint_index: 712
+- market_hash_name: G3SG1 | High Seas (Battle-Scarred)
+  paint_index: 712
+- market_hash_name: G3SG1 | Hunter (Factory New)
+  paint_index: 677
+- market_hash_name: G3SG1 | Hunter (Minimal Wear)
+  paint_index: 677
+- market_hash_name: G3SG1 | Hunter (Field-Tested)
+  paint_index: 677
+- market_hash_name: G3SG1 | Hunter (Well-Worn)
+  paint_index: 677
+- market_hash_name: G3SG1 | Hunter (Battle-Scarred)
+  paint_index: 677
+- market_hash_name: G3SG1 | Digital Mesh (Factory New)
+  paint_index: 980
+- market_hash_name: G3SG1 | Digital Mesh (Minimal Wear)
+  paint_index: 980
+- market_hash_name: G3SG1 | Digital Mesh (Field-Tested)
+  paint_index: 980
+- market_hash_name: G3SG1 | Digital Mesh (Well-Worn)
+  paint_index: 980
+- market_hash_name: G3SG1 | Digital Mesh (Battle-Scarred)
+  paint_index: 980
+- market_hash_name: G3SG1 | Flux (Factory New)
+  paint_index: 493
+- market_hash_name: G3SG1 | Flux (Minimal Wear)
+  paint_index: 493
+- market_hash_name: G3SG1 | Flux (Field-Tested)
+  paint_index: 493
+- market_hash_name: G3SG1 | Flux (Well-Worn)
+  paint_index: 493
+- market_hash_name: G3SG1 | Flux (Battle-Scarred)
+  paint_index: 493
+- market_hash_name: G3SG1 | Scavenger (Factory New)
+  paint_index: 806
+- market_hash_name: G3SG1 | Scavenger (Minimal Wear)
+  paint_index: 806
+- market_hash_name: G3SG1 | Scavenger (Field-Tested)
+  paint_index: 806
+- market_hash_name: G3SG1 | Scavenger (Well-Worn)
+  paint_index: 806
+- market_hash_name: G3SG1 | Scavenger (Battle-Scarred)
+  paint_index: 806
+- market_hash_name: G3SG1 | Ventilator (Factory New)
+  paint_index: 606
+- market_hash_name: G3SG1 | Ventilator (Minimal Wear)
+  paint_index: 606
+- market_hash_name: G3SG1 | Ventilator (Field-Tested)
+  paint_index: 606
+- market_hash_name: G3SG1 | Ventilator (Well-Worn)
+  paint_index: 606
+- market_hash_name: G3SG1 | Stinger (Factory New)
+  paint_index: 628
+- market_hash_name: G3SG1 | Stinger (Minimal Wear)
+  paint_index: 628
+- market_hash_name: G3SG1 | Stinger (Field-Tested)
+  paint_index: 628
+- market_hash_name: G3SG1 | Stinger (Well-Worn)
+  paint_index: 628
+- market_hash_name: G3SG1 | Stinger (Battle-Scarred)
+  paint_index: 628
+- market_hash_name: G3SG1 | Polar Camo (Factory New)
+  paint_index: 74
+- market_hash_name: G3SG1 | Polar Camo (Minimal Wear)
+  paint_index: 74
+- market_hash_name: G3SG1 | Polar Camo (Field-Tested)
+  paint_index: 74
+- market_hash_name: G3SG1 | Polar Camo (Well-Worn)
+  paint_index: 74
+- market_hash_name: G3SG1 | Polar Camo (Battle-Scarred)
+  paint_index: 74
+- market_hash_name: G3SG1 | Arctic Camo (Factory New)
+  paint_index: 6
+- market_hash_name: G3SG1 | Arctic Camo (Minimal Wear)
+  paint_index: 6
+- market_hash_name: G3SG1 | Arctic Camo (Field-Tested)
+  paint_index: 6
+- market_hash_name: G3SG1 | Arctic Camo (Well-Worn)
+  paint_index: 6
+- market_hash_name: G3SG1 | Arctic Camo (Battle-Scarred)
+  paint_index: 6
+- market_hash_name: G3SG1 | Demeter (Factory New)
+  paint_index: 195
+- market_hash_name: G3SG1 | Demeter (Minimal Wear)
+  paint_index: 195
+- market_hash_name: G3SG1 | Demeter (Field-Tested)
+  paint_index: 195
+- market_hash_name: G3SG1 | Demeter (Well-Worn)
+  paint_index: 195
+- market_hash_name: G3SG1 | Demeter (Battle-Scarred)
+  paint_index: 195
+- market_hash_name: G3SG1 | Desert Storm (Factory New)
+  paint_index: 8
+- market_hash_name: G3SG1 | Desert Storm (Minimal Wear)
+  paint_index: 8
+- market_hash_name: G3SG1 | Desert Storm (Field-Tested)
+  paint_index: 8
+- market_hash_name: G3SG1 | Desert Storm (Well-Worn)
+  paint_index: 8
+- market_hash_name: G3SG1 | Desert Storm (Battle-Scarred)
+  paint_index: 8
+- market_hash_name: G3SG1 | Orange Kimono (Factory New)
+  paint_index: 465
+- market_hash_name: G3SG1 | Orange Kimono (Minimal Wear)
+  paint_index: 465
+- market_hash_name: G3SG1 | Orange Kimono (Field-Tested)
+  paint_index: 465
+- market_hash_name: G3SG1 | Orange Kimono (Well-Worn)
+  paint_index: 465
+- market_hash_name: G3SG1 | Orange Kimono (Battle-Scarred)
+  paint_index: 465
+- market_hash_name: G3SG1 | VariCamo (Factory New)
+  paint_index: 235
+- market_hash_name: G3SG1 | VariCamo (Minimal Wear)
+  paint_index: 235
+- market_hash_name: G3SG1 | VariCamo (Field-Tested)
+  paint_index: 235
+- market_hash_name: G3SG1 | VariCamo (Well-Worn)
+  paint_index: 235
+- market_hash_name: G3SG1 | VariCamo (Battle-Scarred)
+  paint_index: 235
+- market_hash_name: G3SG1 | Green Apple (Factory New)
+  paint_index: 294
+- market_hash_name: G3SG1 | Green Apple (Minimal Wear)
+  paint_index: 294
+- market_hash_name: G3SG1 | Green Apple (Field-Tested)
+  paint_index: 294
+- market_hash_name: G3SG1 | Contractor (Factory New)
+  paint_index: 46
+- market_hash_name: G3SG1 | Contractor (Minimal Wear)
+  paint_index: 46
+- market_hash_name: G3SG1 | Contractor (Field-Tested)
+  paint_index: 46
+- market_hash_name: G3SG1 | Contractor (Well-Worn)
+  paint_index: 46
+- market_hash_name: G3SG1 | Contractor (Battle-Scarred)
+  paint_index: 46
+- market_hash_name: G3SG1 | Red Jasper (Factory New)
+  paint_index: 1328
+- market_hash_name: G3SG1 | Red Jasper (Minimal Wear)
+  paint_index: 1328
+- market_hash_name: G3SG1 | Red Jasper (Field-Tested)
+  paint_index: 1328
+- market_hash_name: G3SG1 | Red Jasper (Well-Worn)
+  paint_index: 1328
+- market_hash_name: G3SG1 | Red Jasper (Battle-Scarred)
+  paint_index: 1328
+- market_hash_name: G3SG1 | Orange Crash (Factory New)
+  paint_index: 545
+- market_hash_name: G3SG1 | Orange Crash (Minimal Wear)
+  paint_index: 545
+- market_hash_name: G3SG1 | Orange Crash (Field-Tested)
+  paint_index: 545
+- market_hash_name: G3SG1 | Orange Crash (Well-Worn)
+  paint_index: 545
+- market_hash_name: G3SG1 | Orange Crash (Battle-Scarred)
+  paint_index: 545
+- market_hash_name: G3SG1 | Green Cell (Factory New)
+  paint_index: 1305
+- market_hash_name: G3SG1 | Green Cell (Minimal Wear)
+  paint_index: 1305
+- market_hash_name: G3SG1 | Green Cell (Field-Tested)
+  paint_index: 1305
+- market_hash_name: G3SG1 | Green Cell (Well-Worn)
+  paint_index: 1305
+- market_hash_name: G3SG1 | Green Cell (Battle-Scarred)
+  paint_index: 1305
+- market_hash_name: G3SG1 | Safari Mesh (Factory New)
+  paint_index: 72
+- market_hash_name: G3SG1 | Safari Mesh (Minimal Wear)
+  paint_index: 72
+- market_hash_name: G3SG1 | Safari Mesh (Field-Tested)
+  paint_index: 72
+- market_hash_name: G3SG1 | Safari Mesh (Well-Worn)
+  paint_index: 72
+- market_hash_name: G3SG1 | Safari Mesh (Battle-Scarred)
+  paint_index: 72
+- market_hash_name: G3SG1 | New Roots (Factory New)
+  paint_index: 930
+- market_hash_name: G3SG1 | New Roots (Minimal Wear)
+  paint_index: 930
+- market_hash_name: G3SG1 | New Roots (Field-Tested)
+  paint_index: 930
+- market_hash_name: G3SG1 | New Roots (Well-Worn)
+  paint_index: 930
+- market_hash_name: G3SG1 | New Roots (Battle-Scarred)
+  paint_index: 930
+- market_hash_name: G3SG1 | Jungle Dashed (Factory New)
+  paint_index: 147
+- market_hash_name: G3SG1 | Jungle Dashed (Minimal Wear)
+  paint_index: 147
+- market_hash_name: G3SG1 | Jungle Dashed (Field-Tested)
+  paint_index: 147
+- market_hash_name: G3SG1 | Jungle Dashed (Well-Worn)
+  paint_index: 147
+- market_hash_name: G3SG1 | Jungle Dashed (Battle-Scarred)
+  paint_index: 147
+- market_hash_name: G3SG1 | Azure Zebra (Factory New)
+  paint_index: 229
+- market_hash_name: G3SG1 | Azure Zebra (Minimal Wear)
+  paint_index: 229
+- market_hash_name: G3SG1 | Azure Zebra (Field-Tested)
+  paint_index: 229
+- market_hash_name: Galil AR | Amber Fade (Factory New)
+  paint_index: 246
+- market_hash_name: Galil AR | Amber Fade (Minimal Wear)
+  paint_index: 246
+- market_hash_name: Galil AR | Amber Fade (Field-Tested)
+  paint_index: 246
+- market_hash_name: Galil AR | Amber Fade (Well-Worn)
+  paint_index: 246
+- market_hash_name: Galil AR | Aqua Terrace (Factory New)
+  paint_index: 460
+- market_hash_name: Galil AR | Aqua Terrace (Minimal Wear)
+  paint_index: 460
+- market_hash_name: Galil AR | Aqua Terrace (Field-Tested)
+  paint_index: 460
+- market_hash_name: Galil AR | Aqua Terrace (Well-Worn)
+  paint_index: 460
+- market_hash_name: Galil AR | Aqua Terrace (Battle-Scarred)
+  paint_index: 460
+- market_hash_name: Galil AR | Blue Titanium (Factory New)
+  paint_index: 216
+- market_hash_name: Galil AR | Rainbow Spoon (Factory New)
+  paint_index: 1178
+- market_hash_name: Galil AR | Rainbow Spoon (Minimal Wear)
+  paint_index: 1178
+- market_hash_name: Galil AR | Rainbow Spoon (Field-Tested)
+  paint_index: 1178
+- market_hash_name: Galil AR | Rainbow Spoon (Well-Worn)
+  paint_index: 1178
+- market_hash_name: Galil AR | Rainbow Spoon (Battle-Scarred)
+  paint_index: 1178
+- market_hash_name: Galil AR | Cerberus (Factory New)
+  paint_index: 379
+- market_hash_name: Galil AR | Cerberus (Minimal Wear)
+  paint_index: 379
+- market_hash_name: Galil AR | Cerberus (Field-Tested)
+  paint_index: 379
+- market_hash_name: Galil AR | Cerberus (Well-Worn)
+  paint_index: 379
+- market_hash_name: Galil AR | Cerberus (Battle-Scarred)
+  paint_index: 379
+- market_hash_name: Galil AR | Chatterbox (Field-Tested)
+  paint_index: 398
+- market_hash_name: Galil AR | Chatterbox (Well-Worn)
+  paint_index: 398
+- market_hash_name: Galil AR | Chatterbox (Battle-Scarred)
+  paint_index: 398
+- market_hash_name: Galil AR | Black Sand (Factory New)
+  paint_index: 629
+- market_hash_name: Galil AR | Black Sand (Minimal Wear)
+  paint_index: 629
+- market_hash_name: Galil AR | Black Sand (Field-Tested)
+  paint_index: 629
+- market_hash_name: Galil AR | Black Sand (Well-Worn)
+  paint_index: 629
+- market_hash_name: Galil AR | Black Sand (Battle-Scarred)
+  paint_index: 629
+- market_hash_name: Galil AR | Sugar Rush (Factory New)
+  paint_index: 661
+- market_hash_name: Galil AR | Sugar Rush (Minimal Wear)
+  paint_index: 661
+- market_hash_name: Galil AR | Sugar Rush (Field-Tested)
+  paint_index: 661
+- market_hash_name: Galil AR | Sugar Rush (Well-Worn)
+  paint_index: 661
+- market_hash_name: Galil AR | Sugar Rush (Battle-Scarred)
+  paint_index: 661
+- market_hash_name: Galil AR | Chromatic Aberration (Factory New)
+  paint_index: 1038
+- market_hash_name: Galil AR | Chromatic Aberration (Minimal Wear)
+  paint_index: 1038
+- market_hash_name: Galil AR | Chromatic Aberration (Field-Tested)
+  paint_index: 1038
+- market_hash_name: Galil AR | Chromatic Aberration (Well-Worn)
+  paint_index: 1038
+- market_hash_name: Galil AR | Chromatic Aberration (Battle-Scarred)
+  paint_index: 1038
+- market_hash_name: Galil AR | Destroyer (Factory New)
+  paint_index: 1147
+- market_hash_name: Galil AR | Destroyer (Minimal Wear)
+  paint_index: 1147
+- market_hash_name: Galil AR | Destroyer (Field-Tested)
+  paint_index: 1147
+- market_hash_name: Galil AR | Destroyer (Well-Worn)
+  paint_index: 1147
+- market_hash_name: Galil AR | Destroyer (Battle-Scarred)
+  paint_index: 1147
+- market_hash_name: Galil AR | Eco (Minimal Wear)
+  paint_index: 428
+- market_hash_name: Galil AR | Eco (Field-Tested)
+  paint_index: 428
+- market_hash_name: Galil AR | Eco (Well-Worn)
+  paint_index: 428
+- market_hash_name: Galil AR | Eco (Battle-Scarred)
+  paint_index: 428
+- market_hash_name: Galil AR | Rocket Pop (Factory New)
+  paint_index: 478
+- market_hash_name: Galil AR | Rocket Pop (Minimal Wear)
+  paint_index: 478
+- market_hash_name: Galil AR | Rocket Pop (Field-Tested)
+  paint_index: 478
+- market_hash_name: Galil AR | Rocket Pop (Well-Worn)
+  paint_index: 478
+- market_hash_name: Galil AR | Rocket Pop (Battle-Scarred)
+  paint_index: 478
+- market_hash_name: Galil AR | NV (Factory New)
+  paint_index: 939
+- market_hash_name: Galil AR | NV (Minimal Wear)
+  paint_index: 939
+- market_hash_name: Galil AR | NV (Field-Tested)
+  paint_index: 939
+- market_hash_name: Galil AR | NV (Well-Worn)
+  paint_index: 939
+- market_hash_name: Galil AR | NV (Battle-Scarred)
+  paint_index: 939
+- market_hash_name: Galil AR | Sandstorm (Minimal Wear)
+  paint_index: 264
+- market_hash_name: Galil AR | Sandstorm (Field-Tested)
+  paint_index: 264
+- market_hash_name: Galil AR | Sandstorm (Well-Worn)
+  paint_index: 264
+- market_hash_name: Galil AR | Sandstorm (Battle-Scarred)
+  paint_index: 264
+- market_hash_name: Galil AR | Control (Factory New)
+  paint_index: 1185
+- market_hash_name: Galil AR | Control (Minimal Wear)
+  paint_index: 1185
+- market_hash_name: Galil AR | Control (Field-Tested)
+  paint_index: 1185
+- market_hash_name: Galil AR | Control (Well-Worn)
+  paint_index: 1185
+- market_hash_name: Galil AR | Control (Battle-Scarred)
+  paint_index: 1185
+- market_hash_name: Galil AR | Galigator (Factory New)
+  paint_index: 1434
+- market_hash_name: Galil AR | Galigator (Minimal Wear)
+  paint_index: 1434
+- market_hash_name: Galil AR | Galigator (Field-Tested)
+  paint_index: 1434
+- market_hash_name: Galil AR | Galigator (Well-Worn)
+  paint_index: 1434
+- market_hash_name: Galil AR | Galigator (Battle-Scarred)
+  paint_index: 1434
+- market_hash_name: Galil AR | Stone Cold (Factory New)
+  paint_index: 494
+- market_hash_name: Galil AR | Stone Cold (Minimal Wear)
+  paint_index: 494
+- market_hash_name: Galil AR | Stone Cold (Field-Tested)
+  paint_index: 494
+- market_hash_name: Galil AR | Stone Cold (Well-Worn)
+  paint_index: 494
+- market_hash_name: Galil AR | Stone Cold (Battle-Scarred)
+  paint_index: 494
+- market_hash_name: Galil AR | Connexion (Factory New)
+  paint_index: 972
+- market_hash_name: Galil AR | Connexion (Minimal Wear)
+  paint_index: 972
+- market_hash_name: Galil AR | Connexion (Field-Tested)
+  paint_index: 972
+- market_hash_name: Galil AR | Connexion (Well-Worn)
+  paint_index: 972
+- market_hash_name: Galil AR | Connexion (Battle-Scarred)
+  paint_index: 972
+- market_hash_name: Galil AR | Vandal (Factory New)
+  paint_index: 981
+- market_hash_name: Galil AR | Vandal (Minimal Wear)
+  paint_index: 981
+- market_hash_name: Galil AR | Vandal (Field-Tested)
+  paint_index: 981
+- market_hash_name: Galil AR | Vandal (Well-Worn)
+  paint_index: 981
+- market_hash_name: Galil AR | Vandal (Battle-Scarred)
+  paint_index: 981
+- market_hash_name: Galil AR | Firefight (Factory New)
+  paint_index: 546
+- market_hash_name: Galil AR | Firefight (Minimal Wear)
+  paint_index: 546
+- market_hash_name: Galil AR | Firefight (Field-Tested)
+  paint_index: 546
+- market_hash_name: Galil AR | Firefight (Well-Worn)
+  paint_index: 546
+- market_hash_name: Galil AR | Firefight (Battle-Scarred)
+  paint_index: 546
+- market_hash_name: Galil AR | Shattered (Factory New)
+  paint_index: 192
+- market_hash_name: Galil AR | Shattered (Minimal Wear)
+  paint_index: 192
+- market_hash_name: Galil AR | Shattered (Field-Tested)
+  paint_index: 192
+- market_hash_name: Galil AR | Shattered (Well-Worn)
+  paint_index: 192
+- market_hash_name: Galil AR | Shattered (Battle-Scarred)
+  paint_index: 192
+- market_hash_name: Galil AR | Orange DDPAT (Factory New)
+  paint_index: 83
+- market_hash_name: Galil AR | Orange DDPAT (Minimal Wear)
+  paint_index: 83
+- market_hash_name: Galil AR | Orange DDPAT (Field-Tested)
+  paint_index: 83
+- market_hash_name: Galil AR | Orange DDPAT (Well-Worn)
+  paint_index: 83
+- market_hash_name: Galil AR | Orange DDPAT (Battle-Scarred)
+  paint_index: 83
+- market_hash_name: Galil AR | Winter Forest (Factory New)
+  paint_index: 76
+- market_hash_name: Galil AR | Winter Forest (Minimal Wear)
+  paint_index: 76
+- market_hash_name: Galil AR | Winter Forest (Field-Tested)
+  paint_index: 76
+- market_hash_name: Galil AR | Winter Forest (Well-Worn)
+  paint_index: 76
+- market_hash_name: Galil AR | Winter Forest (Battle-Scarred)
+  paint_index: 76
+- market_hash_name: Galil AR | Kami (Factory New)
+  paint_index: 308
+- market_hash_name: Galil AR | Kami (Minimal Wear)
+  paint_index: 308
+- market_hash_name: Galil AR | Kami (Field-Tested)
+  paint_index: 308
+- market_hash_name: Galil AR | Kami (Well-Worn)
+  paint_index: 308
+- market_hash_name: Galil AR | Kami (Battle-Scarred)
+  paint_index: 308
+- market_hash_name: Galil AR | Signal (Factory New)
+  paint_index: 807
+- market_hash_name: Galil AR | Signal (Minimal Wear)
+  paint_index: 807
+- market_hash_name: Galil AR | Signal (Field-Tested)
+  paint_index: 807
+- market_hash_name: Galil AR | Signal (Well-Worn)
+  paint_index: 807
+- market_hash_name: Galil AR | Signal (Battle-Scarred)
+  paint_index: 807
+- market_hash_name: Galil AR | Cold Fusion (Factory New)
+  paint_index: 790
+- market_hash_name: Galil AR | Cold Fusion (Minimal Wear)
+  paint_index: 790
+- market_hash_name: Galil AR | Cold Fusion (Field-Tested)
+  paint_index: 790
+- market_hash_name: Galil AR | Cold Fusion (Well-Worn)
+  paint_index: 790
+- market_hash_name: Galil AR | Cold Fusion (Battle-Scarred)
+  paint_index: 790
+- market_hash_name: Galil AR | Dusk Ruins (Factory New)
+  paint_index: 1032
+- market_hash_name: Galil AR | Dusk Ruins (Minimal Wear)
+  paint_index: 1032
+- market_hash_name: Galil AR | Dusk Ruins (Field-Tested)
+  paint_index: 1032
+- market_hash_name: Galil AR | Dusk Ruins (Well-Worn)
+  paint_index: 1032
+- market_hash_name: Galil AR | Dusk Ruins (Battle-Scarred)
+  paint_index: 1032
+- market_hash_name: Galil AR | VariCamo (Factory New)
+  paint_index: 235
+- market_hash_name: Galil AR | VariCamo (Minimal Wear)
+  paint_index: 235
+- market_hash_name: Galil AR | VariCamo (Field-Tested)
+  paint_index: 235
+- market_hash_name: Galil AR | VariCamo (Well-Worn)
+  paint_index: 235
+- market_hash_name: Galil AR | VariCamo (Battle-Scarred)
+  paint_index: 235
+- market_hash_name: Galil AR | Urban Rubble (Factory New)
+  paint_index: 237
+- market_hash_name: Galil AR | Urban Rubble (Minimal Wear)
+  paint_index: 237
+- market_hash_name: Galil AR | Urban Rubble (Field-Tested)
+  paint_index: 237
+- market_hash_name: Galil AR | Urban Rubble (Well-Worn)
+  paint_index: 237
+- market_hash_name: Galil AR | Urban Rubble (Battle-Scarred)
+  paint_index: 237
+- market_hash_name: Galil AR | Sky Mandala (Factory New)
+  paint_index: 1383
+- market_hash_name: Galil AR | Sky Mandala (Minimal Wear)
+  paint_index: 1383
+- market_hash_name: Galil AR | Sky Mandala (Field-Tested)
+  paint_index: 1383
+- market_hash_name: Galil AR | Sky Mandala (Well-Worn)
+  paint_index: 1383
+- market_hash_name: Galil AR | Sky Mandala (Battle-Scarred)
+  paint_index: 1383
+- market_hash_name: Galil AR | Acid Dart (Factory New)
+  paint_index: 1296
+- market_hash_name: Galil AR | Acid Dart (Minimal Wear)
+  paint_index: 1296
+- market_hash_name: Galil AR | Acid Dart (Field-Tested)
+  paint_index: 1296
+- market_hash_name: Galil AR | Acid Dart (Well-Worn)
+  paint_index: 1296
+- market_hash_name: Galil AR | Acid Dart (Battle-Scarred)
+  paint_index: 1296
+- market_hash_name: Galil AR | Green Apple (Factory New)
+  paint_index: 294
+- market_hash_name: Galil AR | Green Apple (Minimal Wear)
+  paint_index: 294
+- market_hash_name: Galil AR | Green Apple (Field-Tested)
+  paint_index: 294
+- market_hash_name: Galil AR | Tuxedo (Factory New)
+  paint_index: 297
+- market_hash_name: Galil AR | Tuxedo (Minimal Wear)
+  paint_index: 297
+- market_hash_name: Galil AR | Tuxedo (Field-Tested)
+  paint_index: 297
+- market_hash_name: Galil AR | Tuxedo (Well-Worn)
+  paint_index: 297
+- market_hash_name: Galil AR | Tuxedo (Battle-Scarred)
+  paint_index: 297
+- market_hash_name: Galil AR | Tornado (Factory New)
+  paint_index: 101
+- market_hash_name: Galil AR | Tornado (Minimal Wear)
+  paint_index: 101
+- market_hash_name: Galil AR | Tornado (Field-Tested)
+  paint_index: 101
+- market_hash_name: Galil AR | Tornado (Well-Worn)
+  paint_index: 101
+- market_hash_name: Galil AR | Tornado (Battle-Scarred)
+  paint_index: 101
+- market_hash_name: Galil AR | Grey Smoke (Factory New)
+  paint_index: 1275
+- market_hash_name: Galil AR | Grey Smoke (Minimal Wear)
+  paint_index: 1275
+- market_hash_name: Galil AR | Grey Smoke (Field-Tested)
+  paint_index: 1275
+- market_hash_name: Galil AR | Grey Smoke (Well-Worn)
+  paint_index: 1275
+- market_hash_name: Galil AR | Grey Smoke (Battle-Scarred)
+  paint_index: 1275
+- market_hash_name: Galil AR | O-Ranger (Factory New)
+  paint_index: 1314
+- market_hash_name: Galil AR | O-Ranger (Minimal Wear)
+  paint_index: 1314
+- market_hash_name: Galil AR | O-Ranger (Field-Tested)
+  paint_index: 1314
+- market_hash_name: Galil AR | O-Ranger (Well-Worn)
+  paint_index: 1314
+- market_hash_name: Galil AR | O-Ranger (Battle-Scarred)
+  paint_index: 1314
+- market_hash_name: Galil AR | Robin's Egg (Factory New)
+  paint_index: 1264
+- market_hash_name: Galil AR | Robin's Egg (Minimal Wear)
+  paint_index: 1264
+- market_hash_name: Galil AR | Robin's Egg (Field-Tested)
+  paint_index: 1264
+- market_hash_name: Galil AR | Robin's Egg (Well-Worn)
+  paint_index: 1264
+- market_hash_name: Galil AR | Robin's Egg (Battle-Scarred)
+  paint_index: 1264
+- market_hash_name: Galil AR | Akoben (Factory New)
+  paint_index: 842
+- market_hash_name: Galil AR | Akoben (Minimal Wear)
+  paint_index: 842
+- market_hash_name: Galil AR | Akoben (Field-Tested)
+  paint_index: 842
+- market_hash_name: Galil AR | Akoben (Well-Worn)
+  paint_index: 842
+- market_hash_name: Galil AR | Akoben (Battle-Scarred)
+  paint_index: 842
+- market_hash_name: Galil AR | CAUTION! (Factory New)
+  paint_index: 1071
+- market_hash_name: Galil AR | CAUTION! (Minimal Wear)
+  paint_index: 1071
+- market_hash_name: Galil AR | CAUTION! (Field-Tested)
+  paint_index: 1071
+- market_hash_name: Galil AR | CAUTION! (Well-Worn)
+  paint_index: 1071
+- market_hash_name: Galil AR | CAUTION! (Battle-Scarred)
+  paint_index: 1071
+- market_hash_name: Galil AR | Crimson Tsunami (Factory New)
+  paint_index: 647
+- market_hash_name: Galil AR | Crimson Tsunami (Minimal Wear)
+  paint_index: 647
+- market_hash_name: Galil AR | Crimson Tsunami (Field-Tested)
+  paint_index: 647
+- market_hash_name: Galil AR | Crimson Tsunami (Well-Worn)
+  paint_index: 647
+- market_hash_name: Galil AR | Crimson Tsunami (Battle-Scarred)
+  paint_index: 647
+- market_hash_name: Galil AR | Hunting Blind (Factory New)
+  paint_index: 241
+- market_hash_name: Galil AR | Hunting Blind (Minimal Wear)
+  paint_index: 241
+- market_hash_name: Galil AR | Hunting Blind (Field-Tested)
+  paint_index: 241
+- market_hash_name: Galil AR | Hunting Blind (Well-Worn)
+  paint_index: 241
+- market_hash_name: Galil AR | Hunting Blind (Battle-Scarred)
+  paint_index: 241
+- market_hash_name: Galil AR | Metallic Squeezer (Factory New)
+  paint_index: 239
+- market_hash_name: Galil AR | Metallic Squeezer (Minimal Wear)
+  paint_index: 239
+- market_hash_name: Galil AR | Metallic Squeezer (Field-Tested)
+  paint_index: 239
+- market_hash_name: Galil AR | Metallic Squeezer (Well-Worn)
+  paint_index: 239
+- market_hash_name: Galil AR | Metallic Squeezer (Battle-Scarred)
+  paint_index: 239
+- market_hash_name: Galil AR | Phoenix Blacklight (Factory New)
+  paint_index: 1013
+- market_hash_name: Galil AR | Phoenix Blacklight (Minimal Wear)
+  paint_index: 1013
+- market_hash_name: Galil AR | Phoenix Blacklight (Field-Tested)
+  paint_index: 1013
+- market_hash_name: Galil AR | Phoenix Blacklight (Well-Worn)
+  paint_index: 1013
+- market_hash_name: Galil AR | Phoenix Blacklight (Battle-Scarred)
+  paint_index: 1013
+- market_hash_name: Galil AR | Sage Spray (Factory New)
+  paint_index: 119
+- market_hash_name: Galil AR | Sage Spray (Minimal Wear)
+  paint_index: 119
+- market_hash_name: Galil AR | Sage Spray (Field-Tested)
+  paint_index: 119
+- market_hash_name: Galil AR | Sage Spray (Well-Worn)
+  paint_index: 119
+- market_hash_name: Galil AR | Sage Spray (Battle-Scarred)
+  paint_index: 119
