@@ -6,3 +6,10 @@ pyyaml==6.0.2
 requests==2.32.3
 beautifulsoup4==4.12.3
 pandas==2.2.3
+# csfloat_model_retrain DAG
+numpy==1.26.4  # the base image's version; keeps the new deps from upgrading it under Airflow
+polars==1.30.0
+catboost==1.2.10
+optuna==4.9.0
+mlflow-skinny==3.16.1  # must match the server version in ../mlflow/Dockerfile
+matplotlib==3.10.3
