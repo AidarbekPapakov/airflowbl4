@@ -24,6 +24,7 @@ x-airflow-common: &airflow-common
     SKINS_CONFIG_PATH: /opt/airflow/dags/config/
     QUARANTINE_PATH: /opt/airflow/quarantine
     PYTHONPATH: /opt/airflow/dags
+    MLFLOW_TRACKING_URI: http://mlflow:5000
   volumes:
     - ./dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
@@ -35,6 +36,7 @@ x-airflow-common: &airflow-common
     - default
     - item_factor_est_net
     - price_dynamics_net
+    - mlflow_net
   ulimits:
     nofile:
       soft: 65536
@@ -148,3 +150,6 @@ networks:
   price_dynamics_net:
     external: true
     name: airflow-docker_default
+  mlflow_net:
+    external: true
+    name: mlflow_default
