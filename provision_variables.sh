@@ -57,6 +57,15 @@ declare -A AIRFLOW_VARS=(
   [clickhouse_password]=PD_CLICKHOUSE_PASSWORD
   [sticker_sp_table]=PD_STICKER_SP_TABLE
   [charm_retention]=PD_CHARM_RETENTION
+  # cs2_digest
+  [cs2_digest_clickhouse_host]=CS2D_CLICKHOUSE_HOST
+  [cs2_digest_clickhouse_port]=CS2D_CLICKHOUSE_PORT
+  [cs2_digest_clickhouse_user]=CS2D_CLICKHOUSE_USER
+  [cs2_digest_clickhouse_password]=CS2D_CLICKHOUSE_PASSWORD
+  [cs2_digest_llm_base_url]=CS2D_LLM_BASE_URL
+  [cs2_digest_llm_model]=CS2D_LLM_MODEL
+  [cs2_digest_llm_api_key]=CS2D_LLM_API_KEY
+  [cs2_digest_recipient_email]=CS2D_RECIPIENT_EMAIL
 )
 
 missing=()
