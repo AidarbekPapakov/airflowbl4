@@ -37,6 +37,8 @@ x-airflow-common: &airflow-common
     - item_factor_est_net
     - price_dynamics_net
     - mlflow_net
+    - cs2_digest_net
+    - audio_analytics_net
   ulimits:
     nofile:
       soft: 65536
@@ -153,3 +155,9 @@ networks:
   mlflow_net:
     external: true
     name: mlflow_default
+  cs2_digest_net:
+    external: true
+    name: cs2_digest_default
+  audio_analytics_net:
+    external: true
+    name: audio_analytics_default
