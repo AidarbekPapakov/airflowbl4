@@ -1,0 +1,120 @@
+# CS2 player/team/event roster sent as a per-request hotword boost to
+# asr_service (hotword-boosted CTC prefix beam search). This is a starting
+# list of well-known names as of 2026; extend it as the channel list and
+# meta change. Not exhaustive by design (Simplicity First) -- it exists to
+# close the gap on names ASR gets wrong, not to enumerate every pro.
+
+players:
+  - s1mple
+  - ZywOo
+  - NiKo
+  - donk
+  - m0NESY
+  - broky
+  - ropz
+  - Ax1Le
+  - sh1ro
+  - Spinx
+  - degster
+  - iM
+  - w0nderful
+  - electroNic
+  - Perfecto
+  - FL1T
+  - HObbit
+  - Jame
+  - buster
+  - zont1x
+  - zweih
+  - hexT
+  - YEKINDAR
+  - Calyx
+  - XANTARES
+  - Wicadia
+  - torzsi
+  - Jimpphat
+  - karrigan
+  - device
+  - dupreeh
+  - Magisk
+  - Staehr
+  - cadiaN
+  - blameF
+  - apEX
+  - kyxsan
+  - NAF
+  - EliGE
+  - Twistzz
+  - Grim
+  - FalleN
+  - kscerato
+  - yuurih
+  - saffee
+  - arT
+  - drop
+  - chelo
+  - skullz
+  - JOTA
+  - YNk
+  - Nexa
+  - huNter-
+  - rain
+  - frozen
+  - aliStair
+  - dexter
+  - jks
+  - MICHU
+  - molodoy
+  - Lucaozy
+  - exit
+  - fame
+  - woxic
+  - Patsi
+  - Techno4K
+  - r3salt
+  - headtr1ck
+  - Brollan
+  - ztr
+  - nicoodoz
+
+teams:
+  - Vitality
+  - Natus Vincere
+  - NAVI
+  - FaZe
+  - G2
+  - MOUZ
+  - Spirit
+  - Astralis
+  - Liquid
+  - Complexity
+  - Heroic
+  - GamerLegion
+  - Falcons
+  - paiN
+  - FURIA
+  - MIBR
+  - 9INE
+  - 9z
+  - Legacy
+  - The MongolZ
+  - BIG
+  - Eternal Fire
+  - OG
+  - fnatic
+  - NIP
+  - Aurora
+  - Virtus.pro
+  - PARIVISION
+  - Imperial
+
+events:
+  - Major
+  - IEM Katowice
+  - IEM Cologne
+  - BLAST Premier
+  - ESL Pro League
+  - PGL
+  - StarLadder
+  - EPL
+  - IEM

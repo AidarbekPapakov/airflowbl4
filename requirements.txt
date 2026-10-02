@@ -6,6 +6,8 @@ pyyaml==6.0.2
 requests==2.32.3
 beautifulsoup4==4.12.3
 pandas==2.2.3
+# cs2_digest DAG
+yt-dlp==2026.8.19
 # csfloat_model_retrain DAG
 numpy==1.26.4  # the base image's version; keeps the new deps from upgrading it under Airflow
 polars==1.30.0

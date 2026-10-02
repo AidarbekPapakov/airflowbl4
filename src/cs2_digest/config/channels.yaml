@@ -1,0 +1,61 @@
+# CS2 YouTube channels to watch. channel_id is the UC... id behind the RSS
+# feed https://www.youtube.com/feeds/videos.xml?channel_id=<channel_id>.
+#
+# known_speakers is used starting Phase 5 (speaker identification); leave
+# empty until then. min_duration_s/max_duration_s skip Shorts and long VODs:
+# the cap is 1800s (30 min) for now since Phase 2's long-audio chunking
+# (audio_analytics asr/) is not built yet.
+
+- name: launders
+  channel_id: UCGzyw0aUIbRPfHR0ThS1nNw
+  known_speakers: []
+  min_duration_s: 60
+  max_duration_s: 1800
+
+- name: kassad
+  channel_id: UCGgmVCvIWjKcJSZz6foVZ2g
+  known_speakers: []
+  min_duration_s: 60
+  max_duration_s: 1800
+
+- name: Pimp
+  channel_id: UCr_MXM53Lil8FbkQgavRmag
+  known_speakers: []
+  min_duration_s: 60
+  max_duration_s: 1800
+
+- name: HLTV Confirmed
+  # TODO(user): confirm whether "HLTV Confirmed" is this whole channel
+  # (HLTVorg) or a specific show/playlist on it.
+  channel_id: UCXbsUubmNPK8XJFbkmlMcMg
+  known_speakers: []
+  min_duration_s: 60
+  max_duration_s: 1800
+
+- name: Thorin
+  # TODO(user): automated search matched a channel that's mostly League of
+  # Legends content (UCfeeUuW7edMxF3M_cyxGT8Q, "Thooorin"). Needs a human
+  # to confirm the real channel_id before this is trusted.
+  channel_id: TODO_CONFIRM_CHANNEL_ID
+  known_speakers: []
+  min_duration_s: 60
+  max_duration_s: 1800
+
+- name: Mauisnake
+  # TODO(user): only found "Mauisnake_Clips" (UCkq-WQV3JLkZvYq77Z9hIOg),
+  # a reaction/clips channel, not confirmed as the main channel.
+  channel_id: TODO_CONFIRM_CHANNEL_ID
+  known_speakers: []
+  min_duration_s: 60
+  max_duration_s: 1800
+
+- name: Last Free Nation CS
+  # TODO(user): candidate UCp4TiMZtXTTDHS224u5NTVQ ("Last Free Nation"),
+  # but its current show is "The Four Horsemen", not the four shows
+  # ("Hot Take", "Point Made", "Counter Points", "Snake & Banter") named in
+  # PLAN.md. Confirm this is the right channel, and whether those are shows
+  # on it or separate channels.
+  channel_id: TODO_CONFIRM_CHANNEL_ID
+  known_speakers: []
+  min_duration_s: 60
+  max_duration_s: 1800
